@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ignore some files so that they don't show in untracted files:
+lyrics_Adaboost_MEC/MEC_adaboost/stereomood_more_categories_multimodal_binary/scripts/*
+icsiboost_file/*
+lyrics_Adaboost_MEC/MEC_adaboost/stereomood_more_categories_multimodal_binary/*
+
