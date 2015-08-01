@@ -1,0 +1,109 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 1049
+nu = 0.09302669972481435
+obj = -31.40997011563986, rho = -0.2274152595099185
+nSV = 370, nBSV = 14
+Total nSV = 370
+..*
+optimization finished, #iter = 993
+nu = 0.08770371668672589
+obj = -28.44463253778173, rho = -0.1190097183870172
+nSV = 366, nBSV = 13
+Total nSV = 366
+..*
+optimization finished, #iter = 1063
+nu = 0.09243144813621339
+obj = -31.299384532210368, rho = 0.2048275512798907
+nSV = 376, nBSV = 15
+Total nSV = 376
+..*
+optimization finished, #iter = 1043
+nu = 0.0961451246950148
+obj = -32.641321329893294, rho = -0.010975186988608936
+nSV = 372, nBSV = 17
+Total nSV = 372
+..*
+optimization finished, #iter = 958
+nu = 0.08930597939320452
+obj = -28.881246082566683, rho = -0.06186499073720662
+nSV = 368, nBSV = 14
+Total nSV = 368
+..*
+optimization finished, #iter = 1257
+nu = 0.09662935082480688
+obj = -41.5384392378264, rho = 0.09722002769711956
+nSV = 458, nBSV = 24
+Total nSV = 458
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1   1:lonely   1:lonely       *0.657,0.343 
+     2   1:lonely   1:lonely       *0.956,0.044 
+     3   1:lonely   1:lonely       *0.678,0.322 
+     4   1:lonely   1:lonely       *0.661,0.339 
+     5   1:lonely   1:lonely       *0.81,0.19 
+     6   1:lonely 2:notlonel   +   0.161,*0.839 
+     7   1:lonely 2:notlonel   +   0.262,*0.738 
+     8   1:lonely 2:notlonel   +   0.175,*0.825 
+     9   1:lonely   1:lonely       *0.719,0.281 
+    10   1:lonely   1:lonely       *0.628,0.372 
+    11   1:lonely   1:lonely       *0.792,0.208 
+    12   1:lonely   1:lonely       *0.978,0.022 
+    13   1:lonely   1:lonely       *0.632,0.368 
+    14   1:lonely   1:lonely       *0.531,0.469 
+    15   1:lonely 2:notlonel   +   0.338,*0.662 
+    16   1:lonely   1:lonely       *0.599,0.401 
+    17   1:lonely   1:lonely       *0.865,0.135 
+    18   1:lonely 2:notlonel   +   0.27,*0.73 
+    19   1:lonely   1:lonely       *0.566,0.434 
+    20   1:lonely   1:lonely       *0.652,0.348 
+    21   1:lonely   1:lonely       *0.739,0.261 
+    22   1:lonely 2:notlonel   +   0.444,*0.556 
+    23   1:lonely 2:notlonel   +   0.409,*0.591 
+    24   1:lonely   1:lonely       *0.739,0.261 
+    25   1:lonely 2:notlonel   +   0.244,*0.756 
+    26   1:lonely 2:notlonel   +   0.359,*0.641 
+    27   1:lonely   1:lonely       *0.809,0.191 
+    28   1:lonely   1:lonely       *0.5,0.5 
+    29   1:lonely   1:lonely       *0.773,0.227 
+    30   1:lonely   1:lonely       *0.797,0.203 
+    31   1:lonely   1:lonely       *0.757,0.243 
+    32   1:lonely 2:notlonel   +   0.324,*0.676 
+    33   1:lonely   1:lonely       *0.641,0.359 
+    34 2:notlonel   1:lonely   +   *0.515,0.485 
+    35 2:notlonel 2:notlonel       0.152,*0.848 
+    36 2:notlonel 2:notlonel       0.161,*0.839 
+    37 2:notlonel 2:notlonel       0.175,*0.825 
+    38 2:notlonel 2:notlonel       0.175,*0.825 
+    39 2:notlonel 2:notlonel       0.175,*0.825 
+    40 2:notlonel 2:notlonel       0.265,*0.735 
+    41 2:notlonel 2:notlonel       0.064,*0.936 
+    42 2:notlonel 2:notlonel       0.175,*0.825 
+    43 2:notlonel 2:notlonel       0.175,*0.825 
+    44 2:notlonel   1:lonely   +   *0.836,0.164 
+    45 2:notlonel 2:notlonel       0.175,*0.825 
+    46 2:notlonel 2:notlonel       0.286,*0.714 
+    47 2:notlonel 2:notlonel       0.156,*0.844 
+    48 2:notlonel 2:notlonel       0.175,*0.825 
+    49 2:notlonel 2:notlonel       0.175,*0.825 
+    50 2:notlonel 2:notlonel       0.056,*0.944 
+    51 2:notlonel 2:notlonel       0.175,*0.825 
+    52 2:notlonel 2:notlonel       0.175,*0.825 
+    53 2:notlonel   1:lonely   +   *0.819,0.181 
+    54 2:notlonel   1:lonely   +   *0.509,0.491 
+    55 2:notlonel 2:notlonel       0.175,*0.825 
+    56 2:notlonel 2:notlonel       0.175,*0.825 
+    57 2:notlonel 2:notlonel       0.395,*0.605 
+    58 2:notlonel 2:notlonel       0.269,*0.731 
+    59 2:notlonel 2:notlonel       0.175,*0.825 
+    60 2:notlonel 2:notlonel       0.479,*0.521 
+    61 2:notlonel   1:lonely   +   *0.668,0.332 
+    62 2:notlonel   1:lonely   +   *0.514,0.486 
+    63 2:notlonel 2:notlonel       0.175,*0.825 
+    64 2:notlonel   1:lonely   +   *0.852,0.148 
+    65 2:notlonel 2:notlonel       0.175,*0.825 
+    66 2:notlonel 2:notlonel       0.362,*0.638 
+

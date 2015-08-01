@@ -1,0 +1,677 @@
+@relation '_media_1Tnewdisk_intention_routing_lyrics_stereomood_more_stereomood_more_categories-weka.filters.supervised.instance.StratifiedRemoveFolds-S1-V-N10-F1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W10000-prune-rate-1.0-N1-L-S-stemmerweka.core.stemmers.NullStemmer-M10-stopwords/home/sudan/program/stopwords.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 3 -min 1-weka.filters.unsupervised.attribute.Remove-Rfirst_wav/all/marsyas.arff-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.FilteredSubsetEval -W \"weka.attributeSelection.CfsSubsetEval \" -F \"weka.filters.supervised.instance.SpreadSubsample -M 0.0 -X 0.0 -S 1\"-Sweka.attributeSelection.GreedyStepwise -T -1.7976931348623157E308 -N -1-weka.filters.unsupervised.attribute.Remove-Rlast_arff_file/psysound.arff-weka.filters.unsupervised.attribute.Remove-Rlast_wav/all//opensmile.arff-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.FilteredSubsetEval -W \"weka.attributeSelection.CfsSubsetEval \" -F \"weka.filters.supervised.instance.SpreadSubsample -M 0.0 -X 0.0 -S 1\"-Sweka.attributeSelection.GreedyStepwise -T -1.7976931348623157E308 -N -1'
+
+@attribute </i> numeric
+@attribute <i> numeric
+@attribute '<i> good' numeric
+@attribute '<i> good love' numeric
+@attribute [yeaaaa numeric
+@attribute '[yeaaaa {&}' numeric
+@attribute '[yeaaaa {&} noooo]' numeric
+@attribute 'a heart' numeric
+@attribute 'a little' numeric
+@attribute 'a look' numeric
+@attribute 'a new' numeric
+@attribute 'about you' numeric
+@attribute ah numeric
+@attribute 'ah ah' numeric
+@attribute ahead numeric
+@attribute aht numeric
+@attribute 'aht uh' numeric
+@attribute 'aht uh mi' numeric
+@attribute ain numeric
+@attribute 'ain t' numeric
+@attribute alarms numeric
+@attribute 'alarms and' numeric
+@attribute 'alarms and no' numeric
+@attribute 'all been' numeric
+@attribute 'all been blown' numeric
+@attribute 'all right' numeric
+@attribute 'all that' numeric
+@attribute 'all the' numeric
+@attribute 'all the time' numeric
+@attribute 'always in' numeric
+@attribute 'always in this' numeric
+@attribute am numeric
+@attribute amor numeric
+@attribute 'and happiness' numeric
+@attribute 'and i' numeric
+@attribute 'and me' numeric
+@attribute 'and no' numeric
+@attribute 'and no surprises' numeric
+@attribute 'and see' numeric
+@attribute 'and the' numeric
+@attribute 'and then' numeric
+@attribute 'and you' numeric
+@attribute 'anything for' numeric
+@attribute 'anything for you' numeric
+@attribute 'are you' numeric
+@attribute 'at the' numeric
+@attribute 'away fire' numeric
+@attribute 'away fire away' numeric
+@attribute 'away i' numeric
+@attribute baby numeric
+@attribute 'baby and' numeric
+@attribute 'baby but' numeric
+@attribute 'baby but you' numeric
+@attribute 'baby don' numeric
+@attribute 'baby don t' numeric
+@attribute 'baby just' numeric
+@attribute 'baby just cares' numeric
+@attribute 'back to' numeric
+@attribute 'be the' numeric
+@attribute 'been blown' numeric
+@attribute 'been blown out' numeric
+@attribute believe numeric
+@attribute black numeric
+@attribute blown numeric
+@attribute 'blown out' numeric
+@attribute 'blown out you' numeric
+@attribute blue numeric
+@attribute bring numeric
+@attribute 'but i' numeric
+@attribute 'but it' numeric
+@attribute 'but you' numeric
+@attribute 'but you re' numeric
+@attribute 'by the' numeric
+@attribute call numeric
+@attribute called numeric
+@attribute 'can i' numeric
+@attribute 'can t' numeric
+@attribute 'can t i' numeric
+@attribute 'can t stand' numeric
+@attribute care numeric
+@attribute 'care for' numeric
+@attribute 'care of' numeric
+@attribute cares numeric
+@attribute 'cares for' numeric
+@attribute cause numeric
+@attribute chicken numeric
+@attribute 'chicken i' numeric
+@attribute 'chicken i know' numeric
+@attribute 'chicken you' numeric
+@attribute 'chicken you got' numeric
+@attribute clap numeric
+@attribute click numeric
+@attribute 'come and' numeric
+@attribute 'come and see' numeric
+@attribute 'come around' numeric
+@attribute 'come on' numeric
+@attribute coming numeric
+@attribute cry numeric
+@attribute dark numeric
+@attribute 'dark no' numeric
+@attribute 'dark no dawn' numeric
+@attribute darkness numeric
+@attribute dawn numeric
+@attribute 'dawn no' numeric
+@attribute 'dawn no day' numeric
+@attribute day numeric
+@attribute 'day i' numeric
+@attribute 'day i m' numeric
+@attribute days numeric
+@attribute de numeric
+@attribute 'did everything' numeric
+@attribute 'did everything for' numeric
+@attribute die numeric
+@attribute 'do anything' numeric
+@attribute 'do anything for' numeric
+@attribute 'do you' numeric
+@attribute don numeric
+@attribute 'don t' numeric
+@attribute 'don t care' numeric
+@attribute 'don t you' numeric
+@attribute 'down the' numeric
+@attribute dream numeric
+@attribute 'dream about' numeric
+@attribute dreams numeric
+@attribute 'e se' numeric
+@attribute 'each other' numeric
+@attribute em numeric
+@attribute 'everything for' numeric
+@attribute 'everything for you' numeric
+@attribute eye numeric
+@attribute eyes numeric
+@attribute feel numeric
+@attribute finally numeric
+@attribute fire numeric
+@attribute 'fire away' numeric
+@attribute 'fire away fire' numeric
+@attribute 'fire away i' numeric
+@attribute 'for a' numeric
+@attribute 'for me' numeric
+@attribute 'for you' numeric
+@attribute 'for you i' numeric
+@attribute free numeric
+@attribute friend numeric
+@attribute 'from your' numeric
+@attribute girl numeric
+@attribute glowing numeric
+@attribute 'go ahead' numeric
+@attribute gone numeric
+@attribute gonna numeric
+@attribute 'good love' numeric
+@attribute 'good love </i>' numeric
+@attribute 'got his' numeric
+@attribute 'got his own' numeric
+@attribute 'got the' numeric
+@attribute 'got to' numeric
+@attribute 'got to know' numeric
+@attribute gotta numeric
+@attribute 'gotta be' numeric
+@attribute grow numeric
+@attribute hair numeric
+@attribute happiness numeric
+@attribute 'have a' numeric
+@attribute 'have all' numeric
+@attribute 'have all been' numeric
+@attribute 'he s' numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute heart numeric
+@attribute hed numeric
+@attribute 'hed aht' numeric
+@attribute 'hed aht uh' numeric
+@attribute 'here without' numeric
+@attribute 'here without you' numeric
+@attribute hey numeric
+@attribute 'his own' numeric
+@attribute home numeric
+@attribute hope numeric
+@attribute 'hope you' numeric
+@attribute house numeric
+@attribute 'i am' numeric
+@attribute 'i can' numeric
+@attribute 'i can t' numeric
+@attribute 'i did' numeric
+@attribute 'i did everything' numeric
+@attribute 'i do' numeric
+@attribute 'i don' numeric
+@attribute 'i don t' numeric
+@attribute 'i feel' numeric
+@attribute 'i got' numeric
+@attribute 'i got the' numeric
+@attribute 'i gotta' numeric
+@attribute 'i have' numeric
+@attribute 'i hope' numeric
+@attribute 'i know' numeric
+@attribute 'i know my' numeric
+@attribute 'i ll' numeric
+@attribute 'i ll be' numeric
+@attribute 'i ll do' numeric
+@attribute 'i ll take' numeric
+@attribute 'i m' numeric
+@attribute 'i m always' numeric
+@attribute 'i m here' numeric
+@attribute 'i think' numeric
+@attribute 'i think about' numeric
+@attribute 'i ve' numeric
+@attribute 'i want' numeric
+@attribute 'i was' numeric
+@attribute 'if i' numeric
+@attribute 'if you' numeric
+@attribute 'in a' numeric
+@attribute 'in my' numeric
+@attribute 'in the' numeric
+@attribute 'in the dark' numeric
+@attribute 'in the darkness' numeric
+@attribute 'in the eye' numeric
+@attribute 'in the shadow' numeric
+@attribute 'in this' numeric
+@attribute 'in this twilight' numeric
+@attribute 'in your' numeric
+@attribute inside numeric
+@attribute 'inside of' numeric
+@attribute 'is gone' numeric
+@attribute 'is it' numeric
+@attribute 'it back' numeric
+@attribute 'it s' numeric
+@attribute 'it s a' numeric
+@attribute 'it s all' numeric
+@attribute 'it s only' numeric
+@attribute 'just cares' numeric
+@attribute 'just cares for' numeric
+@attribute 'know how' numeric
+@attribute 'know my' numeric
+@attribute 'know my chicken' numeric
+@attribute 'know what' numeric
+@attribute 'know your' numeric
+@attribute 'know your chicken' numeric
+@attribute landó numeric
+@attribute left numeric
+@attribute 'left me' numeric
+@attribute 'left me in' numeric
+@attribute 'let me' numeric
+@attribute 'let s' numeric
+@attribute life numeric
+@attribute 'like a' numeric
+@attribute 'like rain' numeric
+@attribute 'like rain you' numeric
+@attribute little numeric
+@attribute ll numeric
+@attribute 'll be' numeric
+@attribute 'll do' numeric
+@attribute 'll do anything' numeric
+@attribute 'll never' numeric
+@attribute 'll take' numeric
+@attribute lonely numeric
+@attribute look numeric
+@attribute 'look like' numeric
+@attribute 'look like rain' numeric
+@attribute 'look look' numeric
+@attribute 'look look me' numeric
+@attribute 'look me' numeric
+@attribute 'look me in' numeric
+@attribute losing numeric
+@attribute 'losing i' numeric
+@attribute 'losing i can' numeric
+@attribute love numeric
+@attribute 'love </i>' numeric
+@attribute 'love and' numeric
+@attribute 'love and happiness' numeric
+@attribute 'm always' numeric
+@attribute 'm always in' numeric
+@attribute 'm here' numeric
+@attribute 'm here without' numeric
+@attribute 'made me' numeric
+@attribute 'make you' numeric
+@attribute mama numeric
+@attribute maría numeric
+@attribute 'maría landó' numeric
+@attribute 'me a' numeric
+@attribute 'me i' numeric
+@attribute 'me in' numeric
+@attribute 'me in my' numeric
+@attribute 'me in the' numeric
+@attribute 'me out' numeric
+@attribute 'me out of' numeric
+@attribute mi numeric
+@attribute 'mi hed' numeric
+@attribute 'mi hed aht' numeric
+@attribute mind numeric
+@attribute 'mind i' numeric
+@attribute miss numeric
+@attribute modern numeric
+@attribute moon numeric
+@attribute 'moon they' numeric
+@attribute 'moon they have' numeric
+@attribute morning numeric
+@attribute 'my baby' numeric
+@attribute 'my baby don' numeric
+@attribute 'my baby just' numeric
+@attribute 'my chicken' numeric
+@attribute 'my chicken you' numeric
+@attribute 'my dreams' numeric
+@attribute 'my lonely' numeric
+@attribute 'my window' numeric
+@attribute nah numeric
+@attribute night numeric
+@attribute 'no alarms' numeric
+@attribute 'no alarms and' numeric
+@attribute 'no dawn' numeric
+@attribute 'no dawn no' numeric
+@attribute 'no day' numeric
+@attribute 'no day i' numeric
+@attribute 'no surprises' numeric
+@attribute 'no surprises no' numeric
+@attribute noooo] numeric
+@attribute 'now you' numeric
+@attribute não numeric
+@attribute 'of the' numeric
+@attribute 'of you' numeric
+@attribute 'of your' numeric
+@attribute 'of your heart' numeric
+@attribute oh numeric
+@attribute 'oh i' numeric
+@attribute 'oh yeah' numeric
+@attribute 'on a' numeric
+@attribute 'on i' numeric
+@attribute 'on my' numeric
+@attribute 'on the' numeric
+@attribute 'on the moon' numeric
+@attribute 'out of' numeric
+@attribute 'out you' numeric
+@attribute 'out you left' numeric
+@attribute own numeric
+@attribute paz numeric
+@attribute please numeric
+@attribute pretty numeric
+@attribute que numeric
+@attribute radio numeric
+@attribute 'radio on' numeric
+@attribute rain numeric
+@attribute 'rain you' numeric
+@attribute 'rain you look' numeric
+@attribute re numeric
+@attribute 're still' numeric
+@attribute read numeric
+@attribute ready numeric
+@attribute remember numeric
+@attribute ring numeric
+@attribute river numeric
+@attribute roadrunner numeric
+@attribute round numeric
+@attribute 's a' numeric
+@attribute 's a new' numeric
+@attribute 's all' numeric
+@attribute 's got' numeric
+@attribute 's got his' numeric
+@attribute 's not' numeric
+@attribute 's on' numeric
+@attribute 's on the' numeric
+@attribute 's only' numeric
+@attribute 'say i' numeric
+@attribute se numeric
+@attribute 'see you' numeric
+@attribute seek numeric
+@attribute sem numeric
+@attribute 'sem ter' numeric
+@attribute 'sem ter que' numeric
+@attribute shadow numeric
+@attribute 'shadow of' numeric
+@attribute 'shadow of your' numeric
+@attribute sing numeric
+@attribute 'sing it' numeric
+@attribute 'sing it back' numeric
+@attribute six numeric
+@attribute sleep numeric
+@attribute slowly numeric
+@attribute 'so i' numeric
+@attribute song numeric
+@attribute sound numeric
+@attribute stand numeric
+@attribute 'stand losing' numeric
+@attribute 'stand losing i' numeric
+@attribute stars numeric
+@attribute 'stars the' numeric
+@attribute 'stars the moon' numeric
+@attribute stop numeric
+@attribute stuck numeric
+@attribute sun numeric
+@attribute surprises numeric
+@attribute 'surprises no' numeric
+@attribute 'surprises no alarms' numeric
+@attribute sweet numeric
+@attribute syndrome numeric
+@attribute sólo numeric
+@attribute 'sólo trabaja' numeric
+@attribute 't care' numeric
+@attribute 't care for' numeric
+@attribute 't i' numeric
+@attribute 't i can' numeric
+@attribute 't stand' numeric
+@attribute 't stand losing' numeric
+@attribute 't you' numeric
+@attribute 'take care' numeric
+@attribute 'take care of' numeric
+@attribute tell numeric
+@attribute tem numeric
+@attribute tempo numeric
+@attribute ter numeric
+@attribute 'ter que' numeric
+@attribute 'that i' numeric
+@attribute 'that s' numeric
+@attribute 'the dark' numeric
+@attribute 'the dark no' numeric
+@attribute 'the darkness' numeric
+@attribute 'the end' numeric
+@attribute 'the eye' numeric
+@attribute 'the good' numeric
+@attribute 'the high' numeric
+@attribute 'the moon' numeric
+@attribute 'the moon they' numeric
+@attribute 'the radio' numeric
+@attribute 'the radio on' numeric
+@attribute 'the rain' numeric
+@attribute 'the same' numeric
+@attribute 'the shadow' numeric
+@attribute 'the shadow of' numeric
+@attribute 'the stars' numeric
+@attribute 'the stars the' numeric
+@attribute 'the syndrome' numeric
+@attribute 'the thrill' numeric
+@attribute 'the thrill is' numeric
+@attribute 'the time' numeric
+@attribute 'the way' numeric
+@attribute 'then you' numeric
+@attribute 'then you re' numeric
+@attribute 'there s' numeric
+@attribute 'they have' numeric
+@attribute 'they have all' numeric
+@attribute 'think about' numeric
+@attribute 'this is' numeric
+@attribute 'this twilight' numeric
+@attribute 'this twilight in' numeric
+@attribute thrill numeric
+@attribute 'thrill is' numeric
+@attribute 'thrill is gone' numeric
+@attribute tight numeric
+@attribute time numeric
+@attribute 'time i' numeric
+@attribute 'to be' numeric
+@attribute 'to know' numeric
+@attribute 'to know your' numeric
+@attribute 'to me' numeric
+@attribute 'to say' numeric
+@attribute 'to the' numeric
+@attribute tonight numeric
+@attribute town numeric
+@attribute trabaja numeric
+@attribute try numeric
+@attribute twilight numeric
+@attribute 'twilight in' numeric
+@attribute 'twilight in the' numeric
+@attribute uh numeric
+@attribute 'uh mi' numeric
+@attribute 'uh mi hed' numeric
+@attribute 'up and' numeric
+@attribute valerie numeric
+@attribute 'valerie valerie' numeric
+@attribute ve numeric
+@attribute wanna numeric
+@attribute 'want to' numeric
+@attribute 'we are' numeric
+@attribute 'we re' numeric
+@attribute 'what i' numeric
+@attribute 'what you' numeric
+@attribute 'when i' numeric
+@attribute whitey numeric
+@attribute 'will be' numeric
+@attribute window numeric
+@attribute 'with a' numeric
+@attribute 'with me' numeric
+@attribute 'with the' numeric
+@attribute 'without you' numeric
+@attribute 'without you baby' numeric
+@attribute won numeric
+@attribute 'won t' numeric
+@attribute world numeric
+@attribute wrong numeric
+@attribute yeah numeric
+@attribute 'yeah yeah' numeric
+@attribute 'yeah yeah yeah' numeric
+@attribute yes numeric
+@attribute 'you all' numeric
+@attribute 'you and' numeric
+@attribute 'you and me' numeric
+@attribute 'you are' numeric
+@attribute 'you baby' numeric
+@attribute 'you baby and' numeric
+@attribute 'you baby but' numeric
+@attribute 'you can' numeric
+@attribute 'you come' numeric
+@attribute 'you got' numeric
+@attribute 'you got to' numeric
+@attribute 'you have' numeric
+@attribute 'you i' numeric
+@attribute 'you i did' numeric
+@attribute 'you i ll' numeric
+@attribute 'you know' numeric
+@attribute 'you left' numeric
+@attribute 'you left me' numeric
+@attribute 'you ll' numeric
+@attribute 'you look' numeric
+@attribute 'you look like' numeric
+@attribute 'you re' numeric
+@attribute 'you re still' numeric
+@attribute 'you ready' numeric
+@attribute 'you seek' numeric
+@attribute 'you wanna' numeric
+@attribute 'your chicken' numeric
+@attribute 'your chicken i' numeric
+@attribute 'your heart' numeric
+@attribute '{&}' numeric
+@attribute '{&} noooo]' numeric
+@attribute è numeric
+@attribute Mean_Acc1000_Mean_Mem40_MFCC2_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Mean_Mem40_SCF_19 numeric
+@attribute Mean_Acc1000_Std_Mem40_MFCC0_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Std_Mem40_MFCC11_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Std_Mem40_SCF_8 numeric
+@attribute Mean_Acc1000_Std_Mem40_SFM_20 numeric
+@attribute Mean_Acc1000_Std_Mem40_LSP_13 numeric
+@attribute Mean_Acc1000_Std_Mem40_LSP_14 numeric
+@attribute Std_Acc1000_Mean_Mem40_SFM_16 numeric
+@attribute Std_Acc1000_Mean_Mem40_SFM_21 numeric
+@attribute mean_Loudness numeric
+@attribute std_Loudness numeric
+@attribute mean_SharpnessA numeric
+@attribute std_SharpnessA numeric
+@attribute mean_SharpnessZ numeric
+@attribute std_SharpnessZ numeric
+@attribute mean_Spectral_Dissonance(HK) numeric
+@attribute std_Spectral_Dissonance(HK) numeric
+@attribute mean_Spectral_Dissonance(S) numeric
+@attribute std_Spectral_Dissonance(S) numeric
+@attribute mean_Timbral_Width numeric
+@attribute std_Timbral_Width numeric
+@attribute mean_Tonal_Dissonance(HK) numeric
+@attribute std_Tonal_Dissonance(HK) numeric
+@attribute mean_Tonal_Dissonance(S) numeric
+@attribute std_Tonal_Dissonance(S) numeric
+@attribute mean_Volume numeric
+@attribute std_Volume numeric
+@attribute mean_Pure_Tonal numeric
+@attribute std_Pure_Tonal numeric
+@attribute mean_Complex_Tonal numeric
+@attribute std_Complex_Tonal numeric
+@attribute mean_Multiplicity numeric
+@attribute std_Multiplicity numeric
+@attribute mean_SpectralCentroid numeric
+@attribute std_SpectralCentroid numeric
+@attribute mfcc_sma[2]_linregc2 numeric
+@attribute mfcc_sma[2]_skewness numeric
+@attribute mfcc_sma[2]_kurtosis numeric
+@attribute mfcc_sma[5]_maxPos numeric
+@attribute mfcc_sma[7]_kurtosis numeric
+@attribute mfcc_sma[10]_skewness numeric
+@attribute mfcc_sma[10]_kurtosis numeric
+@attribute pcm_zcr_sma_minPos numeric
+@attribute pcm_zcr_sma_linregc1 numeric
+@attribute mfcc_sma_de[3]_min numeric
+@attribute mfcc_sma_de[3]_linregc1 numeric
+@attribute mfcc_sma_de[5]_max numeric
+@attribute mfcc_sma_de[5]_linregc2 numeric
+@attribute mfcc_sma_de[8]_skewness numeric
+@attribute mfcc_sma_de[9]_linregc1 numeric
+@attribute pcm_zcr_sma_de_skewness numeric
+@attribute output {jazzy,notjazzy}
+
+@data
+{7 1.545047,109 1.545047,121 1.545047,122 1.545047,167 1.545047,175 1.545047,178 1.545047,350 1.545047,454 1.545047,477 1.545047,479 1.545047,522 -0.103901,523 8.69009,524 3.112107,525 0.640689,526 0.934199,527 0.029076,528 0.066415,529 0.066009,530 0.101869,531 0.104881,532 81.12255,533 6.178005,534 1.612316,535 0.41153,536 0.524069,537 0.884075,538 0.106362,539 49.78186,540 4.280085,541 586.7565,542 2.299809,543 0.037431,544 0.027835,545 0.08048,546 0.000164,547 0.021093,548 4095.241,549 0.405124,551 0.870173,552 0.087834,554 0.113047,555 0.003371,556 1435.583,557 572718.2,558 -10.70727,559 0.340735,560 2.696129,561 1235,562 3.037865,563 -0.700012,564 4.071138,565 2306,566 -0.000015,567 -3.566173,568 -0.000006,569 5.006955,570 0.002959,571 -0.021335,572 0.000003,573 0.549829}
+{39 1.175604,44 1.175604,69 1.175604,79 1.175604,96 1.175604,115 1.175604,137 1.175604,209 1.175604,211 1.175604,224 1.175604,247 1.175604,248 1.175604,304 1.175604,323 1.175604,341 1.175604,378 1.175604,469 1.175604,470 1.175604,484 1.175604,522 0.928147,523 6.438026,524 3.896465,525 0.44859,526 0.847364,527 0.121479,528 0.079725,529 0.074533,530 0.077443,531 0.040279,532 80.7183,533 4.875517,534 1.333104,535 0.81034,536 1.24119,537 0.897743,538 0.141587,539 120.3442,540 6.28494,541 840.9202,542 1.640119,543 0.017319,544 0.061018,545 0.640534,546 0.000261,547 0.016333,548 14964.35,549 0.941782,551 0.971372,552 0.161862,554 0.027827,555 0.002143,556 452.5185,557 47185.26,558 2.925677,559 0.288603,560 2.84603,561 153,562 3.313575,563 -0.43314,564 3.626613,565 2368,566 0.000005,567 -3.275262,569 3.29634,570 -0.008823,571 -0.049404,572 -0.000001,573 0.236622}
+{84 1.207819,97 1.207819,199 1.207819,253 1.207819,264 1.207819,277 1.207819,282 1.207819,283 1.207819,304 1.207819,314 1.207819,328 1.207819,341 1.207819,345 1.207819,347 1.207819,361 1.207819,478 1.207819,497 1.207819,511 1.207819,522 0.171115,523 7.620174,524 2.191528,525 0.444043,526 0.842947,527 0.115944,528 0.071509,529 0.06952,530 0.110987,531 0.069452,532 63.12561,533 4.131831,534 1.27716,535 0.696442,536 0.533504,537 0.884883,538 0.08237,539 62.60399,540 5.744202,541 269.4789,542 1.190951,543 0.035435,544 0.08991,545 0.082202,546 0.000331,547 0.006887,548 2593.409,549 0.769488,551 0.836884,552 0.082805,554 0.1366,555 0.002864,556 515.8002,557 194237.4,558 -7.491571,559 0.762519,560 4.676112,561 2330,562 3.234491,563 0.498148,564 3.385852,565 2888,566 -0.000003,567 -3.104476,568 -0.000004,569 4.085567,570 0.018029,571 0.262577,572 -0.000001,573 1.369015}
+{109 1.708114,236 1.708114,275 1.708114,276 1.708114,335 1.708114,360 1.708114,392 1.708114,393 1.708114,455 1.708114,522 1.747092,523 5.646268,524 5.177714,525 0.492379,526 0.804679,527 0.14897,528 0.074593,529 0.069845,530 0.106494,531 0.130424,532 55.55565,533 3.947788,534 1.246872,535 1.18535,536 0.685687,537 0.876117,538 0.031371,539 32.6795,540 6.016758,541 385.5137,542 1.710988,543 0.053988,544 0.465244,545 0.280395,546 0.000804,547 0.001848,548 1719.571,549 2.325371,551 0.917443,552 0.102155,554 0.075791,555 0.002261,556 364.9553,557 192425.3,558 6.296246,559 -0.134366,560 3.28689,561 1623,562 3.865005,563 0.050298,564 4.389174,565 227,566 0.000019,567 -5.092482,568 0.000006,569 4.219852,570 -0.002641,571 -0.038702,572 0.000002,573 0.479575}
+{34 1.811728,109 1.811728,116 1.811728,117 1.811728,185 1.811728,186 1.811728,264 1.811728,287 1.811728,522 2.505092,523 4.876461,524 3.31324,525 0.410371,526 0.854053,527 0.098485,528 0.064187,529 0.060869,530 0.060226,531 0.034761,532 106.6838,533 7.137543,534 1.619931,535 0.612824,536 1.761069,537 0.897193,538 0.055204,539 13.63463,540 5.425002,541 649.2035,542 1.236365,543 0.014603,544 0.022799,545 0.916986,546 0.000139,547 0.008754,548 402.1283,549 0.97559,551 0.981358,552 0.154832,554 0.018306,555 0.002526,556 894.9139,557 180251.9,558 8.772498,559 -1.443685,560 5.327465,561 2820,562 3.336632,563 -0.215893,564 3.034333,565 2825,566 -0.00001,567 -3.856129,568 0.000007,569 3.568336,570 -0.001896,571 0.168868,573 0.536682}
+{34 1.118223,75 1.118223,105 1.118223,108 1.118223,121 1.118223,167 1.118223,193 1.118223,195 1.118223,199 1.118223,247 1.118223,304 1.118223,314 1.118223,325 1.118223,326 1.118223,341 1.118223,384 1.118223,403 1.118223,463 1.118223,473 1.118223,499 1.118223,511 1.118223,522 2.176627,523 5.810825,524 3.458716,525 0.507384,526 1.019191,527 0.103077,528 0.05909,529 0.062022,530 0.07967,531 0.038511,532 73.041,533 5.425224,534 1.492333,535 0.847038,536 1.030367,537 0.900726,538 0.055749,539 24.0341,540 5.141596,541 366.3555,542 1.265338,543 0.015416,544 0.070387,545 0.356619,546 0.000191,547 0.007293,548 561.0351,549 0.47137,551 0.8502,552 0.110905,554 0.127445,555 0.004266,556 546.343,557 134763.5,558 3.888774,559 -0.029317,560 2.585257,561 2614,562 2.977096,563 -0.200381,564 3.214458,565 2293,566 0.000001,567 -3.456676,568 0.000002,569 4.14774,570 0.003876,571 -0.152476,572 -0.000004,573 0.803184}
+{33 1.421236,40 1.421236,58 1.421236,139 1.421236,160 1.421236,204 1.421236,224 1.421236,264 1.421236,317 1.421236,390 1.421236,408 1.421236,466 1.421236,486 1.421236,522 -0.392148,523 7.601086,524 2.967965,525 0.449499,526 0.781006,527 0.118819,528 0.077112,529 0.070236,530 0.059911,531 0.064393,532 87.31121,533 5.017959,534 1.340294,535 0.751807,536 1.176837,537 0.894045,538 0.065813,539 28.58073,540 6.35096,541 340.467,542 1.094909,543 0.022677,544 0.027157,545 0.181227,546 0.000216,547 0.008448,548 2142.01,549 0.646114,551 0.894141,552 0.1181,554 0.094716,555 0.003596,556 729.729,557 452086.4,558 -7.662165,559 0.589382,560 3.657116,561 637,562 3.204434,563 -0.179306,564 2.9653,565 2901,566 0.000016,567 -5.324916,569 4.527741,570 0.003878,571 -0.126932,572 0.000004,573 -0.055034}
+{18 1.323099,19 1.323099,49 1.323099,76 1.323099,156 1.323099,157 1.323099,190 1.323099,199 1.323099,254 1.323099,289 1.323099,320 1.323099,361 1.323099,400 1.323099,447 1.323099,494 1.323099,522 0.948469,523 6.319336,524 5.009832,525 0.529296,526 0.745507,527 0.151592,528 0.067734,529 0.068979,530 0.118481,531 0.092367,532 57.54395,533 3.574767,534 1.153719,535 1.171584,536 0.853556,537 0.883183,538 0.042904,539 39.79175,540 6.750889,541 429.0712,542 0.863101,543 0.019366,544 0.292112,545 0.480344,546 0.000455,547 0.004966,548 3694.256,549 1.578773,551 0.926099,552 0.093825,554 0.068486,555 0.002378,556 232.2376,557 21336.33,558 1.678415,559 0.018782,560 3.674185,561 77,562 3.527477,563 -0.242356,564 4.515655,565 768,566 -0.000002,567 -4.741153,568 -0.000009,569 4.933057,570 -0.005794,571 -0.398302,572 0.000005,573 -0.062309}
+{41 0.935572,49 0.935572,50 0.935572,55 0.935572,58 0.935572,141 0.935572,143 0.935572,147 0.935572,180 0.935572,193 0.935572,195 0.935572,196 0.935572,199 0.935572,221 0.935572,224 0.935572,226 0.935572,247 0.935572,248 0.935572,253 0.935572,320 0.935572,321 0.935572,352 0.935572,428 0.935572,429 0.935572,441 0.935572,442 0.935572,443 0.935572,485 0.935572,505 0.935572,508 0.935572,522 0.246645,523 5.495012,524 4.317724,525 0.494755,526 0.810789,527 0.124356,528 0.064464,529 0.06691,530 0.145257,531 0.099226,532 63.32812,533 3.755793,534 1.17568,535 0.874779,536 0.768993,537 0.880932,538 0.05379,539 42.6282,540 6.73033,541 542.2685,542 1.669501,543 0.03817,544 0.196684,545 0.275263,546 0.00035,547 0.00388,548 2102.44,549 1.905747,551 0.856858,552 0.100462,554 0.122734,555 0.004297,556 401.6248,557 87970.68,558 -1.008375,559 -0.363937,560 2.742509,561 703,562 3.703571,563 0.777482,564 5.276232,565 2928,566 0.000002,567 -3.523265,568 -0.000003,569 5.120056,570 -0.000475,571 0.274798,572 0.000006,573 0.377522}
+{67 1.024868,105 1.024868,106 1.024868,131 1.024868,139 1.024868,148 1.024868,167 1.024868,180 1.024868,187 1.024868,209 1.024868,218 1.024868,224 1.024868,287 1.024868,294 1.024868,320 1.024868,324 1.024868,341 1.024868,373 1.024868,386 1.024868,444 1.024868,452 1.024868,472 1.024868,479 1.024868,511 1.024868,518 1.024868,522 0.921848,523 5.617657,524 2.492835,525 0.452933,526 0.862991,527 0.094848,528 0.072243,529 0.076123,530 0.059432,531 0.046924,532 55.5941,533 4.112012,534 1.326152,535 0.798861,536 0.549012,537 0.892652,538 0.077628,539 43.2867,540 5.430584,541 93.73229,542 0.491885,543 0.022479,544 0.143039,545 0.190368,546 0.000243,547 0.005732,548 1631.575,549 0.72103,551 0.796937,552 0.091351,554 0.161936,555 0.003804,556 254.1572,557 49499.29,558 3.765486,559 -0.271803,560 3.204069,561 2022,562 3.087619,563 0.020916,564 3.112982,565 2626,566 -0.000002,567 -4.484214,568 -0.000005,569 3.354185,570 0.00948,571 0.099847,572 0.000008,573 0.155565}
+{9 0.98618,66 0.98618,68 0.98618,116 0.98618,117 0.98618,139 0.98618,156 0.98618,165 0.98618,185 0.98618,186 0.98618,195 0.98618,198 0.98618,204 0.98618,219 0.98618,240 0.98618,247 0.98618,252 0.98618,254 0.98618,264 0.98618,314 0.98618,323 0.98618,376 0.98618,434 0.98618,466 0.98618,497 0.98618,505 0.98618,508 0.98618,522 0.633099,523 5.385364,524 2.510037,525 0.479422,526 0.872397,527 0.113733,528 0.06603,529 0.071048,530 0.08754,531 0.073465,532 64.51136,533 3.947673,534 1.215549,535 0.688228,536 0.508321,537 0.878421,538 0.094017,539 74.00348,540 6.621455,541 196.8071,542 1.764248,543 0.049676,544 0.026446,545 0.052144,546 0.000405,547 0.006986,548 4874.64,549 1.46248,551 0.878828,552 0.066215,554 0.10656,555 0.001293,556 458.5906,557 279080.1,558 -0.359149,559 -0.082349,560 3.336231,561 599,562 3.359388,563 -0.310744,564 2.95657,565 1801,566 0.000004,567 -3.158526,568 -0.000007,569 3.419198,570 -0.004575,571 -0.114744,572 0.000006,573 2.028355}
+{40 1.004966,66 1.004966,73 1.004966,108 1.004966,121 1.004966,139 1.004966,167 1.004966,180 1.004966,191 1.004966,242 1.004966,243 1.004966,253 1.004966,264 1.004966,301 1.004966,304 1.004966,320 1.004966,322 1.004966,331 1.004966,376 1.004966,408 1.004966,441 1.004966,469 1.004966,486 1.004966,487 1.004966,493 1.004966,502 1.004966,522 0.293358,523 8.619341,524 2.018312,525 0.481452,526 0.86064,527 0.115097,528 0.081253,529 0.076587,530 0.127365,531 0.093447,532 88.26042,533 5.771839,534 1.475545,535 0.533343,536 0.748805,537 0.893182,538 0.090053,539 62.01995,540 5.379165,541 483.715,542 2.07466,543 0.032695,544 0.029774,545 0.075115,546 0.000171,547 0.006339,548 2251.866,549 0.634344,551 0.922104,552 0.09851,554 0.071876,555 0.002525,556 695.1059,557 224446.4,558 -3.352973,559 -0.685395,560 3.676607,561 1567,562 3.046055,563 0.783155,564 4.295319,565 1229,566 0.000011,567 -2.764317,568 -0.000004,569 3.622962,570 -0.016969,571 -0.035557,572 0.000006,573 0.400533}
+{10 0.892033,34 0.892033,102 0.892033,105 0.892033,116 0.892033,117 0.892033,119 0.892033,131 0.892033,138 0.892033,141 0.892033,187 0.892033,193 0.892033,199 0.892033,211 0.892033,224 0.892033,225 0.892033,230 0.892033,233 0.892033,242 0.892033,316 0.892033,326 0.892033,347 0.892033,350 0.892033,351 0.892033,373 0.892033,381 0.892033,386 0.892033,400 0.892033,409 0.892033,471 0.892033,484 0.892033,486 0.892033,505 0.892033,522 0.982948,523 6.976995,524 4.28477,525 0.524865,526 0.712865,527 0.114434,528 0.066916,529 0.069331,530 0.10365,531 0.067018,532 82.36292,533 5.209508,534 1.406358,535 0.654998,536 0.910969,537 0.885521,538 0.065566,539 41.1044,540 5.400087,541 1746.771,542 3.853515,543 0.036672,544 0.086641,545 0.51578,546 0.000555,547 0.007406,548 2552.29,549 2.546806,551 0.808921,552 0.093559,554 0.154671,555 0.00405,556 591.8906,557 111769.3,558 3.806356,559 0.467924,560 2.757116,561 2940,562 3.544237,563 0.447838,564 4.300096,565 698,566 0.000021,567 -4.14071,568 0.000005,569 4.071435,570 0.002573,571 0.265005,572 -0.000006,573 -0.250584}
+{0 0.800288,39 0.800288,41 0.800288,62 0.800288,66 0.800288,76 0.800288,105 0.800288,106 0.800288,116 0.800288,117 0.800288,126 0.800288,139 0.800288,148 0.800288,166 0.800288,204 0.800288,208 0.800288,211 0.800288,219 0.800288,224 0.800288,225 0.800288,227 0.800288,247 0.800288,287 0.800288,316 0.800288,325 0.800288,326 0.800288,328 0.800288,341 0.800288,349 0.800288,350 0.800288,352 0.800288,355 0.800288,358 0.800288,400 0.800288,413 0.800288,431 0.800288,434 0.800288,463 0.800288,466 0.800288,470 0.800288,479 0.800288,522 1.475932,523 5.516184,524 2.399213,525 0.434775,526 0.697787,527 0.091956,528 0.063267,529 0.0587,530 0.076171,531 0.044577,532 55.35686,533 3.448691,534 1.160088,535 0.901968,536 0.694428,537 0.884466,538 0.185168,539 166.1819,540 6.63795,541 67.71308,542 0.21833,543 0.005853,544 0.159458,545 0.232145,546 0.000168,547 0.007136,548 7646.28,549 0.461664,551 0.738349,552 0.081227,554 0.193319,555 0.004066,556 255.8751,557 4833.377,558 2.483629,559 -0.173826,560 2.736831,561 2102,562 2.904366,563 -0.00137,564 2.95493,565 1281,566 -0.000003,567 -2.952945,568 0.000001,569 3.908262,570 -0.001902,571 -0.217706,573 0.411368}
+{27 1.175604,116 1.175604,117 1.175604,184 1.175604,202 1.175604,203 1.175604,208 1.175604,211 1.175604,224 1.175604,226 1.175604,242 1.175604,349 1.175604,352 1.175604,355 1.175604,415 1.175604,437 1.175604,445 1.175604,447 1.175604,473 1.175604,522 0.595631,523 7.17151,524 2.126733,525 0.434137,526 0.784653,527 0.108411,528 0.079675,529 0.078548,530 0.090777,531 0.044894,532 81.41171,533 5.039143,534 1.354981,535 0.664062,536 1.150942,537 0.899754,538 0.110382,539 74.69828,540 5.985539,541 67.17412,542 0.180799,543 0.003991,544 0.024358,545 0.165902,546 0.000101,547 0.009304,548 4342.626,549 0.173105,551 0.978695,552 0.12649,554 0.020865,555 0.002197,556 415.0356,557 15189.37,558 -2.623055,559 0.306325,560 2.731091,561 2051,562 3.412386,563 -0.097461,564 2.789017,565 1761,566 -0.000002,567 -4.305504,568 0.000004,569 2.697945,570 -0.008502,571 0.101769,572 0.000002,573 0.213792}
+{38 0.747462,39 0.747462,68 0.747462,84 0.747462,92 0.747462,93 0.747462,105 0.747462,142 0.747462,160 0.747462,180 0.747462,195 0.747462,196 0.747462,197 0.747462,204 0.747462,207 0.747462,208 0.747462,241 0.747462,247 0.747462,248 0.747462,249 0.747462,254 0.747462,264 0.747462,277 0.747462,278 0.747462,279 0.747462,317 0.747462,320 0.747462,333 0.747462,341 0.747462,343 0.747462,350 0.747462,362 0.747462,431 0.747462,434 0.747462,445 0.747462,447 0.747462,450 0.747462,453 0.747462,456 0.747462,466 0.747462,471 0.747462,479 0.747462,484 0.747462,486 0.747462,502 0.747462,504 0.747462,514 0.747462,522 0.107127,523 5.980109,524 3.378767,525 0.503177,526 0.971377,527 0.149318,528 0.07767,529 0.072058,530 0.065553,531 0.070938,532 93.82635,533 5.720558,534 1.425369,535 0.662422,536 1.381037,537 0.902167,538 0.075664,539 25.66266,540 6.074207,541 397.7486,542 1.522183,543 0.028754,544 0.042373,545 0.357498,546 0.000187,547 0.01415,548 2320.162,549 0.84541,551 0.924101,552 0.117245,554 0.070185,555 0.003552,556 618.2959,557 128815.1,558 -3.187797,559 0.287719,560 3.439873,561 1281,562 3.187964,563 -0.083851,564 2.738793,565 2963,566 0.000009,567 -4.690883,568 0.000004,569 4.59195,570 -0.008639,571 -0.174818,572 0.000007,573 0.304747}
+{36 1.242835,40 1.242835,45 1.242835,70 1.242835,72 1.242835,112 1.242835,199 1.242835,206 1.242835,211 1.242835,222 1.242835,247 1.242835,248 1.242835,345 1.242835,456 1.242835,479 1.242835,482 1.242835,483 1.242835,522 0.537885,523 9.251053,524 3.167037,525 0.420834,526 0.938619,527 0.116145,528 0.074978,529 0.076959,530 0.071719,531 0.081766,532 53.09016,533 4.535868,534 1.48717,535 0.478236,536 0.248377,537 0.8704,538 0.059267,539 65.53266,540 3.839292,541 326.5884,542 1.623843,543 0.036011,544 0.015829,545 0.02388,546 0.00035,547 0.003312,548 2369.08,549 0.346651,551 0.639814,552 0.082652,554 0.230606,555 0.005744,556 853.1522,557 595165.1,558 -5.083708,559 0.418317,560 4.318187,561 2896,562 3.454795,563 -0.468217,564 3.083868,565 2441,566 0.000011,567 -4.881619,568 0.000007,569 4.203502,570 0.004176,571 0.215595,572 0.000008,573 0.508904}
+{31 1.118223,34 1.118223,45 1.118223,62 1.118223,101 1.118223,179 1.118223,195 1.118223,196 1.118223,208 1.118223,211 1.118223,213 1.118223,247 1.118223,248 1.118223,264 1.118223,278 1.118223,326 1.118223,376 1.118223,412 1.118223,468 1.118223,469 1.118223,475 1.118223,522 -0.02488,523 7.52713,524 4.12475,525 0.505141,526 0.996987,527 0.145175,528 0.067545,529 0.075988,530 0.073562,531 0.064512,532 66.46955,533 4.772296,534 1.463426,535 0.438909,536 0.355257,537 0.86477,538 0.061062,539 63.58064,540 4.440531,541 835.0403,542 1.699198,543 0.027596,544 0.029058,545 0.077484,546 0.000564,547 0.007565,548 5141.602,549 1.386642,551 0.792277,552 0.103155,554 0.164684,555 0.005176,556 704.4632,557 242676,558 -8.974176,559 -0.180459,560 3.050239,561 2646,562 3.479108,563 0.171674,564 2.903533,565 1775,566 -0.000001,567 -4.269369,569 4.115962,570 -0.001675,571 -0.037598,572 0.000007,573 0.481132}
+{326 3.623456,469 3.623456,522 -0.469977,523 6.311065,524 2.921955,525 0.425399,526 0.756208,527 0.095709,528 0.06622,529 0.066971,530 0.080585,531 0.049422,532 79.53165,533 5.84087,534 1.557531,535 0.584615,536 0.962541,537 0.897792,538 0.098363,539 33.36593,540 4.722553,541 328.5038,542 1.143105,543 0.020118,544 0.030268,545 0.325312,546 0.000216,547 0.015261,548 1588.036,549 0.652392,551 0.888149,552 0.111451,554 0.099406,555 0.003647,556 1144.983,557 349431.8,558 -4.2739,559 -0.914153,560 4.233088,561 2294,562 3.333384,563 -0.388699,564 3.664206,565 2219,566 0.000003,567 -3.347679,568 -0.000001,569 3.16942,570 0.010113,571 -0.041405,572 0.000003,573 0.434154}
+{131 1.545047,165 1.545047,210 1.545047,211 1.545047,222 1.545047,224 1.545047,287 1.545047,326 1.545047,378 1.545047,445 1.545047,479 1.545047,522 1.567793,523 4.926178,524 3.592768,525 0.36861,526 0.627822,527 0.110208,528 0.06374,529 0.066451,530 0.104588,531 0.107978,532 53.23156,533 4.081171,534 1.305867,535 1.071415,536 0.726195,537 0.878297,538 0.028438,539 27.12163,540 5.974398,541 149.2392,542 1.147943,543 0.051616,544 0.222472,545 0.157673,546 0.000338,547 0.001907,548 1130.398,549 2.755362,551 0.926764,552 0.091476,554 0.067917,555 0.00238,556 291.1035,557 233025.5,558 -0.86921,559 -0.666755,560 2.350689,561 2963,562 3.829243,563 0.443185,564 4.469983,565 72,566 -0.000003,567 -5.378832,568 -0.000004,569 3.525783,570 0.00468,571 0.016715,572 -0.000004,573 -0.146906}
+{8 1.207819,39 1.207819,40 1.207819,139 1.207819,166 1.207819,174 1.207819,175 1.207819,180 1.207819,195 1.207819,207 1.207819,211 1.207819,219 1.207819,246 1.207819,247 1.207819,331 1.207819,376 1.207819,390 1.207819,454 1.207819,522 1.375545,523 5.904294,524 4.080751,525 0.576178,526 1.026156,527 0.126947,528 0.082214,529 0.083839,530 0.076578,531 0.055052,532 79.18851,533 5.072819,534 1.388145,535 0.630852,536 0.878758,537 0.896237,538 0.069751,539 53.15044,540 5.65962,541 441.3963,542 1.142148,543 0.016905,544 0.073834,545 0.220415,546 0.000244,547 0.008871,548 3873.598,549 0.565803,551 0.832224,552 0.100274,554 0.13972,555 0.004766,556 468.8406,557 54332.68,558 1.971501,559 -0.603739,560 2.736585,561 548,562 3.434297,563 -0.067151,564 3.594949,565 2113,566 -0.000001,567 -3.425611,568 -0.000002,569 4.437667,570 0.002522,571 0.203223,572 -0.000003,573 0.593479}
+{14 0.781455,66 0.781455,69 0.781455,72 0.781455,116 0.781455,117 0.781455,119 0.781455,123 0.781455,131 0.781455,144 0.781455,146 0.781455,148 0.781455,156 0.781455,159 0.781455,176 0.781455,177 0.781455,185 0.781455,186 0.781455,192 0.781455,206 0.781455,211 0.781455,224 0.781455,246 0.781455,253 0.781455,264 0.781455,278 0.781455,302 0.781455,320 0.781455,325 0.781455,326 0.781455,341 0.781455,376 0.781455,390 0.781455,400 0.781455,403 0.781455,408 0.781455,422 0.781455,456 0.781455,468 0.781455,472 0.781455,476 0.781455,485 0.781455,511 0.781455,522 1.066127,523 5.918506,524 3.315017,525 0.460563,526 0.893364,527 0.11558,528 0.072657,529 0.07359,530 0.086413,531 0.068514,532 67.09276,533 4.558291,534 1.341389,535 0.755269,536 0.797101,537 0.894024,538 0.069037,539 55.6042,540 5.74728,541 450.9565,542 1.417234,543 0.031701,544 0.149291,545 0.377612,546 0.000192,547 0.005448,548 3334.976,549 1.039514,551 0.86751,552 0.106211,554 0.115013,555 0.004463,556 424.8607,557 188710.1,558 3.868911,559 -0.27915,560 2.936893,561 848,562 3.381993,563 -0.237706,564 2.803129,565 713,566 0.000017,567 -3.330014,568 0.000007,569 3.89915,570 -0.00258,571 0.064714,572 -0.000001,573 0.416784}
+{27 0.820551,28 0.820551,34 0.820551,39 0.820551,44 0.820551,95 0.820551,116 0.820551,117 0.820551,119 0.820551,159 0.820551,175 0.820551,176 0.820551,177 0.820551,178 0.820551,192 0.820551,202 0.820551,204 0.820551,210 0.820551,247 0.820551,254 0.820551,317 0.820551,320 0.820551,328 0.820551,341 0.820551,384 0.820551,400 0.820551,430 0.820551,431 0.820551,445 0.820551,464 0.820551,465 0.820551,466 0.820551,472 0.820551,482 0.820551,483 0.820551,498 0.820551,501 0.820551,508 0.820551,511 0.820551,522 -0.554521,523 6.262722,524 2.828641,525 0.45215,526 0.847463,527 0.131106,528 0.069102,529 0.072179,530 0.074651,531 0.042578,532 86.19752,533 5.703864,534 1.472852,535 0.599662,536 1.153819,537 0.901565,538 0.102649,539 43.33709,540 5.34779,541 226.957,542 0.775989,543 0.01088,544 0.025252,545 0.27095,546 0.000124,547 0.010097,548 2839.58,549 0.294999,551 0.91478,552 0.117451,554 0.078009,555 0.003771,556 733.5223,557 186792.5,558 -4.263486,559 -0.092903,560 3.06649,561 1729,562 3.510839,563 0.214852,564 3.263377,565 912,566 -0.000003,567 -2.741985,568 0.000002,569 4.389885,570 -0.002856,571 -0.264107,572 0.000008,573 -0.152792}
+{20 0.820551,27 0.820551,41 0.820551,49 0.820551,76 0.820551,84 0.820551,92 0.820551,97 0.820551,116 0.820551,117 0.820551,119 0.820551,131 0.820551,148 0.820551,180 0.820551,195 0.820551,205 0.820551,206 0.820551,209 0.820551,210 0.820551,224 0.820551,246 0.820551,247 0.820551,248 0.820551,264 0.820551,317 0.820551,341 0.820551,355 0.820551,375 0.820551,400 0.820551,438 0.820551,450 0.820551,456 0.820551,466 0.820551,468 0.820551,470 0.820551,497 0.820551,505 0.820551,508 0.820551,511 0.820551,522 0.751776,523 5.714169,524 3.779293,525 0.480835,526 0.770469,527 0.116845,528 0.075543,529 0.074574,530 0.072022,531 0.07485,532 77.25115,533 4.824939,534 1.337219,535 0.782292,536 1.073892,537 0.89264,538 0.078189,539 47.04501,540 6.220193,541 494.102,542 1.982246,543 0.044931,544 0.083349,545 0.41263,546 0.000254,547 0.00786,548 3136.809,549 1.333542,551 0.87217,552 0.09267,554 0.111563,555 0.004149,556 525.1157,557 288091.9,558 1.043417,559 0.12882,560 3.99529,561 531,562 3.341485,563 -0.018671,564 2.876796,565 901,566 -0.000002,567 -4.683098,569 4.649515,570 0.000151,571 -0.035904,572 0.000011,573 0.015556}
+{48 1.145837,84 1.145837,105 1.145837,116 1.145837,117 1.145837,131 1.145837,187 1.145837,195 1.145837,196 1.145837,211 1.145837,237 1.145837,247 1.145837,248 1.145837,264 1.145837,320 1.145837,345 1.145837,359 1.145837,466 1.145837,472 1.145837,498 1.145837,522 -1.317457,523 6.544437,524 3.386896,525 0.408844,526 0.800708,527 0.136407,528 0.066291,529 0.070831,530 0.10347,531 0.046552,532 79.13048,533 4.736278,534 1.334113,535 0.669986,536 1.032055,537 0.889492,538 0.069013,539 39.45985,540 5.954416,541 589.6779,542 1.529155,543 0.024325,544 0.093355,545 0.498293,546 0.000162,547 0.006647,548 2284.232,549 1.426797,551 0.890147,552 0.122009,554 0.097851,555 0.003847,556 642.0856,557 134177.3,558 -6.131784,559 0.276887,560 2.784492,561 696,562 2.694255,563 0.10396,564 2.828352,565 2916,566 0.000001,567 -4.143525,568 -0.000002,569 5.76043,570 0.001841,571 0.120985,572 -0.000001,573 -0.446036}
+{44 1.207819,115 1.207819,116 1.207819,117 1.207819,199 1.207819,208 1.207819,222 1.207819,240 1.207819,241 1.207819,247 1.207819,344 1.207819,403 1.207819,471 1.207819,473 1.207819,489 1.207819,493 1.207819,508 1.207819,513 1.207819,522 -0.380129,523 8.845086,524 2.991082,525 0.597221,526 0.958987,527 0.124673,528 0.070802,529 0.077988,530 0.118858,531 0.044836,532 72.06974,533 5.121593,534 1.459994,535 0.539863,536 0.576348,537 0.885515,538 0.101819,539 77.91722,540 4.81791,541 429.6544,542 1.577786,543 0.031036,544 0.084058,545 0.114181,546 0.000361,547 0.011022,548 7265.684,549 1.014652,551 0.89747,552 0.101232,554 0.092079,555 0.003215,556 1013.918,557 380354.5,558 -9.291711,559 -0.059704,560 2.850653,561 1662,562 3.013447,563 0.038944,564 2.8533,565 1549,566 -0.000022,567 -4.474784,568 0.000001,569 4.207204,570 0.008601,571 0.050218,572 -0.000001,573 -0.430344}
+{8 1.068499,49 1.068499,61 1.068499,112 1.068499,116 1.068499,117 1.068499,137 1.068499,184 1.068499,204 1.068499,208 1.068499,246 1.068499,264 1.068499,277 1.068499,278 1.068499,295 1.068499,320 1.068499,333 1.068499,390 1.068499,403 1.068499,431 1.068499,466 1.068499,489 1.068499,505 1.068499,522 -0.769308,523 8.923231,524 3.065782,525 0.61663,526 0.864761,527 0.114264,528 0.071432,529 0.076939,530 0.094321,531 0.090123,532 87.71217,533 6.239972,534 1.579423,535 0.429121,536 0.65406,537 0.879883,538 0.091331,539 49.30366,540 4.613521,541 671.281,542 3.736615,543 0.051963,544 0.027639,545 0.063472,546 0.000353,547 0.008529,548 2811.484,549 0.411655,551 0.904128,552 0.110389,554 0.086738,555 0.003334,556 1190.961,557 459319.4,558 -11.51213,559 0.19564,560 2.480913,561 2287,562 2.821844,563 -0.051621,564 3.284931,565 2099,566 -0.000013,567 -3.216832,568 0.000002,569 4.043769,570 -0.01603,571 0.251418,572 0.000005,573 -0.095271}
+{15 0.790703,16 0.790703,17 0.790703,27 0.790703,28 0.790703,39 0.790703,57 0.790703,84 0.790703,137 0.790703,143 0.790703,145 0.790703,153 0.790703,154 0.790703,158 0.790703,165 0.790703,166 0.790703,168 0.790703,169 0.790703,170 0.790703,209 0.790703,211 0.790703,224 0.790703,277 0.790703,284 0.790703,285 0.790703,286 0.790703,320 0.790703,321 0.790703,343 0.790703,400 0.790703,403 0.790703,415 0.790703,430 0.790703,445 0.790703,460 0.790703,461 0.790703,462 0.790703,467 0.790703,482 0.790703,483 0.790703,499 0.790703,500 0.790703,522 -1.317457,523 6.544437,524 3.386896,525 0.408844,526 0.800708,527 0.136407,528 0.066291,529 0.070831,530 0.10347,531 0.046552,532 79.13048,533 4.736278,534 1.334113,535 0.669986,536 1.032055,537 0.889492,538 0.069013,539 39.45985,540 5.954416,541 589.6779,542 1.529155,543 0.024325,544 0.093355,545 0.498293,546 0.000162,547 0.006647,548 2284.232,549 1.426797,551 0.890147,552 0.122009,554 0.097851,555 0.003847,556 642.0856,557 134177.3,558 -6.131784,559 0.276887,560 2.784492,561 696,562 2.694255,563 0.10396,564 2.828352,565 2916,566 0.000001,567 -4.143525,568 -0.000002,569 5.76043,570 0.001841,571 0.120985,572 -0.000001,573 -0.446036}
+{95 2.291675,208 2.291675,453 2.291675,491 2.291675,497 2.291675,522 0.210633,523 5.275334,524 3.907336,525 0.378873,526 0.69677,527 0.176987,528 0.067633,529 0.068958,530 0.183618,531 0.103835,532 56.70247,533 2.724938,534 0.982214,535 0.728427,536 0.434024,537 0.851869,538 0.040456,539 59.24251,540 8.028365,541 693.5154,542 0.917911,543 0.022222,544 0.238653,545 0.076077,546 0.000449,547 0.001716,548 2385.576,549 1.042009,551 0.892144,552 0.108636,554 0.096287,555 0.002958,556 433.8612,557 48483.68,558 -2.300912,559 0.117074,560 1.506247,561 2310,562 2.815365,563 0.13857,564 2.784633,566 0.000002,567 -2.890902,568 0.000015,569 4.933131,570 -0.003827,571 0.367999,572 0.000003,573 0.254779}
+{25 1.369538,61 1.369538,97 1.369538,115 1.369538,132 1.369538,137 1.369538,176 1.369538,211 1.369538,320 1.369538,321 1.369538,358 1.369538,452 1.369538,497 1.369538,501 1.369538,522 1.100105,523 6.356559,524 2.952507,525 0.422509,526 0.770993,527 0.102122,528 0.063493,529 0.061467,530 0.080268,531 0.077467,532 73.31422,533 4.656441,534 1.334273,535 0.809647,536 0.741037,537 0.890487,538 0.080763,539 32.08258,540 5.772159,541 549.4745,542 1.523862,543 0.028263,544 0.086187,545 0.112329,546 0.000144,547 0.009976,548 943.7415,549 0.971549,551 0.908123,552 0.116255,554 0.083492,555 0.003699,556 572.6045,557 141362,558 0.495655,559 0.731987,560 4.856883,561 1036,562 3.001552,563 -0.330879,564 3.024864,565 816,566 0.00002,567 -2.897196,568 0.000004,569 3.102631,570 0.009453,571 0.266289,572 -0.000003,573 -0.129954}
+{96 1.811728,208 1.811728,224 1.811728,247 1.811728,289 1.811728,326 1.811728,475 1.811728,508 1.811728,522 -0.338982,523 6.279921,524 3.782129,525 0.414842,526 0.733077,527 0.192131,528 0.068907,529 0.068493,530 0.085911,531 0.107857,532 72.45953,533 4.75121,534 1.337425,535 0.650604,536 0.699084,537 0.877503,538 0.076639,539 49.44928,540 5.624558,541 559.5868,542 3.271689,543 0.066993,544 0.110349,545 0.095423,546 0.000273,547 0.008478,548 2757.345,549 1.128221,551 0.945406,552 0.122022,554 0.051648,555 0.003056,556 684.2174,557 294671.5,558 -13.04703,559 -0.039011,560 2.297605,561 1698,562 4.076616,563 0.110964,564 3.679576,565 2424,566 0.000014,567 -3.964983,569 3.927116,570 -0.005788,571 -0.055945,572 -0.000001,573 -0.038677}
+{18 1.024868,19 1.024868,26 1.024868,76 1.024868,84 1.024868,164 1.024868,180 1.024868,181 1.024868,195 1.024868,196 1.024868,202 1.024868,206 1.024868,247 1.024868,248 1.024868,277 1.024868,291 1.024868,304 1.024868,326 1.024868,327 1.024868,356 1.024868,357 1.024868,417 1.024868,463 1.024868,474 1.024868,505 1.024868,522 0.375058,523 5.964697,524 4.598681,525 0.488362,526 0.817358,527 0.142846,528 0.078915,529 0.083769,530 0.084889,531 0.068835,532 71.43073,533 4.558126,534 1.330457,535 0.817076,536 0.666199,537 0.884673,538 0.024189,539 5.038738,540 5.514094,541 466.2477,542 1.272653,543 0.021818,544 0.161616,545 0.048162,546 0.000188,547 0.005697,548 104.6973,549 0.429245,551 0.753662,552 0.125768,554 0.185779,555 0.005747,556 607.5722,557 121657.1,558 -4.055043,559 -0.537139,560 2.622466,561 905,562 3.448385,563 0.358267,564 3.401845,565 654,566 0.000003,567 -5.451232,568 0.000007,569 4.996699,570 -0.003425,571 0.181331,572 -0.000001,573 -0.167858}
+{39 1.47927,45 1.47927,62 1.47927,130 1.47927,211 1.47927,218 1.47927,376 1.47927,386 1.47927,445 1.47927,468 1.47927,469 1.47927,475 1.47927,522 2.482706,523 5.251256,524 2.866634,525 0.401274,526 0.794171,527 0.108608,528 0.060796,529 0.063503,530 0.087787,531 0.079321,532 56.77335,533 3.905362,534 1.247836,535 0.848575,536 0.364448,537 0.863674,538 0.04601,539 53.62759,540 5.964696,541 942.1707,542 2.075688,543 0.039561,544 0.221515,545 0.102926,546 0.000697,547 0.00388,548 1668.015,549 2.047451,551 0.843542,552 0.077018,554 0.132067,555 0.002221,556 377.0502,557 173065.5,558 14.75403,559 -0.760221,560 2.599864,561 2880,562 3.125989,563 0.158237,564 3.302325,565 1280,566 0.000022,567 -5.08958,569 4.427059,570 -0.013569,571 0.225581,573 -0.670895}
+{31 1.369538,39 1.369538,109 1.369538,124 1.369538,179 1.369538,273 1.369538,360 1.369538,378 1.369538,386 1.369538,390 1.369538,448 1.369538,452 1.369538,468 1.369538,490 1.369538,522 0.964649,523 5.99065,524 2.976071,525 0.360945,526 0.870109,527 0.130481,528 0.073969,529 0.078604,530 0.094925,531 0.045798,532 62.70412,533 4.071407,534 1.267113,535 0.91254,536 0.905616,537 0.891621,538 0.086081,539 67.27771,540 6.253234,541 155.0617,542 0.79933,543 0.025985,544 0.151445,545 0.337151,546 0.000234,547 0.005811,548 4526.26,549 1.229141,551 0.766977,552 0.104484,554 0.178842,555 0.005377,556 354.6911,557 86430.86,558 1.002667,559 0.100411,560 3.318033,561 494,562 2.963112,563 0.354992,564 3.006931,565 733,566 -0.000011,567 -2.99026,568 0.000007,569 4.072711,570 -0.003525,571 0.292838,572 -0.000006,573 -0.152009}
+{73 0.905864,84 0.905864,154 0.905864,180 0.905864,205 0.905864,233 0.905864,243 0.905864,244 0.905864,245 0.905864,254 0.905864,255 0.905864,256 0.905864,287 0.905864,323 0.905864,338 0.905864,339 0.905864,340 0.905864,349 0.905864,359 0.905864,403 0.905864,448 0.905864,450 0.905864,451 0.905864,452 0.905864,468 0.905864,472 0.905864,486 0.905864,499 0.905864,500 0.905864,501 0.905864,509 0.905864,510 0.905864,522 0.683591,523 6.305702,524 3.722328,525 0.515356,526 0.826084,527 0.104136,528 0.070026,529 0.079579,530 0.072154,531 0.037036,532 63.42301,533 4.279426,534 1.305023,535 0.878565,536 0.700602,537 0.888657,538 0.043512,539 31.21806,540 5.814347,541 472.2183,542 1.076181,543 0.024566,544 0.140511,545 0.236383,546 0.000237,547 0.003183,548 962.5031,549 1.545231,551 0.605193,552 0.057092,554 0.239094,555 0.003517,556 357.93,557 86671.88,558 3.792191,559 -0.182967,560 2.962676,561 927,562 3.563581,563 0.483247,564 3.51018,565 419,566 0.000015,567 -4.378998,568 0.000002,569 3.483866,570 0.000255,571 0.136747,572 -0.000002,573 -0.350165}
+{9 0.831278,14 0.831278,25 0.831278,41 0.831278,66 0.831278,96 0.831278,97 0.831278,98 0.831278,105 0.831278,116 0.831278,117 0.831278,148 0.831278,156 0.831278,167 0.831278,185 0.831278,186 0.831278,199 0.831278,208 0.831278,209 0.831278,219 0.831278,224 0.831278,237 0.831278,247 0.831278,248 0.831278,254 0.831278,264 0.831278,278 0.831278,304 0.831278,338 0.831278,341 0.831278,375 0.831278,386 0.831278,452 0.831278,475 0.831278,493 0.831278,508 0.831278,511 0.831278,518 0.831278,522 0.734852,523 5.037363,524 3.916408,525 0.655021,526 1.0055,527 0.082228,528 0.063882,529 0.063917,530 0.092079,531 0.051646,532 56.51195,533 3.611753,534 1.216093,535 0.597433,536 0.427948,537 0.874193,538 0.063374,539 66.78295,540 5.963506,541 285.5219,542 0.477559,543 0.014744,544 0.084752,545 0.136975,546 0.000487,547 0.004503,548 3621.103,549 1.536164,551 0.873502,552 0.086651,554 0.11057,555 0.003045,556 352.5583,557 33586.49,558 0.137608,559 -0.497272,560 2.689518,561 1798,562 3.239914,563 -0.226786,564 3.590915,565 2291,566 -0.000003,567 -3.479844,569 3.869564,570 0.009803,571 -0.183121,572 0.000015,573 0.280872}
+{31 0.739635,34 0.739635,41 0.739635,48 0.739635,57 0.739635,67 0.739635,75 0.739635,76 0.739635,79 0.739635,105 0.739635,115 0.739635,116 0.739635,117 0.739635,118 0.739635,130 0.739635,131 0.739635,133 0.739635,165 0.739635,179 0.739635,187 0.739635,191 0.739635,195 0.739635,196 0.739635,208 0.739635,211 0.739635,223 0.739635,246 0.739635,247 0.739635,248 0.739635,314 0.739635,326 0.739635,333 0.739635,344 0.739635,369 0.739635,370 0.739635,371 0.739635,373 0.739635,376 0.739635,390 0.739635,394 0.739635,450 0.739635,456 0.739635,472 0.739635,475 0.739635,493 0.739635,497 0.739635,498 0.739635,501 0.739635,522 -3.175468,523 6.186302,524 2.955461,525 0.471395,526 0.736986,527 0.143672,528 0.073814,529 0.069816,530 0.057679,531 0.101457,532 75.44663,533 3.927673,534 1.222616,535 0.632537,536 0.731149,537 0.869572,538 0.224592,539 186.7383,540 6.379764,541 131.2602,542 0.521132,543 0.010463,544 0.015463,545 0.025783,546 0.000212,547 0.018203,548 19839.26,549 0.300791,551 0.904128,552 0.131694,554 0.086738,555 0.003469,556 888.9507,557 26057.59,558 -17.5148,559 0.212506,560 2.608089,561 703,562 2.874146,563 -0.151482,564 2.908991,565 1078,566 -0.000001,567 -3.860313,568 -0.000002,569 3.883461,570 0.001675,571 -0.032008,572 0.000002,573 0.710192}
+{34 0.951566,41 0.951566,61 0.951566,66 0.951566,76 0.951566,98 0.951566,108 0.951566,109 0.951566,121 0.951566,148 0.951566,159 0.951566,180 0.951566,181 0.951566,199 0.951566,204 0.951566,218 0.951566,237 0.951566,242 0.951566,243 0.951566,317 0.951566,323 0.951566,325 0.951566,331 0.951566,376 0.951566,408 0.951566,454 0.951566,466 0.951566,484 0.951566,499 0.951566,522 1.028975,523 6.26299,524 4.288822,525 0.475123,526 0.991114,527 0.127959,528 0.076857,529 0.074669,530 0.098616,531 0.110544,532 56.62342,533 3.931272,534 1.275663,535 0.791387,536 0.536748,537 0.886532,538 0.108764,539 82.97818,540 5.63043,541 353.4616,542 1.283737,543 0.037826,544 0.080086,545 0.132069,546 0.000335,547 0.011666,548 9684.064,549 0.84823,551 0.750999,552 0.085891,554 0.187124,555 0.00457,556 415.3201,557 270145.6,558 2.719094,559 -0.089719,560 2.493346,561 1078,562 3.052776,563 -0.207228,564 3.23681,565 318,566 0.000004,567 -4.316924,568 0.000005,569 6.286355,570 0.005228,571 -0.105895,572 0.000002,573 -0.057019}
+{153 3.623456,224 3.623456,522 1.220512,523 5.570043,524 3.161273,525 0.382038,526 0.74082,527 0.124824,528 0.072329,529 0.068582,530 0.077982,531 0.071238,532 64.34145,533 4.556407,534 1.338422,535 0.971297,536 0.981899,537 0.897805,538 0.041144,539 24.28164,540 5.795046,541 85.37434,542 0.755599,543 0.023214,544 0.132974,545 0.178408,546 0.000153,547 0.004884,548 894.442,549 0.684892,551 0.983356,552 0.091167,554 0.016378,555 0.001721,556 238.7532,557 12428.22,558 3.197076,559 -0.54782,560 2.803284,561 97,562 2.652746,563 -0.193774,564 2.619536,565 2405,566 0.000008,567 -4.663562,568 -0.000002,569 3.573832,570 0.005371,571 -0.381014,572 -0.000003,573 0.213079}
+{18 0.905864,19 0.905864,76 0.905864,78 0.905864,84 0.905864,115 0.905864,164 0.905864,173 0.905864,180 0.905864,181 0.905864,193 0.905864,243 0.905864,302 0.905864,338 0.905864,345 0.905864,355 0.905864,359 0.905864,377 0.905864,378 0.905864,390 0.905864,398 0.905864,408 0.905864,421 0.905864,434 0.905864,447 0.905864,451 0.905864,466 0.905864,476 0.905864,478 0.905864,479 0.905864,486 0.905864,489 0.905864,522 0.26427,523 7.074477,524 3.65399,525 0.498001,526 0.859711,527 0.140662,528 0.076774,529 0.076617,530 0.08991,531 0.062845,532 85.66546,533 5.785919,534 1.489267,535 0.615371,536 1.128513,537 0.896201,538 0.118527,539 72.29633,540 5.353416,541 435.8444,542 1.875137,543 0.035729,544 0.060538,545 0.381852,546 0.000205,547 0.012854,548 5170.808,549 0.647986,551 0.860186,552 0.116003,554 0.120346,555 0.00401,556 812.6103,557 319349.7,558 -2.523155,559 0.126824,560 2.932526,561 1835,562 3.883998,563 0.057111,564 3.181667,565 2980,566 -0.000013,567 -4.345284,568 0.000004,569 4.48113,570 -0.001613,571 0.44524,572 0.000002,573 0.660958}
+{34 0.810229,40 0.810229,72 0.810229,79 0.810229,81 0.810229,129 0.810229,180 0.810229,193 0.810229,195 0.810229,196 0.810229,197 0.810229,198 0.810229,204 0.810229,205 0.810229,208 0.810229,210 0.810229,233 0.810229,240 0.810229,247 0.810229,248 0.810229,249 0.810229,252 0.810229,287 0.810229,288 0.810229,317 0.810229,401 0.810229,402 0.810229,403 0.810229,422 0.810229,431 0.810229,434 0.810229,466 0.810229,468 0.810229,471 0.810229,472 0.810229,482 0.810229,483 0.810229,502 0.810229,504 0.810229,508 0.810229,522 0.423983,523 6.998618,524 3.693553,525 0.409349,526 0.678985,527 0.119426,528 0.071275,529 0.074216,530 0.10011,531 0.079196,532 90.90984,533 5.552406,534 1.377686,535 0.766716,536 1.136349,537 0.898897,538 0.161693,539 153.8654,540 6.262597,541 1347.985,542 5.289197,543 0.06829,544 0.083299,545 0.317196,546 0.000106,547 0.014484,548 14911.47,549 0.548247,551 0.838216,552 0.097315,554 0.135701,555 0.003828,556 538.899,557 141981.1,558 -2.578306,559 -0.165079,560 3.40191,561 2353,562 2.911643,563 -0.662878,564 3.348404,565 2565,566 0.00001,567 -3.023314,568 0.000001,569 4.488887,570 0.002759,571 0.120189,572 -0.000008,573 -0.442199}
+{34 0.717551,41 0.717551,68 0.717551,70 0.717551,73 0.717551,74 0.717551,76 0.717551,77 0.717551,78 0.717551,79 0.717551,97 0.717551,105 0.717551,116 0.717551,117 0.717551,118 0.717551,148 0.717551,164 0.717551,180 0.717551,181 0.717551,199 0.717551,204 0.717551,224 0.717551,226 0.717551,247 0.717551,248 0.717551,261 0.717551,262 0.717551,263 0.717551,341 0.717551,352 0.717551,361 0.717551,372 0.717551,375 0.717551,378 0.717551,379 0.717551,380 0.717551,394 0.717551,396 0.717551,397 0.717551,398 0.717551,399 0.717551,438 0.717551,466 0.717551,468 0.717551,473 0.717551,475 0.717551,482 0.717551,483 0.717551,497 0.717551,502 0.717551,508 0.717551,522 -0.318144,523 6.337373,524 4.614241,525 0.561517,526 0.867346,527 0.131945,528 0.071398,529 0.075364,530 0.090873,531 0.03817,532 66.37059,533 4.961772,534 1.465231,535 0.636458,536 0.775663,537 0.893223,538 0.061562,539 19.84325,540 4.629151,541 551.3278,542 1.022994,543 0.019101,544 0.08452,545 0.417103,546 0.00021,547 0.010951,548 974.9097,549 0.944149,551 0.75233,552 0.095034,554 0.186454,555 0.004841,556 819.7746,557 479780.5,558 -4.728538,559 0.192132,560 2.480266,561 2779,562 3.145314,563 1.001849,564 5.39901,565 1695,566 0.00001,567 -5.494813,568 -0.000006,569 4.180028,570 -0.003908,571 0.178785,572 -0.000008,573 0.619103}
+{9 0.772523,35 0.772523,45 0.772523,49 0.772523,61 0.772523,74 0.772523,116 0.772523,117 0.772523,130 0.772523,131 0.772523,139 0.772523,175 0.772523,187 0.772523,199 0.772523,205 0.772523,218 0.772523,219 0.772523,224 0.772523,240 0.772523,247 0.772523,254 0.772523,264 0.772523,266 0.772523,304 0.772523,318 0.772523,326 0.772523,345 0.772523,408 0.772523,422 0.772523,438 0.772523,444 0.772523,445 0.772523,452 0.772523,460 0.772523,466 0.772523,467 0.772523,471 0.772523,477 0.772523,486 0.772523,487 0.772523,494 0.772523,497 0.772523,501 0.772523,508 0.772523,522 1.006383,523 5.480065,524 3.272392,525 0.433046,526 0.872177,527 0.127234,528 0.06405,529 0.063747,530 0.057188,531 0.04808,532 58.6944,533 4.417378,534 1.361999,535 0.619785,536 0.628161,537 0.885465,538 0.067123,539 32.84355,540 5.016996,541 251.671,542 0.92772,543 0.01846,544 0.080661,545 0.43293,546 0.000366,547 0.006377,548 1045.397,549 0.646415,551 0.971372,552 0.116876,554 0.027827,555 0.002173,556 274.0491,557 71442.19,558 1.47609,559 -0.22359,560 2.798578,561 707,562 3.04163,563 -0.186839,564 2.717867,565 2748,566 0.000001,567 -4.545408,568 -0.000004,569 3.560277,570 0.005147,571 -0.050592,572 -0.000004,573 0.361898}
+{33 0.866172,49 0.866172,125 0.866172,131 0.866172,160 0.866172,173 0.866172,175 0.866172,195 0.866172,196 0.866172,211 0.866172,240 0.866172,247 0.866172,248 0.866172,264 0.866172,266 0.866172,267 0.866172,273 0.866172,278 0.866172,294 0.866172,304 0.866172,320 0.866172,326 0.866172,356 0.866172,357 0.866172,359 0.866172,369 0.866172,403 0.866172,434 0.866172,450 0.866172,451 0.866172,467 0.866172,485 0.866172,486 0.866172,498 0.866172,515 0.866172,522 0.740823,523 5.493461,524 6.357143,525 0.633757,526 0.833483,527 0.135511,528 0.082154,529 0.07361,530 0.099013,531 0.112425,532 152.9257,533 8.243353,534 1.52051,535 0.779904,536 3.036085,537 0.884619,538 0.050245,539 30.30431,540 7.424224,541 5975.598,542 15.16677,543 0.079583,544 0.195109,545 3.539508,546 0.000913,547 0.006288,548 2341.251,549 5.581272,551 0.890147,552 0.125903,554 0.097851,555 0.003647,556 598.2125,557 297266.8,558 -4.263958,559 -0.73284,560 3.799139,561 2411,562 3.24905,563 -0.22962,564 4.403344,565 2518,566 -0.000008,567 -5.859445,568 0.000007,569 5.248218,570 -0.000848,571 0.380891,572 0.000009,573 0.425584}
+{39 0.781455,69 0.781455,74 0.781455,76 0.781455,96 0.781455,108 0.781455,116 0.781455,117 0.781455,119 0.781455,133 0.781455,137 0.781455,173 0.781455,180 0.781455,181 0.781455,185 0.781455,186 0.781455,199 0.781455,200 0.781455,202 0.781455,211 0.781455,224 0.781455,268 0.781455,278 0.781455,289 0.781455,302 0.781455,316 0.781455,323 0.781455,326 0.781455,341 0.781455,345 0.781455,355 0.781455,386 0.781455,400 0.781455,430 0.781455,431 0.781455,437 0.781455,445 0.781455,446 0.781455,451 0.781455,454 0.781455,466 0.781455,468 0.781455,476 0.781455,522 1.920479,523 5.985423,524 4.278014,525 0.436121,526 0.936285,527 0.127616,528 0.068861,529 0.069657,530 0.075906,531 0.057567,532 65.13124,533 4.470109,534 1.324674,535 0.87414,536 0.823715,537 0.889938,538 0.064207,539 52.25584,540 5.876013,541 375.5585,542 1.06371,543 0.029683,544 0.108141,545 0.333785,546 0.000353,547 0.005518,548 3962.941,549 1.060194,551 0.816245,552 0.091218,554 0.150089,555 0.003502,556 351.6424,557 142079.4,558 4.646093,559 -0.462658,560 3.407713,561 334,562 4.102172,563 0.412986,564 3.666485,565 1815,566 -0.000014,567 -4.713789,568 -0.000006,569 4.907059,570 -0.006076,571 0.12829,572 0.000001,573 -0.697151}
+{166 3.623456,331 3.623456,522 -0.413263,523 5.764719,524 2.354835,525 0.458515,526 0.858826,527 0.103132,528 0.058234,529 0.064776,530 0.069773,531 0.061783,532 81.13039,533 5.838467,534 1.539977,535 0.535577,536 1.058725,537 0.888663,538 0.100332,539 53.48871,540 4.774079,541 129.9595,542 0.167844,543 0.008219,544 0.015492,545 0.253915,546 0.000151,547 0.013851,548 4547.586,549 0.603716,551 0.98269,552 0.144211,554 0.017022,555 0.00252,556 1056.436,557 343605,558 -3.418177,559 -0.629469,560 3.558726,561 2281,562 3.107625,563 -0.091454,564 3.129437,565 2381,566 0.000026,567 -3.795442,568 0.000007,569 3.59534,570 0.009368,571 -0.243951,572 -0.000003,573 -0.452347}
+{84 1.175604,116 1.175604,117 1.175604,147 1.175604,151 1.175604,152 1.175604,164 1.175604,174 1.175604,274 1.175604,331 1.175604,341 1.175604,353 1.175604,354 1.175604,355 1.175604,409 1.175604,466 1.175604,489 1.175604,497 1.175604,511 1.175604,522 -0.397152,523 6.545483,524 3.503107,525 0.577375,526 0.908007,527 0.200764,528 0.07585,529 0.080112,530 0.114847,531 0.125288,532 79.26081,533 4.714777,534 1.335194,535 0.535682,536 0.526973,537 0.86126,538 0.056377,539 42.2728,540 5.684477,541 1027.608,542 3.530761,543 0.045154,544 0.045336,545 0.047948,546 0.000455,547 0.004636,548 2030.615,549 0.881182,551 0.82024,552 0.107011,554 0.147545,555 0.004835,556 668.6769,557 124994.3,558 -11.20472,559 -0.41757,560 2.971562,561 2428,562 2.99824,563 0.082016,564 2.600001,565 2885,566 0.000003,567 -4.174946,569 3.870852,570 -0.000056,571 0.099064,572 0.000004,573 -0.029816}
+{4 0.968409,5 0.968409,6 0.968409,39 0.968409,44 0.968409,45 0.968409,62 0.968409,115 0.968409,148 0.968409,165 0.968409,166 0.968409,199 0.968409,206 0.968409,274 0.968409,313 0.968409,344 0.968409,377 0.968409,422 0.968409,466 0.968409,467 0.968409,482 0.968409,483 0.968409,484 0.968409,499 0.968409,513 0.968409,515 0.968409,519 0.968409,520 0.968409,522 -0.110529,523 6.388481,524 3.428899,525 0.41007,526 0.679433,527 0.104399,528 0.064601,529 0.064986,530 0.059352,531 0.054765,532 83.94033,533 5.689605,534 1.468593,535 0.661194,536 1.174467,537 0.897619,538 0.114773,539 54.57651,540 5.382962,541 393.1897,542 1.990806,543 0.037852,544 0.047985,545 0.280312,546 0.00013,547 0.014196,548 4045.616,549 0.746514,551 0.972703,552 0.108007,554 0.02657,555 0.002502,556 687.0414,557 257269,558 -1.644415,559 0.254302,560 2.326515,561 71,562 2.949007,563 0.090766,564 3.369784,565 111,566 0.000011,567 -5.104131,568 0.000003,569 3.557321,570 -0.001839,571 0.002137,572 -0.000001,573 0.746136}
+{39 1.47927,45 1.47927,62 1.47927,175 1.47927,211 1.47927,323 1.47927,376 1.47927,468 1.47927,469 1.47927,475 1.47927,477 1.47927,484 1.47927,522 0.199817,523 6.930113,524 3.300681,525 0.487233,526 0.766875,527 0.129397,528 0.074994,529 0.077927,530 0.075688,531 0.083045,532 69.35553,533 4.292406,534 1.274491,535 0.722523,536 0.818264,537 0.889922,538 0.060766,539 34.50455,540 6.040276,541 172.9523,542 0.771502,543 0.021508,544 0.078874,545 0.154158,546 0.000289,547 0.005994,548 1133.916,549 0.808681,551 0.948069,552 0.12664,554 0.049267,555 0.002953,556 441.5782,557 42996.93,558 -5.0002,559 0.769373,560 3.730903,561 2732,562 2.887183,563 0.42661,564 3.107812,565 2883,566 -0.000003,567 -3.339147,568 -0.000004,569 4.456702,570 -0.002592,571 0.291805,572 0.000008,573 -0.19203}
+{12 0.763892,25 0.763892,31 0.763892,34 0.763892,35 0.763892,39 0.763892,98 0.763892,116 0.763892,117 0.763892,131 0.763892,148 0.763892,153 0.763892,185 0.763892,186 0.763892,188 0.763892,189 0.763892,195 0.763892,196 0.763892,199 0.763892,204 0.763892,211 0.763892,224 0.763892,247 0.763892,248 0.763892,253 0.763892,264 0.763892,279 0.763892,290 0.763892,304 0.763892,314 0.763892,316 0.763892,324 0.763892,336 0.763892,337 0.763892,348 0.763892,369 0.763892,377 0.763892,384 0.763892,409 0.763892,419 0.763892,420 0.763892,452 0.763892,466 0.763892,479 0.763892,484 0.763892,522 -0.619199,523 5.907561,524 2.80601,525 0.508029,526 0.78324,527 0.118208,528 0.070372,529 0.06618,530 0.061867,531 0.033594,532 96.91132,533 6.372011,534 1.547191,535 0.561277,536 1.185465,537 0.893295,538 0.092637,539 44.15475,540 5.22884,541 388.1315,542 1.176356,543 0.018766,544 0.02468,545 0.12293,546 0.000166,547 0.010084,548 2949.16,549 0.463364,551 0.980027,552 0.124271,554 0.019587,555 0.002757,556 1016.725,557 192355.3,558 -6.097003,559 -0.105892,560 2.422077,561 1072,562 2.644611,563 -0.215021,564 2.885387,565 852,566 -0.000001,567 -2.881698,568 0.000001,569 3.217345,570 0.002028,571 -0.062374,572 -0.000004,573 0.256469,574 notjazzy}
+{31 1.281085,34 1.281085,39 1.281085,110 1.281085,179 1.281085,193 1.281085,211 1.281085,224 1.281085,230 1.281085,316 1.281085,326 1.281085,347 1.281085,377 1.281085,378 1.281085,452 1.281085,463 1.281085,522 -0.310468,523 5.92415,524 4.862696,525 0.459749,526 0.84448,527 0.169613,528 0.104237,529 0.100632,530 0.066215,531 0.047674,532 62.79319,533 4.586298,534 1.396702,535 0.904676,536 0.932193,537 0.894943,538 0.058764,539 14.96793,540 5.231251,541 336.8017,542 0.852421,543 0.022655,544 0.135163,545 0.339992,546 0.00025,547 0.012619,548 480.7814,549 1.310367,551 0.767643,552 0.097133,554 0.178486,555 0.004888,556 496.1106,557 327341.6,558 -5.043816,559 -0.949196,560 5.131385,561 1043,562 3.31,563 -0.081072,564 3.631441,565 691,566 -0.000008,567 -5.231574,568 0.000004,569 5.587341,570 0.011202,571 -0.116259,572 0.000011,573 -0.336651,574 notjazzy}
+{0 0.878817,1 0.878817,2 0.878817,3 0.878817,41 0.878817,49 0.878817,95 0.878817,116 0.878817,117 0.878817,119 0.878817,149 0.878817,150 0.878817,153 0.878817,188 0.878817,189 0.878817,205 0.878817,206 0.878817,211 0.878817,224 0.878817,264 0.878817,265 0.878817,294 0.878817,304 0.878817,333 0.878817,400 0.878817,403 0.878817,444 0.878817,447 0.878817,471 0.878817,486 0.878817,487 0.878817,488 0.878817,489 0.878817,499 0.878817,522 2.307057,523 4.825183,524 5.05597,525 0.40047,526 0.779992,527 0.114518,528 0.067069,529 0.070148,530 0.083867,531 0.064279,532 51.76452,533 3.989058,534 1.297576,535 1.018827,536 0.600252,537 0.880362,538 0.068099,539 33.43679,540 5.362283,541 503.0958,542 1.719699,543 0.043033,544 0.2855,545 0.323089,546 0.000449,547 0.007876,548 1426.887,549 1.698128,551 0.861518,552 0.091195,554 0.119384,555 0.003127,556 317.1322,557 94984.14,558 7.174468,559 -0.837234,560 4.447561,561 1172,562 2.801357,563 -0.490931,564 3.705108,565 944,567 -3.719505,568 -0.000004,569 5.128428,570 -0.01287,571 0.116729,572 0.000007,573 0.278609,574 notjazzy}
+{0 0.820551,1 0.820551,66 0.820551,85 0.820551,86 0.820551,87 0.820551,88 0.820551,89 0.820551,105 0.820551,106 0.820551,120 0.820551,139 0.820551,153 0.820551,154 0.820551,155 0.820551,193 0.820551,194 0.820551,206 0.820551,209 0.820551,222 0.820551,231 0.820551,232 0.820551,233 0.820551,234 0.820551,235 0.820551,272 0.820551,298 0.820551,299 0.820551,304 0.820551,355 0.820551,409 0.820551,448 0.820551,449 0.820551,471 0.820551,499 0.820551,500 0.820551,505 0.820551,516 0.820551,517 0.820551,522 0.775202,523 5.798727,524 2.649229,525 0.483688,526 0.902472,527 0.10364,528 0.070415,529 0.066963,530 0.068862,531 0.032404,532 93.45463,533 5.991272,534 1.485387,535 0.667035,536 1.454324,537 0.903073,538 0.061407,539 19.76825,540 5.64449,541 200.1191,542 0.632476,543 0.011873,544 0.030287,545 0.533006,546 0.000145,547 0.006762,548 561.8241,549 0.555626,551 0.900133,552 0.127894,554 0.089953,555 0.004894,556 717.5693,557 154503,558 -1.696051,559 -0.707246,560 3.492435,561 1945,562 3.328796,563 0.309218,564 3.497963,565 2319,566 -0.000003,567 -3.986724,568 0.000005,569 4.331975,570 0.010916,571 0.159722,572 -0.000005,573 0.463672,574 notjazzy}
+{49 1.092513,53 1.092513,54 1.092513,55 1.092513,56 1.092513,76 1.092513,79 1.092513,80 1.092513,82 1.092513,83 1.092513,116 1.092513,117 1.092513,118 1.092513,138 1.092513,228 1.092513,229 1.092513,295 1.092513,296 1.092513,297 1.092513,394 1.092513,395 1.092513,485 1.092513,522 -0.36915,523 5.80019,524 2.069749,525 0.381241,526 0.551793,527 0.10892,528 0.081029,529 0.071776,530 0.06159,531 0.043693,532 86.48917,533 5.178074,534 1.364704,535 0.652828,536 1.376088,537 0.901192,538 0.151147,539 96.6728,540 6.030396,541 70.64239,542 0.314863,543 0.006619,544 0.019052,545 0.124978,546 0.00008,547 0.018079,548 10263.09,549 0.213035,551 0.964714,552 0.140085,554 0.034064,555 0.002363,556 573.112,557 36859.33,558 -3.842684,559 0.106545,560 2.854267,561 1873,562 2.647996,563 0.213191,564 2.888226,565 1187,566 -0.000002,567 -2.452467,568 -0.000003,569 3.135337,570 -0.001441,571 0.129598,572 0.000003,573 0.04827,574 notjazzy}
+{14 0.968409,34 0.968409,79 0.968409,81 0.968409,116 0.968409,117 0.968409,131 0.968409,138 0.968409,146 0.968409,205 0.968409,240 0.968409,242 0.968409,264 0.968409,272 0.968409,279 0.968409,318 0.968409,320 0.968409,349 0.968409,390 0.968409,401 0.968409,402 0.968409,408 0.968409,484 0.968409,486 0.968409,487 0.968409,493 0.968409,497 0.968409,505 0.968409,522 0.705233,523 6.215845,524 3.952994,525 0.471203,526 0.836828,527 0.120267,528 0.077568,529 0.072833,530 0.061827,531 0.044086,532 55.34539,533 3.938178,534 1.322379,535 0.713913,536 0.429563,537 0.884163,538 0.066392,539 24.13971,540 5.105354,541 319.4293,542 0.706017,543 0.027501,544 0.0508,545 0.08231,546 0.000193,547 0.010967,548 712.5911,549 1.388688,551 0.891478,552 0.128656,554 0.096809,555 0.002695,556 553.2341,557 501689.5,558 -2.047504,559 0.55953,560 4.940887,561 2088,562 3.107666,563 0.205848,564 2.976255,565 982,566 -0.000001,567 -6.64814,568 -0.000001,569 4.450212,570 0.006227,571 0.10074,572 -0.000003,573 -0.50991,574 notjazzy}
+{14 0.595693,18 0.595693,19 0.595693,26 0.595693,35 0.595693,39 0.595693,49 0.595693,68 0.595693,69 0.595693,95 0.595693,116 0.595693,117 0.595693,125 0.595693,131 0.595693,137 0.595693,144 0.595693,148 0.595693,160 0.595693,161 0.595693,173 0.595693,180 0.595693,185 0.595693,186 0.595693,187 0.595693,188 0.595693,193 0.595693,199 0.595693,204 0.595693,211 0.595693,216 0.595693,219 0.595693,224 0.595693,231 0.595693,233 0.595693,241 0.595693,246 0.595693,247 0.595693,249 0.595693,254 0.595693,255 0.595693,264 0.595693,289 0.595693,291 0.595693,316 0.595693,317 0.595693,323 0.595693,326 0.595693,327 0.595693,341 0.595693,344 0.595693,372 0.595693,384 0.595693,403 0.595693,417 0.595693,445 0.595693,446 0.595693,447 0.595693,450 0.595693,451 0.595693,452 0.595693,456 0.595693,466 0.595693,467 0.595693,470 0.595693,478 0.595693,479 0.595693,482 0.595693,483 0.595693,486 0.595693,491 0.595693,492 0.595693,509 0.595693,510 0.595693,513 0.595693,522 0.992871,523 6.136737,524 4.676874,525 0.47987,526 1.05235,527 0.139008,528 0.079078,529 0.071921,530 0.087551,531 0.08288,532 65.35186,533 4.15669,534 1.263663,535 0.849902,536 0.8427,537 0.893843,538 0.047408,539 21.97851,540 6.114048,541 287.255,542 0.739996,543 0.016305,544 0.09876,545 0.233099,546 0.000205,547 0.005223,548 998.6509,549 0.882444,551 0.81225,552 0.11036,554 0.152601,555 0.004558,556 345.7262,557 36792.39,558 2.446285,559 0.287572,560 3.579068,561 841,562 3.248742,563 -0.173853,564 3.118766,565 1710,566 0.000001,567 -4.922458,568 -0.000002,569 5.59575,570 -0.007258,571 0.026671,572 -0.000002,573 0.013595,574 notjazzy}
+{34 0.968409,39 0.968409,61 0.968409,68 0.968409,84 0.968409,108 0.968409,116 0.968409,117 0.968409,156 0.968409,167 0.968409,184 0.968409,190 0.968409,191 0.968409,193 0.968409,199 0.968409,204 0.968409,206 0.968409,230 0.968409,242 0.968409,326 0.968409,374 0.968409,384 0.968409,408 0.968409,415 0.968409,416 0.968409,434 0.968409,466 0.968409,477 0.968409,522 -0.491048,523 5.904505,524 3.083358,525 0.46148,526 0.799575,527 0.113017,528 0.076302,529 0.076128,530 0.065858,531 0.037411,532 90.77695,533 5.969514,534 1.503183,535 0.564389,536 1.233892,537 0.898451,538 0.103341,539 50.13089,540 5.390502,541 400.1663,542 1.022237,543 0.016533,544 0.02462,545 0.41221,546 0.000185,547 0.014337,548 4011.944,549 0.910102,551 0.947404,552 0.112516,554 0.049863,555 0.002833,556 754.8105,557 266566.1,558 -3.954368,559 0.43407,560 5.981363,561 2210,562 2.584547,563 -0.028557,564 2.900878,565 234,566 -0.000011,567 -3.589131,568 0.000003,569 4.794175,570 -0.00982,571 -0.036219,572 -0.000003,573 -0.097989,574 notjazzy}
+{34 0.968409,39 0.968409,61 0.968409,68 0.968409,84 0.968409,108 0.968409,116 0.968409,117 0.968409,156 0.968409,167 0.968409,184 0.968409,190 0.968409,191 0.968409,193 0.968409,199 0.968409,204 0.968409,206 0.968409,230 0.968409,242 0.968409,326 0.968409,374 0.968409,384 0.968409,408 0.968409,415 0.968409,416 0.968409,434 0.968409,466 0.968409,477 0.968409,522 -0.491048,523 5.904505,524 3.083358,525 0.46148,526 0.799575,527 0.113017,528 0.076302,529 0.076128,530 0.065858,531 0.037411,532 90.77695,533 5.969514,534 1.503183,535 0.564389,536 1.233892,537 0.898451,538 0.103341,539 50.13089,540 5.390502,541 400.1663,542 1.022237,543 0.016533,544 0.02462,545 0.41221,546 0.000185,547 0.014337,548 4011.944,549 0.910102,551 0.947404,552 0.112516,554 0.049863,555 0.002833,556 754.8105,557 266566.1,558 -3.954368,559 0.43407,560 5.981363,561 2210,562 2.584547,563 -0.028557,564 2.900878,565 234,566 -0.000011,567 -3.589131,568 0.000003,569 4.794175,570 -0.00982,571 -0.036219,572 -0.000003,573 -0.097989,574 notjazzy}
+{42 0.866172,43 0.866172,74 0.866172,110 0.866172,111 0.866172,112 0.866172,113 0.866172,114 0.866172,127 0.866172,128 0.866172,139 0.866172,140 0.866172,161 0.866172,182 0.866172,183 0.866172,191 0.866172,195 0.866172,197 0.866172,199 0.866172,206 0.866172,207 0.866172,208 0.866172,242 0.866172,243 0.866172,247 0.866172,249 0.866172,250 0.866172,294 0.866172,434 0.866172,445 0.866172,451 0.866172,501 0.866172,502 0.866172,503 0.866172,504 0.866172,522 0.363504,523 7.148652,524 3.236902,525 0.467205,526 0.75172,527 0.134982,528 0.083478,529 0.087308,530 0.0632,531 0.051659,532 67.73019,533 4.460188,534 1.357732,535 0.688877,536 0.586157,537 0.885763,538 0.08674,539 62.36436,540 5.408779,541 204.5858,542 0.758156,543 0.024534,544 0.033899,545 0.055958,546 0.000199,547 0.0069,548 3284.328,549 0.923805,551 0.796937,552 0.124581,554 0.161936,555 0.004653,556 630.7932,557 331120.6,558 -5.597293,559 0.450072,560 3.531836,561 5,562 2.802546,563 -0.038875,564 3.07596,565 425,566 0.00001,567 -3.287717,568 0.000005,569 4.927236,570 -0.001904,571 -0.138278,572 -0.000002,573 -0.313453,574 notjazzy}
+{42 0.866172,43 0.866172,74 0.866172,110 0.866172,111 0.866172,112 0.866172,113 0.866172,114 0.866172,127 0.866172,128 0.866172,139 0.866172,140 0.866172,161 0.866172,182 0.866172,183 0.866172,191 0.866172,195 0.866172,197 0.866172,199 0.866172,206 0.866172,207 0.866172,208 0.866172,242 0.866172,243 0.866172,247 0.866172,249 0.866172,250 0.866172,294 0.866172,434 0.866172,445 0.866172,451 0.866172,501 0.866172,502 0.866172,503 0.866172,504 0.866172,522 0.363504,523 7.148652,524 3.236902,525 0.467205,526 0.75172,527 0.134982,528 0.083478,529 0.087308,530 0.0632,531 0.051659,532 67.73019,533 4.460188,534 1.357732,535 0.688877,536 0.586157,537 0.885763,538 0.08674,539 62.36436,540 5.408779,541 204.5858,542 0.758156,543 0.024534,544 0.033899,545 0.055958,546 0.000199,547 0.0069,548 3284.328,549 0.923805,551 0.796937,552 0.124581,554 0.161936,555 0.004653,556 630.7932,557 331120.6,558 -5.597293,559 0.450072,560 3.531836,561 5,562 2.802546,563 -0.038875,564 3.07596,565 425,566 0.00001,567 -3.287717,568 0.000005,569 4.927236,570 -0.001904,571 -0.138278,572 -0.000002,573 -0.313453,574 notjazzy}
+{8 1.281085,90 1.281085,206 1.281085,207 1.281085,209 1.281085,237 1.281085,246 1.281085,274 1.281085,277 1.281085,318 1.281085,326 1.281085,369 1.281085,376 1.281085,477 1.281085,482 1.281085,483 1.281085,522 -1.330406,523 6.364204,524 3.930524,525 0.487382,526 0.877959,527 0.110272,528 0.072686,529 0.073592,530 0.066999,531 0.043873,532 76.04378,533 5.081059,534 1.421614,535 0.635584,536 0.916192,537 0.895956,538 0.059229,539 15.54126,540 5.212549,541 191.069,542 0.52561,543 0.011527,544 0.026491,545 0.190964,546 0.000139,547 0.010108,548 459.4359,549 0.419894,551 0.870839,552 0.120417,554 0.112554,555 0.004095,556 740.4802,557 221418.3,558 -4.655708,559 0.634466,560 3.289158,561 1684,562 3.282468,563 -0.393078,564 3.675615,565 977,566 0.000004,567 -4.591418,568 0.000005,569 6.779716,570 0.006176,571 0.036171,572 0.000004,573 -0.649248,574 notjazzy}
+{95 2.291675,247 2.291675,251 2.291675,469 2.291675,508 2.291675,522 0.00361,523 7.037606,524 2.86779,525 0.435679,526 0.7331,527 0.140105,528 0.086555,529 0.084525,530 0.051788,531 0.039039,532 86.65456,533 5.823932,534 1.50014,535 0.570868,536 1.117096,537 0.903362,538 0.179048,539 134.4754,540 5.265652,541 152.6599,542 0.384048,543 0.01067,544 0.014182,545 0.308257,546 0.000114,547 0.019914,548 18488.68,549 0.540236,551 0.756325,552 0.102984,554 0.18442,555 0.005165,556 833.7963,557 301631.8,558 -0.71524,559 -0.365057,560 3.029593,561 1937,562 3.722619,563 0.339116,564 2.988593,565 671,566 -0.000005,567 -2.995712,568 -0.000003,569 4.648919,570 -0.005409,571 -0.102503,572 0.000003,573 -0.509204,574 notjazzy}
+{95 2.291675,247 2.291675,251 2.291675,469 2.291675,508 2.291675,522 0.00361,523 7.037606,524 2.86779,525 0.435679,526 0.7331,527 0.140105,528 0.086555,529 0.084525,530 0.051788,531 0.039039,532 86.65456,533 5.823932,534 1.50014,535 0.570868,536 1.117096,537 0.903362,538 0.179048,539 134.4754,540 5.265652,541 152.6599,542 0.384048,543 0.01067,544 0.014182,545 0.308257,546 0.000114,547 0.019914,548 18488.68,549 0.540236,551 0.756325,552 0.102984,554 0.18442,555 0.005165,556 833.7963,557 301631.8,558 -0.71524,559 -0.365057,560 3.029593,561 1937,562 3.722619,563 0.339116,564 2.988593,565 671,566 -0.000005,567 -2.995712,568 -0.000003,569 4.648919,570 -0.005409,571 -0.102503,572 0.000003,573 -0.509204,574 notjazzy}
+{32 2.291675,315 2.291675,335 2.291675,404 2.291675,405 2.291675,522 0.694084,523 6.425488,524 3.122766,525 0.40733,526 0.681407,527 0.132531,528 0.075094,529 0.087778,530 0.068142,531 0.039264,532 74.92481,533 4.898048,534 1.363813,535 0.673835,536 0.927552,537 0.90106,538 0.11154,539 91.45646,540 5.811602,541 189.4968,542 0.971822,543 0.024873,544 0.044816,545 0.146364,546 0.000086,547 0.007189,548 5794.494,549 0.667146,551 0.766977,552 0.109806,554 0.178842,555 0.00547,556 442.5963,557 149866.9,558 -0.272589,559 0.141955,560 3.3054,561 487,562 2.617434,563 -0.115903,564 3.350651,565 1697,566 0.000004,567 -2.894082,569 3.497173,570 -0.005174,571 -0.125553,572 0.000004,573 -0.297247,574 notjazzy}
+{34 0.920359,98 0.920359,125 0.920359,129 0.920359,130 0.920359,175 0.920359,176 0.920359,177 0.920359,192 0.920359,195 0.920359,211 0.920359,212 0.920359,214 0.920359,218 0.920359,247 0.920359,251 0.920359,254 0.920359,257 0.920359,258 0.920359,259 0.920359,260 0.920359,264 0.920359,266 0.920359,279 0.920359,281 0.920359,287 0.920359,334 0.920359,403 0.920359,410 0.920359,414 0.920359,475 0.920359,522 -0.637377,523 6.043386,524 4.369531,525 0.419261,526 0.728883,527 0.133384,528 0.073827,529 0.071754,530 0.088121,531 0.057961,532 72.37757,533 6.124872,534 1.68917,535 0.524445,536 0.847764,537 0.888046,538 0.069038,539 16.89071,540 4.003211,541 463.9287,542 1.816901,543 0.047511,544 0.016456,545 0.612431,546 0.000371,547 0.013553,548 522.1224,549 1.125897,551 0.788282,552 0.096244,554 0.167005,555 0.004606,556 1599.696,557 1815577,558 -4.386868,559 0.036316,560 3.029082,561 2173,562 2.455632,563 -0.189051,564 3.249713,565 1077,566 -0.000004,567 -3.82564,568 -0.000002,569 5.361983,570 0.005724,571 0.086919,572 -0.000007,573 -0.396451,574 notjazzy}
+{34 0.920359,98 0.920359,125 0.920359,129 0.920359,130 0.920359,175 0.920359,176 0.920359,177 0.920359,192 0.920359,195 0.920359,211 0.920359,212 0.920359,214 0.920359,218 0.920359,247 0.920359,251 0.920359,254 0.920359,257 0.920359,258 0.920359,259 0.920359,260 0.920359,264 0.920359,266 0.920359,279 0.920359,281 0.920359,287 0.920359,334 0.920359,403 0.920359,410 0.920359,414 0.920359,475 0.920359,522 -0.637377,523 6.043386,524 4.369531,525 0.419261,526 0.728883,527 0.133384,528 0.073827,529 0.071754,530 0.088121,531 0.057961,532 72.37757,533 6.124872,534 1.68917,535 0.524445,536 0.847764,537 0.888046,538 0.069038,539 16.89071,540 4.003211,541 463.9287,542 1.816901,543 0.047511,544 0.016456,545 0.612431,546 0.000371,547 0.013553,548 522.1224,549 1.125897,551 0.788282,552 0.096244,554 0.167005,555 0.004606,556 1599.696,557 1815577,558 -4.386868,559 0.036316,560 3.029082,561 2173,562 2.455632,563 -0.189051,564 3.249713,565 1077,566 -0.000004,567 -3.82564,568 -0.000002,569 5.361983,570 0.005724,571 0.086919,572 -0.000007,573 -0.396451,574 notjazzy}
+{27 1.811728,96 1.811728,116 1.811728,117 1.811728,211 1.811728,378 1.811728,398 1.811728,431 1.811728,522 -1.75124,523 8.979217,524 2.472647,525 0.476946,526 0.822436,527 0.16429,528 0.076207,529 0.070359,530 0.074721,531 0.178124,532 64.21316,533 4.201738,534 1.297793,535 0.584468,536 0.606354,537 0.889071,538 0.259485,539 194.6522,540 5.47068,541 132.9548,542 1.143729,543 0.034598,544 0.072378,545 0.1997,546 0.00018,547 0.033205,548 28798.79,549 0.840753,551 0.848868,552 0.07893,554 0.128377,555 0.003039,556 590.5922,557 213853.9,558 -10.30414,559 1.190971,560 4.925101,561 1191,562 4.030111,563 0.200501,564 3.095067,565 1890,566 -0.000015,567 -3.724084,568 0.000003,569 4.573733,570 0.001796,571 -0.003315,572 0.000002,573 -0.155683,574 notjazzy}
+{34 0.905864,40 0.905864,41 0.905864,45 0.905864,68 0.905864,70 0.905864,84 0.905864,97 0.905864,102 0.905864,105 0.905864,116 0.905864,117 0.905864,166 0.905864,204 0.905864,205 0.905864,208 0.905864,219 0.905864,241 0.905864,247 0.905864,320 0.905864,331 0.905864,341 0.905864,343 0.905864,375 0.905864,386 0.905864,434 0.905864,452 0.905864,463 0.905864,466 0.905864,468 0.905864,470 0.905864,477 0.905864,522 0.777338,523 5.799752,524 2.42137,525 0.389907,526 0.80454,527 0.112026,528 0.072681,529 0.069506,530 0.074951,531 0.05255,532 84.60171,533 5.876019,534 1.515703,535 0.592196,536 1.129026,537 0.901034,538 0.104146,539 72.52674,540 5.261323,541 152.4883,542 0.579594,543 0.015169,544 0.020828,545 0.194326,546 0.000072,547 0.010039,548 4353.963,549 0.401306,551 0.896139,552 0.103238,554 0.093136,555 0.003568,556 728.8981,557 167857.2,558 -1.003475,559 0.022558,560 3.743844,561 2266,562 3.045564,563 -0.135855,564 3.081379,565 2410,566 -0.000005,567 -3.392648,568 -0.000004,569 4.321711,570 -0.009674,571 0.136951,572 0.000002,573 0.490237,574 notjazzy}
+{23 0.555813,24 0.555813,29 0.555813,30 0.555813,34 0.555813,40 0.555813,59 0.555813,60 0.555813,63 0.555813,64 0.555813,65 0.555813,98 0.555813,99 0.555813,100 0.555813,101 0.555813,102 0.555813,103 0.555813,104 0.555813,105 0.555813,106 0.555813,107 0.555813,130 0.555813,143 0.555813,162 0.555813,163 0.555813,165 0.555813,166 0.555813,167 0.555813,180 0.555813,199 0.555813,200 0.555813,206 0.555813,210 0.555813,211 0.555813,212 0.555813,213 0.555813,215 0.555813,216 0.555813,217 0.555813,224 0.555813,237 0.555813,238 0.555813,239 0.555813,268 0.555813,269 0.555813,279 0.555813,281 0.555813,291 0.555813,292 0.555813,293 0.555813,307 0.555813,308 0.555813,309 0.555813,310 0.555813,318 0.555813,319 0.555813,329 0.555813,330 0.555813,366 0.555813,367 0.555813,368 0.555813,375 0.555813,377 0.555813,381 0.555813,382 0.555813,383 0.555813,410 0.555813,411 0.555813,412 0.555813,417 0.555813,418 0.555813,423 0.555813,424 0.555813,425 0.555813,426 0.555813,435 0.555813,436 0.555813,439 0.555813,440 0.555813,457 0.555813,458 0.555813,459 0.555813,506 0.555813,507 0.555813,518 0.555813,522 -0.51674,523 8.042478,524 2.368073,525 0.475752,526 0.816654,527 0.129006,528 0.076687,529 0.070462,530 0.096723,531 0.049893,532 78.05248,533 5.364002,534 1.472095,535 0.524865,536 0.787024,537 0.887452,538 0.061588,539 42.70353,540 5.029482,541 382.8465,542 1.28264,543 0.024166,544 0.046676,545 0.202295,546 0.000264,547 0.004816,548 2206.586,549 0.783191,551 0.817577,552 0.116924,554 0.149245,555 0.005191,556 842.9282,557 289864.6,558 -7.228828,559 0.397519,560 3.131262,561 2149,562 2.651528,563 0.033189,564 3.952224,565 1300,566 -0.000014,567 -2.612275,568 0.000002,569 4.21134,570 0.012324,571 0.01572,572 0.000004,573 0.160004,574 notjazzy}
+{23 0.555813,24 0.555813,29 0.555813,30 0.555813,34 0.555813,40 0.555813,59 0.555813,60 0.555813,63 0.555813,64 0.555813,65 0.555813,98 0.555813,99 0.555813,100 0.555813,101 0.555813,102 0.555813,103 0.555813,104 0.555813,105 0.555813,106 0.555813,107 0.555813,130 0.555813,143 0.555813,162 0.555813,163 0.555813,165 0.555813,166 0.555813,167 0.555813,180 0.555813,199 0.555813,200 0.555813,206 0.555813,210 0.555813,211 0.555813,212 0.555813,213 0.555813,215 0.555813,216 0.555813,217 0.555813,224 0.555813,237 0.555813,238 0.555813,239 0.555813,268 0.555813,269 0.555813,279 0.555813,281 0.555813,291 0.555813,292 0.555813,293 0.555813,307 0.555813,308 0.555813,309 0.555813,310 0.555813,318 0.555813,319 0.555813,329 0.555813,330 0.555813,366 0.555813,367 0.555813,368 0.555813,375 0.555813,377 0.555813,381 0.555813,382 0.555813,383 0.555813,410 0.555813,411 0.555813,412 0.555813,417 0.555813,418 0.555813,423 0.555813,424 0.555813,425 0.555813,426 0.555813,435 0.555813,436 0.555813,439 0.555813,440 0.555813,457 0.555813,458 0.555813,459 0.555813,506 0.555813,507 0.555813,518 0.555813,522 -0.51674,523 8.042478,524 2.368073,525 0.475752,526 0.816654,527 0.129006,528 0.076687,529 0.070462,530 0.096723,531 0.049893,532 78.05248,533 5.364002,534 1.472095,535 0.524865,536 0.787024,537 0.887452,538 0.061588,539 42.70353,540 5.029482,541 382.8465,542 1.28264,543 0.024166,544 0.046676,545 0.202295,546 0.000264,547 0.004816,548 2206.586,549 0.783191,551 0.817577,552 0.116924,554 0.149245,555 0.005191,556 842.9282,557 289864.6,558 -7.228828,559 0.397519,560 3.131262,561 2149,562 2.651528,563 0.033189,564 3.952224,565 1300,566 -0.000014,567 -2.612275,568 0.000002,569 4.21134,570 0.012324,571 0.01572,572 0.000004,573 0.160004,574 notjazzy}
+{23 0.555813,24 0.555813,29 0.555813,30 0.555813,34 0.555813,40 0.555813,59 0.555813,60 0.555813,63 0.555813,64 0.555813,65 0.555813,98 0.555813,99 0.555813,100 0.555813,101 0.555813,102 0.555813,103 0.555813,104 0.555813,105 0.555813,106 0.555813,107 0.555813,130 0.555813,143 0.555813,162 0.555813,163 0.555813,165 0.555813,166 0.555813,167 0.555813,180 0.555813,199 0.555813,200 0.555813,206 0.555813,210 0.555813,211 0.555813,212 0.555813,213 0.555813,215 0.555813,216 0.555813,217 0.555813,224 0.555813,237 0.555813,238 0.555813,239 0.555813,268 0.555813,269 0.555813,279 0.555813,281 0.555813,291 0.555813,292 0.555813,293 0.555813,307 0.555813,308 0.555813,309 0.555813,310 0.555813,318 0.555813,319 0.555813,329 0.555813,330 0.555813,366 0.555813,367 0.555813,368 0.555813,375 0.555813,377 0.555813,381 0.555813,382 0.555813,383 0.555813,410 0.555813,411 0.555813,412 0.555813,417 0.555813,418 0.555813,423 0.555813,424 0.555813,425 0.555813,426 0.555813,435 0.555813,436 0.555813,439 0.555813,440 0.555813,457 0.555813,458 0.555813,459 0.555813,506 0.555813,507 0.555813,518 0.555813,522 -0.51674,523 8.042478,524 2.368073,525 0.475752,526 0.816654,527 0.129006,528 0.076687,529 0.070462,530 0.096723,531 0.049893,532 78.05248,533 5.364002,534 1.472095,535 0.524865,536 0.787024,537 0.887452,538 0.061588,539 42.70353,540 5.029482,541 382.8465,542 1.28264,543 0.024166,544 0.046676,545 0.202295,546 0.000264,547 0.004816,548 2206.586,549 0.783191,551 0.817577,552 0.116924,554 0.149245,555 0.005191,556 842.9282,557 289864.6,558 -7.228828,559 0.397519,560 3.131262,561 2149,562 2.651528,563 0.033189,564 3.952224,565 1300,566 -0.000014,567 -2.612275,568 0.000002,569 4.21134,570 0.012324,571 0.01572,572 0.000004,573 0.160004,574 notjazzy}
+{27 2.291675,158 2.291675,211 2.291675,243 2.291675,294 2.291675,522 -0.113014,523 6.585034,524 1.459419,525 0.365988,526 0.66248,527 0.110574,528 0.059346,529 0.056846,530 0.065501,531 0.094899,532 77.80429,533 4.024121,534 1.167944,535 0.81673,536 1.36981,537 0.872514,538 0.135104,539 102.7687,540 7.477823,541 481.1593,542 0.788729,543 0.014337,544 0.067407,545 0.528224,546 0.000968,547 0.008833,548 4490.405,549 2.918893,551 0.886152,552 0.132383,554 0.100954,555 0.004503,556 347.982,557 10173.53,558 -8.822045,559 1.072666,560 3.565534,561 2593,562 4.520105,563 -0.378794,564 3.799306,565 2183,566 -0.000011,567 -3.047504,568 -0.000001,569 3.529868,570 0.01545,571 0.043243,572 -0.000013,573 -0.048595,574 notjazzy}
+{133 2.291675,199 2.291675,206 2.291675,237 2.291675,242 2.291675,522 0.691982,523 7.274146,524 3.707199,525 0.417924,526 0.749952,527 0.138048,528 0.072256,529 0.072059,530 0.107197,531 0.142951,532 62.61242,533 3.759377,534 1.206695,535 0.677861,536 0.524207,537 0.869605,538 0.063282,539 79.75022,540 6.262537,541 213.6202,542 0.657081,543 0.017741,544 0.091187,545 0.133998,546 0.000753,547 0.003182,548 6387.762,549 0.94771,551 0.688415,552 0.110636,554 0.214643,555 0.006096,556 411.5353,557 17845.65,558 -3.608697,559 0.84471,560 3.26082,561 1974,562 2.818356,563 0.367367,564 3.244519,565 700,566 -0.000004,567 -2.515542,568 -0.000012,569 5.084349,570 0.00925,571 -0.082472,572 -0.000008,573 0.822611,574 notjazzy}
+{360 3.623456,521 3.623456,522 0.919007,523 6.041073,524 2.842946,525 0.414134,526 0.796347,527 0.147476,528 0.075714,529 0.065454,530 0.093908,531 0.143233,532 57.02025,533 3.347186,534 1.141491,535 0.65412,536 0.442562,537 0.870555,538 0.114049,539 148.7198,540 6.77677,541 189.9843,542 0.562621,543 0.018209,544 0.051342,545 0.065014,546 0.000304,547 0.007761,548 9590.944,549 1.117186,551 0.659121,552 0.063695,554 0.22483,555 0.003277,556 404.5552,557 57251.79,558 -5.812531,559 0.053721,560 2.54181,561 89,562 2.607605,563 0.045668,564 2.654052,565 2203,566 -0.000007,567 -3.112445,568 0.000002,569 4.830302,570 0.009804,571 0.09373,572 0.000003,573 -1.533032,574 notjazzy}
+{7 0.878817,12 0.878817,13 0.878817,34 0.878817,41 0.878817,73 0.878817,91 0.878817,126 0.878817,142 0.878817,161 0.878817,167 0.878817,193 0.878817,199 0.878817,211 0.878817,222 0.878817,291 0.878817,316 0.878817,326 0.878817,327 0.878817,341 0.878817,346 0.878817,347 0.878817,361 0.878817,372 0.878817,403 0.878817,417 0.878817,432 0.878817,433 0.878817,438 0.878817,470 0.878817,489 0.878817,493 0.878817,497 0.878817,511 0.878817,522 -0.138577,523 6.23797,524 1.919484,525 0.453836,526 0.866534,527 0.114119,528 0.077895,529 0.074416,530 0.064403,531 0.045135,532 88.35477,533 6.165501,534 1.566753,535 0.541677,536 1.019839,537 0.901047,538 0.164232,539 70.85562,540 4.938409,541 67.89347,542 0.347775,543 0.008703,544 0.010469,545 0.138672,546 0.000074,547 0.01857,548 4154.553,549 0.195466,551 0.28229,552 0.046812,554 0.202738,555 0.005926,556 732.5132,557 80617.39,558 -2.94243,559 0.217532,560 3.628674,561 2306,562 2.778466,563 -0.102206,564 2.697363,565 641,566 -0.000002,567 -3.255299,568 -0.000001,569 3.814474,570 0.008697,571 0.103027,573 0.295813,574 notjazzy}
+{12 1.281085,32 1.281085,109 1.281085,124 1.281085,126 1.281085,315 1.281085,332 1.281085,335 1.281085,360 1.281085,363 1.281085,364 1.281085,365 1.281085,404 1.281085,405 1.281085,406 1.281085,407 1.281085,522 0.554596,523 5.721287,524 3.570577,525 0.482706,526 0.660287,527 0.203528,528 0.089011,529 0.085701,530 0.121056,531 0.285514,532 61.25741,533 3.371314,534 1.117917,535 0.732322,536 0.463141,537 0.853981,538 0.121971,539 170.6964,540 7.304286,541 746.8907,542 2.273645,543 0.07033,544 0.132639,545 0.075699,546 0.000795,547 0.013489,548 23654.32,549 3.506694,551 0.924767,552 0.108764,554 0.069619,555 0.002356,556 419.0627,557 208592.8,558 -4.812574,559 0.175868,560 3.457412,561 773,562 2.566194,563 -0.318876,564 3.115304,565 780,566 0.000002,567 -3.738525,568 -0.000012,569 5.497886,570 0.037873,571 -0.149398,572 0.000004,573 0.23943,574 notjazzy}
+{12 1.281085,32 1.281085,109 1.281085,124 1.281085,126 1.281085,315 1.281085,332 1.281085,335 1.281085,360 1.281085,363 1.281085,364 1.281085,365 1.281085,404 1.281085,405 1.281085,406 1.281085,407 1.281085,522 0.554596,523 5.721287,524 3.570577,525 0.482706,526 0.660287,527 0.203528,528 0.089011,529 0.085701,530 0.121056,531 0.285514,532 61.25741,533 3.371314,534 1.117917,535 0.732322,536 0.463141,537 0.853981,538 0.121971,539 170.6964,540 7.304286,541 746.8907,542 2.273645,543 0.07033,544 0.132639,545 0.075699,546 0.000795,547 0.013489,548 23654.32,549 3.506694,551 0.924767,552 0.108764,554 0.069619,555 0.002356,556 419.0627,557 208592.8,558 -4.812574,559 0.175868,560 3.457412,561 773,562 2.566194,563 -0.318876,564 3.115304,565 780,566 0.000002,567 -3.738525,568 -0.000012,569 5.497886,570 0.037873,571 -0.149398,572 0.000004,573 0.23943,574 notjazzy}
+{12 1.281085,32 1.281085,109 1.281085,124 1.281085,126 1.281085,315 1.281085,332 1.281085,335 1.281085,360 1.281085,363 1.281085,364 1.281085,365 1.281085,404 1.281085,405 1.281085,406 1.281085,407 1.281085,522 0.554596,523 5.721287,524 3.570577,525 0.482706,526 0.660287,527 0.203528,528 0.089011,529 0.085701,530 0.121056,531 0.285514,532 61.25741,533 3.371314,534 1.117917,535 0.732322,536 0.463141,537 0.853981,538 0.121971,539 170.6964,540 7.304286,541 746.8907,542 2.273645,543 0.07033,544 0.132639,545 0.075699,546 0.000795,547 0.013489,548 23654.32,549 3.506694,551 0.924767,552 0.108764,554 0.069619,555 0.002356,556 419.0627,557 208592.8,558 -4.812574,559 0.175868,560 3.457412,561 773,562 2.566194,563 -0.318876,564 3.115304,565 780,566 0.000002,567 -3.738525,568 -0.000012,569 5.497886,570 0.037873,571 -0.149398,572 0.000004,573 0.23943,574 notjazzy}
+{7 0.831278,20 0.831278,21 0.831278,22 0.831278,36 0.831278,37 0.831278,67 0.831278,116 0.831278,117 0.831278,120 0.831278,167 0.831278,178 0.831278,195 0.831278,198 0.831278,240 0.831278,242 0.831278,243 0.831278,247 0.831278,252 0.831278,254 0.831278,282 0.831278,283 0.831278,305 0.831278,306 0.831278,311 0.831278,312 0.831278,328 0.831278,333 0.831278,334 0.831278,374 0.831278,387 0.831278,388 0.831278,389 0.831278,409 0.831278,438 0.831278,482 0.831278,483 0.831278,509 0.831278,522 0.753521,523 6.022517,524 2.434194,525 0.455223,526 0.730414,527 0.125478,528 0.073527,529 0.074029,530 0.082341,531 0.048453,532 83.89369,533 5.627212,534 1.467258,535 0.611456,536 1.037122,537 0.896982,538 0.089528,539 48.97509,540 5.407805,541 184.8532,542 1.023543,543 0.022966,544 0.020533,545 0.147366,546 0.000166,547 0.007793,548 2434.871,549 0.487598,551 0.926099,552 0.097152,554 0.068486,555 0.003051,556 701.7576,557 322991.8,558 -1.574112,559 0.234828,560 3.840066,561 781,562 3.149863,563 -0.052347,564 3.34237,565 90,566 0.000007,567 -3.550081,568 -0.000003,569 5.833127,570 -0.006551,571 0.19153,572 0.000003,573 -0.211079,574 notjazzy}
+{7 0.831278,20 0.831278,21 0.831278,22 0.831278,36 0.831278,37 0.831278,67 0.831278,116 0.831278,117 0.831278,120 0.831278,167 0.831278,178 0.831278,195 0.831278,198 0.831278,240 0.831278,242 0.831278,243 0.831278,247 0.831278,252 0.831278,254 0.831278,282 0.831278,283 0.831278,305 0.831278,306 0.831278,311 0.831278,312 0.831278,328 0.831278,333 0.831278,334 0.831278,374 0.831278,387 0.831278,388 0.831278,389 0.831278,409 0.831278,438 0.831278,482 0.831278,483 0.831278,509 0.831278,522 -0.397619,523 6.287728,524 4.789478,525 0.524798,526 1.018011,527 0.122513,528 0.080901,529 0.084008,530 0.076983,531 0.038612,532 75.65916,533 5.613026,534 1.530552,535 0.634031,536 0.970271,537 0.891726,538 0.102335,539 22.26867,540 4.65158,541 429.6891,542 1.189926,543 0.014254,544 0.043126,545 0.342053,546 0.000189,547 0.020932,548 860.4766,549 0.368771,551 0.628495,552 0.087178,554 0.233645,555 0.005771,556 848.7159,557 295425.4,558 -3.275273,559 -0.065547,560 2.854403,561 128,562 3.375888,563 -0.150211,564 3.234952,565 1594,566 -0.000004,567 -4.281901,568 -0.000014,569 5.271092,570 -0.004639,571 0.028339,572 0.000002,573 -0.660098,574 notjazzy}
+{7 0.831278,20 0.831278,21 0.831278,22 0.831278,36 0.831278,37 0.831278,67 0.831278,116 0.831278,117 0.831278,120 0.831278,167 0.831278,178 0.831278,195 0.831278,198 0.831278,240 0.831278,242 0.831278,243 0.831278,247 0.831278,252 0.831278,254 0.831278,282 0.831278,283 0.831278,305 0.831278,306 0.831278,311 0.831278,312 0.831278,328 0.831278,333 0.831278,334 0.831278,374 0.831278,387 0.831278,388 0.831278,389 0.831278,409 0.831278,438 0.831278,482 0.831278,483 0.831278,509 0.831278,522 0.424226,523 7.425105,524 2.502251,525 0.500376,526 0.688796,527 0.148084,528 0.076442,529 0.081913,530 0.064435,531 0.068804,532 69.41359,533 3.939501,534 1.19045,535 0.525862,536 0.696922,537 0.886827,538 0.07102,539 84.52229,540 7.026138,541 91.75266,542 0.587504,543 0.017717,544 0.045404,545 0.111354,546 0.000233,547 0.003565,548 3388.85,549 0.857318,551 0.984021,552 0.093704,554 0.015734,555 0.001606,556 316.2226,557 29129.09,558 -1.244572,559 0.331622,560 3.253504,561 1236,562 2.503488,563 -0.085713,564 3.030072,565 1901,566 0.000003,567 -2.503482,568 -0.000007,569 4.349571,570 0.005974,571 -0.065338,572 0.000002,573 0.028963,574 notjazzy}
+{27 1.175604,39 1.175604,45 1.175604,49 1.175604,96 1.175604,211 1.175604,316 1.175604,328 1.175604,341 1.175604,349 1.175604,377 1.175604,391 1.175604,427 1.175604,434 1.175604,447 1.175604,452 1.175604,454 1.175604,479 1.175604,511 1.175604,522 0.424226,523 7.425105,524 2.502251,525 0.500376,526 0.688796,527 0.148084,528 0.076442,529 0.081913,530 0.064435,531 0.068804,532 69.41359,533 3.939501,534 1.19045,535 0.525862,536 0.696922,537 0.886827,538 0.07102,539 84.52229,540 7.026138,541 91.75266,542 0.587504,543 0.017717,544 0.045404,545 0.111354,546 0.000233,547 0.003565,548 3388.85,549 0.857318,551 0.984021,552 0.093704,554 0.015734,555 0.001606,556 316.2226,557 29129.09,558 -1.244572,559 0.331622,560 3.253504,561 1236,562 2.503488,563 -0.085713,564 3.030072,565 1901,566 0.000003,567 -2.503482,568 -0.000007,569 4.349571,570 0.005974,571 -0.065338,572 0.000002,573 0.028963,574 notjazzy}
+{34 0.951566,35 0.951566,46 0.951566,47 0.951566,48 0.951566,72 0.951566,75 0.951566,105 0.951566,108 0.951566,133 0.951566,134 0.951566,135 0.951566,136 0.951566,178 0.951566,184 0.951566,193 0.951566,199 0.951566,206 0.951566,243 0.951566,272 0.951566,326 0.951566,347 0.951566,359 0.951566,374 0.951566,375 0.951566,452 0.951566,482 0.951566,483 0.951566,491 0.951566,522 0.424226,523 7.425105,524 2.502251,525 0.500376,526 0.688796,527 0.148084,528 0.076442,529 0.081913,530 0.064435,531 0.068804,532 69.41359,533 3.939501,534 1.19045,535 0.525862,536 0.696922,537 0.886827,538 0.07102,539 84.52229,540 7.026138,541 91.75266,542 0.587504,543 0.017717,544 0.045404,545 0.111354,546 0.000233,547 0.003565,548 3388.85,549 0.857318,551 0.984021,552 0.093704,554 0.015734,555 0.001606,556 316.2226,557 29129.09,558 -1.244572,559 0.331622,560 3.253504,561 1236,562 2.503488,563 -0.085713,564 3.030072,565 1901,566 0.000003,567 -2.503482,568 -0.000007,569 4.349571,570 0.005974,571 -0.065338,572 0.000002,573 0.028963,574 notjazzy}
+{34 0.951566,35 0.951566,46 0.951566,47 0.951566,48 0.951566,72 0.951566,75 0.951566,105 0.951566,108 0.951566,133 0.951566,134 0.951566,135 0.951566,136 0.951566,178 0.951566,184 0.951566,193 0.951566,199 0.951566,206 0.951566,243 0.951566,272 0.951566,326 0.951566,347 0.951566,359 0.951566,374 0.951566,375 0.951566,452 0.951566,482 0.951566,483 0.951566,491 0.951566,522 -0.452295,523 6.814581,524 2.794302,525 0.506484,526 0.870187,527 0.122969,528 0.07608,529 0.075257,530 0.119384,531 0.050495,532 76.29934,533 4.960308,534 1.393443,535 0.64882,536 0.900108,537 0.892465,538 0.078962,539 34.56361,540 5.513985,541 190.388,542 0.581706,543 0.016909,544 0.065257,545 0.349919,546 0.000246,547 0.009783,548 1527.758,549 0.744573,551 0.852197,552 0.085128,554 0.126041,555 0.003462,556 706.9303,557 187035.1,558 -5.107969,559 0.479664,560 3.344364,561 2441,562 3.238051,563 0.087651,564 2.86712,565 2903,566 -0.000007,567 -4.509757,568 -0.000004,569 6.659562,570 0.00422,571 0.207137,572 0.000003,573 -1.116033,574 notjazzy}
+{34 0.951566,35 0.951566,46 0.951566,47 0.951566,48 0.951566,72 0.951566,75 0.951566,105 0.951566,108 0.951566,133 0.951566,134 0.951566,135 0.951566,136 0.951566,178 0.951566,184 0.951566,193 0.951566,199 0.951566,206 0.951566,243 0.951566,272 0.951566,326 0.951566,347 0.951566,359 0.951566,374 0.951566,375 0.951566,452 0.951566,482 0.951566,483 0.951566,491 0.951566,522 -0.076535,523 6.218931,524 2.542908,525 0.400128,526 0.733159,527 0.175008,528 0.076166,529 0.064168,530 0.071031,531 0.150933,532 63.18002,533 3.520835,534 1.148567,535 0.602024,536 0.510025,537 0.8664,538 0.072257,539 101.0439,540 6.840905,541 257.3494,542 1.384205,543 0.037868,544 0.026463,545 0.116929,546 0.000342,547 0.002331,548 3377.186,549 1.467545,551 0.736352,552 0.066899,554 0.194267,555 0.002952,556 415.737,557 60490.74,558 -6.982772,559 1.0354,560 4.261055,561 1347,562 2.981214,563 -0.012188,564 3.052006,565 1596,566 0.000005,567 -2.981675,568 -0.000011,569 4.24319,570 0.007029,571 -0.010693,572 0.000003,573 -0.384172,574 notjazzy}
+{12 0.667132,27 0.667132,34 0.667132,35 0.667132,39 0.667132,58 0.667132,68 0.667132,76 0.667132,95 0.667132,116 0.667132,117 0.667132,120 0.667132,133 0.667132,141 0.667132,144 0.667132,164 0.667132,167 0.667132,176 0.667132,177 0.667132,180 0.667132,181 0.667132,191 0.667132,192 0.667132,193 0.667132,204 0.667132,211 0.667132,219 0.667132,220 0.667132,233 0.667132,243 0.667132,274 0.667132,278 0.667132,287 0.667132,291 0.667132,314 0.667132,320 0.667132,321 0.667132,328 0.667132,338 0.667132,341 0.667132,358 0.667132,361 0.667132,385 0.667132,403 0.667132,413 0.667132,421 0.667132,434 0.667132,445 0.667132,447 0.667132,452 0.667132,463 0.667132,466 0.667132,472 0.667132,473 0.667132,479 0.667132,497 0.667132,501 0.667132,505 0.667132,511 0.667132,522 -0.076535,523 6.218931,524 2.542908,525 0.400128,526 0.733159,527 0.175008,528 0.076166,529 0.064168,530 0.071031,531 0.150933,532 63.18002,533 3.520835,534 1.148567,535 0.602024,536 0.510025,537 0.8664,538 0.072257,539 101.0439,540 6.840905,541 257.3494,542 1.384205,543 0.037868,544 0.026463,545 0.116929,546 0.000342,547 0.002331,548 3377.186,549 1.467545,551 0.736352,552 0.066899,554 0.194267,555 0.002952,556 415.737,557 60490.74,558 -6.982772,559 1.0354,560 4.261055,561 1347,562 2.981214,563 -0.012188,564 3.052006,565 1596,566 0.000005,567 -2.981675,568 -0.000011,569 4.24319,570 0.007029,571 -0.010693,572 0.000003,573 -0.384172,574 notjazzy}
+{15 0.790703,16 0.790703,17 0.790703,27 0.790703,28 0.790703,39 0.790703,57 0.790703,84 0.790703,137 0.790703,143 0.790703,145 0.790703,153 0.790703,154 0.790703,158 0.790703,165 0.790703,166 0.790703,168 0.790703,169 0.790703,170 0.790703,209 0.790703,211 0.790703,224 0.790703,277 0.790703,284 0.790703,285 0.790703,286 0.790703,320 0.790703,321 0.790703,343 0.790703,400 0.790703,403 0.790703,415 0.790703,430 0.790703,445 0.790703,460 0.790703,461 0.790703,462 0.790703,467 0.790703,482 0.790703,483 0.790703,499 0.790703,500 0.790703,522 -0.076535,523 6.218931,524 2.542908,525 0.400128,526 0.733159,527 0.175008,528 0.076166,529 0.064168,530 0.071031,531 0.150933,532 63.18002,533 3.520835,534 1.148567,535 0.602024,536 0.510025,537 0.8664,538 0.072257,539 101.0439,540 6.840905,541 257.3494,542 1.384205,543 0.037868,544 0.026463,545 0.116929,546 0.000342,547 0.002331,548 3377.186,549 1.467545,551 0.736352,552 0.066899,554 0.194267,555 0.002952,556 415.737,557 60490.74,558 -6.982772,559 1.0354,560 4.261055,561 1347,562 2.981214,563 -0.012188,564 3.052006,565 1596,566 0.000005,567 -2.981675,568 -0.000011,569 4.24319,570 0.007029,571 -0.010693,572 0.000003,573 -0.384172,574 notjazzy}
+{15 0.790703,16 0.790703,17 0.790703,27 0.790703,28 0.790703,39 0.790703,57 0.790703,84 0.790703,137 0.790703,143 0.790703,145 0.790703,153 0.790703,154 0.790703,158 0.790703,165 0.790703,166 0.790703,168 0.790703,169 0.790703,170 0.790703,209 0.790703,211 0.790703,224 0.790703,277 0.790703,284 0.790703,285 0.790703,286 0.790703,320 0.790703,321 0.790703,343 0.790703,400 0.790703,403 0.790703,415 0.790703,430 0.790703,445 0.790703,460 0.790703,461 0.790703,462 0.790703,467 0.790703,482 0.790703,483 0.790703,499 0.790703,500 0.790703,522 -1.317457,523 6.544437,524 3.386896,525 0.408844,526 0.800708,527 0.136407,528 0.066291,529 0.070831,530 0.10347,531 0.046552,532 79.13048,533 4.736278,534 1.334113,535 0.669986,536 1.032055,537 0.889492,538 0.069013,539 39.45985,540 5.954416,541 589.6779,542 1.529155,543 0.024325,544 0.093355,545 0.498293,546 0.000162,547 0.006647,548 2284.232,549 1.426797,551 0.890147,552 0.122009,554 0.097851,555 0.003847,556 642.0856,557 134177.3,558 -6.131784,559 0.276887,560 2.784492,561 696,562 2.694255,563 0.10396,564 2.828352,565 2916,566 0.000001,567 -4.143525,568 -0.000002,569 5.76043,570 0.001841,571 0.120985,572 -0.000001,573 -0.446036,574 notjazzy}
+{11 0.549387,27 0.549387,28 0.549387,34 0.549387,35 0.549387,41 0.549387,49 0.549387,50 0.549387,51 0.549387,52 0.549387,68 0.549387,69 0.549387,70 0.549387,71 0.549387,108 0.549387,116 0.549387,117 0.549387,121 0.549387,122 0.549387,123 0.549387,144 0.549387,166 0.549387,171 0.549387,172 0.549387,176 0.549387,180 0.549387,185 0.549387,186 0.549387,192 0.549387,193 0.549387,199 0.549387,201 0.549387,202 0.549387,203 0.549387,204 0.549387,210 0.549387,224 0.549387,226 0.549387,227 0.549387,242 0.549387,253 0.549387,254 0.549387,264 0.549387,266 0.549387,270 0.549387,271 0.549387,272 0.549387,279 0.549387,280 0.549387,287 0.549387,288 0.549387,300 0.549387,301 0.549387,318 0.549387,320 0.549387,321 0.549387,322 0.549387,325 0.549387,334 0.549387,341 0.549387,342 0.549387,352 0.549387,358 0.549387,408 0.549387,422 0.549387,430 0.549387,437 0.549387,445 0.549387,446 0.549387,451 0.549387,453 0.549387,466 0.549387,473 0.549387,478 0.549387,480 0.549387,481 0.549387,482 0.549387,483 0.549387,486 0.549387,490 0.549387,491 0.549387,492 0.549387,494 0.549387,495 0.549387,496 0.549387,511 0.549387,512 0.549387,522 -1.317457,523 6.544437,524 3.386896,525 0.408844,526 0.800708,527 0.136407,528 0.066291,529 0.070831,530 0.10347,531 0.046552,532 79.13048,533 4.736278,534 1.334113,535 0.669986,536 1.032055,537 0.889492,538 0.069013,539 39.45985,540 5.954416,541 589.6779,542 1.529155,543 0.024325,544 0.093355,545 0.498293,546 0.000162,547 0.006647,548 2284.232,549 1.426797,551 0.890147,552 0.122009,554 0.097851,555 0.003847,556 642.0856,557 134177.3,558 -6.131784,559 0.276887,560 2.784492,561 696,562 2.694255,563 0.10396,564 2.828352,565 2916,566 0.000001,567 -4.143525,568 -0.000002,569 5.76043,570 0.001841,571 0.120985,572 -0.000001,573 -0.446036,574 notjazzy}
+{11 0.549387,27 0.549387,28 0.549387,34 0.549387,35 0.549387,41 0.549387,49 0.549387,50 0.549387,51 0.549387,52 0.549387,68 0.549387,69 0.549387,70 0.549387,71 0.549387,108 0.549387,116 0.549387,117 0.549387,121 0.549387,122 0.549387,123 0.549387,144 0.549387,166 0.549387,171 0.549387,172 0.549387,176 0.549387,180 0.549387,185 0.549387,186 0.549387,192 0.549387,193 0.549387,199 0.549387,201 0.549387,202 0.549387,203 0.549387,204 0.549387,210 0.549387,224 0.549387,226 0.549387,227 0.549387,242 0.549387,253 0.549387,254 0.549387,264 0.549387,266 0.549387,270 0.549387,271 0.549387,272 0.549387,279 0.549387,280 0.549387,287 0.549387,288 0.549387,300 0.549387,301 0.549387,318 0.549387,320 0.549387,321 0.549387,322 0.549387,325 0.549387,334 0.549387,341 0.549387,342 0.549387,352 0.549387,358 0.549387,408 0.549387,422 0.549387,430 0.549387,437 0.549387,445 0.549387,446 0.549387,451 0.549387,453 0.549387,466 0.549387,473 0.549387,478 0.549387,480 0.549387,481 0.549387,482 0.549387,483 0.549387,486 0.549387,490 0.549387,491 0.549387,492 0.549387,494 0.549387,495 0.549387,496 0.549387,511 0.549387,512 0.549387,522 -0.963616,523 7.640618,524 2.636006,525 0.489293,526 0.759105,527 0.169454,528 0.086861,529 0.088968,530 0.060979,531 0.144253,532 104.632,533 5.549336,534 1.350592,535 0.57045,536 1.085896,537 0.889334,538 0.092116,539 85.31716,540 6.859,541 606.6926,542 2.10062,543 0.029681,544 0.030078,545 0.133694,546 0.000192,547 0.005961,548 5101.987,549 0.841501,551 0.870839,552 0.083967,554 0.112554,555 0.002363,556 623.2714,557 111510.6,558 -12.52684,559 0.226113,560 3.517662,561 2150,562 2.755181,563 0.056772,564 2.721527,565 2062,567 -4.47816,568 0.000001,569 4.177431,570 -0.005748,571 0.072487,573 -0.016007,574 notjazzy}
+{11 0.549387,27 0.549387,28 0.549387,34 0.549387,35 0.549387,41 0.549387,49 0.549387,50 0.549387,51 0.549387,52 0.549387,68 0.549387,69 0.549387,70 0.549387,71 0.549387,108 0.549387,116 0.549387,117 0.549387,121 0.549387,122 0.549387,123 0.549387,144 0.549387,166 0.549387,171 0.549387,172 0.549387,176 0.549387,180 0.549387,185 0.549387,186 0.549387,192 0.549387,193 0.549387,199 0.549387,201 0.549387,202 0.549387,203 0.549387,204 0.549387,210 0.549387,224 0.549387,226 0.549387,227 0.549387,242 0.549387,253 0.549387,254 0.549387,264 0.549387,266 0.549387,270 0.549387,271 0.549387,272 0.549387,279 0.549387,280 0.549387,287 0.549387,288 0.549387,300 0.549387,301 0.549387,318 0.549387,320 0.549387,321 0.549387,322 0.549387,325 0.549387,334 0.549387,341 0.549387,342 0.549387,352 0.549387,358 0.549387,408 0.549387,422 0.549387,430 0.549387,437 0.549387,445 0.549387,446 0.549387,451 0.549387,453 0.549387,466 0.549387,473 0.549387,478 0.549387,480 0.549387,481 0.549387,482 0.549387,483 0.549387,486 0.549387,490 0.549387,491 0.549387,492 0.549387,494 0.549387,495 0.549387,496 0.549387,511 0.549387,512 0.549387,522 -0.963616,523 7.640618,524 2.636006,525 0.489293,526 0.759105,527 0.169454,528 0.086861,529 0.088968,530 0.060979,531 0.144253,532 104.632,533 5.549336,534 1.350592,535 0.57045,536 1.085896,537 0.889334,538 0.092116,539 85.31716,540 6.859,541 606.6926,542 2.10062,543 0.029681,544 0.030078,545 0.133694,546 0.000192,547 0.005961,548 5101.987,549 0.841501,551 0.870839,552 0.083967,554 0.112554,555 0.002363,556 623.2714,557 111510.6,558 -12.52684,559 0.226113,560 3.517662,561 2150,562 2.755181,563 0.056772,564 2.721527,565 2062,567 -4.47816,568 0.000001,569 4.177431,570 -0.005748,571 0.072487,573 -0.016007,574 notjazzy}
+{12 0.892033,34 0.892033,41 0.892033,49 0.892033,116 0.892033,117 0.892033,120 0.892033,123 0.892033,133 0.892033,148 0.892033,154 0.892033,178 0.892033,185 0.892033,186 0.892033,199 0.892033,233 0.892033,316 0.892033,328 0.892033,329 0.892033,341 0.892033,385 0.892033,409 0.892033,444 0.892033,445 0.892033,447 0.892033,468 0.892033,470 0.892033,472 0.892033,486 0.892033,493 0.892033,501 0.892033,505 0.892033,511 0.892033,522 -0.963616,523 7.640618,524 2.636006,525 0.489293,526 0.759105,527 0.169454,528 0.086861,529 0.088968,530 0.060979,531 0.144253,532 104.632,533 5.549336,534 1.350592,535 0.57045,536 1.085896,537 0.889334,538 0.092116,539 85.31716,540 6.859,541 606.6926,542 2.10062,543 0.029681,544 0.030078,545 0.133694,546 0.000192,547 0.005961,548 5101.987,549 0.841501,551 0.870839,552 0.083967,554 0.112554,555 0.002363,556 623.2714,557 111510.6,558 -12.52684,559 0.226113,560 3.517662,561 2150,562 2.755181,563 0.056772,564 2.721527,565 2062,567 -4.47816,568 0.000001,569 4.177431,570 -0.005748,571 0.072487,573 -0.016007,574 notjazzy}
+{18 1.207819,19 1.207819,112 1.207819,130 1.207819,148 1.207819,210 1.207819,279 1.207819,280 1.207819,320 1.207819,322 1.207819,333 1.207819,400 1.207819,450 1.207819,482 1.207819,483 1.207819,486 1.207819,487 1.207819,505 1.207819,522 -0.216116,523 7.958646,524 2.340021,525 0.510862,526 0.843116,527 0.115136,528 0.066144,529 0.062766,530 0.049457,531 0.139868,532 71.78439,533 4.337265,534 1.256977,535 0.585946,536 0.66435,537 0.887835,538 0.108043,539 86.04478,540 6.245695,541 139.6184,542 0.580288,543 0.014318,544 0.015978,545 0.056229,546 0.000087,547 0.006513,548 2997.702,549 0.505383,551 0.665779,552 0.062699,554 0.222666,555 0.002409,556 381.3835,557 15262.63,558 -5.061733,559 0.141756,560 3.135054,561 2543,562 3.491722,563 0.218397,564 2.505765,565 871,566 0.000004,567 -2.345718,569 3.201884,570 -0.000391,571 0.055723,572 -0.000001,573 0.450792,574 notjazzy}
+{18 0.878817,19 0.878817,25 0.878817,31 0.878817,58 0.878817,62 0.878817,116 0.878817,117 0.878817,139 0.878817,147 0.878817,179 0.878817,195 0.878817,196 0.878817,221 0.878817,224 0.878817,226 0.878817,247 0.878817,248 0.878817,352 0.878817,375 0.878817,378 0.878817,386 0.878817,403 0.878817,422 0.878817,428 0.878817,429 0.878817,430 0.878817,441 0.878817,442 0.878817,443 0.878817,445 0.878817,482 0.878817,483 0.878817,485 0.878817,522 0.563285,523 7.477649,524 2.530807,525 0.440199,526 0.752266,527 0.131161,528 0.069869,529 0.07277,530 0.09809,531 0.107311,532 80.73064,533 5.567702,534 1.474498,535 0.516186,536 0.734295,537 0.893766,538 0.090115,539 64.39119,540 5.222242,541 380.2242,542 1.361818,543 0.029797,544 0.02949,545 0.092103,546 0.00014,547 0.007429,548 4106.535,549 0.521136,551 0.780959,552 0.08285,554 0.171176,555 0.004337,556 653.6522,557 245788.2,558 -2.881164,559 0.747687,560 3.991944,561 311,562 2.960002,563 -0.020118,564 3.366024,565 1946,566 -0.00002,567 -3.514703,568 0.000005,569 5.197055,570 0.007438,571 0.135103,572 -0.000004,573 -0.627184,574 notjazzy}
+{18 0.878817,19 0.878817,25 0.878817,31 0.878817,58 0.878817,62 0.878817,116 0.878817,117 0.878817,139 0.878817,147 0.878817,179 0.878817,195 0.878817,196 0.878817,221 0.878817,224 0.878817,226 0.878817,247 0.878817,248 0.878817,352 0.878817,375 0.878817,378 0.878817,386 0.878817,403 0.878817,422 0.878817,428 0.878817,429 0.878817,430 0.878817,441 0.878817,442 0.878817,443 0.878817,445 0.878817,482 0.878817,483 0.878817,485 0.878817,522 0.563285,523 7.477649,524 2.530807,525 0.440199,526 0.752266,527 0.131161,528 0.069869,529 0.07277,530 0.09809,531 0.107311,532 80.73064,533 5.567702,534 1.474498,535 0.516186,536 0.734295,537 0.893766,538 0.090115,539 64.39119,540 5.222242,541 380.2242,542 1.361818,543 0.029797,544 0.02949,545 0.092103,546 0.00014,547 0.007429,548 4106.535,549 0.521136,551 0.780959,552 0.08285,554 0.171176,555 0.004337,556 653.6522,557 245788.2,558 -2.881164,559 0.747687,560 3.991944,561 311,562 2.960002,563 -0.020118,564 3.366024,565 1946,566 -0.00002,567 -3.514703,568 0.000005,569 5.197055,570 0.007438,571 0.135103,572 -0.000004,573 -0.627184,574 notjazzy}
+{8 0.842436,27 0.842436,39 0.842436,41 0.842436,62 0.842436,66 0.842436,84 0.842436,116 0.842436,117 0.842436,120 0.842436,164 0.842436,167 0.842436,199 0.842436,206 0.842436,216 0.842436,224 0.842436,230 0.842436,246 0.842436,264 0.842436,304 0.842436,320 0.842436,321 0.842436,326 0.842436,329 0.842436,341 0.842436,342 0.842436,350 0.842436,384 0.842436,422 0.842436,434 0.842436,454 0.842436,467 0.842436,482 0.842436,483 0.842436,505 0.842436,511 0.842436,512 0.842436,522 -0.351955,523 5.896546,524 3.028668,525 0.371932,526 0.699956,527 0.130841,528 0.068701,529 0.066377,530 0.092,531 0.160361,532 72.64244,533 3.94171,534 1.201058,535 0.736626,536 0.844904,537 0.87723,538 0.17648,539 169.8052,540 7.051896,541 630.8009,542 2.156748,543 0.061937,544 0.055865,545 0.292617,546 0.000323,547 0.015542,548 19026.43,549 3.268813,551 0.92277,552 0.131295,554 0.071313,555 0.002663,556 570.0248,557 461436.4,558 -4.624796,559 0.414853,560 3.154089,561 15,562 3.022846,563 -0.36706,564 3.368339,565 799,566 0.000015,567 -3.971774,568 0.000003,569 3.282012,570 -0.002552,571 -0.013152,572 -0.000003,573 0.107941,574 notjazzy}
+{8 1.068499,9 1.068499,72 1.068499,73 1.068499,94 1.068499,131 1.068499,132 1.068499,138 1.068499,175 1.068499,246 1.068499,254 1.068499,277 1.068499,303 1.068499,331 1.068499,349 1.068499,377 1.068499,390 1.068499,403 1.068499,416 1.068499,434 1.068499,445 1.068499,484 1.068499,486 1.068499,522 -0.620156,523 5.867522,524 3.786122,525 0.52128,526 0.82161,527 0.123804,528 0.076645,529 0.077207,530 0.057446,531 0.037852,532 70.81272,533 5.278077,534 1.508952,535 0.678162,536 0.838591,537 0.890292,538 0.053621,539 15.7461,540 4.767996,541 186.7578,542 0.724115,543 0.024898,544 0.171018,545 0.485705,546 0.000248,547 0.008784,548 408.985,549 1.141272,551 0.723702,552 0.11637,554 0.200091,555 0.006048,556 873.9773,557 753425.1,558 -4.654275,559 0.268935,560 2.756897,561 2290,562 2.615489,563 -0.20971,564 2.758649,565 1669,566 -0.000005,567 -6.462186,568 -0.000007,569 10.18064,570 -0.008465,571 -0.071407,572 -0.000008,573 -0.489061,574 notjazzy}
+{7 0.781455,34 0.781455,49 0.781455,58 0.781455,84 0.781455,96 0.781455,102 0.781455,105 0.781455,112 0.781455,116 0.781455,117 0.781455,119 0.781455,121 0.781455,123 0.781455,125 0.781455,133 0.781455,139 0.781455,167 0.781455,191 0.781455,199 0.781455,207 0.781455,210 0.781455,219 0.781455,220 0.781455,224 0.781455,240 0.781455,241 0.781455,278 0.781455,300 0.781455,304 0.781455,320 0.781455,324 0.781455,338 0.781455,376 0.781455,400 0.781455,421 0.781455,447 0.781455,466 0.781455,477 0.781455,479 0.781455,486 0.781455,487 0.781455,488 0.781455,522 -0.441324,523 6.718972,524 3.95139,525 0.496841,526 0.831431,527 0.17106,528 0.080891,529 0.087647,530 0.089625,531 0.129667,532 52.95264,533 3.153627,534 1.112908,535 0.688484,536 0.350588,537 0.865861,538 0.079884,539 97.94457,540 6.39447,541 518.3034,542 1.287396,543 0.033532,544 0.125471,545 0.066697,546 0.00049,547 0.005581,548 5296.886,549 1.204116,551 0.946072,552 0.11864,554 0.051054,555 0.001713,556 416.405,557 130937.3,558 -6.700217,559 0.1055,560 2.206534,561 1036,562 3.054486,563 0.253176,564 3.286549,565 1485,566 0.000002,567 -3.078984,568 0.000009,569 4.773803,570 0.007536,571 -0.201909,572 0.000004,573 -3.157066,574 notjazzy}

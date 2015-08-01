@@ -1,0 +1,25 @@
+@relation 'wav/all/marsyas.arff-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.FilteredSubsetEval -W \"weka.attributeSelection.CfsSubsetEval \" -F \"weka.filters.supervised.instance.SpreadSubsample -M 0.0 -X 0.0 -S 1\"-Sweka.attributeSelection.GreedyStepwise -T -1.7976931348623157E308 -N -1-weka.filters.unsupervised.attribute.Remove-Rlast'
+
+@attribute Mean_Acc1000_Mean_Mem40_MFCC2_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Mean_Mem40_SCF_19 numeric
+@attribute Mean_Acc1000_Std_Mem40_MFCC0_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Std_Mem40_MFCC11_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Std_Mem40_SCF_8 numeric
+@attribute Mean_Acc1000_Std_Mem40_SFM_20 numeric
+@attribute Mean_Acc1000_Std_Mem40_LSP_13 numeric
+@attribute Mean_Acc1000_Std_Mem40_LSP_14 numeric
+@attribute Std_Acc1000_Mean_Mem40_SFM_16 numeric
+@attribute Std_Acc1000_Mean_Mem40_SFM_21 numeric
+
+@data
+
+1.387412,5.950705,4.209131,0.453031,0.853257,0.129307,0.073714,0.07199,0.068536,0.054566
+1.78283,5.351866,4.977484,0.521238,0.819298,0.107005,0.072233,0.075283,0.06574,0.048572
+2.903182,4.283199,3.276226,0.400198,0.83168,0.121519,0.055671,0.056906,0.152846,0.204033
+1.033517,5.599318,4.39222,0.569406,0.945112,0.109953,0.06733,0.067277,0.070356,0.073424
+-0.421504,8.68881,2.534623,0.459886,0.716061,0.129998,0.082702,0.084337,0.09949,0.098279
+-0.368969,5.235835,1.592731,0.466424,0.731,0.095018,0.07433,0.07432,0.066385,0.045792
+0.777338,5.799752,2.42137,0.389907,0.80454,0.112026,0.072681,0.069506,0.074951,0.05255
+0.000636,6.37765,2.717151,0.471937,0.698243,0.141854,0.083935,0.075083,0.07594,0.049573
+-0.210711,5.654836,2.592248,0.507794,0.744927,0.12232,0.078818,0.079738,0.058886,0.039198
+0.644529,5.219248,3.355672,0.452934,0.800861,0.094397,0.069239,0.069898,0.069116,0.044357

@@ -1,0 +1,27 @@
+@relation 'wav/all/marsyas.arff-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.FilteredSubsetEval -W \"weka.attributeSelection.CfsSubsetEval \" -F \"weka.filters.supervised.instance.SpreadSubsample -M 0.0 -X 0.0 -S 1\"-Sweka.attributeSelection.GreedyStepwise -T -1.7976931348623157E308 -N -1-weka.filters.unsupervised.attribute.Remove-Rlast'
+
+@attribute Mean_Acc1000_Mean_Mem40_MFCC2_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Mean_Mem40_SFM_4 numeric
+@attribute Mean_Acc1000_Std_Mem40_MFCC0_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Std_Mem40_MFCC11_Power_powerFFT_WinHamming_HopSize512_WinSize512_AudioCh0 numeric
+@attribute Mean_Acc1000_Std_Mem40_SCF_4 numeric
+@attribute Mean_Acc1000_Std_Mem40_LSP_13 numeric
+@attribute Mean_Acc1000_Std_Mem40_LSP_14 numeric
+@attribute Std_Acc1000_Mean_Mem40_SFM_14 numeric
+@attribute Std_Acc1000_Mean_Mem40_SFM_21 numeric
+@attribute Std_Acc1000_Mean_Mem40_LSP_1 numeric
+@attribute Std_Acc1000_Std_Mem40_LSP_15 numeric
+@attribute Std_Acc1000_Std_Mem40_LSP_16 numeric
+
+@data
+
+1.006383,0.646903,3.272392,0.433046,0.519395,0.06405,0.063747,0.059267,0.04808,0.044116,0.1782,0.187788
+0.921848,0.508527,2.492835,0.452933,0.529399,0.072243,0.076123,0.065698,0.046924,0.023139,0.179034,0.190726
+-0.318144,0.50416,4.614241,0.561517,0.583625,0.071398,0.075364,0.082179,0.03817,0.036985,0.178549,0.187697
+-0.397152,0.505663,3.503107,0.577375,0.603031,0.07585,0.080112,0.116254,0.125288,0.035949,0.171676,0.181675
+1.220512,0.648171,3.161273,0.382038,0.524422,0.072329,0.068582,0.081007,0.071238,0.018441,0.179347,0.191729
+-0.963616,0.460344,2.636006,0.489293,0.612066,0.086861,0.088968,0.083197,0.144253,0.029262,0.170797,0.184283
+0.644529,0.567911,3.355672,0.452934,0.527597,0.069239,0.069898,0.074154,0.044357,0.031447,0.175433,0.187691
+0.993352,0.40532,2.955131,0.561957,0.554062,0.078537,0.080338,0.067559,0.082213,0.0318,0.174419,0.187437
+-0.271758,0.591015,2.781504,0.416095,0.536297,0.073957,0.070258,0.147677,0.22347,0.051605,0.181513,0.194377
+0.665427,0.619683,1.947811,0.421359,0.523466,0.063161,0.059851,0.07401,0.039912,0.031395,0.178557,0.189831

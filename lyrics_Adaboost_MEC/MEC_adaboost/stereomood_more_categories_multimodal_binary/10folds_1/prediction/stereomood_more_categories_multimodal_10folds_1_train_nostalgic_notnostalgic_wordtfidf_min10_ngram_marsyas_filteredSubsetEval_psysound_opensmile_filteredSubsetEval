@@ -1,0 +1,69 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 381
+nu = 0.05886794328428628
+obj = -7.562960371548224, rho = 0.39807015630151543
+nSV = 156, nBSV = 4
+Total nSV = 156
+..*
+optimization finished, #iter = 382
+nu = 0.06122483629175273
+obj = -7.785741925994934, rho = -0.2797246056310676
+nSV = 149, nBSV = 3
+Total nSV = 149
+..*
+optimization finished, #iter = 387
+nu = 0.04874504401052655
+obj = -5.6064715858853775, rho = -0.3451220382613094
+nSV = 150, nBSV = 2
+Total nSV = 150
+..*
+optimization finished, #iter = 402
+nu = 0.06111972434817878
+obj = -7.775885112306611, rho = -0.21629038846793153
+nSV = 150, nBSV = 3
+Total nSV = 150
+.*
+optimization finished, #iter = 359
+nu = 0.0493525823747519
+obj = -5.27724482825563, rho = -0.40301578373370106
+nSV = 146, nBSV = 2
+Total nSV = 146
+..*
+optimization finished, #iter = 481
+nu = 0.055295269715997464
+obj = -8.524952128293323, rho = 0.42146155096744475
+nSV = 181, nBSV = 4
+Total nSV = 181
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1 1:nostalgi 1:nostalgi       *0.907,0.093 
+     2 1:nostalgi 1:nostalgi       *0.517,0.483 
+     3 1:nostalgi 2:notnosta   +   0.471,*0.529 
+     4 1:nostalgi 2:notnosta   +   0.446,*0.554 
+     5 1:nostalgi 1:nostalgi       *0.803,0.197 
+     6 1:nostalgi 1:nostalgi       *0.879,0.121 
+     7 1:nostalgi 1:nostalgi       *0.533,0.467 
+     8 1:nostalgi 2:notnosta   +   0.205,*0.795 
+     9 1:nostalgi 1:nostalgi       *0.903,0.097 
+    10 1:nostalgi 1:nostalgi       *0.703,0.297 
+    11 1:nostalgi 2:notnosta   +   0.23,*0.77 
+    12 1:nostalgi 1:nostalgi       *0.717,0.283 
+    13 1:nostalgi 1:nostalgi       *0.923,0.077 
+    14 2:notnosta 1:nostalgi   +   *0.68,0.32 
+    15 2:notnosta 2:notnosta       0.099,*0.901 
+    16 2:notnosta 2:notnosta       0.151,*0.849 
+    17 2:notnosta 2:notnosta       0.099,*0.901 
+    18 2:notnosta 2:notnosta       0.099,*0.901 
+    19 2:notnosta 2:notnosta       0.099,*0.901 
+    20 2:notnosta 2:notnosta       0.099,*0.901 
+    21 2:notnosta 1:nostalgi   +   *0.58,0.42 
+    22 2:notnosta 2:notnosta       0.149,*0.851 
+    23 2:notnosta 2:notnosta       0.099,*0.901 
+    24 2:notnosta 2:notnosta       0.099,*0.901 
+    25 2:notnosta 2:notnosta       0.099,*0.901 
+    26 2:notnosta 2:notnosta       0.099,*0.901 
+

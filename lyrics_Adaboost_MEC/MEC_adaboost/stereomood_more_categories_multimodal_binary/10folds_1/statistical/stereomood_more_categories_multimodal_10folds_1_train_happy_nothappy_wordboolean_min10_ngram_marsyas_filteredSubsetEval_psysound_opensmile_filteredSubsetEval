@@ -1,0 +1,12 @@
+=====Evaluation on the test set======
+
+=======Summary on the postive instances=======
+
+Acc:	0.695121951219512
+Precision	0.69047619047619
+Recall	0.707317073170732
+Fmeasure	0.698795180722892
+=====Confusion Matrix======
+a	b	<-Classified as
+29	12
+13	28

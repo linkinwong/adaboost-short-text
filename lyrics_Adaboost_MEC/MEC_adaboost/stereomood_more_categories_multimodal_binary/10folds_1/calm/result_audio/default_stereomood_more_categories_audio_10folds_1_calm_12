@@ -1,0 +1,12 @@
+rnd 1: wh-err= 0.908045 th-err= 0.908045 dev= nan test= 0.293103 train= 0.290875
+rnd 2: wh-err= 0.962951 th-err= 0.874404 dev= nan test= 0.293103 train= 0.288973
+rnd 3: wh-err= 0.961941 th-err= 0.841125 dev= nan test= 0.293103 train= 0.283270
+rnd 4: wh-err= 0.968421 th-err= 0.814563 dev= nan test= 0.293103 train= 0.275665
+rnd 5: wh-err= 0.970342 th-err= 0.790404 dev= nan test= 0.293103 train= 0.275665
+rnd 6: wh-err= 0.975246 th-err= 0.770839 dev= nan test= 0.293103 train= 0.262357
+rnd 7: wh-err= 0.973301 th-err= 0.750258 dev= nan test= 0.293103 train= 0.262357
+rnd 8: wh-err= 0.976735 th-err= 0.732803 dev= nan test= 0.293103 train= 0.262357
+rnd 9: wh-err= 0.979666 th-err= 0.717902 dev= nan test= 0.293103 train= 0.260456
+rnd 10: wh-err= 0.980375 th-err= 0.703813 dev= nan test= 0.310345 train= 0.245247
+rnd 11: wh-err= 0.974545 th-err= 0.685897 dev= nan test= 0.258621 train= 0.222433
+rnd 12: wh-err= 0.979457 th-err= 0.671807 dev= nan test= 0.224138 train= 0.226236

@@ -1,0 +1,101 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 863
+nu = 0.11730596992533386
+obj = -36.69309696190852, rho = 0.9969140737784351
+nSV = 304, nBSV = 19
+Total nSV = 304
+.*
+optimization finished, #iter = 812
+nu = 0.10438898103008927
+obj = -32.098913124372686, rho = -1.559925611889622
+nSV = 325, nBSV = 18
+Total nSV = 325
+..*
+optimization finished, #iter = 853
+nu = 0.12388871098866357
+obj = -40.21793023753162, rho = -0.9767705736040377
+nSV = 328, nBSV = 22
+Total nSV = 328
+.*
+optimization finished, #iter = 815
+nu = 0.11343400044177518
+obj = -36.10874826281328, rho = -0.5868537709402748
+nSV = 328, nBSV = 21
+Total nSV = 328
+.*
+optimization finished, #iter = 826
+nu = 0.10921187369544105
+obj = -34.50709564112508, rho = -0.6275936640284829
+nSV = 340, nBSV = 19
+Total nSV = 340
+.*
+optimization finished, #iter = 1042
+nu = 0.11631271804928082
+obj = -46.79837782628928, rho = -1.0341800428172458
+nSV = 391, nBSV = 26
+Total nSV = 391
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1     1:calm     1:calm       *0.568,0.432 
+     2     1:calm     1:calm       *0.852,0.148 
+     3     1:calm  2:notcalm   +   0.416,*0.584 
+     4     1:calm     1:calm       *0.62,0.38 
+     5     1:calm     1:calm       *0.83,0.17 
+     6     1:calm     1:calm       *0.922,0.078 
+     7     1:calm     1:calm       *0.805,0.195 
+     8     1:calm     1:calm       *0.639,0.361 
+     9     1:calm     1:calm       *0.795,0.205 
+    10     1:calm     1:calm       *0.948,0.052 
+    11     1:calm     1:calm       *0.634,0.366 
+    12     1:calm  2:notcalm   +   0.171,*0.829 
+    13     1:calm     1:calm       *0.5,0.5 
+    14     1:calm     1:calm       *0.964,0.036 
+    15     1:calm  2:notcalm   +   0.107,*0.893 
+    16     1:calm     1:calm       *0.764,0.236 
+    17     1:calm     1:calm       *0.588,0.412 
+    18     1:calm     1:calm       *0.601,0.399 
+    19     1:calm     1:calm       *0.563,0.437 
+    20     1:calm     1:calm       *0.546,0.454 
+    21     1:calm     1:calm       *0.509,0.491 
+    22     1:calm     1:calm       *0.536,0.464 
+    23     1:calm     1:calm       *0.766,0.234 
+    24     1:calm     1:calm       *0.787,0.213 
+    25     1:calm     1:calm       *0.735,0.265 
+    26     1:calm  2:notcalm   +   0.293,*0.707 
+    27     1:calm  2:notcalm   +   0.166,*0.834 
+    28     1:calm     1:calm       *0.708,0.292 
+    29     1:calm  2:notcalm   +   0.392,*0.608 
+    30  2:notcalm  2:notcalm       0.281,*0.719 
+    31  2:notcalm  2:notcalm       0.171,*0.829 
+    32  2:notcalm  2:notcalm       0.152,*0.848 
+    33  2:notcalm  2:notcalm       0.171,*0.829 
+    34  2:notcalm  2:notcalm       0.171,*0.829 
+    35  2:notcalm  2:notcalm       0.171,*0.829 
+    36  2:notcalm  2:notcalm       0.171,*0.829 
+    37  2:notcalm  2:notcalm       0.02,*0.98 
+    38  2:notcalm  2:notcalm       0.171,*0.829 
+    39  2:notcalm  2:notcalm       0.171,*0.829 
+    40  2:notcalm  2:notcalm       0.171,*0.829 
+    41  2:notcalm  2:notcalm       0.171,*0.829 
+    42  2:notcalm     1:calm   +   *0.548,0.452 
+    43  2:notcalm  2:notcalm       0.188,*0.812 
+    44  2:notcalm  2:notcalm       0.12,*0.88 
+    45  2:notcalm  2:notcalm       0.27,*0.73 
+    46  2:notcalm  2:notcalm       0.171,*0.829 
+    47  2:notcalm  2:notcalm       0.171,*0.829 
+    48  2:notcalm     1:calm   +   *0.664,0.336 
+    49  2:notcalm  2:notcalm       0.182,*0.818 
+    50  2:notcalm  2:notcalm       0.171,*0.829 
+    51  2:notcalm     1:calm   +   *0.84,0.16 
+    52  2:notcalm  2:notcalm       0.35,*0.65 
+    53  2:notcalm  2:notcalm       0.143,*0.857 
+    54  2:notcalm  2:notcalm       0.171,*0.829 
+    55  2:notcalm  2:notcalm       0.184,*0.816 
+    56  2:notcalm  2:notcalm       0.171,*0.829 
+    57  2:notcalm  2:notcalm       0.208,*0.792 
+    58  2:notcalm  2:notcalm       0.171,*0.829 
+

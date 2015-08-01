@@ -1,0 +1,83 @@
+Zero Weights processed. Default weights will be used
+.*
+optimization finished, #iter = 498
+nu = 0.05842026908191162
+obj = -13.41238163615466, rho = -0.6465593811452279
+nSV = 209, nBSV = 9
+Total nSV = 209
+.*
+optimization finished, #iter = 508
+nu = 0.04728781776581108
+obj = -9.80939156001173, rho = -0.5500467270193135
+nSV = 221, nBSV = 6
+Total nSV = 221
+.*
+optimization finished, #iter = 509
+nu = 0.06624362010920476
+obj = -15.538956647992963, rho = -1.1890935389394695
+nSV = 210, nBSV = 10
+Total nSV = 210
+.*
+optimization finished, #iter = 504
+nu = 0.05034860104664198
+obj = -11.250268114601125, rho = -0.5652141599463057
+nSV = 213, nBSV = 7
+Total nSV = 213
+.*
+optimization finished, #iter = 492
+nu = 0.05020735836252163
+obj = -11.229802339530028, rho = -0.8773160572527962
+nSV = 208, nBSV = 7
+Total nSV = 208
+.*
+optimization finished, #iter = 635
+nu = 0.06135484520052965
+obj = -18.04391521597917, rho = 0.7327925050554521
+nSV = 261, nBSV = 13
+Total nSV = 261
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1   1:groovy   1:groovy       *0.976,0.024 
+     2   1:groovy   1:groovy       *0.926,0.074 
+     3   1:groovy   1:groovy       *0.529,0.471 
+     4   1:groovy   1:groovy       *0.756,0.244 
+     5   1:groovy   1:groovy       *0.905,0.095 
+     6   1:groovy   1:groovy       *0.809,0.191 
+     7   1:groovy   1:groovy       *0.816,0.184 
+     8   1:groovy 2:notgroov   +   0.259,*0.741 
+     9   1:groovy   1:groovy       *0.883,0.117 
+    10   1:groovy 2:notgroov   +   0.187,*0.813 
+    11   1:groovy   1:groovy       *0.847,0.153 
+    12   1:groovy   1:groovy       *0.933,0.067 
+    13   1:groovy   1:groovy       *0.779,0.221 
+    14   1:groovy   1:groovy       *0.519,0.481 
+    15   1:groovy   1:groovy       *0.803,0.197 
+    16   1:groovy 2:notgroov   +   0.313,*0.687 
+    17   1:groovy   1:groovy       *0.546,0.454 
+    18   1:groovy   1:groovy       *0.905,0.095 
+    19   1:groovy   1:groovy       *0.876,0.124 
+    20   1:groovy   1:groovy       *0.864,0.136 
+    21 2:notgroov 2:notgroov       0.323,*0.677 
+    22 2:notgroov 2:notgroov       0.123,*0.877 
+    23 2:notgroov 2:notgroov       0.175,*0.825 
+    24 2:notgroov 2:notgroov       0.123,*0.877 
+    25 2:notgroov 2:notgroov       0.123,*0.877 
+    26 2:notgroov 2:notgroov       0.123,*0.877 
+    27 2:notgroov 2:notgroov       0.123,*0.877 
+    28 2:notgroov 2:notgroov       0.188,*0.812 
+    29 2:notgroov 2:notgroov       0.123,*0.877 
+    30 2:notgroov   1:groovy   +   *0.887,0.113 
+    31 2:notgroov 2:notgroov       0.123,*0.877 
+    32 2:notgroov 2:notgroov       0.123,*0.877 
+    33 2:notgroov 2:notgroov       0.24,*0.76 
+    34 2:notgroov 2:notgroov       0.123,*0.877 
+    35 2:notgroov 2:notgroov       0.105,*0.895 
+    36 2:notgroov 2:notgroov       0.123,*0.877 
+    37 2:notgroov   1:groovy   +   *0.555,0.445 
+    38 2:notgroov 2:notgroov       0.123,*0.877 
+    39 2:notgroov 2:notgroov       0.123,*0.877 
+    40 2:notgroov 2:notgroov       0.132,*0.868 
+

@@ -1,0 +1,81 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 568
+nu = 0.08190564937568139
+obj = -17.016403141474637, rho = 0.5186707833803987
+nSV = 211, nBSV = 9
+Total nSV = 211
+..*
+optimization finished, #iter = 604
+nu = 0.09711673179735945
+obj = -20.44814064377908, rho = -1.280111992883469
+nSV = 216, nBSV = 12
+Total nSV = 216
+..*
+optimization finished, #iter = 554
+nu = 0.05889635887492432
+obj = -10.125672489301877, rho = -1.1842274121473184
+nSV = 210, nBSV = 6
+Total nSV = 210
+..*
+optimization finished, #iter = 554
+nu = 0.09085551812949391
+obj = -18.257769970168557, rho = -0.982037051046392
+nSV = 216, nBSV = 11
+Total nSV = 216
+..*
+optimization finished, #iter = 623
+nu = 0.08016945181009691
+obj = -15.931615229001897, rho = -1.3895836835937836
+nSV = 217, nBSV = 8
+Total nSV = 217
+..*
+optimization finished, #iter = 731
+nu = 0.08537733936690925
+obj = -21.70721648753886, rho = -1.2264913494288614
+nSV = 254, nBSV = 12
+Total nSV = 254
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1 1:romantic 1:romantic       *0.651,0.349 
+     2 1:romantic 2:notroman   +   0.477,*0.523 
+     3 1:romantic 2:notroman   +   0.387,*0.613 
+     4 1:romantic 2:notroman   +   0.457,*0.543 
+     5 1:romantic 1:romantic       *0.821,0.179 
+     6 1:romantic 2:notroman   +   0.168,*0.832 
+     7 1:romantic 1:romantic       *0.688,0.312 
+     8 1:romantic 1:romantic       *0.794,0.206 
+     9 1:romantic 1:romantic       *0.619,0.381 
+    10 1:romantic 1:romantic       *0.785,0.215 
+    11 1:romantic 1:romantic       *0.614,0.386 
+    12 1:romantic 1:romantic       *0.816,0.184 
+    13 1:romantic 1:romantic       *0.559,0.441 
+    14 1:romantic 1:romantic       *0.682,0.318 
+    15 1:romantic 2:notroman   +   0.193,*0.807 
+    16 1:romantic 1:romantic       *0.579,0.421 
+    17 1:romantic 1:romantic       *0.644,0.356 
+    18 1:romantic 2:notroman   +   0.494,*0.506 
+    19 1:romantic 2:notroman   +   0.425,*0.575 
+    20 2:notroman 2:notroman       0.476,*0.524 
+    21 2:notroman 2:notroman       0.234,*0.766 
+    22 2:notroman 2:notroman       0.097,*0.903 
+    23 2:notroman 2:notroman       0.235,*0.765 
+    24 2:notroman 2:notroman       0.235,*0.765 
+    25 2:notroman 1:romantic   +   *0.788,0.212 
+    26 2:notroman 1:romantic   +   *0.682,0.318 
+    27 2:notroman 2:notroman       0.145,*0.855 
+    28 2:notroman 2:notroman       0.234,*0.766 
+    29 2:notroman 2:notroman       0.234,*0.766 
+    30 2:notroman 2:notroman       0.235,*0.765 
+    31 2:notroman 2:notroman       0.234,*0.766 
+    32 2:notroman 1:romantic   +   *0.507,0.493 
+    33 2:notroman 2:notroman       0.235,*0.765 
+    34 2:notroman 2:notroman       0.235,*0.765 
+    35 2:notroman 1:romantic   +   *0.653,0.347 
+    36 2:notroman 2:notroman       0.235,*0.765 
+    37 2:notroman 2:notroman       0.234,*0.766 
+    38 2:notroman 1:romantic   +   *0.792,0.208 
+

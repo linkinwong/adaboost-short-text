@@ -1,0 +1,85 @@
+Zero Weights processed. Default weights will be used
+.*
+optimization finished, #iter = 542
+nu = 0.08884760614909226
+obj = -20.815759748151294, rho = 0.8075487895791758
+nSV = 234, nBSV = 11
+Total nSV = 234
+.*
+optimization finished, #iter = 558
+nu = 0.09150009764817238
+obj = -21.182361739955613, rho = 0.8243205978317037
+nSV = 236, nBSV = 12
+Total nSV = 236
+.*
+optimization finished, #iter = 558
+nu = 0.09938901794104057
+obj = -23.454854469643166, rho = 0.9279639439552717
+nSV = 242, nBSV = 12
+Total nSV = 242
+.*
+optimization finished, #iter = 586
+nu = 0.07854747895054447
+obj = -17.174786660871348, rho = 0.6798843027472952
+nSV = 234, nBSV = 7
+Total nSV = 234
+.*
+optimization finished, #iter = 577
+nu = 0.08475834515202019
+obj = -18.3057323007047, rho = 0.8401732715233774
+nSV = 233, nBSV = 10
+Total nSV = 233
+.*
+optimization finished, #iter = 698
+nu = 0.09088410647191497
+obj = -26.631714558835917, rho = -1.0378907409437963
+nSV = 291, nBSV = 17
+Total nSV = 291
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1    1:funny    1:funny       *0.812,0.188 
+     2    1:funny    1:funny       *0.896,0.104 
+     3    1:funny 2:notfunny   +   0.393,*0.607 
+     4    1:funny    1:funny       *0.791,0.209 
+     5    1:funny    1:funny       *0.574,0.426 
+     6    1:funny    1:funny       *0.899,0.101 
+     7    1:funny    1:funny       *0.863,0.137 
+     8    1:funny    1:funny       *0.682,0.318 
+     9    1:funny    1:funny       *0.779,0.221 
+    10    1:funny 2:notfunny   +   0.099,*0.901 
+    11    1:funny 2:notfunny   +   0.419,*0.581 
+    12    1:funny    1:funny       *0.706,0.294 
+    13    1:funny    1:funny       *0.744,0.256 
+    14    1:funny    1:funny       *0.604,0.396 
+    15    1:funny    1:funny       *0.745,0.255 
+    16    1:funny    1:funny       *0.67,0.33 
+    17    1:funny    1:funny       *0.576,0.424 
+    18    1:funny 2:notfunny   +   0.357,*0.643 
+    19    1:funny    1:funny       *0.737,0.263 
+    20    1:funny 2:notfunny   +   0.32,*0.68 
+    21    1:funny    1:funny       *0.86,0.14 
+    22 2:notfunny    1:funny   +   *0.752,0.248 
+    23 2:notfunny 2:notfunny       0.105,*0.895 
+    24 2:notfunny 2:notfunny       0.342,*0.658 
+    25 2:notfunny    1:funny   +   *0.901,0.099 
+    26 2:notfunny 2:notfunny       0.105,*0.895 
+    27 2:notfunny 2:notfunny       0.105,*0.895 
+    28 2:notfunny 2:notfunny       0.105,*0.895 
+    29 2:notfunny 2:notfunny       0.476,*0.524 
+    30 2:notfunny    1:funny   +   *0.664,0.336 
+    31 2:notfunny 2:notfunny       0.105,*0.895 
+    32 2:notfunny 2:notfunny       0.105,*0.895 
+    33 2:notfunny 2:notfunny       0.105,*0.895 
+    34 2:notfunny 2:notfunny       0.105,*0.895 
+    35 2:notfunny    1:funny   +   *0.686,0.314 
+    36 2:notfunny 2:notfunny       0.246,*0.754 
+    37 2:notfunny 2:notfunny       0.104,*0.896 
+    38 2:notfunny 2:notfunny       0.105,*0.895 
+    39 2:notfunny    1:funny   +   *0.828,0.172 
+    40 2:notfunny    1:funny   +   *0.901,0.099 
+    41 2:notfunny 2:notfunny       0.105,*0.895 
+    42 2:notfunny 2:notfunny       0.337,*0.663 
+

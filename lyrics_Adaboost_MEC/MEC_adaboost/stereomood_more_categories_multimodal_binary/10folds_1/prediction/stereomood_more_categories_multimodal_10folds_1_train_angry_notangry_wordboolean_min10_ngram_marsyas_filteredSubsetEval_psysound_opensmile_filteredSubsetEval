@@ -1,0 +1,73 @@
+Zero Weights processed. Default weights will be used
+.*
+optimization finished, #iter = 366
+nu = 0.023517830856130535
+obj = -2.622349356406375, rho = -0.5419030626423814
+nSV = 159, nBSV = 0
+Total nSV = 159
+.*
+optimization finished, #iter = 352
+nu = 0.023488164961904427
+obj = -2.6071279284058195, rho = -0.593224250434973
+nSV = 152, nBSV = 0
+Total nSV = 152
+.*
+optimization finished, #iter = 399
+nu = 0.025156250463649908
+obj = -2.805026155091005, rho = -1.0084090164549626
+nSV = 163, nBSV = 0
+Total nSV = 163
+.*
+optimization finished, #iter = 353
+nu = 0.023445245125837805
+obj = -2.6024942239775513, rho = -0.6675753432442092
+nSV = 154, nBSV = 0
+Total nSV = 154
+.*
+optimization finished, #iter = 356
+nu = 0.024680273237234478
+obj = -2.7394841167424646, rho = -0.7435323187674868
+nSV = 151, nBSV = 0
+Total nSV = 151
+.*
+optimization finished, #iter = 448
+nu = 0.02383602971027701
+obj = -3.313299417749251, rho = 0.8973418349009253
+nSV = 187, nBSV = 0
+Total nSV = 187
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1    1:angry 2:notangry   +   0.254,*0.746 
+     2    1:angry    1:angry       *0.936,0.064 
+     3    1:angry    1:angry       *0.989,0.011 
+     4    1:angry 2:notangry   +   0.309,*0.691 
+     5    1:angry    1:angry       *0.977,0.023 
+     6    1:angry    1:angry       *0.77,0.23 
+     7    1:angry 2:notangry   +   0.11,*0.89 
+     8    1:angry    1:angry       *0.916,0.084 
+     9    1:angry 2:notangry   +   0.217,*0.783 
+    10    1:angry    1:angry       *0.946,0.054 
+    11    1:angry    1:angry       *0.916,0.084 
+    12    1:angry    1:angry       *0.941,0.059 
+    13    1:angry 2:notangry   +   0.066,*0.934 
+    14    1:angry 2:notangry   +   0.172,*0.828 
+    15    1:angry    1:angry       *0.908,0.092 
+    16 2:notangry    1:angry   +   *0.696,0.304 
+    17 2:notangry 2:notangry       0.066,*0.934 
+    18 2:notangry 2:notangry       0.064,*0.936 
+    19 2:notangry 2:notangry       0.066,*0.934 
+    20 2:notangry 2:notangry       0.066,*0.934 
+    21 2:notangry 2:notangry       0.066,*0.934 
+    22 2:notangry    1:angry   +   *0.567,0.433 
+    23 2:notangry 2:notangry       0.244,*0.756 
+    24 2:notangry 2:notangry       0.066,*0.934 
+    25 2:notangry 2:notangry       0.066,*0.934 
+    26 2:notangry 2:notangry       0.066,*0.934 
+    27 2:notangry 2:notangry       0.066,*0.934 
+    28 2:notangry 2:notangry       0.291,*0.709 
+    29 2:notangry 2:notangry       0.045,*0.955 
+    30 2:notangry 2:notangry       0.066,*0.934 
+
