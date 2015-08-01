@@ -1,0 +1,119 @@
+Zero Weights processed. Default weights will be used
+.
+Warning: using -h 0 may be faster
+.*
+optimization finished, #iter = 1589
+nu = 0.6537887625157427
+obj = -328.8912016579321, rho = 3.317556540451282
+nSV = 387, nBSV = 323
+Total nSV = 387
+..*
+optimization finished, #iter = 1446
+nu = 0.6120804725303597
+obj = -309.01419422460117, rho = 4.515811770602672
+nSV = 369, nBSV = 297
+Total nSV = 369
+...*
+optimization finished, #iter = 1934
+nu = 0.6223209023213144
+obj = -313.3386175979346, rho = 5.906655597795528
+nSV = 373, nBSV = 303
+Total nSV = 373
+...*
+optimization finished, #iter = 1988
+nu = 0.6369682618134483
+obj = -320.33799873857504, rho = 3.872258139692015
+nSV = 384, nBSV = 303
+Total nSV = 384
+.....*
+optimization finished, #iter = 3060
+nu = 0.6075850365256954
+obj = -300.92691468847664, rho = 4.274076348176393
+nSV = 372, nBSV = 286
+Total nSV = 372
+...*
+optimization finished, #iter = 2525
+nu = 0.6301505936896687
+obj = -399.951098325717, rho = -3.655025444955183
+nSV = 464, nBSV = 383
+Total nSV = 464
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1     1:high     1:high       *0.766,0.234 
+     2     1:high     1:high       *0.72,0.28 
+     3     1:high  2:nothigh   +   0.385,*0.615 
+     4     1:high     1:high       *0.556,0.444 
+     5     1:high     1:high       *0.75,0.25 
+     6     1:high     1:high       *0.54,0.46 
+     7     1:high     1:high       *0.592,0.408 
+     8     1:high     1:high       *0.618,0.382 
+     9     1:high  2:nothigh   +   0.414,*0.586 
+    10     1:high  2:nothigh   +   0.411,*0.589 
+    11     1:high     1:high       *0.737,0.263 
+    12     1:high     1:high       *0.786,0.214 
+    13     1:high     1:high       *0.69,0.31 
+    14     1:high  2:nothigh   +   0.219,*0.781 
+    15     1:high  2:nothigh   +   0.219,*0.781 
+    16     1:high  2:nothigh   +   0.405,*0.595 
+    17     1:high  2:nothigh   +   0.489,*0.511 
+    18     1:high     1:high       *0.53,0.47 
+    19     1:high     1:high       *0.703,0.297 
+    20     1:high     1:high       *0.635,0.365 
+    21     1:high     1:high       *0.735,0.265 
+    22     1:high     1:high       *0.507,0.493 
+    23     1:high     1:high       *0.626,0.374 
+    24     1:high     1:high       *0.686,0.314 
+    25     1:high     1:high       *0.5,0.5 
+    26     1:high  2:nothigh   +   0.407,*0.593 
+    27     1:high     1:high       *0.845,0.155 
+    28     1:high     1:high       *0.574,0.426 
+    29     1:high  2:nothigh   +   0.396,*0.604 
+    30     1:high  2:nothigh   +   0.161,*0.839 
+    31     1:high  2:nothigh   +   0.376,*0.624 
+    32     1:high  2:nothigh   +   0.476,*0.524 
+    33     1:high     1:high       *0.792,0.208 
+    34     1:high     1:high       *0.792,0.208 
+    35     1:high     1:high       *0.65,0.35 
+    36     1:high     1:high       *0.5,0.5 
+    37     1:high     1:high       *0.766,0.234 
+    38  2:nothigh     1:high   +   *0.828,0.172 
+    39  2:nothigh  2:nothigh       0.357,*0.643 
+    40  2:nothigh     1:high   +   *0.726,0.274 
+    41  2:nothigh     1:high   +   *0.551,0.449 
+    42  2:nothigh  2:nothigh       0.349,*0.651 
+    43  2:nothigh  2:nothigh       0.349,*0.651 
+    44  2:nothigh  2:nothigh       0.297,*0.703 
+    45  2:nothigh     1:high   +   *0.739,0.261 
+    46  2:nothigh  2:nothigh       0.401,*0.599 
+    47  2:nothigh  2:nothigh       0.335,*0.665 
+    48  2:nothigh  2:nothigh       0.297,*0.703 
+    49  2:nothigh  2:nothigh       0.22,*0.78 
+    50  2:nothigh     1:high   +   *0.524,0.476 
+    51  2:nothigh  2:nothigh       0.297,*0.703 
+    52  2:nothigh     1:high   +   *0.526,0.474 
+    53  2:nothigh     1:high   +   *0.628,0.372 
+    54  2:nothigh  2:nothigh       0.226,*0.774 
+    55  2:nothigh  2:nothigh       0.297,*0.703 
+    56  2:nothigh     1:high   +   *0.559,0.441 
+    57  2:nothigh     1:high   +   *0.682,0.318 
+    58  2:nothigh  2:nothigh       0.297,*0.703 
+    59  2:nothigh  2:nothigh       0.381,*0.619 
+    60  2:nothigh     1:high   +   *0.552,0.448 
+    61  2:nothigh     1:high   +   *0.576,0.424 
+    62  2:nothigh     1:high   +   *0.683,0.317 
+    63  2:nothigh     1:high   +   *0.614,0.386 
+    64  2:nothigh  2:nothigh       0.22,*0.78 
+    65  2:nothigh     1:high   +   *0.68,0.32 
+    66  2:nothigh  2:nothigh       0.24,*0.76 
+    67  2:nothigh  2:nothigh       0.373,*0.627 
+    68  2:nothigh  2:nothigh       0.444,*0.556 
+    69  2:nothigh  2:nothigh       0.4,*0.6 
+    70  2:nothigh  2:nothigh       0.376,*0.624 
+    71  2:nothigh  2:nothigh       0.247,*0.753 
+    72  2:nothigh     1:high   +   *0.634,0.366 
+    73  2:nothigh  2:nothigh       0.297,*0.703 
+    74  2:nothigh     1:high   +   *0.597,0.403 
+

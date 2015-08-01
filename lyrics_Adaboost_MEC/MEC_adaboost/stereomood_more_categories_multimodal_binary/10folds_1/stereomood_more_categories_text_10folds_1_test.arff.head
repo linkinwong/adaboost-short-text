@@ -1,0 +1,6 @@
+@relation _media_1Tnewdisk_intention_routing_lyrics_stereomood_more_stereomood_more_categories-weka.filters.supervised.instance.StratifiedRemoveFolds-S1-N10-F1
+
+@attribute text string
+@attribute @@class@@ {sad,high,groovy,happy,lonely,sexy,energetic,romantic,angry,sleepy,nostalgic,funny,jazzy,calm}
+
+@data

@@ -1,0 +1,4336 @@
+@relation '_media_1Tnewdisk_intention_routing_lyrics_stereomood_more_stereomood_more_categories-weka.filters.supervised.instance.StratifiedRemoveFolds-S1-V-N10-F1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W10000-prune-rate-1.0-C-N1-L-S-stemmerweka.core.stemmers.NullStemmer-M10-stopwords/home/sudan/program/stopwords.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 3 -min 1'
+
+@attribute @@class@@ {high,nothigh}
+@attribute & numeric
+@attribute &#100 numeric
+@attribute &#101 numeric
+@attribute '&#101 &#32' numeric
+@attribute &#102 numeric
+@attribute &#103 numeric
+@attribute &#104 numeric
+@attribute '&#104 &#101' numeric
+@attribute '&#104 &#101 &#32' numeric
+@attribute &#105 numeric
+@attribute '&#105 &#110' numeric
+@attribute '&#105 &#110 &#32' numeric
+@attribute &#107 numeric
+@attribute &#108 numeric
+@attribute '&#108 &#108' numeric
+@attribute '&#108 &#108 &#32' numeric
+@attribute '&#108 &#32' numeric
+@attribute &#109 numeric
+@attribute &#110 numeric
+@attribute '&#110 &#32' numeric
+@attribute &#111 numeric
+@attribute &#114 numeric
+@attribute '&#114 &#101' numeric
+@attribute &#115 numeric
+@attribute '&#115 &#32' numeric
+@attribute &#116 numeric
+@attribute '&#116 &#104' numeric
+@attribute '&#116 &#104 &#101' numeric
+@attribute &#117 numeric
+@attribute &#119 numeric
+@attribute &#32 numeric
+@attribute '&#32 &#105' numeric
+@attribute '&#32 &#115' numeric
+@attribute '&#32 &#116' numeric
+@attribute '&#32 &#116 &#104' numeric
+@attribute '&#32 &#97' numeric
+@attribute &#44 numeric
+@attribute '&#44 &#32' numeric
+@attribute &#97 numeric
+@attribute &#99 numeric
+@attribute - numeric
+@attribute '- uh' numeric
+@attribute /lyricwiki numeric
+@attribute '/lyricwiki job_exchange' numeric
+@attribute '/lyricwiki job_exchange title=' numeric
+@attribute /special numeric
+@attribute '/special random' numeric
+@attribute '/special random title=' numeric
+@attribute '100\%' numeric
+@attribute '100\% color' numeric
+@attribute '100\% color black' numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute '80\%' numeric
+@attribute '80\% line-height' numeric
+@attribute '80\% line-height 100\%' numeric
+@attribute </b> numeric
+@attribute </i> numeric
+@attribute '</i> i' numeric
+@attribute </i><p>[<span numeric
+@attribute '</i><p>[<span style=' numeric
+@attribute '</i><p>[<span style= font-size' numeric
+@attribute </p> numeric
+@attribute <a numeric
+@attribute '<a href=' numeric
+@attribute '<a href= /special' numeric
+@attribute <div numeric
+@attribute '<div class=' numeric
+@attribute '<div class= lyricsbreak' numeric
+@attribute <i> numeric
+@attribute '<i> good' numeric
+@attribute '<i> good love' numeric
+@attribute <i>unfortunately numeric
+@attribute '<i>unfortunately we' numeric
+@attribute '<i>unfortunately we are' numeric
+@attribute ></div> numeric
+@attribute ><a numeric
+@attribute '><a href=' numeric
+@attribute '><a href= /lyricwiki' numeric
+@attribute >i numeric
+@attribute '>i want' numeric
+@attribute '>i want to' numeric
+@attribute >random numeric
+@attribute '>random page</a>' numeric
+@attribute '>random page</a> </i><p>[<span' numeric
+@attribute ] numeric
+@attribute '] <i>unfortunately' numeric
+@attribute '] <i>unfortunately we' numeric
+@attribute 'a <a' numeric
+@attribute 'a <a href=' numeric
+@attribute 'a bad' numeric
+@attribute 'a ball' numeric
+@attribute 'a ballroom' numeric
+@attribute 'a ballroom blitz' numeric
+@attribute 'a bam' numeric
+@attribute 'a bam bam' numeric
+@attribute 'a big' numeric
+@attribute 'a different' numeric
+@attribute 'a dream' numeric
+@attribute 'a dream that' numeric
+@attribute 'a friend' numeric
+@attribute 'a girl' numeric
+@attribute 'a good' numeric
+@attribute 'a good man' numeric
+@attribute 'a heart' numeric
+@attribute 'a hundred' numeric
+@attribute 'a kiss' numeric
+@attribute 'a light' numeric
+@attribute 'a little' numeric
+@attribute 'a long' numeric
+@attribute 'a long time' numeric
+@attribute 'a look' numeric
+@attribute 'a lot' numeric
+@attribute 'a man' numeric
+@attribute 'a minute' numeric
+@attribute 'a new' numeric
+@attribute 'a new dawn' numeric
+@attribute 'a new day' numeric
+@attribute 'a new life' numeric
+@attribute 'a place' numeric
+@attribute 'a real' numeric
+@attribute 'a reason' numeric
+@attribute 'a reason to' numeric
+@attribute 'a reggae' numeric
+@attribute 'a reggae music' numeric
+@attribute 'a ride' numeric
+@attribute 'a ring' numeric
+@attribute 'a ring on' numeric
+@attribute 'a second' numeric
+@attribute 'a song' numeric
+@attribute 'a stone' numeric
+@attribute 'a stranger' numeric
+@attribute 'a sunday' numeric
+@attribute 'a sunday smile' numeric
+@attribute 'a thousand' numeric
+@attribute 'a thrill' numeric
+@attribute 'a train' numeric
+@attribute 'a way' numeric
+@attribute 'a while' numeric
+@attribute 'a while like' numeric
+@attribute 'a woman' numeric
+@attribute able numeric
+@attribute 'able to' numeric
+@attribute 'able to in' numeric
+@attribute 'about a' numeric
+@attribute 'about a <a' numeric
+@attribute 'about it' numeric
+@attribute 'about me' numeric
+@attribute 'about the' numeric
+@attribute 'about you' numeric
+@attribute 'about you baby' numeric
+@attribute accept numeric
+@attribute 'accept it' numeric
+@attribute 'accept it you' numeric
+@attribute aching numeric
+@attribute 'across the' numeric
+@attribute afraid numeric
+@attribute 'after the' numeric
+@attribute 'again and' numeric
+@attribute 'again i' numeric
+@attribute ago numeric
+@attribute ah numeric
+@attribute 'ah ah' numeric
+@attribute ahead numeric
+@attribute ahh numeric
+@attribute aht numeric
+@attribute 'aht uh' numeric
+@attribute 'aht uh mi' numeric
+@attribute aime numeric
+@attribute 'aime encore' numeric
+@attribute 'aime encore et' numeric
+@attribute 'aime un' numeric
+@attribute 'aime un peu' numeric
+@attribute ain numeric
+@attribute 'ain t' numeric
+@attribute 'ain t got' numeric
+@attribute 'ain t no' numeric
+@attribute air numeric
+@attribute al numeric
+@attribute alabama numeric
+@attribute alarms numeric
+@attribute 'alarms and' numeric
+@attribute 'alarms and no' numeric
+@attribute alive numeric
+@attribute 'all about' numeric
+@attribute 'all alone' numeric
+@attribute 'all along' numeric
+@attribute 'all along the' numeric
+@attribute 'all around' numeric
+@attribute 'all been' numeric
+@attribute 'all been blown' numeric
+@attribute 'all comes' numeric
+@attribute 'all i' numeric
+@attribute 'all i need' numeric
+@attribute 'all i want' numeric
+@attribute 'all in' numeric
+@attribute 'all love' numeric
+@attribute 'all love surround' numeric
+@attribute 'all my' numeric
+@attribute 'all my life' numeric
+@attribute 'all night' numeric
+@attribute 'all night long' numeric
+@attribute 'all of' numeric
+@attribute 'all over' numeric
+@attribute 'all right' numeric
+@attribute 'all that' numeric
+@attribute 'all that you' numeric
+@attribute 'all the' numeric
+@attribute 'all the same' numeric
+@attribute 'all the single' numeric
+@attribute 'all the things' numeric
+@attribute 'all the time' numeric
+@attribute 'all the way' numeric
+@attribute 'all these' numeric
+@attribute 'all those' numeric
+@attribute 'all too' numeric
+@attribute 'all too beautiful' numeric
+@attribute 'all we' numeric
+@attribute 'all you' numeric
+@attribute 'all your' numeric
+@attribute 'almost there' numeric
+@attribute 'almost there almost' numeric
+@attribute 'almost there feel' numeric
+@attribute 'alone again' numeric
+@attribute 'alone and' numeric
+@attribute 'alone i' numeric
+@attribute 'along the' numeric
+@attribute alright numeric
+@attribute 'alright alright' numeric
+@attribute 'alright i' numeric
+@attribute 'alright now' numeric
+@attribute 'alright yeah' numeric
+@attribute 'always in' numeric
+@attribute 'always in this' numeric
+@attribute am numeric
+@attribute 'am i' numeric
+@attribute american numeric
+@attribute 'american woman' numeric
+@attribute amor numeric
+@attribute 'an electric' numeric
+@attribute 'an electric eel' numeric
+@attribute 'an old' numeric
+@attribute 'and a' numeric
+@attribute 'and all' numeric
+@attribute 'and all the' numeric
+@attribute 'and at' numeric
+@attribute 'and be' numeric
+@attribute 'and don' numeric
+@attribute 'and don t' numeric
+@attribute 'and down' numeric
+@attribute 'and even' numeric
+@attribute 'and everybody' numeric
+@attribute 'and get' numeric
+@attribute 'and happiness' numeric
+@attribute 'and happiness love' numeric
+@attribute 'and he' numeric
+@attribute 'and i' numeric
+@attribute 'and i could' numeric
+@attribute 'and i don' numeric
+@attribute 'and i know' numeric
+@attribute 'and i ll' numeric
+@attribute 'and i m' numeric
+@attribute 'and i said' numeric
+@attribute 'and i say' numeric
+@attribute 'and i ve' numeric
+@attribute 'and i want' numeric
+@attribute 'and i was' numeric
+@attribute 'and i will' numeric
+@attribute 'and if' numeric
+@attribute 'and in' numeric
+@attribute 'and in the' numeric
+@attribute 'and in your' numeric
+@attribute 'and it' numeric
+@attribute 'and it s' numeric
+@attribute 'and it turned' numeric
+@attribute 'and make' numeric
+@attribute 'and me' numeric
+@attribute 'and more' numeric
+@attribute 'and my' numeric
+@attribute 'and never' numeric
+@attribute 'and no' numeric
+@attribute 'and no surprises' numeric
+@attribute 'and now' numeric
+@attribute 'and quit' numeric
+@attribute 'and quit it' numeric
+@attribute 'and roll' numeric
+@attribute 'and round' numeric
+@attribute 'and see' numeric
+@attribute 'and she' numeric
+@attribute 'and shout' numeric
+@attribute 'and sing' numeric
+@attribute 'and so' numeric
+@attribute 'and take' numeric
+@attribute 'and that' numeric
+@attribute 'and the' numeric
+@attribute 'and the girl' numeric
+@attribute 'and the man' numeric
+@attribute 'and the pure' numeric
+@attribute 'and then' numeric
+@attribute 'and then i' numeric
+@attribute 'and there' numeric
+@attribute 'and there s' numeric
+@attribute 'and they' numeric
+@attribute 'and this' numeric
+@attribute 'and though' numeric
+@attribute 'and try' numeric
+@attribute 'and we' numeric
+@attribute 'and what' numeric
+@attribute 'and when' numeric
+@attribute 'and when i' numeric
+@attribute 'and who' numeric
+@attribute 'and you' numeric
+@attribute 'and you don' numeric
+@attribute 'and you just' numeric
+@attribute 'and you learn' numeric
+@attribute 'and you re' numeric
+@attribute 'and your' numeric
+@attribute anna numeric
+@attribute answer numeric
+@attribute anxiety numeric
+@attribute 'anxiety it' numeric
+@attribute 'anxiety it had' numeric
+@attribute 'any other' numeric
+@attribute 'any other way' numeric
+@attribute anymore numeric
+@attribute 'anything for' numeric
+@attribute 'anything for you' numeric
+@attribute anyway numeric
+@attribute apart numeric
+@attribute apple numeric
+@attribute 'are all' numeric
+@attribute 'are my' numeric
+@attribute 'are not' numeric
+@attribute 'are not licensed' numeric
+@attribute 'are surely' numeric
+@attribute 'are surely not' numeric
+@attribute 'are the' numeric
+@attribute 'are we' numeric
+@attribute 'are you' numeric
+@attribute arm numeric
+@attribute 'arm came' numeric
+@attribute 'arm came for' numeric
+@attribute arms numeric
+@attribute 'around a' numeric
+@attribute 'around a while' numeric
+@attribute 'around and' numeric
+@attribute 'around me' numeric
+@attribute 'around the' numeric
+@attribute 'as a' numeric
+@attribute 'as i' numeric
+@attribute 'as the' numeric
+@attribute 'as they' numeric
+@attribute 'as we' numeric
+@attribute 'as you' numeric
+@attribute 'ask me' numeric
+@attribute ass numeric
+@attribute 'at all' numeric
+@attribute 'at first' numeric
+@attribute 'at first feel' numeric
+@attribute 'at last' numeric
+@attribute 'at me' numeric
+@attribute 'at night' numeric
+@attribute 'at the' numeric
+@attribute 'at the back' numeric
+@attribute 'at the moment' numeric
+@attribute 'at wal-mart' numeric
+@attribute 'at you' numeric
+@attribute attack numeric
+@attribute 'attack and' numeric
+@attribute 'attack and it' numeric
+@attribute autumn numeric
+@attribute 'autumn in' numeric
+@attribute 'autumn in new' numeric
+@attribute 'autumn leaves' numeric
+@attribute 'away and' numeric
+@attribute 'away fire' numeric
+@attribute 'away fire away' numeric
+@attribute 'away from' numeric
+@attribute 'away from me' numeric
+@attribute 'away i' numeric
+@attribute 'away i m' numeric
+@attribute 'away my' numeric
+@attribute 'away the' numeric
+@attribute 'away what' numeric
+@attribute awhile numeric
+@attribute ba numeric
+@attribute 'ba ba' numeric
+@attribute 'ba ba ba' numeric
+@attribute babe numeric
+@attribute 'babe babe' numeric
+@attribute 'babe babe babe' numeric
+@attribute baby numeric
+@attribute 'baby all' numeric
+@attribute 'baby and' numeric
+@attribute 'baby baby' numeric
+@attribute 'baby baby baby' numeric
+@attribute 'baby but' numeric
+@attribute 'baby but you' numeric
+@attribute 'baby don' numeric
+@attribute 'baby don t' numeric
+@attribute 'baby girl' numeric
+@attribute 'baby girl turn' numeric
+@attribute 'baby hit' numeric
+@attribute 'baby hit or' numeric
+@attribute 'baby i' numeric
+@attribute 'baby i ll' numeric
+@attribute 'baby just' numeric
+@attribute 'baby just cares' numeric
+@attribute 'baby let' numeric
+@attribute 'baby love' numeric
+@attribute 'baby love and' numeric
+@attribute 'baby s' numeric
+@attribute 'baby you' numeric
+@attribute babylon numeric
+@attribute 'babylon dem' numeric
+@attribute 'babylon dem thief' numeric
+@attribute 'back and' numeric
+@attribute 'back for' numeric
+@attribute 'back for indian' numeric
+@attribute 'back home' numeric
+@attribute 'back in' numeric
+@attribute 'back said' numeric
+@attribute 'back said everyone' numeric
+@attribute 'back to' numeric
+@attribute bad numeric
+@attribute bag numeric
+@attribute ball numeric
+@attribute ballroom numeric
+@attribute 'ballroom blitz' numeric
+@attribute 'ballroom blitz and' numeric
+@attribute 'ballroom blitz ballroom' numeric
+@attribute bam numeric
+@attribute 'bam bam' numeric
+@attribute 'bam bam bam' numeric
+@attribute 'bam bam dilla' numeric
+@attribute 'bam dilla' numeric
+@attribute 'bam dilla bam' numeric
+@attribute bandera numeric
+@attribute bang numeric
+@attribute barbra numeric
+@attribute 'barbra streisand' numeric
+@attribute 'barbra streisand oo-oo' numeric
+@attribute basilisk numeric
+@attribute 'basilisk we' numeric
+@attribute 'basilisk we ve' numeric
+@attribute bat numeric
+@attribute 'bat macumba' numeric
+@attribute 'bat macumba ê' numeric
+@attribute 'be a' numeric
+@attribute 'be able' numeric
+@attribute 'be able to' numeric
+@attribute 'be alone' numeric
+@attribute 'be alone again' numeric
+@attribute 'be bulletproof' numeric
+@attribute 'be bulletproof this' numeric
+@attribute 'be careful' numeric
+@attribute 'be free' numeric
+@attribute 'be gone' numeric
+@attribute 'be good' numeric
+@attribute 'be good to' numeric
+@attribute 'be happy' numeric
+@attribute 'be here' numeric
+@attribute 'be here in' numeric
+@attribute 'be in' numeric
+@attribute 'be in love' numeric
+@attribute 'be like' numeric
+@attribute 'be mad' numeric
+@attribute 'be mad once' numeric
+@attribute 'be me' numeric
+@attribute 'be my' numeric
+@attribute 'be so' numeric
+@attribute 'be the' numeric
+@attribute 'be the end' numeric
+@attribute 'be there' numeric
+@attribute 'be your' numeric
+@attribute beach numeric
+@attribute beat numeric
+@attribute 'beat beat' numeric
+@attribute 'beat beat beat' numeric
+@attribute 'beat me' numeric
+@attribute 'beat on' numeric
+@attribute 'beat on the' numeric
+@attribute beautiful numeric
+@attribute 'beautiful it' numeric
+@attribute 'beautiful it s' numeric
+@attribute 'because i' numeric
+@attribute 'because i can' numeric
+@attribute bed numeric
+@attribute 'been a' numeric
+@attribute 'been blown' numeric
+@attribute 'been blown out' numeric
+@attribute 'been getting' numeric
+@attribute 'been getting nowhere' numeric
+@attribute 'been thinking' numeric
+@attribute 'been thinking about' numeric
+@attribute 'been thinkin’' numeric
+@attribute 'been thinkin’ ’bout' numeric
+@attribute beep numeric
+@attribute 'beep beep' numeric
+@attribute 'beep beep beep' numeric
+@attribute 'before i' numeric
+@attribute 'before the' numeric
+@attribute 'before you' numeric
+@attribute 'began to' numeric
+@attribute begin numeric
+@attribute bela numeric
+@attribute believe numeric
+@attribute 'believe in' numeric
+@attribute bells numeric
+@attribute below numeric
+@attribute bend numeric
+@attribute beneath numeric
+@attribute 'best colors' numeric
+@attribute 'best colors that' numeric
+@attribute 'best friend' numeric
+@attribute 'better when' numeric
+@attribute 'better when you' numeric
+@attribute beyond numeric
+@attribute birds numeric
+@attribute bit numeric
+@attribute black numeric
+@attribute 'black ><a' numeric
+@attribute 'black ><a href=' numeric
+@attribute bleed numeric
+@attribute blind numeric
+@attribute blitz numeric
+@attribute 'blitz and' numeric
+@attribute 'blitz and the' numeric
+@attribute 'blitz ballroom' numeric
+@attribute 'blitz ballroom blitz' numeric
+@attribute blood numeric
+@attribute 'blood to' numeric
+@attribute blow numeric
+@attribute blown numeric
+@attribute 'blown out' numeric
+@attribute 'blown out you' numeric
+@attribute blue numeric
+@attribute 'blue i' numeric
+@attribute blues numeric
+@attribute boat numeric
+@attribute body numeric
+@attribute bone numeric
+@attribute bones numeric
+@attribute boogie numeric
+@attribute book numeric
+@attribute boom numeric
+@attribute 'boom boom' numeric
+@attribute 'boom boom boom' numeric
+@attribute born numeric
+@attribute bought numeric
+@attribute bout numeric
+@attribute 'bout a' numeric
+@attribute box numeric
+@attribute boy numeric
+@attribute 'boy i' numeric
+@attribute 'boy i wanna' numeric
+@attribute boys numeric
+@attribute brain numeric
+@attribute 'brain insane' numeric
+@attribute 'brain insane in' numeric
+@attribute brat numeric
+@attribute bravehearts numeric
+@attribute 'bravehearts bravehearts' numeric
+@attribute break numeric
+@attribute 'break you' numeric
+@attribute 'break you off' numeric
+@attribute breaking numeric
+@attribute breaks numeric
+@attribute breath numeric
+@attribute breathing numeric
+@attribute breeze numeric
+@attribute bright numeric
+@attribute bring numeric
+@attribute 'bring the' numeric
+@attribute broke numeric
+@attribute broken numeric
+@attribute brother numeric
+@attribute brought numeric
+@attribute built numeric
+@attribute 'built the' numeric
+@attribute 'built the love' numeric
+@attribute bulletproof numeric
+@attribute 'bulletproof this' numeric
+@attribute 'bulletproof this time' numeric
+@attribute burn numeric
+@attribute burning numeric
+@attribute business numeric
+@attribute busy numeric
+@attribute 'but don' numeric
+@attribute 'but don t' numeric
+@attribute 'but he' numeric
+@attribute 'but i' numeric
+@attribute 'but i ll' numeric
+@attribute 'but i m' numeric
+@attribute 'but if' numeric
+@attribute 'but it' numeric
+@attribute 'but it s' numeric
+@attribute 'but my' numeric
+@attribute 'but not' numeric
+@attribute 'but now' numeric
+@attribute 'but she' numeric
+@attribute 'but the' numeric
+@attribute 'but then' numeric
+@attribute 'but you' numeric
+@attribute 'but you re' numeric
+@attribute butterfly numeric
+@attribute 'butterfly butterfly' numeric
+@attribute 'butterfly butterfly butterfly' numeric
+@attribute buy numeric
+@attribute 'buy buy' numeric
+@attribute 'by my' numeric
+@attribute 'by one' numeric
+@attribute 'by the' numeric
+@attribute bye numeric
+@attribute 'bye bye' numeric
+@attribute 'bye bye bye' numeric
+@attribute 'c est' numeric
+@attribute california numeric
+@attribute call numeric
+@attribute 'call my' numeric
+@attribute 'call my name' numeric
+@attribute called numeric
+@attribute callin numeric
+@attribute 'callin me' numeric
+@attribute calling numeric
+@attribute 'calling calling' numeric
+@attribute calls numeric
+@attribute 'came for' numeric
+@attribute 'came for you' numeric
+@attribute 'can and' numeric
+@attribute 'can and i' numeric
+@attribute 'can be' numeric
+@attribute 'can count' numeric
+@attribute 'can count on' numeric
+@attribute 'can do' numeric
+@attribute 'can feel' numeric
+@attribute 'can hear' numeric
+@attribute 'can hear it' numeric
+@attribute 'can i' numeric
+@attribute 'can i do' numeric
+@attribute 'can make' numeric
+@attribute 'can make it' numeric
+@attribute 'can see' numeric
+@attribute 'can t' numeric
+@attribute 'can t be' numeric
+@attribute 'can t get' numeric
+@attribute 'can t give' numeric
+@attribute 'can t seem' numeric
+@attribute 'can t you' numeric
+@attribute 'can you' numeric
+@attribute candy numeric
+@attribute cannonball numeric
+@attribute car numeric
+@attribute care numeric
+@attribute 'care for' numeric
+@attribute careful numeric
+@attribute cares numeric
+@attribute 'cares for' numeric
+@attribute carpet numeric
+@attribute carried numeric
+@attribute carry numeric
+@attribute cars numeric
+@attribute cash numeric
+@attribute cast numeric
+@attribute catch numeric
+@attribute caught numeric
+@attribute cause numeric
+@attribute 'cause i' numeric
+@attribute 'cause i m' numeric
+@attribute 'cause the' numeric
+@attribute 'cause there' numeric
+@attribute 'cause there s' numeric
+@attribute 'cause they' numeric
+@attribute 'cause you' numeric
+@attribute ce numeric
+@attribute 'ce petit' numeric
+@attribute 'ce petit cœur' numeric
+@attribute cemetery numeric
+@attribute chain numeric
+@attribute chance numeric
+@attribute 'chance to' numeric
+@attribute change numeric
+@attribute 'change itself' numeric
+@attribute 'change itself around' numeric
+@attribute 'change my' numeric
+@attribute 'change my world' numeric
+@attribute 'change the' numeric
+@attribute 'change your' numeric
+@attribute chase numeric
+@attribute 'chase your' numeric
+@attribute 'chase your shadow' numeric
+@attribute che numeric
+@attribute check numeric
+@attribute 'check it' numeric
+@attribute chicken numeric
+@attribute 'chicken i' numeric
+@attribute 'chicken i know' numeric
+@attribute 'chicken you' numeric
+@attribute 'chicken you got' numeric
+@attribute chico numeric
+@attribute child numeric
+@attribute children numeric
+@attribute choose numeric
+@attribute chop numeric
+@attribute chorus numeric
+@attribute christ numeric
+@attribute 'christ pose' numeric
+@attribute christmas numeric
+@attribute city numeric
+@attribute clap numeric
+@attribute class= numeric
+@attribute 'class= lyricsbreak' numeric
+@attribute 'class= lyricsbreak ></div>' numeric
+@attribute clean numeric
+@attribute click numeric
+@attribute climb numeric
+@attribute clock numeric
+@attribute close numeric
+@attribute closer numeric
+@attribute clothes numeric
+@attribute clouds numeric
+@attribute code numeric
+@attribute 'code monkey' numeric
+@attribute 'code monkey like' numeric
+@attribute cold numeric
+@attribute color numeric
+@attribute 'color black' numeric
+@attribute 'color black ><a' numeric
+@attribute colors numeric
+@attribute 'colors that' numeric
+@attribute 'colors that you' numeric
+@attribute colours numeric
+@attribute 'come along' numeric
+@attribute 'come and' numeric
+@attribute 'come around' numeric
+@attribute 'come back' numeric
+@attribute 'come back for' numeric
+@attribute 'come down' numeric
+@attribute 'come home' numeric
+@attribute 'come home home' numeric
+@attribute 'come i' numeric
+@attribute 'come in' numeric
+@attribute 'come on' numeric
+@attribute 'come on and' numeric
+@attribute 'come on baby' numeric
+@attribute 'come on take' numeric
+@attribute 'come the' numeric
+@attribute 'come the nice' numeric
+@attribute 'come to' numeric
+@attribute comes numeric
+@attribute 'comes in' numeric
+@attribute 'comes until' numeric
+@attribute 'comes until it' numeric
+@attribute comin numeric
+@attribute 'comin to' numeric
+@attribute 'comin to break' numeric
+@attribute coming numeric
+@attribute 'coming back' numeric
+@attribute como numeric
+@attribute control numeric
+@attribute conversation numeric
+@attribute cool numeric
+@attribute copacetic numeric
+@attribute 'copacetic and' numeric
+@attribute 'copacetic and you' numeric
+@attribute corner numeric
+@attribute 'corner said' numeric
+@attribute 'corner said boy' numeric
+@attribute cos numeric
+@attribute 'could be' numeric
+@attribute 'could have' numeric
+@attribute 'could ve' numeric
+@attribute 'could ve killed' numeric
+@attribute couldn numeric
+@attribute 'couldn t' numeric
+@attribute count numeric
+@attribute 'count on' numeric
+@attribute 'count on me' numeric
+@attribute course numeric
+@attribute crash numeric
+@attribute crazy numeric
+@attribute creation numeric
+@attribute cried numeric
+@attribute crowd numeric
+@attribute crown numeric
+@attribute cry numeric
+@attribute 'cry out' numeric
+@attribute crying numeric
+@attribute cut numeric
+@attribute cuz numeric
+@attribute 'cuz if' numeric
+@attribute 'cuz if you' numeric
+@attribute cœur numeric
+@attribute 'd be' numeric
+@attribute 'd like' numeric
+@attribute 'd like to' numeric
+@attribute 'd see' numeric
+@attribute da numeric
+@attribute 'da da' numeric
+@attribute 'da da da' numeric
+@attribute 'da doo' numeric
+@attribute daddy numeric
+@attribute 'daddy s' numeric
+@attribute damn numeric
+@attribute dance numeric
+@attribute 'dance dance' numeric
+@attribute 'dance dance dance' numeric
+@attribute 'dance dance i' numeric
+@attribute 'dance i' numeric
+@attribute 'dance i m' numeric
+@attribute 'dance with' numeric
+@attribute 'dance with somebody' numeric
+@attribute dancing numeric
+@attribute 'dancing in' numeric
+@attribute 'dancing in the' numeric
+@attribute danger numeric
+@attribute 'danger </i>' numeric
+@attribute dark numeric
+@attribute 'dark no' numeric
+@attribute 'dark no dawn' numeric
+@attribute darkness numeric
+@attribute darte numeric
+@attribute dat numeric
+@attribute dawn numeric
+@attribute 'dawn it' numeric
+@attribute 'dawn it s' numeric
+@attribute 'dawn no' numeric
+@attribute 'dawn no day' numeric
+@attribute day numeric
+@attribute 'day but' numeric
+@attribute 'day i' numeric
+@attribute 'day i m' numeric
+@attribute 'day is' numeric
+@attribute 'day it' numeric
+@attribute 'day it s' numeric
+@attribute 'day to' numeric
+@attribute days numeric
+@attribute de numeric
+@attribute 'de va' numeric
+@attribute dead numeric
+@attribute dear numeric
+@attribute death numeric
+@attribute dee numeric
+@attribute 'dee da' numeric
+@attribute deep numeric
+@attribute 'deep is' numeric
+@attribute 'deep is your' numeric
+@attribute dem numeric
+@attribute 'dem thief' numeric
+@attribute 'dem thief my' numeric
+@attribute desert numeric
+@attribute desire numeric
+@attribute desperados numeric
+@attribute 'desperados waitin' numeric
+@attribute 'desperados waitin for' numeric
+@attribute destiny numeric
+@attribute di numeric
+@attribute diabolic numeric
+@attribute diamonds numeric
+@attribute 'diamonds on' numeric
+@attribute 'diamonds on the' numeric
+@attribute 'did everything' numeric
+@attribute 'did everything for' numeric
+@attribute 'did i' numeric
+@attribute 'did you' numeric
+@attribute didn numeric
+@attribute 'didn t' numeric
+@attribute 'didn t have' numeric
+@attribute die numeric
+@attribute died numeric
+@attribute dies numeric
+@attribute dig numeric
+@attribute dilla numeric
+@attribute 'dilla bam' numeric
+@attribute 'dilla bam bam' numeric
+@attribute ding numeric
+@attribute dinner numeric
+@attribute dirty numeric
+@attribute disappear numeric
+@attribute display numeric
+@attribute 'display the' numeric
+@attribute 'display the full' numeric
+@attribute 'do all' numeric
+@attribute 'do and' numeric
+@attribute 'do anything' numeric
+@attribute 'do anything for' numeric
+@attribute 'do but' numeric
+@attribute 'do do' numeric
+@attribute 'do do wah' numeric
+@attribute 'do i' numeric
+@attribute 'do is' numeric
+@attribute 'do is love' numeric
+@attribute 'do it' numeric
+@attribute 'do oh' numeric
+@attribute 'do right' numeric
+@attribute 'do right love' numeric
+@attribute 'do that' numeric
+@attribute 'do the' numeric
+@attribute 'do wah' numeric
+@attribute 'do wah doo' numeric
+@attribute 'do what' numeric
+@attribute 'do what you' numeric
+@attribute 'do with' numeric
+@attribute 'do wrong' numeric
+@attribute 'do wrong make' numeric
+@attribute 'do you' numeric
+@attribute 'do you love' numeric
+@attribute doctor numeric
+@attribute 'does it' numeric
+@attribute 'does it feel' numeric
+@attribute 'does it mean' numeric
+@attribute doesn numeric
+@attribute 'doesn t' numeric
+@attribute dog numeric
+@attribute dogs numeric
+@attribute doing numeric
+@attribute don numeric
+@attribute 'don t' numeric
+@attribute 'don t and' numeric
+@attribute 'don t be' numeric
+@attribute 'don t believe' numeric
+@attribute 'don t care' numeric
+@attribute 'don t even' numeric
+@attribute 'don t forget' numeric
+@attribute 'don t get' numeric
+@attribute 'don t go' numeric
+@attribute 'don t i' numeric
+@attribute 'don t know' numeric
+@attribute 'don t mind' numeric
+@attribute 'don t need' numeric
+@attribute 'don t play' numeric
+@attribute 'don t think' numeric
+@attribute 'don t wanna' numeric
+@attribute 'don t want' numeric
+@attribute 'don t worry' numeric
+@attribute 'don t you' numeric
+@attribute dont numeric
+@attribute don’t numeric
+@attribute doo numeric
+@attribute door numeric
+@attribute doubt numeric
+@attribute 'down and' numeric
+@attribute 'down by' numeric
+@attribute 'down down' numeric
+@attribute 'down girl' numeric
+@attribute 'down girl go' numeric
+@attribute 'down i' numeric
+@attribute 'down i gotta' numeric
+@attribute 'down in' numeric
+@attribute 'down on' numeric
+@attribute 'down the' numeric
+@attribute 'down time' numeric
+@attribute 'down time s' numeric
+@attribute 'down to' numeric
+@attribute 'down to the' numeric
+@attribute draining numeric
+@attribute draw numeric
+@attribute dream numeric
+@attribute 'dream about' numeric
+@attribute 'dream that' numeric
+@attribute 'dream that i' numeric
+@attribute dreaming numeric
+@attribute dreams numeric
+@attribute 'dreams and' numeric
+@attribute dressed numeric
+@attribute drink numeric
+@attribute drive numeric
+@attribute 'drive me' numeric
+@attribute driving numeric
+@attribute drugs numeric
+@attribute dry numeric
+@attribute 'each other' numeric
+@attribute 'early in' numeric
+@attribute earth numeric
+@attribute easy numeric
+@attribute eat numeric
+@attribute edit numeric
+@attribute 'edit metadata</a></span>]' numeric
+@attribute 'edit metadata</a></span>] </p>' numeric
+@attribute eel numeric
+@attribute 'eel baby' numeric
+@attribute 'eel baby girl' numeric
+@attribute eight numeric
+@attribute el numeric
+@attribute electric numeric
+@attribute 'electric eel' numeric
+@attribute 'electric eel baby' numeric
+@attribute 'electric feel' numeric
+@attribute 'electric feel i' numeric
+@attribute 'electric feel now' numeric
+@attribute electricity numeric
+@attribute else numeric
+@attribute 'else there' numeric
+@attribute 'else there s' numeric
+@attribute 'else to' numeric
+@attribute 'else to go' numeric
+@attribute em numeric
+@attribute empty numeric
+@attribute en numeric
+@attribute encore numeric
+@attribute 'encore et' numeric
+@attribute 'encore et moi' numeric
+@attribute 'end of' numeric
+@attribute endless numeric
+@attribute esse numeric
+@attribute est numeric
+@attribute et numeric
+@attribute 'et malgré' numeric
+@attribute 'et malgré ça' numeric
+@attribute 'et moi' numeric
+@attribute 'et moi je' numeric
+@attribute eu numeric
+@attribute ev numeric
+@attribute 'ev rybody' numeric
+@attribute 'even if' numeric
+@attribute evening numeric
+@attribute 'every day' numeric
+@attribute 'every girl' numeric
+@attribute 'every time' numeric
+@attribute 'everybody s' numeric
+@attribute 'everybody s got' numeric
+@attribute everyday numeric
+@attribute 'everyone attack' numeric
+@attribute 'everyone attack and' numeric
+@attribute 'everything for' numeric
+@attribute 'everything for you' numeric
+@attribute 'everything i' numeric
+@attribute evil numeric
+@attribute evolution numeric
+@attribute 'evolution proud' numeric
+@attribute 'evolution proud evolution' numeric
+@attribute exactly numeric
+@attribute 'exactly what' numeric
+@attribute exchange numeric
+@attribute 'exchange >i' numeric
+@attribute 'exchange >i want' numeric
+@attribute eye numeric
+@attribute eyes numeric
+@attribute 'eyes and' numeric
+@attribute 'eyes are' numeric
+@attribute 'face and' numeric
+@attribute fade numeric
+@attribute 'fade out' numeric
+@attribute 'fade out fade' numeric
+@attribute fair numeric
+@attribute fake numeric
+@attribute fall numeric
+@attribute 'fall down' numeric
+@attribute 'fall in' numeric
+@attribute 'fall in love' numeric
+@attribute falling numeric
+@attribute 'falling in' numeric
+@attribute 'falling in love' numeric
+@attribute falls numeric
+@attribute family numeric
+@attribute 'family tree' numeric
+@attribute 'far away' numeric
+@attribute fast numeric
+@attribute faster numeric
+@attribute fat numeric
+@attribute father numeric
+@attribute 'father s' numeric
+@attribute 'father s grave' numeric
+@attribute favorite numeric
+@attribute 'favorite song' numeric
+@attribute 'favorite song i' numeric
+@attribute fear numeric
+@attribute feed numeric
+@attribute feel numeric
+@attribute 'feel alright' numeric
+@attribute 'feel i' numeric
+@attribute 'feel i said' numeric
+@attribute 'feel it' numeric
+@attribute 'feel it s' numeric
+@attribute 'feel like' numeric
+@attribute 'feel like to' numeric
+@attribute 'feel like we' numeric
+@attribute 'feel now' numeric
+@attribute 'feel now do' numeric
+@attribute 'feel now electric' numeric
+@attribute 'feel so' numeric
+@attribute 'feel that' numeric
+@attribute 'feel the' numeric
+@attribute 'feel yeah' numeric
+@attribute feelin numeric
+@attribute 'feelin good' numeric
+@attribute feeling numeric
+@attribute feels numeric
+@attribute 'feels like' numeric
+@attribute 'feels so' numeric
+@attribute feet numeric
+@attribute fell numeric
+@attribute fight numeric
+@attribute fill numeric
+@attribute finally numeric
+@attribute 'find a' numeric
+@attribute 'find the' numeric
+@attribute 'find you' numeric
+@attribute fine numeric
+@attribute fingers numeric
+@attribute fire numeric
+@attribute 'fire away' numeric
+@attribute 'fire away fire' numeric
+@attribute 'fire away i' numeric
+@attribute 'first feel' numeric
+@attribute fish numeric
+@attribute five numeric
+@attribute fix numeric
+@attribute floor numeric
+@attribute flowers numeric
+@attribute fly numeric
+@attribute fm numeric
+@attribute 'fm girls' numeric
+@attribute 'fm girls fm' numeric
+@attribute follow numeric
+@attribute font-size numeric
+@attribute 'font-size 80\%' numeric
+@attribute 'font-size 80\% line-height' numeric
+@attribute fool numeric
+@attribute 'for a' numeric
+@attribute 'for a ride' numeric
+@attribute 'for a train' numeric
+@attribute 'for a while' numeric
+@attribute 'for all' numeric
+@attribute 'for indian' numeric
+@attribute 'for indian summer' numeric
+@attribute 'for love' numeric
+@attribute 'for love i' numeric
+@attribute 'for me' numeric
+@attribute 'for me and' numeric
+@attribute 'for my' numeric
+@attribute 'for so' numeric
+@attribute 'for so long' numeric
+@attribute 'for the' numeric
+@attribute 'for the miracle' numeric
+@attribute 'for the night' numeric
+@attribute 'for this' numeric
+@attribute 'for this song' numeric
+@attribute 'for you' numeric
+@attribute 'for you and' numeric
+@attribute 'for you i' numeric
+@attribute 'for your' numeric
+@attribute forever numeric
+@attribute forget numeric
+@attribute 'forget about' numeric
+@attribute 'forget to' numeric
+@attribute fort numeric
+@attribute 'fort et' numeric
+@attribute 'fort et malgré' numeric
+@attribute 'fort mais' numeric
+@attribute 'fort mais il' numeric
+@attribute forth numeric
+@attribute found numeric
+@attribute 'found a' numeric
+@attribute 'found the' numeric
+@attribute 'found the world' numeric
+@attribute free numeric
+@attribute 'free to' numeric
+@attribute freedom numeric
+@attribute friend numeric
+@attribute friends numeric
+@attribute 'from a' numeric
+@attribute 'from me' numeric
+@attribute 'from my' numeric
+@attribute 'from the' numeric
+@attribute 'from the basilisk' numeric
+@attribute 'from your' numeric
+@attribute front numeric
+@attribute fuck numeric
+@attribute fuckin numeric
+@attribute fucking numeric
+@attribute 'full lyrics' numeric
+@attribute 'full lyrics for' numeric
+@attribute 'full of' numeric
+@attribute fun numeric
+@attribute funny numeric
+@attribute future numeric
+@attribute 'future until' numeric
+@attribute 'future until then' numeric
+@attribute game numeric
+@attribute games numeric
+@attribute garden numeric
+@attribute 'gave me' numeric
+@attribute genie numeric
+@attribute gentle numeric
+@attribute 'get a' numeric
+@attribute 'get away' numeric
+@attribute 'get down' numeric
+@attribute 'get down girl' numeric
+@attribute 'get down i' numeric
+@attribute 'get high' numeric
+@attribute 'get it' numeric
+@attribute 'get it you' numeric
+@attribute 'get out' numeric
+@attribute 'get you' numeric
+@attribute 'gets me' numeric
+@attribute 'gets me high' numeric
+@attribute gettin numeric
+@attribute 'gettin started' numeric
+@attribute 'gettin started start-started' numeric
+@attribute getting numeric
+@attribute 'getting nowhere' numeric
+@attribute ghost numeric
+@attribute gimme numeric
+@attribute 'gimme some' numeric
+@attribute 'gimme some more' numeric
+@attribute ginny numeric
+@attribute 'ginny weasley' numeric
+@attribute 'ginny weasley from' numeric
+@attribute girl numeric
+@attribute 'girl go' numeric
+@attribute 'girl go head' numeric
+@attribute 'girl i' numeric
+@attribute 'girl in' numeric
+@attribute 'girl in the' numeric
+@attribute 'girl shock' numeric
+@attribute 'girl shock me' numeric
+@attribute 'girl turn' numeric
+@attribute 'girl turn me' numeric
+@attribute 'girl you' numeric
+@attribute girlfriend numeric
+@attribute girls numeric
+@attribute 'girls fm' numeric
+@attribute 'girls fm girls' numeric
+@attribute 'give a' numeric
+@attribute 'give it' numeric
+@attribute 'give it to' numeric
+@attribute 'give me' numeric
+@attribute 'give me a' numeric
+@attribute 'give them' numeric
+@attribute 'give them no' numeric
+@attribute 'give you' numeric
+@attribute glad numeric
+@attribute glass numeric
+@attribute glowing numeric
+@attribute 'go and' numeric
+@attribute 'go away' numeric
+@attribute 'go for' numeric
+@attribute 'go go' numeric
+@attribute 'go head' numeric
+@attribute 'go head get' numeric
+@attribute 'go i' numeric
+@attribute 'go let' numeric
+@attribute 'go let your' numeric
+@attribute 'go oh' numeric
+@attribute 'go oh please' numeric
+@attribute 'go on' numeric
+@attribute 'go out' numeric
+@attribute 'go take' numeric
+@attribute 'go take some' numeric
+@attribute 'go to' numeric
+@attribute 'go with' numeric
+@attribute 'go with him' numeric
+@attribute god numeric
+@attribute 'god hit' numeric
+@attribute goes numeric
+@attribute 'goes beep' numeric
+@attribute 'goes beep beep' numeric
+@attribute 'goes down' numeric
+@attribute goin numeric
+@attribute 'going to' numeric
+@attribute gold numeric
+@attribute golden numeric
+@attribute gone numeric
+@attribute 'gone and' numeric
+@attribute gonna numeric
+@attribute 'gonna be' numeric
+@attribute 'gonna change' numeric
+@attribute 'gonna change itself' numeric
+@attribute 'gonna change my' numeric
+@attribute 'gonna dance' numeric
+@attribute 'gonna dance with' numeric
+@attribute 'gonna do' numeric
+@attribute 'gonna fall' numeric
+@attribute 'gonna get' numeric
+@attribute 'gonna give' numeric
+@attribute 'gonna leave' numeric
+@attribute 'gonna leave you' numeric
+@attribute 'gonna make' numeric
+@attribute 'gonna sing' numeric
+@attribute 'gonna sing it' numeric
+@attribute 'good for' numeric
+@attribute 'good god' numeric
+@attribute 'good god hit' numeric
+@attribute 'good love' numeric
+@attribute 'good love </i>' numeric
+@attribute 'good man' numeric
+@attribute 'good to' numeric
+@attribute goodbye numeric
+@attribute goodnight numeric
+@attribute 'goodnight goodnight' numeric
+@attribute 'got a' numeric
+@attribute 'got it' numeric
+@attribute 'got me' numeric
+@attribute 'got no' numeric
+@attribute 'got the' numeric
+@attribute 'got the soul' numeric
+@attribute 'got to' numeric
+@attribute 'got to know' numeric
+@attribute 'got to learn' numeric
+@attribute 'got to save' numeric
+@attribute gotta numeric
+@attribute 'gotta be' numeric
+@attribute 'gotta be me' numeric
+@attribute 'gotta go' numeric
+@attribute 'gotta leave' numeric
+@attribute 'gotta leave get' numeric
+@attribute grab numeric
+@attribute grade numeric
+@attribute grass numeric
+@attribute grave numeric
+@attribute gray numeric
+@attribute green numeric
+@attribute grey numeric
+@attribute ground numeric
+@attribute grow numeric
+@attribute growing numeric
+@attribute grown numeric
+@attribute guess numeric
+@attribute guide numeric
+@attribute 'guide you' numeric
+@attribute 'guide you all' numeric
+@attribute gun numeric
+@attribute guru numeric
+@attribute 'guru de' numeric
+@attribute 'guru de va' numeric
+@attribute guy numeric
+@attribute ha numeric
+@attribute 'ha ha' numeric
+@attribute 'had a' numeric
+@attribute 'had me' numeric
+@attribute 'had to' numeric
+@attribute 'had your' numeric
+@attribute hair numeric
+@attribute half numeric
+@attribute hamlet numeric
+@attribute hand numeric
+@attribute 'hand to' numeric
+@attribute hands numeric
+@attribute 'hands off' numeric
+@attribute 'hands off the' numeric
+@attribute hang numeric
+@attribute 'hang around' numeric
+@attribute 'hang around a' numeric
+@attribute hanging numeric
+@attribute happen numeric
+@attribute happened numeric
+@attribute happiness numeric
+@attribute 'happiness love' numeric
+@attribute 'happiness love and' numeric
+@attribute happy numeric
+@attribute hard numeric
+@attribute 'hard and' numeric
+@attribute 'hard to' numeric
+@attribute harm numeric
+@attribute 'has come' numeric
+@attribute hate numeric
+@attribute haunted numeric
+@attribute 'have a' numeric
+@attribute 'have a heart' numeric
+@attribute 'have all' numeric
+@attribute 'have all been' numeric
+@attribute 'have been' numeric
+@attribute 'have to' numeric
+@attribute 'have you' numeric
+@attribute haven numeric
+@attribute 'haven t' numeric
+@attribute 'he can' numeric
+@attribute 'he gets' numeric
+@attribute 'he gets me' numeric
+@attribute 'he got' numeric
+@attribute 'he ll' numeric
+@attribute 'he s' numeric
+@attribute 'he want' numeric
+@attribute 'he want it' numeric
+@attribute head numeric
+@attribute 'head get' numeric
+@attribute 'head get down' numeric
+@attribute 'head to' numeric
+@attribute heads numeric
+@attribute hear numeric
+@attribute 'hear it' numeric
+@attribute 'hear it callin' numeric
+@attribute 'hear me' numeric
+@attribute 'hear that' numeric
+@attribute 'hear that song' numeric
+@attribute 'hear the' numeric
+@attribute heard numeric
+@attribute hearing numeric
+@attribute heart numeric
+@attribute 'heart and' numeric
+@attribute 'heart is' numeric
+@attribute 'heart of' numeric
+@attribute 'heart of the' numeric
+@attribute hearts numeric
+@attribute heat numeric
+@attribute heaven numeric
+@attribute heavy numeric
+@attribute hed numeric
+@attribute 'hed aht' numeric
+@attribute 'hed aht uh' numeric
+@attribute held numeric
+@attribute 'held out' numeric
+@attribute hell numeric
+@attribute help numeric
+@attribute 'help me' numeric
+@attribute 'help you' numeric
+@attribute 'her in' numeric
+@attribute 'her shoes' numeric
+@attribute herb numeric
+@attribute 'herb babylon' numeric
+@attribute 'herb babylon dem' numeric
+@attribute 'herb dem' numeric
+@attribute 'herb dem thief' numeric
+@attribute herbs numeric
+@attribute 'here and' numeric
+@attribute 'here come' numeric
+@attribute 'here come the' numeric
+@attribute 'here in' numeric
+@attribute 'here in the' numeric
+@attribute 'here it' numeric
+@attribute 'here to' numeric
+@attribute 'here we' numeric
+@attribute 'here without' numeric
+@attribute 'here without you' numeric
+@attribute hey numeric
+@attribute 'hey hey' numeric
+@attribute 'hey now' numeric
+@attribute 'hey now in' numeric
+@attribute hide numeric
+@attribute 'high but' numeric
+@attribute 'high but i' numeric
+@attribute 'high grade' numeric
+@attribute 'high he' numeric
+@attribute 'high he gets' numeric
+@attribute 'high i' numeric
+@attribute 'higher than' numeric
+@attribute 'higher than the' numeric
+@attribute highway numeric
+@attribute hill numeric
+@attribute hills numeric
+@attribute 'his heart' numeric
+@attribute 'his life' numeric
+@attribute hit numeric
+@attribute 'hit it' numeric
+@attribute 'hit it and' numeric
+@attribute 'hit or' numeric
+@attribute 'hit or miss' numeric
+@attribute hmm numeric
+@attribute ho numeric
+@attribute hold numeric
+@attribute 'hold me' numeric
+@attribute 'hold you' numeric
+@attribute holding numeric
+@attribute 'holding on' numeric
+@attribute holds numeric
+@attribute home numeric
+@attribute 'home home' numeric
+@attribute 'home home is' numeric
+@attribute 'home i' numeric
+@attribute 'home is' numeric
+@attribute 'home let' numeric
+@attribute 'home let me' numeric
+@attribute honey numeric
+@attribute hope numeric
+@attribute hoped numeric
+@attribute hopefully numeric
+@attribute 'hopefully we' numeric
+@attribute 'hopefully we will' numeric
+@attribute hopin numeric
+@attribute horses numeric
+@attribute hot numeric
+@attribute hours numeric
+@attribute house numeric
+@attribute 'how about' numeric
+@attribute 'how about a' numeric
+@attribute 'how can' numeric
+@attribute 'how deep' numeric
+@attribute 'how deep is' numeric
+@attribute 'how does' numeric
+@attribute 'how does it' numeric
+@attribute 'how i' numeric
+@attribute 'how i feel' numeric
+@attribute 'how to' numeric
+@attribute 'how to live' numeric
+@attribute 'how you' numeric
+@attribute href= numeric
+@attribute 'href= /lyricwiki' numeric
+@attribute 'href= /lyricwiki job_exchange' numeric
+@attribute 'href= /special' numeric
+@attribute 'href= /special random' numeric
+@attribute http numeric
+@attribute hundred numeric
+@attribute hurt numeric
+@attribute 'i ain' numeric
+@attribute 'i ain t' numeric
+@attribute 'i am' numeric
+@attribute 'i been' numeric
+@attribute 'i believe' numeric
+@attribute 'i can' numeric
+@attribute 'i can and' numeric
+@attribute 'i can hear' numeric
+@attribute 'i can t' numeric
+@attribute 'i come' numeric
+@attribute 'i could' numeric
+@attribute 'i couldn' numeric
+@attribute 'i couldn t' numeric
+@attribute 'i d' numeric
+@attribute 'i did' numeric
+@attribute 'i did everything' numeric
+@attribute 'i didn' numeric
+@attribute 'i didn t' numeric
+@attribute 'i do' numeric
+@attribute 'i don' numeric
+@attribute 'i don t' numeric
+@attribute 'i dream' numeric
+@attribute 'i dream about' numeric
+@attribute 'i feel' numeric
+@attribute 'i feel it' numeric
+@attribute 'i feel like' numeric
+@attribute 'i feel yeah' numeric
+@attribute 'i felt' numeric
+@attribute 'i find' numeric
+@attribute 'i find a' numeric
+@attribute 'i found' numeric
+@attribute 'i found a' numeric
+@attribute 'i found the' numeric
+@attribute 'i go' numeric
+@attribute 'i got' numeric
+@attribute 'i got the' numeric
+@attribute 'i gotta' numeric
+@attribute 'i gotta be' numeric
+@attribute 'i gotta go' numeric
+@attribute 'i gotta leave' numeric
+@attribute 'i had' numeric
+@attribute 'i had a' numeric
+@attribute 'i have' numeric
+@attribute 'i haven' numeric
+@attribute 'i haven t' numeric
+@attribute 'i hear' numeric
+@attribute 'i heard' numeric
+@attribute 'i hold' numeric
+@attribute 'i hold you' numeric
+@attribute 'i hope' numeric
+@attribute 'i just' numeric
+@attribute 'i just want' numeric
+@attribute 'i keep' numeric
+@attribute 'i know' numeric
+@attribute 'i know and' numeric
+@attribute 'i know because' numeric
+@attribute 'i know i' numeric
+@attribute 'i know it' numeric
+@attribute 'i know my' numeric
+@attribute 'i know that' numeric
+@attribute 'i know you' numeric
+@attribute 'i left' numeric
+@attribute 'i like' numeric
+@attribute 'i like me' numeric
+@attribute 'i like you' numeric
+@attribute 'i ll' numeric
+@attribute 'i ll be' numeric
+@attribute 'i ll do' numeric
+@attribute 'i ll find' numeric
+@attribute 'i ll go' numeric
+@attribute 'i ll never' numeric
+@attribute 'i ll tell' numeric
+@attribute 'i looked' numeric
+@attribute 'i love' numeric
+@attribute 'i love you' numeric
+@attribute 'i m' numeric
+@attribute 'i m a' numeric
+@attribute 'i m always' numeric
+@attribute 'i m falling' numeric
+@attribute 'i m feelin' numeric
+@attribute 'i m getting' numeric
+@attribute 'i m going' numeric
+@attribute 'i m gonna' numeric
+@attribute 'i m here' numeric
+@attribute 'i m higher' numeric
+@attribute 'i m in' numeric
+@attribute 'i m not' numeric
+@attribute 'i m so' numeric
+@attribute 'i m starting' numeric
+@attribute 'i m still' numeric
+@attribute 'i m the' numeric
+@attribute 'i m too' numeric
+@attribute 'i m with' numeric
+@attribute 'i made' numeric
+@attribute 'i mean' numeric
+@attribute 'i must' numeric
+@attribute 'i need' numeric
+@attribute 'i need is' numeric
+@attribute 'i need to' numeric
+@attribute 'i never' numeric
+@attribute 'i only' numeric
+@attribute 'i put' numeric
+@attribute 'i really' numeric
+@attribute 'i remember' numeric
+@attribute 'i said' numeric
+@attribute 'i said ooh' numeric
+@attribute 'i saw' numeric
+@attribute 'i say' numeric
+@attribute 'i see' numeric
+@attribute 'i see the' numeric
+@attribute 'i should' numeric
+@attribute 'i spend' numeric
+@attribute 'i still' numeric
+@attribute 'i swear' numeric
+@attribute 'i take' numeric
+@attribute 'i tell' numeric
+@attribute 'i think' numeric
+@attribute 'i think about' numeric
+@attribute 'i think i' numeric
+@attribute 'i think it' numeric
+@attribute 'i think that' numeric
+@attribute 'i told' numeric
+@attribute 'i tried' numeric
+@attribute 'i used' numeric
+@attribute 'i used to' numeric
+@attribute 'i ve' numeric
+@attribute 'i ve been' numeric
+@attribute 'i ve got' numeric
+@attribute 'i wanna' numeric
+@attribute 'i wanna be' numeric
+@attribute 'i wanna warn' numeric
+@attribute 'i want' numeric
+@attribute 'i want to' numeric
+@attribute 'i want you' numeric
+@attribute 'i was' numeric
+@attribute 'i will' numeric
+@attribute 'i wish' numeric
+@attribute 'i won' numeric
+@attribute 'i won t' numeric
+@attribute 'i wonder' numeric
+@attribute 'i would' numeric
+@attribute i-i numeric
+@attribute idea numeric
+@attribute 'if i' numeric
+@attribute 'if i had' numeric
+@attribute 'if i m' numeric
+@attribute 'if it' numeric
+@attribute 'if there' numeric
+@attribute 'if there s' numeric
+@attribute 'if we' numeric
+@attribute 'if you' numeric
+@attribute 'if you liked' numeric
+@attribute 'if you re' numeric
+@attribute 'if you take' numeric
+@attribute il numeric
+@attribute 'il m' numeric
+@attribute 'il m aime' numeric
+@attribute 'in a' numeric
+@attribute 'in a place' numeric
+@attribute 'in and' numeric
+@attribute 'in her' numeric
+@attribute 'in his' numeric
+@attribute 'in i' numeric
+@attribute 'in it' numeric
+@attribute 'in love' numeric
+@attribute 'in love with' numeric
+@attribute 'in my' numeric
+@attribute 'in my dreams' numeric
+@attribute 'in need' numeric
+@attribute 'in new' numeric
+@attribute 'in new york' numeric
+@attribute 'in our' numeric
+@attribute 'in st' numeric
+@attribute 'in the' numeric
+@attribute 'in the brain' numeric
+@attribute 'in the corner' numeric
+@attribute 'in the dark' numeric
+@attribute 'in the evening' numeric
+@attribute 'in the eye' numeric
+@attribute 'in the future' numeric
+@attribute 'in the membrane' numeric
+@attribute 'in the morning' numeric
+@attribute 'in the night' numeric
+@attribute 'in the sea' numeric
+@attribute 'in the shade' numeric
+@attribute 'in the shadow' numeric
+@attribute 'in the sky' numeric
+@attribute 'in the street' numeric
+@attribute 'in the sun' numeric
+@attribute 'in this' numeric
+@attribute 'in this twilight' numeric
+@attribute 'in time' numeric
+@attribute 'in to' numeric
+@attribute 'in with' numeric
+@attribute 'in you' numeric
+@attribute 'in your' numeric
+@attribute 'in your head' numeric
+@attribute 'in your heart' numeric
+@attribute 'in your jesus' numeric
+@attribute 'in your mind' numeric
+@attribute indian numeric
+@attribute 'indian summer' numeric
+@attribute 'indian summer we' numeric
+@attribute inna numeric
+@attribute insane numeric
+@attribute 'insane in' numeric
+@attribute 'insane in the' numeric
+@attribute inside numeric
+@attribute 'inside of' numeric
+@attribute 'inside ouutside' numeric
+@attribute 'inside ouutside inside' numeric
+@attribute 'into a' numeric
+@attribute 'into a ballroom' numeric
+@attribute 'into blue' numeric
+@attribute 'into the' numeric
+@attribute 'into the sea' numeric
+@attribute 'into your' numeric
+@attribute 'is a' numeric
+@attribute 'is all' numeric
+@attribute 'is it' numeric
+@attribute 'is just' numeric
+@attribute 'is just a' numeric
+@attribute 'is like' numeric
+@attribute 'is love' numeric
+@attribute 'is love you' numeric
+@attribute 'is my' numeric
+@attribute 'is no' numeric
+@attribute 'is not' numeric
+@attribute 'is on' numeric
+@attribute 'is the' numeric
+@attribute 'is what' numeric
+@attribute 'is when' numeric
+@attribute 'is your' numeric
+@attribute 'is your love' numeric
+@attribute isn numeric
+@attribute 'isn t' numeric
+@attribute 'it a' numeric
+@attribute 'it again' numeric
+@attribute 'it ain' numeric
+@attribute 'it ain t' numeric
+@attribute 'it all' numeric
+@attribute 'it all comes' numeric
+@attribute 'it all night' numeric
+@attribute 'it all the' numeric
+@attribute 'it and' numeric
+@attribute 'it and quit' numeric
+@attribute 'it babe' numeric
+@attribute 'it callin' numeric
+@attribute 'it callin me' numeric
+@attribute 'it comes' numeric
+@attribute 'it copacetic' numeric
+@attribute 'it copacetic and' numeric
+@attribute 'it could' numeric
+@attribute 'it could ve' numeric
+@attribute 'it don' numeric
+@attribute 'it don t' numeric
+@attribute 'it down' numeric
+@attribute 'it ever' numeric
+@attribute 'it feel' numeric
+@attribute 'it feel like' numeric
+@attribute 'it feels' numeric
+@attribute 'it for' numeric
+@attribute 'it from' numeric
+@attribute 'it gets' numeric
+@attribute 'it go' numeric
+@attribute 'it good' numeric
+@attribute 'it had' numeric
+@attribute 'it had me' numeric
+@attribute 'it i' numeric
+@attribute 'it if' numeric
+@attribute 'it if you' numeric
+@attribute 'it in' numeric
+@attribute 'it is' numeric
+@attribute 'it just' numeric
+@attribute 'it like' numeric
+@attribute 'it ll' numeric
+@attribute 'it ll turn' numeric
+@attribute 'it makes' numeric
+@attribute 'it makes me' numeric
+@attribute 'it mean' numeric
+@attribute 'it never' numeric
+@attribute 'it off' numeric
+@attribute 'it on' numeric
+@attribute 'it real' numeric
+@attribute 'it s' numeric
+@attribute 'it s a' numeric
+@attribute 'it s all' numeric
+@attribute 'it s gonna' numeric
+@attribute 'it s it' numeric
+@attribute 'it s just' numeric
+@attribute 'it s nature' numeric
+@attribute 'it s not' numeric
+@attribute 'it s only' numeric
+@attribute 'it s so' numeric
+@attribute 'it s the' numeric
+@attribute 'it s too' numeric
+@attribute 'it s true' numeric
+@attribute 'it s your' numeric
+@attribute 'it so' numeric
+@attribute 'it takes' numeric
+@attribute 'it then' numeric
+@attribute 'it then you' numeric
+@attribute 'it to' numeric
+@attribute 'it to the' numeric
+@attribute 'it to you' numeric
+@attribute 'it took' numeric
+@attribute 'it took seconds' numeric
+@attribute 'it turned' numeric
+@attribute 'it turned into' numeric
+@attribute 'it up' numeric
+@attribute 'it was' numeric
+@attribute 'it was love' numeric
+@attribute 'it will' numeric
+@attribute 'it with' numeric
+@attribute 'it won' numeric
+@attribute 'it won t' numeric
+@attribute 'it you' numeric
+@attribute 'it you keep' numeric
+@attribute 'it you know' numeric
+@attribute 'itself around' numeric
+@attribute it’s numeric
+@attribute i’m numeric
+@attribute i’ma numeric
+@attribute 'i’ma need' numeric
+@attribute 'i’ma need to' numeric
+@attribute jai numeric
+@attribute 'jai guru' numeric
+@attribute 'jai guru de' numeric
+@attribute jazz numeric
+@attribute je numeric
+@attribute 'je t' numeric
+@attribute 'je t aime' numeric
+@attribute jean numeric
+@attribute 'jean genie' numeric
+@attribute jesus numeric
+@attribute 'jesus christ' numeric
+@attribute 'jesus christ pose' numeric
+@attribute job numeric
+@attribute 'job exchange' numeric
+@attribute 'job exchange >i' numeric
+@attribute job_exchange numeric
+@attribute 'job_exchange title=' numeric
+@attribute 'job_exchange title= lyricwiki' numeric
+@attribute john numeric
+@attribute june numeric
+@attribute 'just a' numeric
+@attribute 'just as' numeric
+@attribute 'just can' numeric
+@attribute 'just can t' numeric
+@attribute 'just cares' numeric
+@attribute 'just cares for' numeric
+@attribute 'just don' numeric
+@attribute 'just don t' numeric
+@attribute 'just gonna' numeric
+@attribute 'just gonna change' numeric
+@attribute 'just hang' numeric
+@attribute 'just hang around' numeric
+@attribute 'just like' numeric
+@attribute 'just one' numeric
+@attribute 'just somebody' numeric
+@attribute 'just somebody that' numeric
+@attribute 'just the' numeric
+@attribute 'just to' numeric
+@attribute 'just want' numeric
+@attribute 'just want to' numeric
+@attribute 'keep it' numeric
+@attribute 'keep it copacetic' numeric
+@attribute 'keep my' numeric
+@attribute 'keep my hands' numeric
+@attribute 'keep on' numeric
+@attribute kid numeric
+@attribute kids numeric
+@attribute kill numeric
+@attribute killed numeric
+@attribute 'killed me' numeric
+@attribute 'kind of' numeric
+@attribute 'kind of girl' numeric
+@attribute king numeric
+@attribute kings numeric
+@attribute 'kings of' numeric
+@attribute 'kings of speed' numeric
+@attribute kiss numeric
+@attribute kisses numeric
+@attribute knees numeric
+@attribute 'know and' numeric
+@attribute 'know because' numeric
+@attribute 'know because i' numeric
+@attribute 'know how' numeric
+@attribute 'know how i' numeric
+@attribute 'know i' numeric
+@attribute 'know i know' numeric
+@attribute 'know i m' numeric
+@attribute 'know it' numeric
+@attribute 'know it s' numeric
+@attribute 'know my' numeric
+@attribute 'know my chicken' numeric
+@attribute 'know somebody' numeric
+@attribute 'know that' numeric
+@attribute 'know that you' numeric
+@attribute 'know the' numeric
+@attribute 'know these' numeric
+@attribute 'know these colors' numeric
+@attribute 'know they' numeric
+@attribute 'know what' numeric
+@attribute 'know what i' numeric
+@attribute 'know where' numeric
+@attribute 'know you' numeric
+@attribute 'know you can' numeric
+@attribute 'know you re' numeric
+@attribute 'know your' numeric
+@attribute 'know your chicken' numeric
+@attribute koo numeric
+@attribute 'koo cannonball' numeric
+@attribute 'koo koo' numeric
+@attribute 'koo koo cannonball' numeric
+@attribute la numeric
+@attribute 'la la' numeric
+@attribute 'la la la' numeric
+@attribute ladies numeric
+@attribute 'ladies all' numeric
+@attribute 'ladies all the' numeric
+@attribute lady numeric
+@attribute land numeric
+@attribute 'land is' numeric
+@attribute 'land this' numeric
+@attribute 'land this land' numeric
+@attribute 'last time' numeric
+@attribute late numeric
+@attribute 'late at' numeric
+@attribute 'late at night' numeric
+@attribute laugh numeric
+@attribute laughing numeric
+@attribute lay numeric
+@attribute le numeric
+@attribute lead numeric
+@attribute learn numeric
+@attribute 'learn sometime' numeric
+@attribute 'learn sometime everybody' numeric
+@attribute 'learn to' numeric
+@attribute 'learn to accept' numeric
+@attribute leave numeric
+@attribute 'leave get' numeric
+@attribute 'leave get down' numeric
+@attribute 'leave me' numeric
+@attribute 'leave you' numeric
+@attribute 'leave you woman' numeric
+@attribute leaves numeric
+@attribute leaving numeric
+@attribute left numeric
+@attribute 'left me' numeric
+@attribute 'left me in' numeric
+@attribute 'let go' numeric
+@attribute 'let it' numeric
+@attribute 'let me' numeric
+@attribute 'let me be' numeric
+@attribute 'let me come' numeric
+@attribute 'let me hear' numeric
+@attribute 'let me tell' numeric
+@attribute 'let s' numeric
+@attribute 'let s go' numeric
+@attribute 'let the' numeric
+@attribute 'let you' numeric
+@attribute 'let you down' numeric
+@attribute 'let your' numeric
+@attribute licensed numeric
+@attribute 'licensed to' numeric
+@attribute 'licensed to display' numeric
+@attribute lie numeric
+@attribute lies numeric
+@attribute life numeric
+@attribute 'life for' numeric
+@attribute 'life for me' numeric
+@attribute 'life i' numeric
+@attribute 'life is' numeric
+@attribute 'life there' numeric
+@attribute light numeric
+@attribute 'light of' numeric
+@attribute 'light within' numeric
+@attribute 'light within you' numeric
+@attribute lightning numeric
+@attribute lights numeric
+@attribute 'lights lights' numeric
+@attribute 'lights that' numeric
+@attribute 'like a' numeric
+@attribute 'like an' numeric
+@attribute 'like an electric' numeric
+@attribute 'like i' numeric
+@attribute 'like i m' numeric
+@attribute 'like it' numeric
+@attribute 'like it s' numeric
+@attribute 'like me' numeric
+@attribute 'like me so' numeric
+@attribute 'like that' numeric
+@attribute 'like the' numeric
+@attribute 'like this' numeric
+@attribute 'like this i' numeric
+@attribute 'like to' numeric
+@attribute 'like to sit' numeric
+@attribute 'like we' numeric
+@attribute 'like we ve' numeric
+@attribute 'like you' numeric
+@attribute 'like you re' numeric
+@attribute 'like you so' numeric
+@attribute 'like you want' numeric
+@attribute liked numeric
+@attribute 'liked it' numeric
+@attribute 'liked it then' numeric
+@attribute likes numeric
+@attribute 'likes to' numeric
+@attribute limit numeric
+@attribute line numeric
+@attribute line-height numeric
+@attribute 'line-height 100\%' numeric
+@attribute 'line-height 100\% color' numeric
+@attribute lines numeric
+@attribute lips numeric
+@attribute listen numeric
+@attribute little numeric
+@attribute live numeric
+@attribute lives numeric
+@attribute livin numeric
+@attribute living numeric
+@attribute 'living in' numeric
+@attribute 'living in a' numeric
+@attribute ll numeric
+@attribute 'll be' numeric
+@attribute 'll be bulletproof' numeric
+@attribute 'll come' numeric
+@attribute 'll come back' numeric
+@attribute 'll do' numeric
+@attribute 'll do anything' numeric
+@attribute 'll find' numeric
+@attribute 'll find you' numeric
+@attribute 'll get' numeric
+@attribute 'll go' numeric
+@attribute 'll make' numeric
+@attribute 'll make you' numeric
+@attribute 'll meet' numeric
+@attribute 'll never' numeric
+@attribute 'll never be' numeric
+@attribute 'll take' numeric
+@attribute 'll tell' numeric
+@attribute 'll tell you' numeric
+@attribute 'll turn' numeric
+@attribute 'll turn into' numeric
+@attribute load numeric
+@attribute lonely numeric
+@attribute 'long i' numeric
+@attribute 'long i m' numeric
+@attribute 'long time' numeric
+@attribute 'long time sun' numeric
+@attribute look numeric
+@attribute 'look at' numeric
+@attribute 'look at you' numeric
+@attribute 'look for' numeric
+@attribute 'look look' numeric
+@attribute 'look look me' numeric
+@attribute 'look me' numeric
+@attribute 'look me in' numeric
+@attribute looked numeric
+@attribute lookin numeric
+@attribute 'lookin for' numeric
+@attribute 'lookin for love' numeric
+@attribute looking numeric
+@attribute 'looking for' numeric
+@attribute looks numeric
+@attribute loose numeric
+@attribute lord numeric
+@attribute lose numeric
+@attribute 'lose or' numeric
+@attribute 'lose or let' numeric
+@attribute 'lose your' numeric
+@attribute 'lose your love' numeric
+@attribute losing numeric
+@attribute 'losing you' numeric
+@attribute 'losing you re' numeric
+@attribute loss numeric
+@attribute lost numeric
+@attribute lot numeric
+@attribute lots numeric
+@attribute 'lots of' numeric
+@attribute loud numeric
+@attribute love numeric
+@attribute 'love </i>' numeric
+@attribute 'love and' numeric
+@attribute 'love and happiness' numeric
+@attribute 'love at' numeric
+@attribute 'love at first' numeric
+@attribute 'love i' numeric
+@attribute 'love i don' numeric
+@attribute 'love i say' numeric
+@attribute 'love is' numeric
+@attribute 'love ll' numeric
+@attribute 'love ll make' numeric
+@attribute 'love love' numeric
+@attribute 'love love love' numeric
+@attribute 'love me' numeric
+@attribute 'love surround' numeric
+@attribute 'love surround you' numeric
+@attribute 'love that' numeric
+@attribute 'love the' numeric
+@attribute 'love to' numeric
+@attribute 'love who' numeric
+@attribute 'love who built' numeric
+@attribute 'love who do' numeric
+@attribute 'love with' numeric
+@attribute 'love with you' numeric
+@attribute 'love with your' numeric
+@attribute 'love you' numeric
+@attribute 'love you i' numeric
+@attribute 'love your' numeric
+@attribute loved numeric
+@attribute lover numeric
+@attribute loves numeric
+@attribute 'loves the' numeric
+@attribute 'loves the sun' numeric
+@attribute lovin numeric
+@attribute low numeric
+@attribute lucky numeric
+@attribute lunch numeric
+@attribute lyrics numeric
+@attribute 'lyrics for' numeric
+@attribute 'lyrics for this' numeric
+@attribute lyricsbreak numeric
+@attribute 'lyricsbreak ></div>' numeric
+@attribute lyricwiki numeric
+@attribute 'lyricwiki job' numeric
+@attribute 'lyricwiki job exchange' numeric
+@attribute 'm a' numeric
+@attribute 'm aime' numeric
+@attribute 'm aime encore' numeric
+@attribute 'm always' numeric
+@attribute 'm always in' numeric
+@attribute 'm falling' numeric
+@attribute 'm falling in' numeric
+@attribute 'm feelin' numeric
+@attribute 'm feelin good' numeric
+@attribute 'm getting' numeric
+@attribute 'm going' numeric
+@attribute 'm gonna' numeric
+@attribute 'm gonna dance' numeric
+@attribute 'm gonna leave' numeric
+@attribute 'm gonna sing' numeric
+@attribute 'm here' numeric
+@attribute 'm here without' numeric
+@attribute 'm higher' numeric
+@attribute 'm higher than' numeric
+@attribute 'm in' numeric
+@attribute 'm in love' numeric
+@attribute 'm not' numeric
+@attribute 'm so' numeric
+@attribute 'm starting' numeric
+@attribute 'm starting over' numeric
+@attribute 'm still' numeric
+@attribute 'm the' numeric
+@attribute 'm too' numeric
+@attribute 'm too high' numeric
+@attribute 'm with' numeric
+@attribute 'm with you' numeric
+@attribute ma numeric
+@attribute machine numeric
+@attribute macumba numeric
+@attribute 'macumba ê' numeric
+@attribute 'macumba ê ê' numeric
+@attribute mad numeric
+@attribute 'mad once' numeric
+@attribute 'mad once you' numeric
+@attribute 'made for' numeric
+@attribute 'made me' numeric
+@attribute magic numeric
+@attribute mais numeric
+@attribute 'mais il' numeric
+@attribute 'mais il m' numeric
+@attribute 'make it' numeric
+@attribute 'make me' numeric
+@attribute 'make my' numeric
+@attribute 'make the' numeric
+@attribute 'make you' numeric
+@attribute 'make you do' numeric
+@attribute 'make you feel' numeric
+@attribute 'make you mine' numeric
+@attribute 'make you wanna' numeric
+@attribute makes numeric
+@attribute 'makes me' numeric
+@attribute 'makes me feel' numeric
+@attribute makin numeric
+@attribute malgré numeric
+@attribute 'malgré ça' numeric
+@attribute 'malgré ça il' numeric
+@attribute mama numeric
+@attribute 'man at' numeric
+@attribute 'man at the' numeric
+@attribute 'man i' numeric
+@attribute map numeric
+@attribute mari-marijuana numeric
+@attribute marry numeric
+@attribute mas numeric
+@attribute matter numeric
+@attribute 'may the' numeric
+@attribute 'may the long' numeric
+@attribute maybe numeric
+@attribute 'maybe it' numeric
+@attribute 'maybe it s' numeric
+@attribute 'me a' numeric
+@attribute 'me a reason' numeric
+@attribute 'me all' numeric
+@attribute 'me and' numeric
+@attribute 'me and i' numeric
+@attribute 'me and you' numeric
+@attribute 'me away' numeric
+@attribute 'me away and' numeric
+@attribute 'me baby' numeric
+@attribute 'me back' numeric
+@attribute 'me be' numeric
+@attribute 'me but' numeric
+@attribute 'me by' numeric
+@attribute 'me come' numeric
+@attribute 'me come home' numeric
+@attribute 'me crazy' numeric
+@attribute 'me don' numeric
+@attribute 'me don t' numeric
+@attribute 'me down' numeric
+@attribute 'me feel' numeric
+@attribute 'me for' numeric
+@attribute 'me for a' numeric
+@attribute 'me hear' numeric
+@attribute 'me hear that' numeric
+@attribute 'me high' numeric
+@attribute 'me high he' numeric
+@attribute 'me home' numeric
+@attribute 'me home i' numeric
+@attribute 'me how' numeric
+@attribute 'me how to' numeric
+@attribute 'me i' numeric
+@attribute 'me i ll' numeric
+@attribute 'me i m' numeric
+@attribute 'me if' numeric
+@attribute 'me in' numeric
+@attribute 'me in my' numeric
+@attribute 'me in the' numeric
+@attribute 'me it' numeric
+@attribute 'me like' numeric
+@attribute 'me like an' numeric
+@attribute 'me like i' numeric
+@attribute 'me my' numeric
+@attribute 'me now' numeric
+@attribute 'me oh' numeric
+@attribute 'me on' numeric
+@attribute 'me on with' numeric
+@attribute 'me out' numeric
+@attribute 'me so' numeric
+@attribute 'me so much' numeric
+@attribute 'me take' numeric
+@attribute 'me tell' numeric
+@attribute 'me tell you' numeric
+@attribute 'me that' numeric
+@attribute 'me the' numeric
+@attribute 'me this' numeric
+@attribute 'me to' numeric
+@attribute 'me to the' numeric
+@attribute 'me what' numeric
+@attribute 'me who' numeric
+@attribute 'me why' numeric
+@attribute 'me with' numeric
+@attribute 'me yeah' numeric
+@attribute 'me you' numeric
+@attribute mean numeric
+@attribute 'mean to' numeric
+@attribute means numeric
+@attribute meant numeric
+@attribute meet numeric
+@attribute 'meet me' numeric
+@attribute 'meet you' numeric
+@attribute membrane numeric
+@attribute memories numeric
+@attribute memory numeric
+@attribute met numeric
+@attribute metadata</a></span>] numeric
+@attribute 'metadata</a></span>] </p>' numeric
+@attribute meu numeric
+@attribute mi numeric
+@attribute 'mi hed' numeric
+@attribute 'mi hed aht' numeric
+@attribute middle numeric
+@attribute 'middle of' numeric
+@attribute mile numeric
+@attribute miles numeric
+@attribute million numeric
+@attribute mind numeric
+@attribute 'mind i' numeric
+@attribute 'mind i think' numeric
+@attribute 'mind if' numeric
+@attribute 'mind if you' numeric
+@attribute mine numeric
+@attribute 'mine i' numeric
+@attribute minute numeric
+@attribute miracle numeric
+@attribute miss numeric
+@attribute moan numeric
+@attribute 'moan for' numeric
+@attribute 'moan for love' numeric
+@attribute modern numeric
+@attribute moi numeric
+@attribute 'moi je' numeric
+@attribute 'moi je t' numeric
+@attribute moment numeric
+@attribute 'moment hopefully' numeric
+@attribute 'moment hopefully we' numeric
+@attribute 'moment out' numeric
+@attribute 'moment out i' numeric
+@attribute money numeric
+@attribute monkey numeric
+@attribute 'monkey like' numeric
+@attribute monochrome numeric
+@attribute monster numeric
+@attribute moon numeric
+@attribute 'moon rising' numeric
+@attribute 'moon they' numeric
+@attribute 'moon they have' numeric
+@attribute 'more and' numeric
+@attribute 'more and more' numeric
+@attribute 'more i' numeric
+@attribute 'more than' numeric
+@attribute 'more to' numeric
+@attribute 'more you' numeric
+@attribute 'more you just' numeric
+@attribute mornin numeric
+@attribute 'mornin sad' numeric
+@attribute 'mornin sad mornin' numeric
+@attribute morning numeric
+@attribute mother numeric
+@attribute mountain numeric
+@attribute mountains numeric
+@attribute mouth numeric
+@attribute move numeric
+@attribute moving numeric
+@attribute 'much better' numeric
+@attribute 'much better when' numeric
+@attribute music numeric
+@attribute 'must be' numeric
+@attribute 'my baby' numeric
+@attribute 'my baby don' numeric
+@attribute 'my baby just' numeric
+@attribute 'my back' numeric
+@attribute 'my best' numeric
+@attribute 'my best friend' numeric
+@attribute 'my chicken' numeric
+@attribute 'my chicken you' numeric
+@attribute 'my dreams' numeric
+@attribute 'my eyes' numeric
+@attribute 'my face' numeric
+@attribute 'my father' numeric
+@attribute 'my feet' numeric
+@attribute 'my friends' numeric
+@attribute 'my hand' numeric
+@attribute 'my hands' numeric
+@attribute 'my hands off' numeric
+@attribute 'my head' numeric
+@attribute 'my heart' numeric
+@attribute 'my herb' numeric
+@attribute 'my herb babylon' numeric
+@attribute 'my herb dem' numeric
+@attribute 'my life' numeric
+@attribute 'my life there' numeric
+@attribute 'my lonely' numeric
+@attribute 'my love' numeric
+@attribute 'my mind' numeric
+@attribute 'my my' numeric
+@attribute 'my my my' numeric
+@attribute 'my name' numeric
+@attribute 'my own' numeric
+@attribute 'my skin' numeric
+@attribute 'my soul' numeric
+@attribute 'my tears' numeric
+@attribute 'my way' numeric
+@attribute 'my world' numeric
+@attribute na numeric
+@attribute 'na na' numeric
+@attribute 'na na na' numeric
+@attribute 'na na ta' numeric
+@attribute 'na ta' numeric
+@attribute 'na ta na' numeric
+@attribute nah numeric
+@attribute naked numeric
+@attribute 'naked i' numeric
+@attribute 'naked i like' numeric
+@attribute name numeric
+@attribute nancy numeric
+@attribute nation numeric
+@attribute nature numeric
+@attribute 'nature s' numeric
+@attribute 'nature s way' numeric
+@attribute ne numeric
+@attribute near numeric
+@attribute 'need a' numeric
+@attribute 'need is' numeric
+@attribute 'need to' numeric
+@attribute 'need to see' numeric
+@attribute 'need your' numeric
+@attribute 'never be' numeric
+@attribute 'never be alone' numeric
+@attribute 'never call' numeric
+@attribute 'never call my' numeric
+@attribute 'never comes' numeric
+@attribute 'never comes until' numeric
+@attribute 'never get' numeric
+@attribute 'never gonna' numeric
+@attribute 'never loved' numeric
+@attribute 'never never' numeric
+@attribute 'new dawn' numeric
+@attribute 'new dawn it' numeric
+@attribute 'new day' numeric
+@attribute 'new day it' numeric
+@attribute 'new life' numeric
+@attribute 'new life for' numeric
+@attribute 'new moon' numeric
+@attribute 'new moon rising' numeric
+@attribute 'new york' numeric
+@attribute news numeric
+@attribute 'next to' numeric
+@attribute nice numeric
+@attribute nicholas numeric
+@attribute niggas numeric
+@attribute night numeric
+@attribute 'night and' numeric
+@attribute 'night i' numeric
+@attribute 'night long' numeric
+@attribute 'night long i' numeric
+@attribute nights numeric
+@attribute 'no alarms' numeric
+@attribute 'no alarms and' numeric
+@attribute 'no dawn' numeric
+@attribute 'no dawn no' numeric
+@attribute 'no day' numeric
+@attribute 'no day i' numeric
+@attribute 'no good' numeric
+@attribute 'no more' numeric
+@attribute 'no more you' numeric
+@attribute 'no no' numeric
+@attribute 'no no no' numeric
+@attribute 'no one' numeric
+@attribute 'no surprises' numeric
+@attribute 'no surprises no' numeric
+@attribute 'no way' numeric
+@attribute 'nobody just' numeric
+@attribute 'nobody just like' numeric
+@attribute none numeric
+@attribute nos numeric
+@attribute 'not a' numeric
+@attribute 'not enough' numeric
+@attribute 'not for' numeric
+@attribute 'not licensed' numeric
+@attribute 'not licensed to' numeric
+@attribute 'not the' numeric
+@attribute 'not the best' numeric
+@attribute 'not to' numeric
+@attribute 'nothing but' numeric
+@attribute 'nothing else' numeric
+@attribute 'nothing else there' numeric
+@attribute 'nothing left' numeric
+@attribute 'nothing s' numeric
+@attribute 'nothing s gonna' numeric
+@attribute 'nothing to' numeric
+@attribute 'now and' numeric
+@attribute 'now baby' numeric
+@attribute 'now do' numeric
+@attribute 'now do what' numeric
+@attribute 'now electric' numeric
+@attribute 'now electric feel' numeric
+@attribute 'now i' numeric
+@attribute 'now i think' numeric
+@attribute 'now in' numeric
+@attribute 'now in the' numeric
+@attribute 'now it' numeric
+@attribute 'now it s' numeric
+@attribute 'now now' numeric
+@attribute 'now that' numeric
+@attribute 'now the' numeric
+@attribute 'now you' numeric
+@attribute 'now you re' numeric
+@attribute 'nowhere else' numeric
+@attribute 'nowhere else to' numeric
+@attribute 'number one' numeric
+@attribute nurse numeric
+@attribute não numeric
+@attribute 'o clock' numeric
+@attribute ocean numeric
+@attribute 'of a' numeric
+@attribute 'of all' numeric
+@attribute 'of girl' numeric
+@attribute 'of her' numeric
+@attribute 'of her shoes' numeric
+@attribute 'of here' numeric
+@attribute 'of it' numeric
+@attribute 'of it all' numeric
+@attribute 'of love' numeric
+@attribute 'of me' numeric
+@attribute 'of my' numeric
+@attribute 'of our' numeric
+@attribute 'of speed' numeric
+@attribute 'of the' numeric
+@attribute 'of the night' numeric
+@attribute 'of the sun' numeric
+@attribute 'of this' numeric
+@attribute 'of time' numeric
+@attribute 'of us' numeric
+@attribute 'of white' numeric
+@attribute 'of you' numeric
+@attribute 'of your' numeric
+@attribute 'of your family' numeric
+@attribute 'of your heart' numeric
+@attribute 'of your time' numeric
+@attribute 'off all' numeric
+@attribute 'off off' numeric
+@attribute 'off the' numeric
+@attribute 'off the wheel' numeric
+@attribute 'off we' numeric
+@attribute 'off we gettin' numeric
+@attribute og numeric
+@attribute oh numeric
+@attribute 'oh baby' numeric
+@attribute 'oh baby love' numeric
+@attribute 'oh home' numeric
+@attribute 'oh home let' numeric
+@attribute 'oh i' numeric
+@attribute 'oh i m' numeric
+@attribute 'oh mama' numeric
+@attribute 'oh my' numeric
+@attribute 'oh no' numeric
+@attribute 'oh oh' numeric
+@attribute 'oh oh oh' numeric
+@attribute 'oh oh ooh' numeric
+@attribute 'oh ooh' numeric
+@attribute 'oh ooh oh' numeric
+@attribute 'oh please' numeric
+@attribute 'oh please stay' numeric
+@attribute 'oh the' numeric
+@attribute 'oh to' numeric
+@attribute 'oh to be' numeric
+@attribute 'oh yeah' numeric
+@attribute 'oh yeah it' numeric
+@attribute 'oh yeah oh' numeric
+@attribute 'oh yeah yeah' numeric
+@attribute 'oh you' numeric
+@attribute 'oh you can' numeric
+@attribute ohh numeric
+@attribute ok numeric
+@attribute okay numeric
+@attribute 'on a' numeric
+@attribute 'on and' numeric
+@attribute 'on baby' numeric
+@attribute 'on his' numeric
+@attribute 'on i' numeric
+@attribute 'on it' numeric
+@attribute 'on it don' numeric
+@attribute 'on it if' numeric
+@attribute 'on may' numeric
+@attribute 'on may the' numeric
+@attribute 'on me' numeric
+@attribute 'on my' numeric
+@attribute 'on take' numeric
+@attribute 'on take me' numeric
+@attribute 'on the' numeric
+@attribute 'on the brat' numeric
+@attribute 'on the floor' numeric
+@attribute 'on the moon' numeric
+@attribute 'on the phone' numeric
+@attribute 'on the soles' numeric
+@attribute 'on the storm' numeric
+@attribute 'on the tree' numeric
+@attribute 'on to' numeric
+@attribute 'on with' numeric
+@attribute 'on with your' numeric
+@attribute 'on you' numeric
+@attribute 'on your' numeric
+@attribute 'once again' numeric
+@attribute 'once you' numeric
+@attribute 'once you see' numeric
+@attribute 'one and' numeric
+@attribute 'one by' numeric
+@attribute 'one by one' numeric
+@attribute 'one day' numeric
+@attribute 'one for' numeric
+@attribute 'one i' numeric
+@attribute 'one more' numeric
+@attribute 'one of' numeric
+@attribute 'one thing' numeric
+@attribute ones numeric
+@attribute 'only i' numeric
+@attribute 'only one' numeric
+@attribute 'only you' numeric
+@attribute 'only you and' numeric
+@attribute onto numeric
+@attribute oo-oo numeric
+@attribute 'oo-oo oo-oo' numeric
+@attribute 'oo-oo oo-oo who-oo-oo' numeric
+@attribute 'oo-oo who-oo-oo' numeric
+@attribute 'oo-oo who-oo-oo whooo-oo' numeric
+@attribute 'oo-oo whooo-oo' numeric
+@attribute 'oo-oo whooo-oo oo-oo' numeric
+@attribute oogie numeric
+@attribute 'oogie oogie' numeric
+@attribute 'oogie oogie oogie' numeric
+@attribute ooh numeric
+@attribute 'ooh girl' numeric
+@attribute 'ooh girl shock' numeric
+@attribute 'ooh oh' numeric
+@attribute 'ooh oh oh' numeric
+@attribute 'ooh ooh' numeric
+@attribute ooh-ah numeric
+@attribute oooh numeric
+@attribute 'oooh oooh' numeric
+@attribute 'open up' numeric
+@attribute 'open up your' numeric
+@attribute 'or let' numeric
+@attribute 'or let you' numeric
+@attribute 'or miss' numeric
+@attribute 'other way' numeric
+@attribute 'other way any' numeric
+@attribute ourselves numeric
+@attribute 'out again' numeric
+@attribute 'out all' numeric
+@attribute 'out and' numeric
+@attribute 'out fade' numeric
+@attribute 'out fade out' numeric
+@attribute 'out for' numeric
+@attribute 'out i' numeric
+@attribute 'out i don' numeric
+@attribute 'out in' numeric
+@attribute 'out in the' numeric
+@attribute 'out of' numeric
+@attribute 'out of here' numeric
+@attribute 'out on' numeric
+@attribute 'out the' numeric
+@attribute 'out there' numeric
+@attribute 'out to' numeric
+@attribute 'out you' numeric
+@attribute 'out you left' numeric
+@attribute outside numeric
+@attribute ouutside numeric
+@attribute 'ouutside inside' numeric
+@attribute 'ouutside inside ouutside' numeric
+@attribute 'over and' numeric
+@attribute own numeric
+@attribute 'own i' numeric
+@attribute pa numeric
+@attribute pack numeric
+@attribute page</a> numeric
+@attribute 'page</a> </i><p>[<span' numeric
+@attribute 'page</a> </i><p>[<span style=' numeric
+@attribute pain numeric
+@attribute palm numeric
+@attribute para numeric
+@attribute 'para darte' numeric
+@attribute park numeric
+@attribute 'part of' numeric
+@attribute party numeric
+@attribute pass numeric
+@attribute past numeric
+@attribute pathetic numeric
+@attribute 'pathetic and' numeric
+@attribute 'pathetic and you' numeric
+@attribute pay numeric
+@attribute paz numeric
+@attribute peace numeric
+@attribute people numeric
+@attribute perfect numeric
+@attribute personality numeric
+@attribute pessoas numeric
+@attribute petit numeric
+@attribute 'petit cœur' numeric
+@attribute peu numeric
+@attribute 'peu plus' numeric
+@attribute 'peu plus fort' numeric
+@attribute phone numeric
+@attribute pick numeric
+@attribute 'pick up' numeric
+@attribute picture numeric
+@attribute pie numeric
+@attribute piece numeric
+@attribute 'piece of' numeric
+@attribute 'place where' numeric
+@attribute plastic numeric
+@attribute play numeric
+@attribute 'play no' numeric
+@attribute playing numeric
+@attribute please numeric
+@attribute 'please don' numeric
+@attribute 'please don t' numeric
+@attribute 'please please' numeric
+@attribute 'please stand' numeric
+@attribute 'please stand up' numeric
+@attribute 'please stay' numeric
+@attribute plus numeric
+@attribute 'plus fort' numeric
+@attribute 'plus fort et' numeric
+@attribute 'plus fort mais' numeric
+@attribute poor numeric
+@attribute pose numeric
+@attribute pound numeric
+@attribute pow numeric
+@attribute 'pow pow' numeric
+@attribute 'pow pow pow' numeric
+@attribute power numeric
+@attribute 'power of' numeric
+@attribute 'power of love' numeric
+@attribute pra numeric
+@attribute pray numeric
+@attribute press numeric
+@attribute pretty numeric
+@attribute pride numeric
+@attribute probably numeric
+@attribute proud numeric
+@attribute 'proud evolution' numeric
+@attribute 'proud evolution proud' numeric
+@attribute pull numeric
+@attribute 'pull up' numeric
+@attribute pumpkin numeric
+@attribute pure numeric
+@attribute 'pure light' numeric
+@attribute 'pure light within' numeric
+@attribute purple numeric
+@attribute push numeric
+@attribute pushing numeric
+@attribute 'put a' numeric
+@attribute 'put a ring' numeric
+@attribute 'put it' numeric
+@attribute 'put on' numeric
+@attribute 'put your' numeric
+@attribute qu numeric
+@attribute que numeric
+@attribute queen numeric
+@attribute qui numeric
+@attribute quiet numeric
+@attribute quit numeric
+@attribute 'quit it' numeric
+@attribute radio numeric
+@attribute 'radio on' numeric
+@attribute railroad numeric
+@attribute rain numeric
+@attribute rainbow numeric
+@attribute random numeric
+@attribute 'random >random' numeric
+@attribute 'random >random page</a>' numeric
+@attribute 'random title=' numeric
+@attribute 'random title= special' numeric
+@attribute ray numeric
+@attribute razones numeric
+@attribute 'razones para' numeric
+@attribute 'razones para darte' numeric
+@attribute re numeric
+@attribute 're all' numeric
+@attribute 're feeling' numeric
+@attribute 're gonna' numeric
+@attribute 're here' numeric
+@attribute 're in' numeric
+@attribute 're just' numeric
+@attribute 're just somebody' numeric
+@attribute 're losing' numeric
+@attribute 're losing you' numeric
+@attribute 're mine' numeric
+@attribute 're naked' numeric
+@attribute 're naked i' numeric
+@attribute 're not' numeric
+@attribute 're running' numeric
+@attribute 're shinin' numeric
+@attribute 're shinin are' numeric
+@attribute 're still' numeric
+@attribute 're the' numeric
+@attribute reach numeric
+@attribute read numeric
+@attribute ready numeric
+@attribute 'ready to' numeric
+@attribute real numeric
+@attribute 'real shady' numeric
+@attribute reason numeric
+@attribute 'reason to' numeric
+@attribute red numeric
+@attribute reggae numeric
+@attribute 'reggae music' numeric
+@attribute remember numeric
+@attribute repeat numeric
+@attribute rest numeric
+@attribute return numeric
+@attribute rhythm numeric
+@attribute rich numeric
+@attribute ride numeric
+@attribute riders numeric
+@attribute 'riders on' numeric
+@attribute 'riders on the' numeric
+@attribute 'right love' numeric
+@attribute 'right love ll' numeric
+@attribute ring numeric
+@attribute 'ring on' numeric
+@attribute 'ring on it' numeric
+@attribute rise numeric
+@attribute rising numeric
+@attribute river numeric
+@attribute road numeric
+@attribute roadrunner numeric
+@attribute rock numeric
+@attribute roll numeric
+@attribute rolling numeric
+@attribute roots numeric
+@attribute 'roots of' numeric
+@attribute round numeric
+@attribute 'round and' numeric
+@attribute 'round and round' numeric
+@attribute run numeric
+@attribute runnin numeric
+@attribute running numeric
+@attribute 'running away' numeric
+@attribute rybody numeric
+@attribute 's a' numeric
+@attribute 's a ballroom' numeric
+@attribute 's a new' numeric
+@attribute 's all' numeric
+@attribute 's all too' numeric
+@attribute 's alright' numeric
+@attribute 's been' numeric
+@attribute 's getting' numeric
+@attribute 's go' numeric
+@attribute 's going' numeric
+@attribute 's gone' numeric
+@attribute 's gonna' numeric
+@attribute 's gonna be' numeric
+@attribute 's gonna change' numeric
+@attribute 's good' numeric
+@attribute 's got' numeric
+@attribute 's got to' numeric
+@attribute 's grave' numeric
+@attribute 's in' numeric
+@attribute 's it' numeric
+@attribute 's it s' numeric
+@attribute 's just' numeric
+@attribute 's just a' numeric
+@attribute 's just gonna' numeric
+@attribute 's like' numeric
+@attribute 's my' numeric
+@attribute 's nature' numeric
+@attribute 's nature s' numeric
+@attribute 's no' numeric
+@attribute 's not' numeric
+@attribute 's nothing' numeric
+@attribute 's nothing else' numeric
+@attribute 's nothing left' numeric
+@attribute 's nowhere' numeric
+@attribute 's nowhere else' numeric
+@attribute 's on' numeric
+@attribute 's on the' numeric
+@attribute 's only' numeric
+@attribute 's only you' numeric
+@attribute 's right' numeric
+@attribute 's so' numeric
+@attribute 's so pathetic' numeric
+@attribute 's the' numeric
+@attribute 's the look' numeric
+@attribute 's too' numeric
+@attribute 's too late' numeric
+@attribute 's true' numeric
+@attribute 's way' numeric
+@attribute 's way of' numeric
+@attribute 's what' numeric
+@attribute 's why' numeric
+@attribute 's why the' numeric
+@attribute 's wrong' numeric
+@attribute 's your' numeric
+@attribute sad numeric
+@attribute 'sad mornin' numeric
+@attribute safe numeric
+@attribute 'said boy' numeric
+@attribute 'said boy i' numeric
+@attribute 'said everyone' numeric
+@attribute 'said everyone attack' numeric
+@attribute 'said i' numeric
+@attribute 'said it' numeric
+@attribute 'said ooh' numeric
+@attribute 'said ooh girl' numeric
+@attribute 'said that' numeric
+@attribute sail numeric
+@attribute 'same i' numeric
+@attribute sand numeric
+@attribute sang numeric
+@attribute santa numeric
+@attribute save numeric
+@attribute 'save ginny' numeric
+@attribute 'save ginny weasley' numeric
+@attribute 'save the' numeric
+@attribute 'save the school' numeric
+@attribute saved numeric
+@attribute 'saw her' numeric
+@attribute 'say goodbye' numeric
+@attribute 'say i' numeric
+@attribute 'say i m' numeric
+@attribute 'say it' numeric
+@attribute 'say oh' numeric
+@attribute 'say that' numeric
+@attribute 'say you' numeric
+@attribute sayin numeric
+@attribute saying numeric
+@attribute 'says i' numeric
+@attribute scared numeric
+@attribute scene numeric
+@attribute school numeric
+@attribute 'school again' numeric
+@attribute scream numeric
+@attribute se numeric
+@attribute sea numeric
+@attribute 'seconds of' numeric
+@attribute 'seconds of your' numeric
+@attribute secret numeric
+@attribute 'see a' numeric
+@attribute 'see i' numeric
+@attribute 'see if' numeric
+@attribute 'see me' numeric
+@attribute 'see that' numeric
+@attribute 'see that he' numeric
+@attribute 'see the' numeric
+@attribute 'see the new' numeric
+@attribute 'see things' numeric
+@attribute 'see you' numeric
+@attribute 'see your' numeric
+@attribute 'see your fucking' numeric
+@attribute 'seem to' numeric
+@attribute seen numeric
+@attribute sell numeric
+@attribute sem numeric
+@attribute 'sem ter' numeric
+@attribute 'sem ter que' numeric
+@attribute send numeric
+@attribute sense numeric
+@attribute sent numeric
+@attribute set numeric
+@attribute 'set you' numeric
+@attribute 'set you free' numeric
+@attribute shade numeric
+@attribute shadow numeric
+@attribute 'shadow of' numeric
+@attribute 'shadow of your' numeric
+@attribute 'shadow till' numeric
+@attribute 'shadow till the' numeric
+@attribute shady numeric
+@attribute 'shady please' numeric
+@attribute 'shady please stand' numeric
+@attribute shake numeric
+@attribute 'shake it' numeric
+@attribute shame numeric
+@attribute share numeric
+@attribute sharp numeric
+@attribute 'she can' numeric
+@attribute 'she comes' numeric
+@attribute 'she goes' numeric
+@attribute 'she got' numeric
+@attribute 'she got the' numeric
+@attribute 'she is' numeric
+@attribute 'she s' numeric
+@attribute 'she s a' numeric
+@attribute 'she said' numeric
+@attribute 'she says' numeric
+@attribute 'she was' numeric
+@attribute shine numeric
+@attribute 'shine upon' numeric
+@attribute 'shine upon you' numeric
+@attribute shines numeric
+@attribute shinin numeric
+@attribute 'shinin are' numeric
+@attribute ship numeric
+@attribute shit numeric
+@attribute shock numeric
+@attribute 'shock me' numeric
+@attribute 'shock me like' numeric
+@attribute shoes numeric
+@attribute shoot numeric
+@attribute shopping numeric
+@attribute shore numeric
+@attribute shot numeric
+@attribute 'should be' numeric
+@attribute 'should be careful' numeric
+@attribute 'should know' numeric
+@attribute 'should you' numeric
+@attribute shoulda numeric
+@attribute 'shoulda put' numeric
+@attribute 'shoulda put a' numeric
+@attribute shout numeric
+@attribute 'show me' numeric
+@attribute 'show me how' numeric
+@attribute 'show you' numeric
+@attribute shut numeric
+@attribute sick numeric
+@attribute sigh numeric
+@attribute sight numeric
+@attribute silence numeric
+@attribute silent numeric
+@attribute 'silent moment' numeric
+@attribute 'silent moment out' numeric
+@attribute silk numeric
+@attribute silver numeric
+@attribute simple numeric
+@attribute 'since i' numeric
+@attribute sing numeric
+@attribute 'sing it' numeric
+@attribute 'sing it all' numeric
+@attribute singing numeric
+@attribute single numeric
+@attribute 'single ladies' numeric
+@attribute 'single ladies all' numeric
+@attribute sister numeric
+@attribute sit numeric
+@attribute 'sit this' numeric
+@attribute 'sit this silent' numeric
+@attribute sitting numeric
+@attribute six numeric
+@attribute skies numeric
+@attribute skin numeric
+@attribute sky numeric
+@attribute sleep numeric
+@attribute 'sleep in' numeric
+@attribute sleeping numeric
+@attribute slim numeric
+@attribute 'slim shady' numeric
+@attribute slow numeric
+@attribute slowly numeric
+@attribute smile numeric
+@attribute 'smile smile' numeric
+@attribute smiled numeric
+@attribute smoke numeric
+@attribute snow numeric
+@attribute 'so bad' numeric
+@attribute 'so don' numeric
+@attribute 'so don t' numeric
+@attribute 'so good' numeric
+@attribute 'so i' numeric
+@attribute 'so let' numeric
+@attribute 'so long' numeric
+@attribute 'so many' numeric
+@attribute 'so much' numeric
+@attribute 'so much better' numeric
+@attribute 'so new' numeric
+@attribute 'so pathetic' numeric
+@attribute 'so pathetic and' numeric
+@attribute 'so they' numeric
+@attribute 'so tired' numeric
+@attribute 'so we' numeric
+@attribute 'so you' numeric
+@attribute soft numeric
+@attribute soles numeric
+@attribute 'soles of' numeric
+@attribute 'soles of her' numeric
+@attribute 'some more' numeric
+@attribute 'some people' numeric
+@attribute 'some time' numeric
+@attribute 'some time just' numeric
+@attribute 'somebody dance' numeric
+@attribute 'somebody dance dance' numeric
+@attribute 'somebody dance with' numeric
+@attribute 'somebody that' numeric
+@attribute 'somebody that i' numeric
+@attribute 'something s' numeric
+@attribute 'something that' numeric
+@attribute 'something to' numeric
+@attribute sometime numeric
+@attribute 'sometime everybody' numeric
+@attribute 'sometime everybody s' numeric
+@attribute sometimes numeric
+@attribute 'sometimes i' numeric
+@attribute son numeric
+@attribute song numeric
+@attribute 'song at' numeric
+@attribute 'song at the' numeric
+@attribute 'song i' numeric
+@attribute 'song i m' numeric
+@attribute songs numeric
+@attribute soon numeric
+@attribute soothing numeric
+@attribute sorrow numeric
+@attribute soul numeric
+@attribute sound numeric
+@attribute 'sound of' numeric
+@attribute sounds numeric
+@attribute space numeric
+@attribute speak numeric
+@attribute special numeric
+@attribute 'special random' numeric
+@attribute 'special random >random' numeric
+@attribute speed numeric
+@attribute spell numeric
+@attribute spend numeric
+@attribute spent numeric
+@attribute spirit numeric
+@attribute spring numeric
+@attribute st numeric
+@attribute 'st nicholas' numeric
+@attribute stand numeric
+@attribute 'stand up' numeric
+@attribute 'stand up please' numeric
+@attribute standing numeric
+@attribute star numeric
+@attribute stare numeric
+@attribute stars numeric
+@attribute 'stars the' numeric
+@attribute 'stars the moon' numeric
+@attribute start numeric
+@attribute 'start to' numeric
+@attribute start-started numeric
+@attribute 'start-started comin' numeric
+@attribute 'start-started comin to' numeric
+@attribute started numeric
+@attribute 'started start-started' numeric
+@attribute 'started start-started comin' numeric
+@attribute starting numeric
+@attribute 'starting over' numeric
+@attribute 'starting to' numeric
+@attribute stash numeric
+@attribute station numeric
+@attribute stay numeric
+@attribute step numeric
+@attribute stick numeric
+@attribute 'still love' numeric
+@attribute stone numeric
+@attribute stoned numeric
+@attribute stood numeric
+@attribute stop numeric
+@attribute stopped numeric
+@attribute storm numeric
+@attribute story numeric
+@attribute straight numeric
+@attribute strange numeric
+@attribute stranger numeric
+@attribute street numeric
+@attribute streets numeric
+@attribute streisand numeric
+@attribute 'streisand oo-oo' numeric
+@attribute 'streisand oo-oo who-oo-oo' numeric
+@attribute strong numeric
+@attribute strychnine numeric
+@attribute stuck numeric
+@attribute stuff numeric
+@attribute style numeric
+@attribute style= numeric
+@attribute 'style= font-size' numeric
+@attribute 'style= font-size 80\%' numeric
+@attribute 'such a' numeric
+@attribute summer numeric
+@attribute 'summer we' numeric
+@attribute 'summer we ll' numeric
+@attribute summertime numeric
+@attribute sun numeric
+@attribute 'sun and' numeric
+@attribute 'sun goes' numeric
+@attribute 'sun goes down' numeric
+@attribute 'sun i' numeric
+@attribute 'sun i m' numeric
+@attribute 'sun shine' numeric
+@attribute 'sun shine upon' numeric
+@attribute 'sun the' numeric
+@attribute 'sun the heart' numeric
+@attribute sunday numeric
+@attribute 'sunday smile' numeric
+@attribute sunshine numeric
+@attribute sur numeric
+@attribute surely numeric
+@attribute 'surely not' numeric
+@attribute 'surely not the' numeric
+@attribute surprises numeric
+@attribute 'surprises no' numeric
+@attribute 'surprises no alarms' numeric
+@attribute surround numeric
+@attribute 'surround you' numeric
+@attribute 'surround you and' numeric
+@attribute swear numeric
+@attribute sweat numeric
+@attribute sweet numeric
+@attribute syndrome numeric
+@attribute 't aime' numeric
+@attribute 't aime un' numeric
+@attribute 't and' numeric
+@attribute 't and you' numeric
+@attribute 't ask' numeric
+@attribute 't be' numeric
+@attribute 't be mad' numeric
+@attribute 't believe' numeric
+@attribute 't care' numeric
+@attribute 't care for' numeric
+@attribute 't even' numeric
+@attribute 't feel' numeric
+@attribute 't forget' numeric
+@attribute 't forget about' numeric
+@attribute 't forget to' numeric
+@attribute 't get' numeric
+@attribute 't get it' numeric
+@attribute 't give' numeric
+@attribute 't give them' numeric
+@attribute 't go' numeric
+@attribute 't got' numeric
+@attribute 't got no' numeric
+@attribute 't have' numeric
+@attribute 't have to' numeric
+@attribute 't i' numeric
+@attribute 't i don' numeric
+@attribute 't know' numeric
+@attribute 't know how' numeric
+@attribute 't know what' numeric
+@attribute 't let' numeric
+@attribute 't like' numeric
+@attribute 't look' numeric
+@attribute 't mind' numeric
+@attribute 't mind if' numeric
+@attribute 't need' numeric
+@attribute 't no' numeric
+@attribute 't pay' numeric
+@attribute 't play' numeric
+@attribute 't play no' numeric
+@attribute 't say' numeric
+@attribute 't see' numeric
+@attribute 't seem' numeric
+@attribute 't seem to' numeric
+@attribute 't take' numeric
+@attribute 't take my' numeric
+@attribute 't the' numeric
+@attribute 't think' numeric
+@attribute 't wanna' numeric
+@attribute 't wanna lose' numeric
+@attribute 't want' numeric
+@attribute 't want to' numeric
+@attribute 't worry' numeric
+@attribute 't you' numeric
+@attribute 't you know' numeric
+@attribute 't you see' numeric
+@attribute ta numeric
+@attribute 'ta na' numeric
+@attribute 'ta na na' numeric
+@attribute 'take a' numeric
+@attribute 'take his' numeric
+@attribute 'take his life' numeric
+@attribute 'take it' numeric
+@attribute 'take me' numeric
+@attribute 'take me away' numeric
+@attribute 'take me for' numeric
+@attribute 'take me home' numeric
+@attribute 'take my' numeric
+@attribute 'take some' numeric
+@attribute 'take some time' numeric
+@attribute 'take the' numeric
+@attribute 'take you' numeric
+@attribute 'take your' numeric
+@attribute takes numeric
+@attribute 'takes the' numeric
+@attribute taking numeric
+@attribute 'taking it' numeric
+@attribute talk numeric
+@attribute talkin numeric
+@attribute talking numeric
+@attribute 'talking about' numeric
+@attribute tangerine numeric
+@attribute taste numeric
+@attribute te numeric
+@attribute teach numeric
+@attribute tears numeric
+@attribute teeth numeric
+@attribute tell numeric
+@attribute 'tell me' numeric
+@attribute 'tell me what' numeric
+@attribute 'tell them' numeric
+@attribute 'tell you' numeric
+@attribute telling numeric
+@attribute 'telling you' numeric
+@attribute tem numeric
+@attribute tempo numeric
+@attribute ten numeric
+@attribute tenderness numeric
+@attribute ter numeric
+@attribute 'ter que' numeric
+@attribute 'than the' numeric
+@attribute 'than the sun' numeric
+@attribute thank numeric
+@attribute 'that dirty' numeric
+@attribute 'that he' numeric
+@attribute 'that he want' numeric
+@attribute 'that i' numeric
+@attribute 'that i can' numeric
+@attribute 'that i m' numeric
+@attribute 'that i used' numeric
+@attribute 'that i ve' numeric
+@attribute 'that it' numeric
+@attribute 'that s' numeric
+@attribute 'that s the' numeric
+@attribute 'that s what' numeric
+@attribute 'that s why' numeric
+@attribute 'that she' numeric
+@attribute 'that song' numeric
+@attribute 'that the' numeric
+@attribute 'that was' numeric
+@attribute 'that way' numeric
+@attribute 'that we' numeric
+@attribute 'that you' numeric
+@attribute 'that you re' numeric
+@attribute 'that you shine' numeric
+@attribute 'that you ve' numeric
+@attribute 'the air' numeric
+@attribute 'the arm' numeric
+@attribute 'the arm came' numeric
+@attribute 'the back' numeric
+@attribute 'the back said' numeric
+@attribute 'the basilisk' numeric
+@attribute 'the basilisk we' numeric
+@attribute 'the best' numeric
+@attribute 'the best colors' numeric
+@attribute 'the brain' numeric
+@attribute 'the brat' numeric
+@attribute 'the children' numeric
+@attribute 'the corner' numeric
+@attribute 'the corner said' numeric
+@attribute 'the dark' numeric
+@attribute 'the dark no' numeric
+@attribute 'the darkness' numeric
+@attribute 'the dawn' numeric
+@attribute 'the day' numeric
+@attribute 'the door' numeric
+@attribute 'the earth' numeric
+@attribute 'the end' numeric
+@attribute 'the evening' numeric
+@attribute 'the eye' numeric
+@attribute 'the first' numeric
+@attribute 'the floor' numeric
+@attribute 'the full' numeric
+@attribute 'the full lyrics' numeric
+@attribute 'the future' numeric
+@attribute 'the future until' numeric
+@attribute 'the girl' numeric
+@attribute 'the girl in' numeric
+@attribute 'the girls' numeric
+@attribute 'the golden' numeric
+@attribute 'the good' numeric
+@attribute 'the grass' numeric
+@attribute 'the great' numeric
+@attribute 'the ground' numeric
+@attribute 'the heart' numeric
+@attribute 'the heart of' numeric
+@attribute 'the high' numeric
+@attribute 'the house' numeric
+@attribute 'the jean' numeric
+@attribute 'the jean genie' numeric
+@attribute 'the kind' numeric
+@attribute 'the kind of' numeric
+@attribute 'the land' numeric
+@attribute 'the last' numeric
+@attribute 'the light' numeric
+@attribute 'the lights' numeric
+@attribute 'the lights that' numeric
+@attribute 'the long' numeric
+@attribute 'the long time' numeric
+@attribute 'the look' numeric
+@attribute 'the lord' numeric
+@attribute 'the love' numeric
+@attribute 'the love love' numeric
+@attribute 'the man' numeric
+@attribute 'the man at' numeric
+@attribute 'the membrane' numeric
+@attribute 'the middle' numeric
+@attribute 'the middle of' numeric
+@attribute 'the miracle' numeric
+@attribute 'the moment' numeric
+@attribute 'the moment hopefully' numeric
+@attribute 'the money' numeric
+@attribute 'the moon' numeric
+@attribute 'the moon they' numeric
+@attribute 'the morning' numeric
+@attribute 'the music' numeric
+@attribute 'the new' numeric
+@attribute 'the new moon' numeric
+@attribute 'the news' numeric
+@attribute 'the nice' numeric
+@attribute 'the night' numeric
+@attribute 'the night i' numeric
+@attribute 'the old' numeric
+@attribute 'the one' numeric
+@attribute 'the only' numeric
+@attribute 'the only one' numeric
+@attribute 'the other' numeric
+@attribute 'the pain' numeric
+@attribute 'the park' numeric
+@attribute 'the past' numeric
+@attribute 'the people' numeric
+@attribute 'the phone' numeric
+@attribute 'the place' numeric
+@attribute 'the power' numeric
+@attribute 'the power of' numeric
+@attribute 'the pure' numeric
+@attribute 'the pure light' numeric
+@attribute 'the radio' numeric
+@attribute 'the radio on' numeric
+@attribute 'the rain' numeric
+@attribute 'the real' numeric
+@attribute 'the real shady' numeric
+@attribute 'the right' numeric
+@attribute 'the river' numeric
+@attribute 'the road' numeric
+@attribute 'the room' numeric
+@attribute 'the roots' numeric
+@attribute 'the roots of' numeric
+@attribute 'the same' numeric
+@attribute 'the same i' numeric
+@attribute 'the sand' numeric
+@attribute 'the school' numeric
+@attribute 'the school again' numeric
+@attribute 'the sea' numeric
+@attribute 'the shade' numeric
+@attribute 'the shadow' numeric
+@attribute 'the shadow of' numeric
+@attribute 'the show' numeric
+@attribute 'the single' numeric
+@attribute 'the single ladies' numeric
+@attribute 'the sky' numeric
+@attribute 'the soles' numeric
+@attribute 'the soles of' numeric
+@attribute 'the soul' numeric
+@attribute 'the sound' numeric
+@attribute 'the sound of' numeric
+@attribute 'the stars' numeric
+@attribute 'the stars the' numeric
+@attribute 'the storm' numeric
+@attribute 'the street' numeric
+@attribute 'the summer' numeric
+@attribute 'the sun' numeric
+@attribute 'the sun goes' numeric
+@attribute 'the sun i' numeric
+@attribute 'the sun the' numeric
+@attribute 'the syndrome' numeric
+@attribute 'the things' numeric
+@attribute 'the things i' numeric
+@attribute 'the things that' numeric
+@attribute 'the things you' numeric
+@attribute 'the time' numeric
+@attribute 'the time i' numeric
+@attribute 'the top' numeric
+@attribute 'the tree' numeric
+@attribute 'the wall' numeric
+@attribute 'the water' numeric
+@attribute 'the way' numeric
+@attribute 'the way i' numeric
+@attribute 'the way on' numeric
+@attribute 'the way you' numeric
+@attribute 'the weather' numeric
+@attribute 'the wheel' numeric
+@attribute 'the wheel cause' numeric
+@attribute 'the whole' numeric
+@attribute 'the wind' numeric
+@attribute 'the words' numeric
+@attribute 'the world' numeric
+@attribute 'the world is' numeric
+@attribute 'the world so' numeric
+@attribute thee numeric
+@attribute 'them no' numeric
+@attribute 'them no more' numeric
+@attribute 'then how' numeric
+@attribute 'then how about' numeric
+@attribute 'then i' numeric
+@attribute 'then the' numeric
+@attribute 'then they' numeric
+@attribute 'then you' numeric
+@attribute 'then you re' numeric
+@attribute 'then you shoulda' numeric
+@attribute 'there ain' numeric
+@attribute 'there ain t' numeric
+@attribute 'there almost' numeric
+@attribute 'there almost there' numeric
+@attribute 'there feel' numeric
+@attribute 'there feel like' numeric
+@attribute 'there is' numeric
+@attribute 'there s' numeric
+@attribute 'there s a' numeric
+@attribute 'there s no' numeric
+@attribute 'there s nothing' numeric
+@attribute 'there s nowhere' numeric
+@attribute 'there s so' numeric
+@attribute 'there was' numeric
+@attribute 'there with' numeric
+@attribute 'there you' numeric
+@attribute 'these colors' numeric
+@attribute 'these colors that' numeric
+@attribute 'these days' numeric
+@attribute 'they all' numeric
+@attribute 'they are' numeric
+@attribute 'they can' numeric
+@attribute 'they come' numeric
+@attribute 'they don' numeric
+@attribute 'they don t' numeric
+@attribute 'they have' numeric
+@attribute 'they have all' numeric
+@attribute 'they ll' numeric
+@attribute 'they re' numeric
+@attribute 'they say' numeric
+@attribute 'they were' numeric
+@attribute 'they will' numeric
+@attribute thief numeric
+@attribute 'thief my' numeric
+@attribute 'thief my herb' numeric
+@attribute 'things i' numeric
+@attribute 'things that' numeric
+@attribute 'things you' numeric
+@attribute 'think about' numeric
+@attribute 'think i' numeric
+@attribute 'think i ll' numeric
+@attribute 'think it' numeric
+@attribute 'think it s' numeric
+@attribute 'think of' numeric
+@attribute 'think so' numeric
+@attribute 'think that' numeric
+@attribute 'think you' numeric
+@attribute thinking numeric
+@attribute 'thinking about' numeric
+@attribute 'thinking about you' numeric
+@attribute thinkin’ numeric
+@attribute 'thinkin’ ’bout' numeric
+@attribute third numeric
+@attribute 'this a' numeric
+@attribute 'this a reggae' numeric
+@attribute 'this i' numeric
+@attribute 'this is' numeric
+@attribute 'this is the' numeric
+@attribute 'this land' numeric
+@attribute 'this land is' numeric
+@attribute 'this silent' numeric
+@attribute 'this silent moment' numeric
+@attribute 'this song' numeric
+@attribute 'this song at' numeric
+@attribute 'this time' numeric
+@attribute 'this time baby' numeric
+@attribute 'this twilight' numeric
+@attribute 'this twilight in' numeric
+@attribute thousand numeric
+@attribute thrill numeric
+@attribute 'through the' numeric
+@attribute throw numeric
+@attribute tide numeric
+@attribute tight numeric
+@attribute til numeric
+@attribute 'til you' numeric
+@attribute 'til you re' numeric
+@attribute till numeric
+@attribute 'till the' numeric
+@attribute 'till the sun' numeric
+@attribute time numeric
+@attribute 'time and' numeric
+@attribute 'time baby' numeric
+@attribute 'time baby i' numeric
+@attribute 'time for' numeric
+@attribute 'time has' numeric
+@attribute 'time has come' numeric
+@attribute 'time i' numeric
+@attribute 'time just' numeric
+@attribute 'time just hang' numeric
+@attribute 'time s' numeric
+@attribute 'time s just' numeric
+@attribute 'time sun' numeric
+@attribute 'time sun shine' numeric
+@attribute 'time that' numeric
+@attribute 'time to' numeric
+@attribute 'time to take' numeric
+@attribute 'time you' numeric
+@attribute times numeric
+@attribute tired numeric
+@attribute 'tired now' numeric
+@attribute title= numeric
+@attribute 'title= lyricwiki' numeric
+@attribute 'title= lyricwiki job' numeric
+@attribute 'title= special' numeric
+@attribute 'title= special random' numeric
+@attribute 'to a' numeric
+@attribute 'to accept' numeric
+@attribute 'to accept it' numeric
+@attribute 'to all' numeric
+@attribute 'to be' numeric
+@attribute 'to be a' numeric
+@attribute 'to be here' numeric
+@attribute 'to be in' numeric
+@attribute 'to break' numeric
+@attribute 'to break you' numeric
+@attribute 'to change' numeric
+@attribute 'to come' numeric
+@attribute 'to death' numeric
+@attribute 'to display' numeric
+@attribute 'to display the' numeric
+@attribute 'to do' numeric
+@attribute 'to do is' numeric
+@attribute 'to edit' numeric
+@attribute 'to edit metadata</a></span>]' numeric
+@attribute 'to fall' numeric
+@attribute 'to fall in' numeric
+@attribute 'to feel' numeric
+@attribute 'to find' numeric
+@attribute 'to get' numeric
+@attribute 'to go' numeric
+@attribute 'to go take' numeric
+@attribute 'to have' numeric
+@attribute 'to hide' numeric
+@attribute 'to hold' numeric
+@attribute 'to in' numeric
+@attribute 'to in the' numeric
+@attribute 'to keep' numeric
+@attribute 'to know' numeric
+@attribute 'to know somebody' numeric
+@attribute 'to know your' numeric
+@attribute 'to learn' numeric
+@attribute 'to learn sometime' numeric
+@attribute 'to leave' numeric
+@attribute 'to let' numeric
+@attribute 'to live' numeric
+@attribute 'to look' numeric
+@attribute 'to lose' numeric
+@attribute 'to lose or' numeric
+@attribute 'to love' numeric
+@attribute 'to love you' numeric
+@attribute 'to make' numeric
+@attribute 'to make you' numeric
+@attribute 'to me' numeric
+@attribute 'to me i' numeric
+@attribute 'to move' numeric
+@attribute 'to my' numeric
+@attribute 'to my heart' numeric
+@attribute 'to save' numeric
+@attribute 'to save ginny' numeric
+@attribute 'to save the' numeric
+@attribute 'to say' numeric
+@attribute 'to see' numeric
+@attribute 'to see your' numeric
+@attribute 'to sit' numeric
+@attribute 'to sit this' numeric
+@attribute 'to stay' numeric
+@attribute 'to take' numeric
+@attribute 'to take his' numeric
+@attribute 'to take you' numeric
+@attribute 'to tell' numeric
+@attribute 'to that' numeric
+@attribute 'to the' numeric
+@attribute 'to the roots' numeric
+@attribute 'to this' numeric
+@attribute 'to walk' numeric
+@attribute 'to win' numeric
+@attribute 'to you' numeric
+@attribute 'to you i' numeric
+@attribute 'to your' numeric
+@attribute told numeric
+@attribute 'told me' numeric
+@attribute 'told you' numeric
+@attribute tomorrow numeric
+@attribute 'tomorrow never' numeric
+@attribute 'tomorrow never comes' numeric
+@attribute tongue numeric
+@attribute tonight numeric
+@attribute 'too beautiful' numeric
+@attribute 'too beautiful it' numeric
+@attribute 'too high' numeric
+@attribute 'too late' numeric
+@attribute 'too much' numeric
+@attribute 'took seconds' numeric
+@attribute top numeric
+@attribute 'top of' numeric
+@attribute touch numeric
+@attribute 'touch your' numeric
+@attribute touched numeric
+@attribute town numeric
+@attribute train numeric
+@attribute treat numeric
+@attribute tree numeric
+@attribute trees numeric
+@attribute tresmil numeric
+@attribute 'tresmil razones' numeric
+@attribute 'tresmil razones para' numeric
+@attribute tricks numeric
+@attribute tried numeric
+@attribute 'tried to' numeric
+@attribute trip numeric
+@attribute trouble numeric
+@attribute true numeric
+@attribute trust numeric
+@attribute truth numeric
+@attribute try numeric
+@attribute 'try to' numeric
+@attribute 'try to see' numeric
+@attribute trying numeric
+@attribute 'trying to' numeric
+@attribute tu numeric
+@attribute tudo numeric
+@attribute tune numeric
+@attribute 'turn a' numeric
+@attribute 'turn into' numeric
+@attribute 'turn into a' numeric
+@attribute 'turn it' numeric
+@attribute 'turn it on' numeric
+@attribute 'turn me' numeric
+@attribute 'turn me on' numeric
+@attribute 'turn to' numeric
+@attribute 'turned into' numeric
+@attribute 'turned into a' numeric
+@attribute twice numeric
+@attribute twilight numeric
+@attribute 'twilight in' numeric
+@attribute 'twilight in the' numeric
+@attribute 'two hearts' numeric
+@attribute uh numeric
+@attribute 'uh mi' numeric
+@attribute 'uh mi hed' numeric
+@attribute un numeric
+@attribute 'un peu' numeric
+@attribute 'un peu plus' numeric
+@attribute undead numeric
+@attribute 'undead undead' numeric
+@attribute underneath numeric
+@attribute understand numeric
+@attribute unless numeric
+@attribute 'until it' numeric
+@attribute 'until it s' numeric
+@attribute 'until then' numeric
+@attribute 'until then how' numeric
+@attribute 'up all' numeric
+@attribute 'up and' numeric
+@attribute 'up for' numeric
+@attribute 'up i' numeric
+@attribute 'up in' numeric
+@attribute 'up in the' numeric
+@attribute 'up like' numeric
+@attribute 'up my' numeric
+@attribute 'up on' numeric
+@attribute 'up please' numeric
+@attribute 'up please stand' numeric
+@attribute 'up the' numeric
+@attribute 'up to' numeric
+@attribute 'up turn' numeric
+@attribute 'up turn it' numeric
+@attribute 'up where' numeric
+@attribute 'up your' numeric
+@attribute 'upon the' numeric
+@attribute 'upon you' numeric
+@attribute 'upon you all' numeric
+@attribute 'use to' numeric
+@attribute 'used to' numeric
+@attribute 'used to know' numeric
+@attribute va numeric
+@attribute vai numeric
+@attribute van numeric
+@attribute ve numeric
+@attribute 've been' numeric
+@attribute 've been getting' numeric
+@attribute 've ever' numeric
+@attribute 've found' numeric
+@attribute 've got' numeric
+@attribute 've got a' numeric
+@attribute 've got to' numeric
+@attribute 've killed' numeric
+@attribute 've killed me' numeric
+@attribute verse numeric
+@attribute violent numeric
+@attribute você numeric
+@attribute voice numeric
+@attribute voodoo numeric
+@attribute wah numeric
+@attribute 'wah doo' numeric
+@attribute wait numeric
+@attribute 'wait a' numeric
+@attribute 'wait a minute' numeric
+@attribute 'wait till' numeric
+@attribute waited numeric
+@attribute waitin numeric
+@attribute 'waitin for' numeric
+@attribute 'waitin for a' numeric
+@attribute waiting numeric
+@attribute 'waiting for' numeric
+@attribute 'waiting for the' numeric
+@attribute wake numeric
+@attribute 'wake up' numeric
+@attribute wal-mart numeric
+@attribute walk numeric
+@attribute 'walk away' numeric
+@attribute 'walk on' numeric
+@attribute walkin numeric
+@attribute walking numeric
+@attribute wall numeric
+@attribute wanna numeric
+@attribute 'wanna be' numeric
+@attribute 'wanna dance' numeric
+@attribute 'wanna do' numeric
+@attribute 'wanna lose' numeric
+@attribute 'wanna lose your' numeric
+@attribute 'wanna moan' numeric
+@attribute 'wanna say' numeric
+@attribute 'wanna warn' numeric
+@attribute 'wanna warn ya' numeric
+@attribute 'want and' numeric
+@attribute 'want it' numeric
+@attribute 'want it if' numeric
+@attribute 'want to' numeric
+@attribute 'want to be' numeric
+@attribute 'want to do' numeric
+@attribute 'want to edit' numeric
+@attribute 'want to get' numeric
+@attribute 'want to lose' numeric
+@attribute 'want to take' numeric
+@attribute 'want want' numeric
+@attribute 'want want want' numeric
+@attribute 'want you' numeric
+@attribute 'want you koo' numeric
+@attribute 'want you to' numeric
+@attribute war numeric
+@attribute warm numeric
+@attribute warn numeric
+@attribute 'warn ya' numeric
+@attribute 'warn ya it' numeric
+@attribute 'was a' numeric
+@attribute 'was just' numeric
+@attribute 'was like' numeric
+@attribute 'was love' numeric
+@attribute 'was love at' numeric
+@attribute 'was the' numeric
+@attribute wash numeric
+@attribute wasn numeric
+@attribute 'wasn t' numeric
+@attribute waste numeric
+@attribute watch numeric
+@attribute 'watch the' numeric
+@attribute watched numeric
+@attribute watching numeric
+@attribute water numeric
+@attribute waves numeric
+@attribute 'way and' numeric
+@attribute 'way any' numeric
+@attribute 'way any other' numeric
+@attribute 'way i' numeric
+@attribute 'way i feel' numeric
+@attribute 'way it' numeric
+@attribute 'way of' numeric
+@attribute 'way on' numeric
+@attribute 'way on may' numeric
+@attribute 'way to' numeric
+@attribute 'way you' numeric
+@attribute 'we all' numeric
+@attribute 'we are' numeric
+@attribute 'we are not' numeric
+@attribute 'we can' numeric
+@attribute 'we can t' numeric
+@attribute 'we could' numeric
+@attribute 'we d' numeric
+@attribute 'we gettin' numeric
+@attribute 'we gettin started' numeric
+@attribute 'we go' numeric
+@attribute 'we ll' numeric
+@attribute 'we ll be' numeric
+@attribute 'we ll come' numeric
+@attribute 'we love' numeric
+@attribute 'we love you' numeric
+@attribute 'we re' numeric
+@attribute 'we re gonna' numeric
+@attribute 'we saw' numeric
+@attribute 'we ve' numeric
+@attribute 'we ve been' numeric
+@attribute 'we ve got' numeric
+@attribute 'we wanna' numeric
+@attribute 'we were' numeric
+@attribute 'we will' numeric
+@attribute 'we will be' numeric
+@attribute wear numeric
+@attribute weasley numeric
+@attribute 'weasley from' numeric
+@attribute 'weasley from the' numeric
+@attribute weather numeric
+@attribute week numeric
+@attribute welcome numeric
+@attribute 'well i' numeric
+@attribute 'well well' numeric
+@attribute 'well you' numeric
+@attribute 'were not' numeric
+@attribute 'were not for' numeric
+@attribute west numeric
+@attribute 'what a' numeric
+@attribute 'what a bam' numeric
+@attribute 'what am' numeric
+@attribute 'what am i' numeric
+@attribute 'what can' numeric
+@attribute 'what can you' numeric
+@attribute 'what do' numeric
+@attribute 'what do you' numeric
+@attribute 'what does' numeric
+@attribute 'what does it' numeric
+@attribute 'what i' numeric
+@attribute 'what i mean' numeric
+@attribute 'what i say' numeric
+@attribute 'what is' numeric
+@attribute 'what it' numeric
+@attribute 'what s' numeric
+@attribute 'what the' numeric
+@attribute 'what to' numeric
+@attribute 'what we' numeric
+@attribute 'what you' numeric
+@attribute 'what you feel' numeric
+@attribute whatever numeric
+@attribute wheel numeric
+@attribute 'wheel cause' numeric
+@attribute 'wheel cause there' numeric
+@attribute 'when he' numeric
+@attribute 'when i' numeric
+@attribute 'when i m' numeric
+@attribute 'when it' numeric
+@attribute 'when it s' numeric
+@attribute 'when the' numeric
+@attribute 'when they' numeric
+@attribute 'when we' numeric
+@attribute 'when you' numeric
+@attribute 'when you re' numeric
+@attribute 'when your' numeric
+@attribute whenever numeric
+@attribute 'whenever i' numeric
+@attribute 'where i' numeric
+@attribute 'where the' numeric
+@attribute 'where they' numeric
+@attribute 'where we' numeric
+@attribute 'where you' numeric
+@attribute 'while i' numeric
+@attribute 'while like' numeric
+@attribute 'while like to' numeric
+@attribute white numeric
+@attribute whitey numeric
+@attribute 'whitey on' numeric
+@attribute 'whitey on the' numeric
+@attribute 'whitey s' numeric
+@attribute 'whitey s on' numeric
+@attribute 'who built' numeric
+@attribute 'who built the' numeric
+@attribute 'who cares' numeric
+@attribute 'who do' numeric
+@attribute 'who do you' numeric
+@attribute 'who i' numeric
+@attribute 'who loves' numeric
+@attribute 'who loves the' numeric
+@attribute 'who s' numeric
+@attribute 'who would' numeric
+@attribute who-oo-oo numeric
+@attribute 'who-oo-oo whooo-oo' numeric
+@attribute 'who-oo-oo whooo-oo barbra' numeric
+@attribute 'who-oo-oo whooo-oo oo-oo' numeric
+@attribute whoa numeric
+@attribute 'whoa whoa' numeric
+@attribute whooo-oo numeric
+@attribute 'whooo-oo barbra' numeric
+@attribute 'whooo-oo barbra streisand' numeric
+@attribute 'whooo-oo oo-oo' numeric
+@attribute 'whooo-oo oo-oo oo-oo' numeric
+@attribute 'why i' numeric
+@attribute 'why the' numeric
+@attribute 'why the arm' numeric
+@attribute 'why why' numeric
+@attribute 'why why why' numeric
+@attribute wikipedia numeric
+@attribute wild numeric
+@attribute 'will be' numeric
+@attribute 'will be able' numeric
+@attribute 'will i' numeric
+@attribute 'will never' numeric
+@attribute 'will you' numeric
+@attribute win numeric
+@attribute wind numeric
+@attribute window numeric
+@attribute wine numeric
+@attribute wings numeric
+@attribute winter numeric
+@attribute wish numeric
+@attribute 'wish i' numeric
+@attribute 'wish i could' numeric
+@attribute wit numeric
+@attribute 'with a' numeric
+@attribute 'with him' numeric
+@attribute 'with me' numeric
+@attribute 'with my' numeric
+@attribute 'with no' numeric
+@attribute 'with somebody' numeric
+@attribute 'with somebody dance' numeric
+@attribute 'with that' numeric
+@attribute 'with the' numeric
+@attribute 'with this' numeric
+@attribute 'with you' numeric
+@attribute 'with you i' numeric
+@attribute 'with you oh' numeric
+@attribute 'with your' numeric
+@attribute 'with your electric' numeric
+@attribute 'with your favorite' numeric
+@attribute 'with your head' numeric
+@attribute 'within you' numeric
+@attribute 'within you guide' numeric
+@attribute 'without a' numeric
+@attribute 'without you' numeric
+@attribute 'without you baby' numeric
+@attribute woah numeric
+@attribute 'woah woah' numeric
+@attribute 'woah woah woah' numeric
+@attribute woman numeric
+@attribute 'woman i' numeric
+@attribute 'woman i m' numeric
+@attribute women numeric
+@attribute won numeric
+@attribute 'won t' numeric
+@attribute 'won t be' numeric
+@attribute 'won t mind' numeric
+@attribute 'won t you' numeric
+@attribute wonder numeric
+@attribute wondering numeric
+@attribute won’t numeric
+@attribute woo numeric
+@attribute 'woo oh' numeric
+@attribute 'woo oh ooh' numeric
+@attribute wood numeric
+@attribute word numeric
+@attribute words numeric
+@attribute world numeric
+@attribute 'world i' numeric
+@attribute 'world is' numeric
+@attribute 'world so' numeric
+@attribute 'world so new' numeric
+@attribute 'world you' numeric
+@attribute worry numeric
+@attribute worse numeric
+@attribute worst numeric
+@attribute 'would you' numeric
+@attribute wouldn numeric
+@attribute 'wouldn t' numeric
+@attribute wrong numeric
+@attribute 'wrong make' numeric
+@attribute 'wrong make you' numeric
+@attribute 'y all' numeric
+@attribute ya numeric
+@attribute 'ya it' numeric
+@attribute 'ya it ll' numeric
+@attribute yahoo numeric
+@attribute 'yahoo yahoo' numeric
+@attribute yeah numeric
+@attribute 'yeah and' numeric
+@attribute 'yeah and the' numeric
+@attribute 'yeah i' numeric
+@attribute 'yeah it' numeric
+@attribute 'yeah it s' numeric
+@attribute 'yeah it was' numeric
+@attribute 'yeah oh' numeric
+@attribute 'yeah yeah' numeric
+@attribute 'yeah yeah and' numeric
+@attribute 'yeah yeah yeah' numeric
+@attribute 'yeah you' numeric
+@attribute yes numeric
+@attribute 'yes i' numeric
+@attribute 'yes i m' numeric
+@attribute yo numeric
+@attribute york numeric
+@attribute 'you a' numeric
+@attribute 'you ain' numeric
+@attribute 'you ain t' numeric
+@attribute 'you all' numeric
+@attribute 'you all love' numeric
+@attribute 'you all the' numeric
+@attribute 'you and' numeric
+@attribute 'you and me' numeric
+@attribute 'you and the' numeric
+@attribute 'you are' numeric
+@attribute 'you are the' numeric
+@attribute 'you at' numeric
+@attribute 'you baby' numeric
+@attribute 'you baby and' numeric
+@attribute 'you baby but' numeric
+@attribute 'you back' numeric
+@attribute 'you better' numeric
+@attribute 'you came' numeric
+@attribute 'you can' numeric
+@attribute 'you can count' numeric
+@attribute 'you can t' numeric
+@attribute 'you care' numeric
+@attribute 'you come' numeric
+@attribute 'you could' numeric
+@attribute 'you d' numeric
+@attribute 'you do' numeric
+@attribute 'you do right' numeric
+@attribute 'you do wrong' numeric
+@attribute 'you don' numeric
+@attribute 'you don t' numeric
+@attribute 'you down' numeric
+@attribute 'you down time' numeric
+@attribute 'you ever' numeric
+@attribute 'you feel' numeric
+@attribute 'you feel now' numeric
+@attribute 'you free' numeric
+@attribute 'you get' numeric
+@attribute 'you give' numeric
+@attribute 'you give me' numeric
+@attribute 'you go' numeric
+@attribute 'you got' numeric
+@attribute 'you got the' numeric
+@attribute 'you got to' numeric
+@attribute 'you gotta' numeric
+@attribute 'you guide' numeric
+@attribute 'you guide you' numeric
+@attribute 'you had' numeric
+@attribute 'you have' numeric
+@attribute 'you hear' numeric
+@attribute 'you i' numeric
+@attribute 'you i did' numeric
+@attribute 'you i found' numeric
+@attribute 'you i just' numeric
+@attribute 'you i m' numeric
+@attribute 'you in' numeric
+@attribute 'you in the' numeric
+@attribute 'you it' numeric
+@attribute 'you just' numeric
+@attribute 'you just can' numeric
+@attribute 'you just don' numeric
+@attribute 'you keep' numeric
+@attribute 'you keep it' numeric
+@attribute 'you know' numeric
+@attribute 'you know how' numeric
+@attribute 'you know i' numeric
+@attribute 'you know it' numeric
+@attribute 'you know what' numeric
+@attribute 'you know you' numeric
+@attribute 'you koo' numeric
+@attribute 'you koo koo' numeric
+@attribute 'you learn' numeric
+@attribute 'you learn to' numeric
+@attribute 'you left' numeric
+@attribute 'you left me' numeric
+@attribute 'you let' numeric
+@attribute 'you like' numeric
+@attribute 'you like you' numeric
+@attribute 'you liked' numeric
+@attribute 'you liked it' numeric
+@attribute 'you ll' numeric
+@attribute 'you ll be' numeric
+@attribute 'you ll never' numeric
+@attribute 'you look' numeric
+@attribute 'you love' numeric
+@attribute 'you love who' numeric
+@attribute 'you make' numeric
+@attribute 'you make me' numeric
+@attribute 'you mine' numeric
+@attribute 'you need' numeric
+@attribute 'you never' numeric
+@attribute 'you never call' numeric
+@attribute 'you not' numeric
+@attribute 'you now' numeric
+@attribute 'you off' numeric
+@attribute 'you off we' numeric
+@attribute 'you oh' numeric
+@attribute 'you oh home' numeric
+@attribute 'you on' numeric
+@attribute 'you out' numeric
+@attribute 'you put' numeric
+@attribute 'you re' numeric
+@attribute 'you re all' numeric
+@attribute 'you re feeling' numeric
+@attribute 'you re here' numeric
+@attribute 'you re just' numeric
+@attribute 'you re losing' numeric
+@attribute 'you re mine' numeric
+@attribute 'you re naked' numeric
+@attribute 'you re not' numeric
+@attribute 'you re running' numeric
+@attribute 'you re shinin' numeric
+@attribute 'you re still' numeric
+@attribute 'you re the' numeric
+@attribute 'you really' numeric
+@attribute 'you said' numeric
+@attribute 'you say' numeric
+@attribute 'you see' numeric
+@attribute 'you see that' numeric
+@attribute 'you shine' numeric
+@attribute 'you should' numeric
+@attribute 'you should be' numeric
+@attribute 'you should know' numeric
+@attribute 'you shoulda' numeric
+@attribute 'you shoulda put' numeric
+@attribute 'you smiled' numeric
+@attribute 'you so' numeric
+@attribute 'you so much' numeric
+@attribute 'you some' numeric
+@attribute 'you start' numeric
+@attribute 'you still' numeric
+@attribute 'you take' numeric
+@attribute 'you tell' numeric
+@attribute 'you tell me' numeric
+@attribute 'you that' numeric
+@attribute 'you that s' numeric
+@attribute 'you the' numeric
+@attribute 'you there' numeric
+@attribute 'you think' numeric
+@attribute 'you think i' numeric
+@attribute 'you to' numeric
+@attribute 'you try' numeric
+@attribute 'you up' numeric
+@attribute 'you ve' numeric
+@attribute 'you ve been' numeric
+@attribute 'you ve got' numeric
+@attribute 'you waited' numeric
+@attribute 'you walk' numeric
+@attribute 'you wanna' numeric
+@attribute 'you wanna dance' numeric
+@attribute 'you want' numeric
+@attribute 'you want to' numeric
+@attribute 'you we' numeric
+@attribute 'you were' numeric
+@attribute 'you when' numeric
+@attribute 'you will' numeric
+@attribute 'you with' numeric
+@attribute 'you woman' numeric
+@attribute 'you won' numeric
+@attribute 'you won t' numeric
+@attribute 'you you' numeric
+@attribute 'your arms' numeric
+@attribute 'your back' numeric
+@attribute 'your body' numeric
+@attribute 'your chicken' numeric
+@attribute 'your chicken i' numeric
+@attribute 'your destiny' numeric
+@attribute 'your electric' numeric
+@attribute 'your electric feel' numeric
+@attribute 'your eyes' numeric
+@attribute 'your face' numeric
+@attribute 'your family' numeric
+@attribute 'your family tree' numeric
+@attribute 'your favorite' numeric
+@attribute 'your favorite song' numeric
+@attribute 'your friend' numeric
+@attribute 'your friends' numeric
+@attribute 'your fucking' numeric
+@attribute 'your hand' numeric
+@attribute 'your hands' numeric
+@attribute 'your head' numeric
+@attribute 'your heart' numeric
+@attribute 'your heart and' numeric
+@attribute 'your jesus' numeric
+@attribute 'your jesus christ' numeric
+@attribute 'your life' numeric
+@attribute 'your love' numeric
+@attribute 'your love i' numeric
+@attribute 'your mind' numeric
+@attribute 'your money' numeric
+@attribute 'your name' numeric
+@attribute 'your number' numeric
+@attribute 'your own' numeric
+@attribute 'your shadow' numeric
+@attribute 'your shadow till' numeric
+@attribute 'your skin' numeric
+@attribute 'your time' numeric
+@attribute 'your time to' numeric
+@attribute 'your touch' numeric
+@attribute 'your voice' numeric
+@attribute 'your way' numeric
+@attribute yourself numeric
+@attribute à numeric
+@attribute ça numeric
+@attribute 'ça il' numeric
+@attribute 'ça il m' numeric
+@attribute è numeric
+@attribute ég numeric
+@attribute ê numeric
+@attribute 'ê bat' numeric
+@attribute 'ê bat macumba' numeric
+@attribute 'ê ê' numeric
+@attribute 'ê ê bat' numeric
+@attribute ’bout numeric
+
+@data
+
+{67 8.995843,68 8.995843,69 8.995843,76 8.995843,711 8.995843,712 8.995843,713 8.995843,2118 8.995843,2119 8.995843}
+{103 3.95057,147 2.633713,208 1.316857,301 1.316857,302 1.316857,304 1.316857,307 2.633713,325 3.95057,356 3.95057,449 1.316857,568 1.316857,596 1.316857,597 1.316857,604 1.316857,605 1.316857,635 1.316857,644 1.316857,645 1.316857,725 3.95057,789 1.316857,795 1.316857,796 1.316857,829 1.316857,840 1.316857,869 1.316857,906 3.95057,909 1.316857,910 1.316857,912 1.316857,913 1.316857,916 1.316857,917 2.633713,918 2.633713,930 2.633713,992 1.316857,1069 6.584283,1139 1.316857,1186 1.316857,1247 1.316857,1251 1.316857,1298 1.316857,1315 1.316857,1357 1.316857,1359 1.316857,1364 3.95057,1404 1.316857,1480 1.316857,1481 1.316857,1570 1.316857,1652 1.316857,1668 5.267427,1725 1.316857,1753 2.633713,1777 1.316857,1779 2.633713,1832 2.633713,1867 1.316857,1882 1.316857,1892 1.316857,1893 1.316857,1935 1.316857,1956 2.633713,1964 1.316857,1978 2.633713,1991 1.316857,1993 1.316857,2019 6.584283,2035 1.316857,2060 2.633713,2324 1.316857,2334 1.316857,2415 1.316857,2630 1.316857,2633 1.316857,2674 2.633713,2675 2.633713,2692 1.316857,2745 9.217996,2814 1.316857,2817 1.316857,2838 1.316857,2861 1.316857,2879 1.316857,2882 1.316857,2915 1.316857,2962 3.95057,3006 1.316857,3035 1.316857,3037 1.316857,3173 1.316857,3202 2.633713,3217 1.316857,3238 1.316857,3273 1.316857,3275 1.316857,3279 1.316857,3289 1.316857,3464 1.316857,3467 1.316857,3485 1.316857,3513 1.316857,3531 1.316857,3537 1.316857,3552 1.316857,3567 5.267427,3568 1.316857,3586 1.316857,3589 1.316857,3595 1.316857,3600 1.316857,3601 1.316857,3615 1.316857,3617 1.316857,3629 1.316857,3640 1.316857,3649 1.316857,3711 1.316857,3833 1.316857,3840 3.95057,3845 5.267427,3887 1.316857,3967 1.316857,4006 2.633713,4016 1.316857,4017 1.316857,4050 2.633713,4068 1.316857,4069 1.316857,4077 3.95057,4080 1.316857,4083 1.316857,4084 1.316857,4086 1.316857,4106 1.316857,4123 2.633713,4129 3.95057,4144 2.633713,4179 1.316857,4183 2.633713,4228 1.316857,4234 1.316857,4244 1.316857}
+{650 3.264727,716 9.79418,818 3.264727,1069 2.176485,1075 2.176485,1264 2.176485,1266 3.264727,1444 3.264727,1465 3.264727,1668 3.264727,1671 3.264727,1766 3.264727,1769 2.176485,1887 6.529454,1978 4.352969,2077 3.264727,2177 2.176485,2178 2.176485,2179 2.176485,2217 2.176485,2381 5.441211,2403 2.176485,2435 3.264727,2490 3.264727,2557 2.176485,2568 2.176485,2745 7.617696,2803 2.176485,2819 3.264727,2861 5.441211,2939 2.176485,2940 2.176485,3141 2.176485,3307 3.264727,3418 2.176485,3587 3.264727,3595 6.529454,3629 2.176485,3672 3.264727,3795 3.264727,3797 3.264727,3883 5.441211,3908 3.264727,4060 3.264727,4144 7.617696,4183 3.264727,4233 5.441211}
+{235 1.366567,617 2.733133,653 2.733133,667 1.366567,675 5.466267,781 2.733133,829 4.0997,836 1.366567,837 1.366567,838 12.2991,917 1.366567,918 1.366567,999 1.366567,1006 4.0997,1007 5.466267,1497 1.366567,1649 2.733133,1661 1.366567,1824 4.0997,1910 5.466267,1917 1.366567,1928 12.2991,2013 1.366567,2165 2.733133,2181 1.366567,2283 1.366567,2290 1.366567,2297 2.733133,2361 1.366567,2387 5.466267,2442 6.832834,2724 2.733133,2725 4.0997,2727 2.733133,2901 1.366567,2912 1.366567,2997 1.366567,3029 1.366567,3116 5.466267,3427 2.733133,3428 2.733133,3537 4.0997,3544 2.733133,3602 1.366567,3613 1.366567,3619 1.366567,3672 1.366567,3673 1.366567,3698 2.733133,3761 1.366567,3861 1.366567,4245 2.733133}
+{97 2.289052,228 4.578105,312 2.289052,550 2.289052,557 2.289052,865 2.289052,866 2.289052,867 2.289052,958 4.578105,967 2.289052,1119 2.289052,1365 2.289052,1656 2.289052,1668 4.578105,1686 2.289052,1779 4.578105,1900 2.289052,1901 2.289052,1903 2.289052,2106 2.289052,2154 2.289052,2155 9.15621,2261 2.289052,2482 2.289052,2745 2.289052,2813 4.578105,2898 2.289052,3060 4.578105,3091 2.289052,3198 2.289052,3537 2.289052,3629 9.15621,3637 2.289052,3639 2.289052,3736 4.578105,3737 4.578105,3861 13.734315,3885 2.289052,3910 2.289052,4106 2.289052,4111 2.289052,4144 2.289052,4186 4.578105,4187 4.578105}
+{121 2.133552,363 2.133552,613 4.267103,650 2.133552,766 2.133552,1152 2.133552,1337 2.133552,1668 2.133552,1712 2.133552,1917 6.400655,1929 2.133552,1964 2.133552,2210 2.133552,2253 2.133552,2254 2.133552,2481 19.201964,2482 4.267103,2495 6.400655,2768 2.133552,2876 4.267103,3230 2.133552,3289 2.133552,3305 2.133552,3339 6.400655,3397 4.267103,3527 2.133552,3629 6.400655,3667 2.133552,3704 2.133552,3721 4.267103,3896 2.133552,3997 2.133552,4160 2.133552}
+{1722 13.493765,2333 13.493765,3362 13.493765,3537 13.493765}
+{43 2.05778,44 2.05778,45 2.05778,46 2.05778,47 2.05778,48 2.05778,49 2.05778,50 2.05778,51 2.05778,54 2.05778,55 2.05778,56 2.05778,60 2.05778,61 2.05778,62 2.05778,63 2.05778,64 2.05778,65 2.05778,66 2.05778,73 2.05778,74 2.05778,75 2.05778,77 2.05778,78 2.05778,79 2.05778,80 2.05778,81 2.05778,82 2.05778,83 2.05778,84 2.05778,85 2.05778,86 2.05778,87 2.05778,88 2.05778,89 2.05778,90 2.05778,142 2.05778,143 2.05778,144 2.05778,145 2.05778,146 2.05778,333 2.05778,334 2.05778,363 2.05778,365 2.05778,450 2.05778,451 2.05778,521 2.05778,522 2.05778,523 2.05778,619 2.05778,726 2.05778,727 2.05778,728 2.05778,880 2.05778,881 2.05778,882 2.05778,906 2.05778,977 2.05778,978 2.05778,979 2.05778,1034 2.05778,1035 2.05778,1036 2.05778,1041 2.05778,1116 2.05778,1117 2.05778,1118 2.05778,1137 2.05778,1138 2.05778,1172 2.05778,1173 2.05778,1177 2.05778,1178 2.05778,1179 2.05778,1467 2.05778,1468 2.05778,1469 2.05778,1475 2.05778,1476 2.05778,1487 4.11556,1488 2.05778,1489 2.05778,1490 2.05778,1491 2.05778,1652 2.05778,1668 2.05778,1674 2.05778,1832 2.05778,1833 2.05778,1834 2.05778,1835 2.05778,1836 2.05778,1837 2.05778,1959 2.05778,1960 2.05778,1961 2.05778,2006 2.05778,2007 2.05778,2008 2.05778,2115 2.05778,2116 2.05778,2117 2.05778,2120 2.05778,2121 2.05778,2122 2.05778,2272 2.05778,2273 2.05778,2300 2.05778,2301 2.05778,2302 2.05778,2381 2.05778,2446 2.05778,2447 2.05778,2642 2.05778,2643 2.05778,2644 2.05778,2736 4.11556,2737 2.05778,2738 2.05778,2739 2.05778,2740 2.05778,3061 2.05778,3062 2.05778,3063 2.05778,3076 2.05778,3077 2.05778,3078 2.05778,3133 2.05778,3134 2.05778,3135 2.05778,3319 2.05778,3320 2.05778,3321 2.05778,3322 2.05778,3356 2.05778,3357 2.05778,3449 2.05778,3450 2.05778,3519 2.05778,3520 2.05778,3527 2.05778,3558 4.11556,3559 2.05778,3560 2.05778,3561 2.05778,3562 2.05778,3576 2.05778,3577 2.05778,3580 2.05778,3581 2.05778,3592 2.05778,3593 2.05778,3708 2.05778,3709 2.05778,3786 2.05778,3789 2.05778,3831 2.05778,3832 2.05778,3853 2.05778,3854 2.05778,3948 2.05778,3949 2.05778}
+{329 3.484075,351 3.484075,534 3.484075,613 3.484075,829 3.484075,954 3.484075,955 3.484075,998 3.484075,1038 3.484075,1058 3.484075,1069 3.484075,1075 3.484075,1256 3.484075,1259 3.484075,1310 6.96815,1315 3.484075,1570 3.484075,1668 3.484075,1709 3.484075,1779 6.96815,1981 3.484075,1982 3.484075,2344 3.484075,2495 3.484075,2497 3.484075,2557 3.484075,2653 3.484075,2745 3.484075,2787 3.484075,3007 3.484075,3009 3.484075,3016 3.484075,3020 3.484075,3067 3.484075,3137 3.484075,3141 6.96815,3143 3.484075,3144 3.484075,3311 3.484075,3328 3.484075,3330 3.484075,3407 3.484075,3418 6.96815,3419 3.484075,3441 3.484075,3485 3.484075,3629 3.484075,3954 3.484075}
+{312 0.829699,316 0.829699,348 0.829699,392 1.659397,413 1.659397,483 6.637588,667 0.829699,668 0.829699,829 6.637588,831 1.659397,878 7.467287,879 0.829699,940 0.829699,958 16.59397,1092 3.318794,1109 0.829699,1110 6.637588,1120 6.637588,1165 0.829699,1473 6.637588,1516 8.296985,1570 0.829699,1626 0.829699,1628 0.829699,2378 0.829699,2502 4.978191,2543 3.318794,2557 0.829699,2628 0.829699,2745 3.318794,2756 0.829699,2764 0.829699,3136 3.318794,3392 0.829699,3454 0.829699,3455 0.829699,3721 0.829699,3795 0.829699,3894 0.829699,4056 1.659397,4144 3.318794,4151 0.829699,4203 0.829699}
+{214 3.715796,524 1.857898,592 3.715796,718 3.715796,963 1.857898,1038 3.715796,1047 7.431593,1560 3.715796,1594 1.857898,1601 7.431593,1620 1.857898,1657 3.715796,1829 7.431593,2019 3.715796,2228 11.147389,2229 3.715796,2265 1.857898,2344 3.715796,2790 3.715796,2907 1.857898,2924 3.715796,3002 1.857898,3120 3.715796,3123 7.431593,3251 1.857898,3373 7.431593,3530 1.857898,3619 1.857898,3665 1.857898,3666 1.857898,3671 3.715796,3672 1.857898,3673 1.857898,3736 5.573695,3767 7.431593,4186 3.715796}
+{205 3.455399,541 3.455399,578 10.366198,702 3.455399,865 3.455399,914 10.366198,917 3.455399,918 3.455399,971 3.455399,1404 6.910798,1620 3.455399,1621 3.455399,1668 6.910798,1677 3.455399,1713 3.455399,1722 3.455399,1943 3.455399,2046 3.455399,2418 3.455399,2443 3.455399,2645 3.455399,2659 3.455399,2681 3.455399,2728 3.455399,2950 3.455399,2985 3.455399,3080 3.455399,3166 6.910798,3367 3.455399,3610 3.455399,3629 3.455399,3736 3.455399,3737 3.455399,3812 3.455399,3954 3.455399,3963 3.455399}
+{157 1.683436,295 1.683436,472 1.683436,475 5.050308,507 1.683436,525 3.366872,595 1.683436,667 3.366872,668 3.366872,821 1.683436,917 5.050308,918 5.050308,928 3.366872,940 1.683436,1038 1.683436,1337 1.683436,1339 3.366872,1352 1.683436,1354 1.683436,1457 1.683436,1523 1.683436,1560 5.050308,1561 5.050308,1603 3.366872,1645 1.683436,1690 1.683436,1702 3.366872,1884 1.683436,1894 1.683436,1948 5.050308,1949 1.683436,1970 1.683436,2019 5.050308,2020 5.050308,2208 1.683436,2283 3.366872,2418 3.366872,2569 1.683436,2681 3.366872,2734 1.683436,2745 5.050308,2915 3.366872,2919 3.366872,3038 1.683436,3087 3.366872,3173 1.683436,3194 3.366872,3197 1.683436,3289 6.733744,3290 1.683436,3341 1.683436,3367 3.366872,3386 1.683436,3441 1.683436,3887 1.683436,3901 3.366872,3954 1.683436,3992 1.683436,3993 1.683436,3994 1.683436,4053 6.733744,4072 5.050308,4073 5.050308,4093 3.366872,4144 5.050308,4181 3.366872,4201 1.683436,4202 1.683436,4212 1.683436,4222 3.366872,4231 3.366872}
+{362 3.536024,754 1.768012,1153 3.536024,1262 3.536024,1264 19.448131,1334 3.536024,1779 1.768012,2324 3.536024,2418 3.536024,2745 1.768012,2818 5.304036,2902 3.536024,3137 14.144095,3417 1.768012,3485 1.768012,3555 1.768012,3898 1.768012,3958 1.768012,4027 1.768012,4031 1.768012,4032 1.768012}
+{67 8.995843,68 8.995843,69 8.995843,76 8.995843,711 8.995843,712 8.995843,713 8.995843,2118 8.995843,2119 8.995843}
+{196 3.936536,273 3.936536,274 3.936536,329 7.873072,354 3.936536,643 3.936536,1038 7.873072,1051 3.936536,1069 3.936536,1075 3.936536,1088 7.873072,1655 3.936536,1772 3.936536,1779 3.936536,1781 3.936536,1841 3.936536,2019 3.936536,2177 3.936536,2283 3.936536,2717 3.936536,2811 3.936536,2915 3.936536,2944 3.936536,2950 3.936536,2953 7.873072,3067 7.873072,3240 3.936536,3241 3.936536,3427 3.936536,3537 3.936536,3951 3.936536,4118 3.936536}
+{99 0.545788,203 0.545788,299 1.091575,483 2.183151,829 2.728938,831 1.091575,958 0.545788,1092 1.091575,1110 2.728938,1120 2.728938,1473 2.728938,1620 1.091575,1621 1.091575,2257 2.183151,2371 15.282054,2372 14.736267,2373 14.190479,2388 1.091575,2495 1.637363,2502 0.545788,2543 1.637363,2745 1.091575,2942 0.545788,2994 0.545788,2997 0.545788,3136 0.545788,3254 2.183151,3255 2.183151,3311 0.545788,3736 1.091575,3737 1.091575,3894 1.091575,3971 1.091575,3973 1.637363,4050 1.091575,4144 1.091575,4169 1.091575}
+{208 0.96755,312 0.96755,425 8.707949,459 0.96755,488 0.96755,524 0.96755,644 0.96755,682 0.96755,738 3.870199,774 0.96755,775 0.96755,865 0.96755,912 0.96755,913 0.96755,917 0.96755,918 0.96755,1334 3.870199,1474 0.96755,1735 4.837749,1779 7.740399,1786 7.740399,1846 0.96755,1847 0.96755,1947 5.805299,1958 3.870199,2019 1.9351,2033 1.9351,2195 7.740399,2196 7.740399,2197 7.740399,2328 0.96755,2400 1.9351,2458 0.96755,2495 0.96755,2503 0.96755,2514 1.9351,2625 1.9351,2800 0.96755,2837 7.740399,3010 0.96755,3022 7.740399,3027 3.870199,3187 0.96755,3249 0.96755,3254 0.96755,3255 0.96755,3395 0.96755,3431 0.96755,3772 0.96755,3829 0.96755,3887 1.9351,3914 5.805299,4027 3.870199,4061 0.96755,4062 0.96755,4064 0.96755,4080 1.9351,4123 1.9351,4125 1.9351,4132 0.96755,4193 0.96755}
+{235 4.812726,243 1.604242,251 1.604242,308 1.604242,367 1.604242,392 4.812726,425 1.604242,472 1.604242,592 4.812726,613 1.604242,665 1.604242,667 1.604242,668 1.604242,757 1.604242,781 1.604242,865 1.604242,917 1.604242,918 1.604242,934 1.604242,967 1.604242,1015 1.604242,1098 1.604242,1100 1.604242,1143 3.208484,1266 6.416969,1352 1.604242,1354 1.604242,1357 1.604242,1381 1.604242,1430 1.604242,1482 1.604242,1497 4.812726,1545 1.604242,1548 1.604242,1570 12.833937,1577 4.812726,1585 1.604242,1589 1.604242,1611 3.208484,1620 4.812726,1622 1.604242,1645 3.208484,1720 1.604242,1725 1.604242,1727 1.604242,1779 1.604242,1788 1.604242,1848 1.604242,1959 1.604242,2019 4.812726,2030 1.604242,2077 1.604242,2134 4.812726,2149 1.604242,2171 1.604242,2172 1.604242,2228 3.208484,2230 3.208484,2261 1.604242,2262 1.604242,2265 1.604242,2282 1.604242,2345 1.604242,2360 1.604242,2413 1.604242,2492 1.604242,2514 3.208484,2515 1.604242,2519 1.604242,2520 1.604242,2803 1.604242,2848 1.604242,2961 1.604242,3008 1.604242,3010 1.604242,3026 4.812726,3217 1.604242,3253 3.208484,3279 1.604242,3327 1.604242,3503 1.604242,3567 1.604242,3585 1.604242,3629 1.604242,3736 4.812726,3741 1.604242,3840 1.604242,3878 1.604242,3879 1.604242,3881 1.604242,3966 1.604242,4044 1.604242,4072 1.604242,4073 1.604242,4093 1.604242,4097 1.604242,4101 1.604242,4123 3.208484,4169 1.604242,4193 1.604242,4199 1.604242}
+{208 2.579028,235 2.579028,798 2.579028,916 5.158056,1143 7.737084,1398 2.579028,1652 14.184655,1668 9.026599,1683 5.158056,1926 10.316113,3005 5.158056,3141 5.158056,3418 5.158056,3440 2.579028,3537 2.579028,4196 10.316113}
+{178 2.218361,301 1.478908,302 1.478908,312 1.478908,317 2.218361,1091 2.218361,1106 0.739454,1315 2.218361,1376 3.697269,1608 0.739454,1629 0.739454,1658 1.478908,1668 2.957815,1720 13.310168,1739 1.478908,2012 0.739454,2019 2.218361,2228 0.739454,2283 13.310168,2361 13.310168,2557 4.436723,2598 5.91563,2603 2.957815,2623 2.218361,2624 2.218361,2795 0.739454,2838 1.478908,3116 0.739454,3164 0.739454,3244 0.739454,3293 2.218361,3330 2.218361,3432 2.218361,3464 1.478908,3467 1.478908,3610 0.739454,3672 2.218361,3675 0.739454,3676 0.739454,3817 2.218361,3976 2.218361,4027 2.218361,4123 1.478908,4223 3.697269,4244 1.478908}
+{540 4.321463,714 2.880976,829 1.440488,842 1.440488,958 1.440488,998 8.642927,1165 14.404878,1337 1.440488,1376 1.440488,1390 1.440488,1392 1.440488,2283 1.440488,2349 1.440488,2352 1.440488,2353 1.440488,2361 1.440488,2418 1.440488,2481 1.440488,2514 8.642927,2522 5.761951,2531 2.880976,2874 1.440488,2876 1.440488,3311 1.440488,3367 1.440488,3397 1.440488,3629 14.404878,3867 1.440488,4018 1.440488,4039 7.202439}
+{58 3.297052,70 3.297052,174 3.297052,175 3.297052,176 3.297052,389 3.297052,585 3.297052,1094 3.297052,1228 3.297052,1260 3.297052,1295 3.297052,1332 3.297052,1357 3.297052,1404 3.297052,1440 3.297052,1465 3.297052,1474 3.297052,1495 3.297052,1496 3.297052,1570 9.891155,1884 3.297052,1886 3.297052,1901 3.297052,1935 3.297052,1939 3.297052,2077 6.594103,2239 3.297052,2305 3.297052,3188 3.297052,3189 3.297052,3287 6.594103,3600 3.297052,3829 6.594103,3862 9.891155,4074 3.297052,4081 3.297052,4082 3.297052,4090 3.297052,4127 6.594103}
+{243 2.646345,279 2.646345,549 5.29269,600 2.646345,604 2.646345,680 2.646345,917 5.29269,918 5.29269,1047 2.646345,1100 2.646345,1157 2.646345,1261 2.646345,1323 2.646345,1337 2.646345,1570 2.646345,1576 2.646345,1611 2.646345,1630 2.646345,1668 2.646345,1690 5.29269,1766 5.29269,1779 2.646345,1860 5.29269,2072 2.646345,2107 5.29269,2133 2.646345,2177 5.29269,2288 2.646345,2290 5.29269,2349 2.646345,2464 2.646345,2678 2.646345,2745 5.29269,3226 5.29269,3464 5.29269,3503 5.29269,3537 2.646345,3552 2.646345,3553 2.646345,3624 2.646345,3671 5.29269,3883 5.29269,3894 2.646345,3952 5.29269,4144 5.29269,4160 2.646345,4174 2.646345,4181 5.29269,4196 2.646345,4198 2.646345}
+{107 2.740169,199 2.740169,257 2.740169,363 2.740169,466 2.740169,477 2.740169,525 2.740169,592 2.740169,680 2.740169,794 2.740169,963 2.740169,976 2.740169,1004 2.740169,1087 2.740169,1165 2.740169,1381 2.740169,1387 2.740169,1396 2.740169,1508 5.480337,1634 2.740169,1668 2.740169,1709 2.740169,1779 5.480337,1784 5.480337,1840 5.480337,1876 2.740169,1989 2.740169,2019 2.740169,2032 2.740169,2265 2.740169,2278 2.740169,2279 2.740169,2292 2.740169,2343 2.740169,2482 2.740169,2745 2.740169,2763 2.740169,2776 2.740169,2829 5.480337,2830 5.480337,3054 2.740169,3123 2.740169,3137 13.700843,3273 2.740169,3288 2.740169,3353 2.740169,3354 2.740169,3370 2.740169,3521 2.740169,3537 2.740169,3840 2.740169,3894 2.740169,3997 2.740169,4144 2.740169,4156 2.740169}
+{219 1.30755,248 1.30755,249 1.30755,257 1.30755,263 1.30755,269 1.30755,289 1.30755,292 1.30755,392 1.30755,394 1.30755,418 1.30755,483 1.30755,546 1.30755,553 1.30755,564 1.30755,585 1.30755,604 1.30755,622 1.30755,644 1.30755,666 1.30755,667 1.30755,721 1.30755,760 3.92265,779 1.30755,789 5.2302,878 1.30755,890 2.6151,895 1.30755,901 1.30755,912 1.30755,913 1.30755,917 3.92265,918 3.92265,925 1.30755,934 1.30755,940 1.30755,965 1.30755,1041 1.30755,1134 1.30755,1177 1.30755,1264 1.30755,1289 1.30755,1292 1.30755,1352 1.30755,1451 2.6151,1472 1.30755,1484 3.92265,1486 1.30755,1514 1.30755,1515 1.30755,1529 1.30755,1548 3.92265,1570 5.2302,1594 1.30755,1599 1.30755,1601 1.30755,1605 1.30755,1616 2.6151,1629 2.6151,1638 1.30755,1652 1.30755,1668 5.2302,1712 1.30755,1729 1.30755,1730 1.30755,1758 1.30755,1772 1.30755,1882 3.92265,1884 1.30755,1943 1.30755,1964 1.30755,1974 1.30755,1985 1.30755,2063 5.2302,2072 1.30755,2108 2.6151,2177 1.30755,2195 2.6151,2198 5.2302,2201 2.6151,2206 1.30755,2240 1.30755,2283 1.30755,2413 1.30755,2435 2.6151,2473 1.30755,2514 1.30755,2557 1.30755,2660 5.2302,2661 1.30755,2695 1.30755,2723 1.30755,2731 1.30755,2745 1.30755,2766 5.2302,2767 5.2302,2780 1.30755,2847 1.30755,2869 1.30755,2885 1.30755,2925 1.30755,2952 1.30755,2954 2.6151,2998 1.30755,3026 3.92265,3061 1.30755,3070 1.30755,3087 1.30755,3183 1.30755,3217 1.30755,3249 1.30755,3279 1.30755,3317 1.30755,3384 1.30755,3443 5.2302,3496 1.30755,3537 1.30755,3567 2.6151,3571 1.30755,3587 5.2302,3604 3.92265,3637 3.92265,3640 1.30755,3695 1.30755,3705 1.30755,3736 1.30755,3741 1.30755,3753 1.30755,3883 1.30755,3887 2.6151,3914 1.30755,3971 1.30755,4006 5.2302,4027 1.30755,4062 3.92265,4064 1.30755,4080 2.6151,4081 1.30755,4093 1.30755,4119 1.30755,4144 1.30755,4163 1.30755,4186 1.30755,4188 1.30755,4213 1.30755}
+{139 3.742497,199 3.742497,244 3.742497,328 3.742497,383 3.742497,525 3.742497,537 3.742497,734 3.742497,845 3.742497,1037 3.742497,1038 3.742497,1042 3.742497,1120 3.742497,1123 3.742497,1142 3.742497,1242 3.742497,1568 3.742497,1569 3.742497,1594 3.742497,1652 3.742497,1690 3.742497,1879 3.742497,2046 3.742497,2077 7.484994,2103 3.742497,2288 3.742497,2344 3.742497,2918 7.484994,2984 3.742497,3009 3.742497,3017 3.742497,3128 3.742497,3141 3.742497,3418 3.742497,3454 3.742497,3537 7.484994,3552 3.742497,3574 3.742497,3595 3.742497,3813 3.742497,3963 3.742497,4053 3.742497,4126 3.742497}
+{174 4.270441,175 4.270441,257 2.13522,260 1.06761,261 1.06761,273 1.06761,312 1.06761,363 1.06761,546 1.06761,551 1.06761,553 1.06761,653 1.06761,682 3.202831,916 2.13522,917 2.13522,918 2.13522,930 2.13522,1298 6.405661,1299 3.202831,1332 1.06761,1472 1.06761,1535 1.06761,1545 1.06761,1548 3.202831,1555 2.13522,1560 1.06761,1597 1.06761,1603 1.06761,1637 1.06761,1652 1.06761,1668 2.13522,1739 6.405661,1776 3.202831,1804 1.06761,1860 3.202831,1884 1.06761,1892 3.202831,1901 2.13522,2019 1.06761,2030 1.06761,2168 1.06761,2388 1.06761,2503 1.06761,2509 12.811322,2717 1.06761,2745 1.06761,2915 1.06761,3053 1.06761,3202 2.13522,3213 2.13522,3273 2.13522,3288 3.202831,3289 1.06761,3423 1.06761,3425 1.06761,3493 1.06761,3586 2.13522,3595 3.202831,3618 1.06761,3634 1.06761,3679 1.06761,3687 1.06761,3714 2.13522,3715 2.13522,3722 1.06761,3736 6.405661,3741 6.405661,3743 6.405661,3786 3.202831,3810 1.06761,3811 1.06761,3853 3.202831,3862 2.13522,3864 1.06761,4022 3.202831,4053 1.06761,4072 1.06761,4073 1.06761,4101 1.06761,4106 2.13522,4108 1.06761,4169 1.06761,4186 6.405661,4188 6.405661,4244 1.06761}
+{838 3.272719,1012 19.636313,2191 3.272719,2479 9.818156,2725 9.818156,2901 3.272719,3678 3.272719,3734 3.272719,3748 9.818156}
+{160 0.904116,235 0.904116,236 0.904116,329 9.945279,378 3.616465,644 3.616465,718 1.808233,917 4.520581,918 4.520581,928 4.520581,1195 0.904116,1376 0.904116,1500 0.904116,1503 0.904116,1514 4.520581,1515 4.520581,1570 2.712349,1607 0.904116,1618 0.904116,1619 0.904116,1629 1.808233,1638 3.616465,1690 0.904116,1691 0.904116,1702 4.520581,1779 6.328814,1882 0.904116,1925 3.616465,1935 1.808233,1970 0.904116,2063 3.616465,2068 0.904116,2069 0.904116,2077 10.849395,2083 0.904116,2103 2.712349,2216 2.712349,2360 3.616465,2464 0.904116,2473 2.712349,2745 6.328814,3194 4.520581,3195 0.904116,3632 1.808233,3731 3.616465,3767 3.616465,3768 3.616465,3941 2.712349,3973 1.808233,4050 1.808233,4074 0.904116,4080 1.808233,4144 6.328814,4185 0.904116,4223 0.904116,4229 7.23293,4230 0.904116}
+{160 1.593024,464 3.186047,465 3.186047,503 1.593024,507 6.372094,508 3.186047,865 1.593024,917 9.558141,918 9.558141,933 6.372094,1228 1.593024,1451 1.593024,1514 6.372094,1515 6.372094,1659 6.372094,1779 1.593024,1784 1.593024,1882 1.593024,1948 6.372094,2005 1.593024,2077 6.372094,2083 3.186047,2084 3.186047,2232 1.593024,2244 1.593024,2514 1.593024,2579 1.593024,2826 1.593024,2829 1.593024,2848 3.186047,3015 3.186047,3058 3.186047,3070 1.593024,3215 6.372094,3537 3.186047,3547 3.186047,3555 1.593024,3672 3.186047,3685 1.593024,3773 6.372094,3774 3.186047,3953 1.593024,4118 3.186047}
+{113 4.645434,243 4.645434,295 2.322717,504 2.322717,519 4.645434,545 4.645434,589 4.645434,590 4.645434,714 2.322717,917 4.645434,918 4.645434,920 4.645434,1134 2.322717,1175 2.322717,1337 2.322717,1339 4.645434,1405 2.322717,1407 2.322717,1668 2.322717,1805 6.96815,2046 2.322717,2047 2.322717,2073 4.645434,2495 2.322717,2557 4.645434,2876 2.322717,2889 2.322717,2896 4.645434,2906 4.645434,2919 2.322717,2939 2.322717,3115 2.322717,3116 2.322717,3173 4.645434,3244 2.322717,3397 2.322717,3429 4.645434,3454 2.322717,3567 2.322717,3651 4.645434,3736 4.645434,3887 2.322717,3901 6.96815,3908 2.322717,3971 2.322717,4005 4.645434,4016 2.322717,4017 2.322717,4062 2.322717,4084 4.645434,4106 2.322717,4160 4.645434,4186 4.645434}
+{157 23.441343,295 1.80318,343 1.80318,884 1.80318,906 1.80318,1069 1.80318,1091 1.80318,1161 1.80318,1315 1.80318,1339 1.80318,1668 1.80318,1779 3.60636,1786 1.80318,2019 5.409541,2188 1.80318,2327 1.80318,2418 1.80318,2457 1.80318,2637 1.80318,2837 1.80318,2838 1.80318,3081 3.60636,3330 1.80318,3464 1.80318,3467 1.80318,3537 3.60636,3578 1.80318,3587 1.80318,3840 3.60636,3896 1.80318,3897 1.80318,3955 1.80318,4077 1.80318,4123 1.80318,4204 1.80318,4222 1.80318}
+{67 8.995843,68 8.995843,69 8.995843,76 8.995843,711 8.995843,712 8.995843,713 8.995843,2118 8.995843,2119 8.995843}
+{1101 26.904619,1504 1.494701,2766 1.494701}
+{101 1.440488,109 2.880976,113 1.440488,218 2.880976,257 1.440488,424 1.440488,449 2.880976,520 2.880976,632 2.880976,639 2.880976,659 2.880976,665 2.880976,716 1.440488,829 2.880976,837 1.440488,985 1.440488,1017 2.880976,1160 1.440488,1180 1.440488,1181 1.440488,1260 4.321463,1292 1.440488,1317 1.440488,1500 2.880976,1570 5.761951,1611 4.321463,1613 4.321463,1620 1.440488,1622 1.440488,1629 1.440488,1645 2.880976,1661 1.440488,1713 2.880976,1721 1.440488,1894 1.440488,1910 12.96439,1911 10.083415,1912 7.202439,1964 1.440488,2012 2.880976,2073 1.440488,2164 2.880976,2231 2.880976,2317 1.440488,2318 2.880976,2431 2.880976,2464 1.440488,2465 1.440488,2630 1.440488,2652 1.440488,2678 1.440488,2764 1.440488,2781 2.880976,3423 1.440488,3424 1.440488,3427 1.440488,3464 2.880976,3492 1.440488,3496 4.321463,3504 1.440488,3537 2.880976,3563 1.440488,3578 2.880976,3595 1.440488,3629 1.440488,3633 1.440488,3660 1.440488,3671 1.440488,3736 1.440488,3741 1.440488,3742 1.440488,3810 1.440488,3811 1.440488,3813 2.880976,3894 2.880976,3953 1.440488,4062 2.880976}
+{461 3.543636,476 3.543636,619 3.543636,757 3.543636,1092 3.543636,1153 3.543636,1165 3.543636,1262 3.543636,1315 3.543636,1337 3.543636,1351 3.543636,1457 3.543636,1668 3.543636,1690 3.543636,1715 3.543636,1864 3.543636,2019 3.543636,2020 3.543636,2072 3.543636,2283 3.543636,2557 3.543636,2561 3.543636,2633 3.543636,2638 3.543636,2669 3.543636,2764 3.543636,2876 3.543636,2892 3.543636,3071 3.543636,3330 3.543636,3378 3.543636,3397 3.543636,3629 3.543636,3761 3.543636,3762 3.543636,3771 3.543636,3887 10.630909,3999 7.087273,4090 3.543636,4104 7.087273,4123 3.543636,4124 3.543636,4193 3.543636,4221 3.543636}
+{0 nothigh,52 1.293953,53 1.293953,107 1.293953,337 2.587906,386 14.233483,387 10.351624,388 7.763718,749 1.293953,750 1.293953,878 1.293953,1111 3.881859,1228 1.293953,1229 1.293953,1373 3.881859,1464 7.763718,1865 2.587906,1876 1.293953,2159 1.293953,2198 1.293953,2557 6.469765,2681 2.587906,2808 2.587906,2814 2.587906,2817 2.587906,2833 1.293953,2945 1.293953,2950 1.293953,2962 2.587906,3093 1.293953,3464 2.587906,3465 2.587906,3653 6.469765,3656 1.293953,3831 2.587906,3883 2.587906,3992 6.469765,3993 6.469765}
+{0 nothigh,97 1.615701,106 1.615701,215 3.231402,257 4.847104,265 1.615701,299 4.847104,307 1.615701,311 1.615701,312 1.615701,363 6.462805,475 3.231402,549 1.615701,592 1.615701,604 1.615701,667 1.615701,786 1.615701,824 1.615701,829 6.462805,870 1.615701,917 1.615701,918 1.615701,1047 3.231402,1351 1.615701,1388 1.615701,1493 1.615701,1620 3.231402,1626 1.615701,1627 1.615701,1645 1.615701,1702 1.615701,1723 3.231402,1852 1.615701,1925 1.615701,1953 3.231402,1954 3.231402,2014 1.615701,2019 1.615701,2063 1.615701,2107 1.615701,2108 1.615701,2195 3.231402,2265 6.462805,2267 6.462805,2288 4.847104,2514 1.615701,2569 6.462805,2638 4.847104,2660 1.615701,2745 3.231402,2765 3.231402,2816 3.231402,2971 1.615701,3026 3.231402,3027 3.231402,3037 1.615701,3141 1.615701,3310 1.615701,3418 1.615701,3442 1.615701,3453 3.231402,3464 1.615701,3487 1.615701,3555 1.615701,3629 1.615701,3667 1.615701,3711 3.231402,3736 3.231402,3786 1.615701,3839 1.615701,3845 3.231402,3901 3.231402,3909 3.231402,3963 1.615701,4005 4.847104,4055 6.462805,4159 3.231402,4185 3.231402,4235 4.847104}
+{0 nothigh,174 2.060777,175 2.060777,180 1.030389,277 1.030389,330 1.030389,515 1.030389,627 1.030389,651 1.030389,706 1.030389,739 4.121555,740 4.121555,770 1.030389,818 1.030389,869 1.030389,1037 1.030389,1157 1.030389,1160 1.030389,1210 2.060777,1213 2.060777,1398 1.030389,1457 12.364664,1458 4.121555,1459 4.121555,1461 4.121555,1462 4.121555,1463 4.121555,1472 1.030389,1498 1.030389,1513 1.030389,1545 1.030389,1570 4.121555,1580 2.060777,1587 2.060777,1591 1.030389,1594 2.060777,1659 2.060777,1660 2.060777,1668 1.030389,1709 1.030389,1726 2.060777,1779 1.030389,1787 1.030389,1797 1.030389,1798 1.030389,1829 1.030389,1830 1.030389,1925 1.030389,1948 4.121555,1950 4.121555,1983 1.030389,1984 1.030389,1995 2.060777,2019 1.030389,2077 4.121555,2100 2.060777,2101 2.060777,2103 1.030389,2106 2.060777,2142 2.060777,2143 2.060777,2152 2.060777,2153 2.060777,2154 1.030389,2211 4.121555,2212 4.121555,2241 1.030389,2317 1.030389,2339 1.030389,2340 1.030389,2402 2.060777,2418 1.030389,2448 1.030389,2492 1.030389,2514 6.182332,2517 4.121555,2518 4.121555,2522 1.030389,2543 1.030389,2585 1.030389,2586 1.030389,2640 1.030389,2649 1.030389,2673 1.030389,2681 1.030389,2745 4.121555,2759 1.030389,2763 1.030389,2805 1.030389,2845 1.030389,2846 1.030389,2854 1.030389,2900 1.030389,3054 1.030389,3137 1.030389,3273 2.060777,3279 1.030389,3307 1.030389,3375 1.030389,3433 1.030389,3457 2.060777,3458 2.060777,3527 2.060777,3619 1.030389,3629 1.030389,3669 1.030389,3840 1.030389,3845 1.030389,3894 2.060777,3895 2.060777,3904 2.060777,3905 2.060777,3973 6.182332,3974 1.030389,3975 2.060777,4050 1.030389,4051 1.030389,4093 1.030389,4098 1.030389,4099 1.030389,4139 3.091166,4140 3.091166,4144 3.091166,4156 1.030389,4177 1.030389,4178 1.030389}
+{0 nothigh,109 1.382613,184 1.382613,205 1.382613,220 1.382613,235 1.382613,312 1.382613,521 1.382613,650 2.765226,840 1.382613,858 20.739196,1095 1.382613,1120 1.382613,1165 1.382613,1225 1.382613,1308 1.382613,1376 1.382613,1497 1.382613,1529 1.382613,1609 1.382613,1629 1.382613,1702 1.382613,1779 5.530452,1784 5.530452,1840 5.530452,2012 1.382613,2060 1.382613,2200 1.382613,2218 1.382613,2219 1.382613,2283 1.382613,2300 1.382613,2661 1.382613,2829 5.530452,2830 5.530452,2850 1.382613,2870 5.530452,2930 1.382613,2994 1.382613,3082 1.382613,3229 4.147839,3269 1.382613,3279 1.382613,3451 1.382613,3537 1.382613,3883 1.382613,3906 1.382613,3914 1.382613,4027 1.382613,4062 1.382613,4091 1.382613,4174 2.765226,4223 1.382613,4231 1.382613}
+{0 nothigh,187 1.411625,188 1.411625,208 0.705813,212 0.705813,227 1.411625,240 2.823251,241 2.823251,332 0.705813,392 2.823251,401 2.823251,402 2.823251,507 0.705813,635 0.705813,636 0.705813,682 0.705813,687 0.705813,893 0.705813,901 2.823251,902 2.823251,980 2.823251,981 2.823251,982 2.823251,985 9.175565,986 2.823251,987 2.823251,988 5.646501,989 1.411625,990 2.823251,991 0.705813,1069 9.175565,1071 1.411625,1072 1.411625,1073 0.705813,1078 5.646501,1079 2.117438,1080 2.823251,1168 0.705813,1210 6.352314,1213 0.705813,1216 2.823251,1217 2.823251,1218 2.823251,1219 2.823251,1266 0.705813,1296 0.705813,1337 0.705813,1338 0.705813,1408 0.705813,1484 0.705813,1599 2.823251,1600 2.823251,1655 0.705813,1668 1.411625,1678 0.705813,1690 0.705813,1694 0.705813,1725 0.705813,1735 0.705813,1738 0.705813,1766 1.411625,1979 2.823251,1980 2.823251,1995 0.705813,2005 0.705813,2226 0.705813,2227 0.705813,2236 2.823251,2237 2.823251,2242 2.823251,2243 2.823251,2283 0.705813,2460 2.117438,2461 2.117438,2462 2.823251,2463 2.823251,2514 0.705813,2538 0.705813,2539 0.705813,2566 2.823251,2567 2.823251,2598 2.823251,2599 2.823251,2600 2.823251,2660 0.705813,2698 0.705813,2723 0.705813,2805 0.705813,2871 2.823251,2872 2.823251,2885 0.705813,2902 0.705813,2947 0.705813,2948 0.705813,2963 3.529063,2964 2.823251,2965 2.823251,2969 0.705813,3008 0.705813,3090 0.705813,3175 0.705813,3251 0.705813,3380 0.705813,3400 0.705813,3427 0.705813,3443 1.411625,3444 0.705813,3471 0.705813,3513 0.705813,3537 0.705813,3685 2.823251,3686 2.823251,3722 0.705813,3884 0.705813,3887 2.823251,3888 2.823251,3971 0.705813,3976 2.823251,3977 2.823251,3992 0.705813,3993 0.705813,4006 1.411625,4008 0.705813,4011 0.705813,4053 0.705813,4062 1.411625,4077 2.823251,4078 2.823251,4119 0.705813,4120 0.705813,4201 0.705813,4202 0.705813,4210 2.823251,4211 2.823251,4231 0.705813}
+{0 nothigh,187 1.411625,188 1.411625,208 0.705813,212 0.705813,227 1.411625,240 2.823251,241 2.823251,332 0.705813,392 2.823251,401 2.823251,402 2.823251,507 0.705813,635 0.705813,636 0.705813,682 0.705813,687 0.705813,893 0.705813,901 2.823251,902 2.823251,980 2.823251,981 2.823251,982 2.823251,985 9.175565,986 2.823251,987 2.823251,988 5.646501,989 1.411625,990 2.823251,991 0.705813,1069 9.175565,1071 1.411625,1072 1.411625,1073 0.705813,1078 5.646501,1079 2.117438,1080 2.823251,1168 0.705813,1210 6.352314,1213 0.705813,1216 2.823251,1217 2.823251,1218 2.823251,1219 2.823251,1266 0.705813,1296 0.705813,1337 0.705813,1338 0.705813,1408 0.705813,1484 0.705813,1599 2.823251,1600 2.823251,1655 0.705813,1668 1.411625,1678 0.705813,1690 0.705813,1694 0.705813,1725 0.705813,1735 0.705813,1738 0.705813,1766 1.411625,1979 2.823251,1980 2.823251,1995 0.705813,2005 0.705813,2226 0.705813,2227 0.705813,2236 2.823251,2237 2.823251,2242 2.823251,2243 2.823251,2283 0.705813,2460 2.117438,2461 2.117438,2462 2.823251,2463 2.823251,2514 0.705813,2538 0.705813,2539 0.705813,2566 2.823251,2567 2.823251,2598 2.823251,2599 2.823251,2600 2.823251,2660 0.705813,2698 0.705813,2723 0.705813,2805 0.705813,2871 2.823251,2872 2.823251,2885 0.705813,2902 0.705813,2947 0.705813,2948 0.705813,2963 3.529063,2964 2.823251,2965 2.823251,2969 0.705813,3008 0.705813,3090 0.705813,3175 0.705813,3251 0.705813,3380 0.705813,3400 0.705813,3427 0.705813,3443 1.411625,3444 0.705813,3471 0.705813,3513 0.705813,3537 0.705813,3685 2.823251,3686 2.823251,3722 0.705813,3884 0.705813,3887 2.823251,3888 2.823251,3971 0.705813,3976 2.823251,3977 2.823251,3992 0.705813,3993 0.705813,4006 1.411625,4008 0.705813,4011 0.705813,4053 0.705813,4062 1.411625,4077 2.823251,4078 2.823251,4119 0.705813,4120 0.705813,4201 0.705813,4202 0.705813,4210 2.823251,4211 2.823251,4231 0.705813}
+{0 nothigh,41 3.92265,116 1.30755,130 2.6151,178 1.30755,208 1.30755,257 6.537751,260 1.30755,261 2.6151,262 1.30755,265 1.30755,269 1.30755,295 2.6151,303 1.30755,312 1.30755,316 1.30755,328 1.30755,337 1.30755,420 5.2302,472 3.92265,475 1.30755,551 1.30755,557 1.30755,564 1.30755,572 1.30755,592 1.30755,594 1.30755,613 1.30755,680 1.30755,718 1.30755,733 1.30755,795 1.30755,796 1.30755,805 1.30755,829 1.30755,831 1.30755,832 1.30755,891 1.30755,951 1.30755,967 5.2302,992 1.30755,1120 1.30755,1129 1.30755,1167 1.30755,1203 1.30755,1222 1.30755,1290 1.30755,1330 1.30755,1359 1.30755,1365 1.30755,1390 2.6151,1392 1.30755,1395 1.30755,1416 1.30755,1457 5.2302,1548 2.6151,1554 1.30755,1555 1.30755,1560 7.845301,1561 5.2302,1570 3.92265,1576 1.30755,1578 1.30755,1603 1.30755,1620 1.30755,1632 1.30755,1633 1.30755,1645 1.30755,1690 1.30755,1711 1.30755,1712 1.30755,1722 1.30755,1724 1.30755,1767 1.30755,1870 1.30755,1892 1.30755,1901 1.30755,1970 1.30755,1971 1.30755,1975 1.30755,1991 1.30755,1995 1.30755,1996 1.30755,2005 1.30755,2019 7.845301,2020 5.2302,2133 1.30755,2138 1.30755,2209 1.30755,2310 1.30755,2418 2.6151,2445 1.30755,2482 2.6151,2495 2.6151,2500 1.30755,2502 1.30755,2503 1.30755,2580 1.30755,2651 1.30755,2745 3.92265,2766 1.30755,2884 1.30755,2905 1.30755,2915 1.30755,2955 1.30755,3017 1.30755,3061 2.6151,3064 2.6151,3093 1.30755,3128 1.30755,3173 1.30755,3273 1.30755,3278 1.30755,3341 1.30755,3359 1.30755,3367 2.6151,3370 3.92265,3373 1.30755,3537 1.30755,3544 1.30755,3574 1.30755,3664 1.30755,3672 3.92265,3673 1.30755,3714 1.30755,3726 1.30755,3736 1.30755,3761 1.30755,3954 1.30755,3971 1.30755,3992 1.30755,3993 1.30755,3994 1.30755,4053 2.6151,4054 1.30755,4059 6.537751,4068 1.30755,4093 1.30755,4144 3.92265,4179 1.30755,4213 1.30755,4243 1.30755}
+{0 nothigh,159 2.05778,208 4.11556,211 4.11556,244 2.05778,245 2.05778,257 2.05778,262 2.05778,270 2.05778,271 2.05778,425 2.05778,573 2.05778,916 8.23112,1069 4.11556,1266 4.11556,1484 2.05778,1560 2.05778,1570 8.23112,1620 4.11556,1668 2.05778,1735 6.17334,1756 2.05778,1877 2.05778,1882 2.05778,2019 2.05778,2077 2.05778,2283 8.23112,2284 6.17334,2659 8.23112,2676 2.05778,2772 2.05778,2819 4.11556,2860 2.05778,2862 2.05778,2950 6.17334,3379 2.05778,3423 4.11556,3424 4.11556,3492 4.11556,3567 2.05778,3585 8.23112,3736 4.11556,3883 2.05778,4018 2.05778}
+{0 nothigh,169 7.972044,170 3.986022,171 3.986022,172 3.986022,173 3.986022,617 0.613234,653 0.613234,675 0.306617,793 0.306617,838 1.839703,999 0.613234,1000 4.292639,1001 4.292639,1002 3.986022,1006 0.919851,1007 7.052193,1008 1.226468,1009 1.226468,1010 3.986022,1011 3.986022,1147 4.292639,1148 1.226468,1149 1.226468,1150 2.14632,1151 2.14632,1649 3.986022,1650 3.986022,1651 3.986022,1824 4.599256,1825 3.986022,1826 3.986022,1910 0.306617,1928 0.306617,2124 3.986022,2125 3.986022,2165 2.452937,2166 2.452937,2167 2.452937,2181 1.226468,2182 1.226468,2183 1.226468,2297 3.986022,2298 3.986022,2299 3.986022,2387 0.613234,2442 0.613234,2666 4.599256,2667 4.292639,2668 4.292639,2688 5.519108,2689 4.292639,2690 1.226468,2691 2.14632,2724 0.919851,2725 0.613234,2901 0.613234,3168 3.986022,3169 3.986022,3250 0.306617,3677 0.919851,3698 5.519108,3699 4.599256,3700 4.292639,4245 1.533085,4246 1.226468,4247 1.226468,4248 1.226468}
+{0 nothigh,169 7.972044,170 3.986022,171 3.986022,172 3.986022,173 3.986022,617 0.613234,653 0.613234,675 0.306617,793 0.306617,838 1.839703,999 0.613234,1000 4.292639,1001 4.292639,1002 3.986022,1006 0.919851,1007 7.052193,1008 1.226468,1009 1.226468,1010 3.986022,1011 3.986022,1147 4.292639,1148 1.226468,1149 1.226468,1150 2.14632,1151 2.14632,1649 3.986022,1650 3.986022,1651 3.986022,1824 4.599256,1825 3.986022,1826 3.986022,1910 0.306617,1928 0.306617,2124 3.986022,2125 3.986022,2165 2.452937,2166 2.452937,2167 2.452937,2181 1.226468,2182 1.226468,2183 1.226468,2297 3.986022,2298 3.986022,2299 3.986022,2387 0.613234,2442 0.613234,2666 4.599256,2667 4.292639,2668 4.292639,2688 5.519108,2689 4.292639,2690 1.226468,2691 2.14632,2724 0.919851,2725 0.613234,2901 0.613234,3168 3.986022,3169 3.986022,3250 0.306617,3677 0.919851,3698 5.519108,3699 4.599256,3700 4.292639,4245 1.533085,4246 1.226468,4247 1.226468,4248 1.226468}
+{0 nothigh,99 7.383153,208 1.230525,256 2.461051,476 2.461051,781 1.230525,789 1.230525,958 7.383153,1059 2.461051,1134 2.461051,1161 1.230525,1262 1.230525,1264 2.461051,1332 1.230525,1339 1.230525,1361 1.230525,1373 4.922102,1376 1.230525,1390 1.230525,1442 1.230525,1451 1.230525,1684 1.230525,1686 1.230525,1715 8.613678,1716 8.613678,1779 1.230525,1780 1.230525,1840 14.766306,1872 1.230525,1943 1.230525,1978 1.230525,2058 1.230525,2059 1.230525,2072 1.230525,2107 1.230525,2155 1.230525,2514 3.691576,2531 1.230525,2557 1.230525,2577 1.230525,2779 2.461051,2787 3.691576,2808 2.461051,2826 2.461051,2876 2.461051,2931 1.230525,2949 2.461051,2954 4.922102,3054 1.230525,3090 1.230525,3109 2.461051,3111 1.230525,3165 1.230525,3252 1.230525,3271 1.230525,3286 1.230525,3370 1.230525,3464 1.230525,3465 1.230525,3528 1.230525,3529 1.230525,3534 1.230525,3537 1.230525,3589 1.230525,3591 1.230525,3629 1.230525,3803 1.230525,3804 6.152627,3809 1.230525,3971 1.230525}
+{0 nothigh,114 2.473943,257 9.895771,295 4.947886,350 2.473943,507 2.473943,537 2.473943,644 9.895771,708 2.473943,967 2.473943,1059 2.473943,1091 2.473943,1106 2.473943,1144 2.473943,1254 2.473943,1339 2.473943,1500 9.895771,1503 9.895771,1634 2.473943,1712 2.473943,2009 2.473943,2019 2.473943,2020 2.473943,2046 2.473943,2310 4.947886,2347 2.473943,2350 2.473943,2543 2.473943,2677 2.473943,2710 2.473943,2745 2.473943,2775 2.473943,2793 2.473943,2958 2.473943,3021 2.473943,3119 2.473943,3137 2.473943,3175 2.473943,3214 2.473943,3269 2.473943,3359 4.947886,3660 4.947886,3840 2.473943,3841 2.473943,3909 2.473943,3914 2.473943,3997 2.473943,4144 2.473943}
+{0 nothigh,237 8.959746,238 8.959746,257 0.527044,262 0.527044,312 0.527044,316 0.527044,367 0.527044,378 1.581132,379 1.581132,380 0.527044,381 0.527044,614 4.216351,615 3.689307,616 3.162263,917 4.216351,918 4.216351,930 1.054088,934 1.581132,940 1.581132,992 1.054088,1037 0.527044,1038 1.054088,1111 0.527044,1129 0.527044,1130 0.527044,1139 0.527044,1163 1.581132,1187 2.108176,1242 1.581132,1266 3.689307,1273 0.527044,1277 3.162263,1278 3.162263,1282 1.054088,1302 3.689307,1305 3.162263,1345 1.054088,1514 2.108176,1515 2.108176,1529 0.527044,1531 3.689307,1533 3.162263,1570 4.216351,1577 3.689307,1599 0.527044,1602 2.108176,1623 0.527044,1668 0.527044,1673 0.527044,1884 0.527044,1935 3.162263,1939 3.162263,1940 3.162263,1948 1.581132,1949 1.581132,1975 1.054088,2011 2.108176,2058 0.527044,2134 3.689307,2136 3.162263,2184 1.581132,2201 0.527044,2202 0.527044,2208 1.581132,2316 1.054088,2393 1.054088,2430 1.054088,2431 1.581132,2745 0.527044,2916 1.581132,2931 0.527044,3081 0.527044,3109 1.581132,3202 1.054088,3217 1.581132,3218 1.581132,3254 0.527044,3258 0.527044,3316 0.527044,3496 0.527044,3537 0.527044,3578 0.527044,3619 1.581132,3620 1.581132,3773 0.527044,3786 1.581132,3798 0.527044,3878 2.63522,3880 2.108176,3973 0.527044,3988 13.703142,3989 4.216351,3990 2.63522,4027 0.527044,4098 0.527044,4099 0.527044,4106 0.527044,4108 0.527044,4136 0.527044,4144 0.527044,4200 3.162263,4213 1.054088,4236 0.527044}
+{0 nothigh,92 2.082133,109 4.164266,135 2.082133,192 6.2464,208 4.164266,348 2.082133,363 2.082133,427 2.082133,579 2.082133,587 2.082133,659 2.082133,750 6.2464,766 4.164266,829 2.082133,950 2.082133,1037 2.082133,1109 2.082133,1234 2.082133,1471 2.082133,1474 2.082133,1652 2.082133,1668 4.164266,1735 6.2464,1736 6.2464,1860 2.082133,2012 6.2464,2013 2.082133,2046 2.082133,2114 6.2464,2278 2.082133,2279 2.082133,2296 6.2464,2557 6.2464,2623 2.082133,2628 2.082133,2638 2.082133,2649 4.164266,2660 2.082133,2674 4.164266,2675 4.164266,2705 2.082133,2826 2.082133,3002 2.082133,3289 2.082133,3305 4.164266,3334 2.082133,3353 2.082133,3354 2.082133,3375 2.082133,3377 2.082133,3389 2.082133,3440 2.082133,3472 2.082133,3525 2.082133,3594 2.082133,3727 2.082133,3757 6.2464,3767 2.082133,3772 2.082133,3958 2.082133,3992 2.082133,3993 2.082133,4189 6.2464,4190 2.082133}
+{0 nothigh,92 2.082133,109 4.164266,135 2.082133,192 6.2464,208 4.164266,348 2.082133,363 2.082133,427 2.082133,579 2.082133,587 2.082133,659 2.082133,750 6.2464,766 4.164266,829 2.082133,950 2.082133,1037 2.082133,1109 2.082133,1234 2.082133,1471 2.082133,1474 2.082133,1652 2.082133,1668 4.164266,1735 6.2464,1736 6.2464,1860 2.082133,2012 6.2464,2013 2.082133,2046 2.082133,2114 6.2464,2278 2.082133,2279 2.082133,2296 6.2464,2557 6.2464,2623 2.082133,2628 2.082133,2638 2.082133,2649 4.164266,2660 2.082133,2674 4.164266,2675 4.164266,2705 2.082133,2826 2.082133,3002 2.082133,3289 2.082133,3305 4.164266,3334 2.082133,3353 2.082133,3354 2.082133,3375 2.082133,3377 2.082133,3389 2.082133,3440 2.082133,3472 2.082133,3525 2.082133,3594 2.082133,3727 2.082133,3757 6.2464,3767 2.082133,3772 2.082133,3958 2.082133,3992 2.082133,3993 2.082133,4189 6.2464,4190 2.082133}
+{0 nothigh,248 4.111737,249 4.111737,312 1.644695,316 1.644695,384 1.644695,917 9.045821,918 9.045821,927 9.045821,1402 1.644695,1451 3.289389,1453 3.289389,1514 3.289389,1515 3.289389,1542 3.289389,1543 3.289389,1568 1.644695,1569 1.644695,1570 1.644695,1580 1.644695,1668 1.644695,1779 0.822347,1981 1.644695,1982 1.644695,1995 5.756431,1998 5.756431,2077 1.644695,2103 1.644695,2106 1.644695,2142 1.644695,2381 1.644695,2415 0.822347,2681 0.822347,2705 0.822347,2745 1.644695,2759 1.644695,2805 1.644695,2806 1.644695,2861 1.644695,3058 0.822347,3059 0.822347,3192 9.045821,3193 3.289389,3433 1.644695,3530 0.822347,3537 0.822347,3555 0.822347,3567 3.289389,3610 0.822347,3649 0.822347,3658 0.822347,3783 1.644695,3786 3.289389,3787 3.289389,3812 0.822347,3819 0.822347,3883 1.644695,4119 5.756431,4120 5.756431,4144 1.644695,4153 1.644695,4193 5.756431,4194 3.289389,4233 1.644695}
+{0 nothigh,244 3.017298,312 3.017298,348 3.017298,477 6.034595,488 3.017298,586 12.06919,774 3.017298,775 3.017298,784 3.017298,818 3.017298,829 3.017298,954 3.017298,955 3.017298,1038 6.034595,1101 6.034595,1109 3.017298,1165 3.017298,1261 6.034595,1805 3.017298,1978 3.017298,2344 3.017298,2498 3.017298,2503 3.017298,2870 3.017298,3007 3.017298,3008 3.017298,3054 3.017298,3093 3.017298,3214 3.017298,3307 3.017298,3311 3.017298,3318 3.017298,3500 3.017298,3527 6.034595,3618 3.017298,3629 9.051893,3805 3.017298,4059 3.017298,4158 3.017298,4196 3.017298,4212 3.017298,4238 3.017298}
+{0 nothigh,208 5.281417,209 5.281417,257 3.520945,266 1.760472,357 1.760472,368 1.760472,507 1.760472,603 1.760472,667 1.760472,951 1.760472,1352 1.760472,1354 1.760472,1499 1.760472,1570 1.760472,1617 1.760472,1626 1.760472,1627 1.760472,1735 7.041889,1759 5.281417,1779 10.562834,1781 5.281417,2009 1.760472,2063 1.760472,2168 5.281417,2471 1.760472,2811 5.281417,3229 7.041889,3254 1.760472,3258 1.760472,3273 1.760472,3275 1.760472,3278 1.760472,3329 1.760472,3395 5.281417,3442 1.760472,3451 1.760472,3528 1.760472,3537 1.760472,3624 7.041889,3627 1.760472,3665 1.760472,3672 7.041889,3673 7.041889,3683 1.760472,3786 1.760472,4005 3.520945,4184 7.041889,4198 1.760472}
+{0 nothigh,242 2.550082,470 5.100164,520 5.100164,564 2.550082,575 2.550082,613 15.300492,701 2.550082,757 2.550082,1160 5.100164,1474 2.550082,1494 5.100164,1652 5.100164,1668 7.650246,1942 2.550082,1963 2.550082,2077 2.550082,2232 2.550082,2269 5.100164,2281 2.550082,2288 2.550082,2482 2.550082,2495 2.550082,2514 2.550082,2659 2.550082,2808 2.550082,3084 7.650246,3278 5.100164,3279 5.100164,3464 2.550082,3537 2.550082,3567 5.100164,3967 2.550082,4004 2.550082,4014 2.550082}
+{0 nothigh,1390 15.581258,3161 15.581258,4006 15.581258}
+{0 nothigh,270 1.898836,295 7.595344,350 1.898836,375 5.696508,818 5.696508,1069 5.696508,1109 1.898836,1115 5.696508,1134 1.898836,1471 5.696508,1518 5.696508,1522 1.898836,1537 1.898836,1609 1.898836,1620 1.898836,1621 1.898836,1630 1.898836,1661 1.898836,1668 1.898836,1964 1.898836,1967 1.898836,2005 1.898836,2077 1.898836,2204 5.696508,2205 5.696508,2314 1.898836,2557 1.898836,2559 1.898836,2924 5.696508,3230 5.696508,3231 5.696508,3264 5.696508,3307 5.696508,3318 1.898836,3392 1.898836,3488 5.696508,3527 1.898836,3703 5.696508,3736 1.898836,3737 1.898836,3914 5.696508,3947 5.696508,3950 5.696508}
+{0 nothigh,279 2.174717,329 2.174717,351 2.174717,357 2.174717,371 2.174717,378 2.174717,525 4.349434,531 4.349434,568 2.174717,586 2.174717,664 2.174717,725 2.174717,789 2.174717,824 2.174717,829 4.349434,954 2.174717,1038 2.174717,1041 2.174717,1068 4.349434,1101 2.174717,1124 2.174717,1165 4.349434,1402 2.174717,1474 2.174717,1690 2.174717,1963 4.349434,1970 2.174717,2009 4.349434,2012 2.174717,2063 4.349434,2072 2.174717,2077 6.524152,2105 2.174717,2112 2.174717,2381 2.174717,2413 2.174717,2490 2.174717,2495 2.174717,2501 4.349434,2543 2.174717,2554 2.174717,2569 4.349434,2614 2.174717,2653 2.174717,2793 2.174717,2805 4.349434,3109 2.174717,3113 2.174717,3140 2.174717,3141 4.349434,3310 2.174717,3317 2.174717,3340 4.349434,3365 2.174717,3376 2.174717,3418 4.349434,3440 4.349434,3531 4.349434,3629 8.698869,3712 2.174717,3736 4.349434,3848 4.349434,3914 4.349434,4003 4.349434,4212 2.174717,4213 2.174717,4233 2.174717,4244 4.349434}
+{0 nothigh,303 1.840534,307 1.840534,353 1.840534,541 1.840534,571 1.840534,576 1.840534,613 1.840534,644 1.840534,654 3.681069,703 3.681069,725 3.681069,906 1.840534,917 9.202671,918 9.202671,1038 5.521603,1047 1.840534,1115 3.681069,1363 1.840534,1405 1.840534,1407 1.840534,1451 7.362137,1452 7.362137,1570 1.840534,1638 3.681069,1640 1.840534,1779 3.681069,1878 1.840534,1948 1.840534,2072 1.840534,2214 7.362137,2215 7.362137,2231 1.840534,2253 3.681069,2344 3.681069,2435 1.840534,2460 1.840534,2633 3.681069,2681 1.840534,2682 1.840534,2683 1.840534,2702 1.840534,2745 1.840534,2777 3.681069,2987 1.840534,3478 1.840534,3845 1.840534,3894 3.681069,3896 3.681069,3897 3.681069,3898 1.840534,3963 1.840534,3971 3.681069,3976 1.840534,4136 1.840534,4199 1.840534,4206 1.840534,4212 1.840534}
+{0 nothigh,325 0.445664,362 0.891328,501 0.445664,750 0.891328,1069 0.445664,1073 0.445664,1376 1.782657,1381 0.891328,1382 0.891328,1518 0.445664,1519 0.445664,1540 0.891328,1548 0.445664,1560 0.445664,1565 0.445664,1594 1.336992,1611 0.445664,1613 0.445664,1620 0.445664,1631 3.119649,1661 1.782657,1744 0.891328,1779 0.891328,1781 0.891328,1989 0.445664,2019 0.445664,2033 0.445664,2041 5.34797,2228 1.782657,2329 0.891328,2352 1.782657,2418 0.891328,2420 0.891328,2464 0.445664,2502 1.336992,2629 0.445664,2768 1.782657,2811 0.891328,2896 7.130626,3010 0.445664,3173 9.804611,3464 0.445664,3496 0.445664,3637 1.782657,3638 1.782657,3736 0.445664,3764 1.782657,3765 1.782657,3896 0.891328,3959 3.119649,3960 1.336992,3992 9.804611,3993 9.804611,3994 9.804611,4093 0.445664,4133 1.782657,4169 0.891328,4201 9.804611,4202 9.804611}
+{0 nothigh,252 0.160359,256 0.160359,257 0.320718,258 0.320718,289 0.160359,295 0.160359,349 0.320718,486 0.160359,539 0.320718,554 0.320718,603 0.160359,613 0.160359,653 0.160359,720 0.160359,781 0.320718,813 0.160359,859 2.405386,860 2.084668,861 2.084668,917 0.160359,918 0.160359,998 0.320718,1032 0.320718,1033 0.320718,1210 0.320718,1373 0.160359,1409 1.603591,1430 0.160359,1464 0.160359,1505 0.320718,1529 0.160359,1570 0.481077,1589 0.160359,1629 0.481077,1652 0.160359,1898 0.160359,1899 0.160359,1975 0.160359,2063 0.481077,2177 0.320718,2218 0.160359,2261 0.160359,2371 17.639497,2372 12.828725,2373 8.017953,2374 4.329695,2375 4.329695,2376 4.329695,2457 0.160359,2482 0.320718,2485 1.603591,2486 1.603591,2492 0.160359,2493 0.160359,2557 2.084668,2562 2.084668,2660 0.320718,2681 0.160359,2692 0.320718,2780 0.320718,2808 0.320718,2887 0.160359,2888 0.160359,2947 0.481077,2950 0.320718,2951 0.160359,2952 0.320718,2954 0.160359,2966 2.245027,2994 0.160359,3012 0.160359,3040 2.084668,3041 2.084668,3042 1.603591,3223 4.810772,3224 4.810772,3225 4.810772,3230 0.160359,3246 0.962154,3247 0.962154,3279 0.320718,3342 0.160359,3408 2.084668,3409 2.084668,3590 0.160359,3604 0.481077,3672 0.160359,3673 0.160359,3736 0.160359,3771 0.320718,3828 0.320718,3878 0.641436,3966 0.160359,4027 0.160359,4186 0.160359}
+{0 nothigh,43 1.922782,44 1.922782,45 1.922782,46 1.922782,47 1.922782,48 1.922782,49 1.922782,50 1.922782,51 1.922782,54 1.922782,55 1.922782,56 1.922782,60 1.922782,61 1.922782,62 1.922782,63 1.922782,64 1.922782,65 1.922782,66 1.922782,73 1.922782,74 1.922782,75 1.922782,77 1.922782,78 1.922782,79 1.922782,80 1.922782,81 1.922782,82 1.922782,83 1.922782,84 1.922782,85 1.922782,86 1.922782,87 1.922782,88 1.922782,89 1.922782,90 1.922782,121 1.922782,142 1.922782,143 1.922782,144 1.922782,145 1.922782,146 1.922782,174 1.922782,175 1.922782,208 1.922782,333 1.922782,334 1.922782,363 1.922782,365 1.922782,449 1.922782,450 1.922782,451 1.922782,521 1.922782,522 1.922782,523 1.922782,639 1.922782,726 1.922782,727 1.922782,728 1.922782,802 1.922782,880 1.922782,881 1.922782,882 1.922782,950 1.922782,977 1.922782,978 1.922782,979 1.922782,1034 1.922782,1035 1.922782,1036 1.922782,1116 1.922782,1117 1.922782,1118 1.922782,1137 1.922782,1138 1.922782,1172 1.922782,1173 1.922782,1177 1.922782,1178 1.922782,1179 1.922782,1467 1.922782,1468 1.922782,1469 1.922782,1475 1.922782,1476 1.922782,1487 3.845564,1488 1.922782,1489 1.922782,1490 1.922782,1491 1.922782,1668 1.922782,1674 1.922782,1832 1.922782,1833 1.922782,1834 1.922782,1835 1.922782,1836 1.922782,1837 1.922782,1959 1.922782,1960 1.922782,1961 1.922782,2006 1.922782,2007 1.922782,2008 1.922782,2107 1.922782,2115 1.922782,2116 1.922782,2117 1.922782,2120 1.922782,2121 1.922782,2122 1.922782,2271 1.922782,2272 1.922782,2273 1.922782,2300 1.922782,2301 1.922782,2302 1.922782,2446 1.922782,2447 1.922782,2543 1.922782,2642 1.922782,2643 1.922782,2644 1.922782,2736 3.845564,2737 1.922782,2738 1.922782,2739 1.922782,2740 1.922782,2745 3.845564,2768 1.922782,2919 1.922782,3061 1.922782,3062 1.922782,3063 1.922782,3076 1.922782,3077 1.922782,3078 1.922782,3133 1.922782,3134 1.922782,3135 1.922782,3244 1.922782,3319 1.922782,3320 1.922782,3321 1.922782,3322 1.922782,3356 1.922782,3357 1.922782,3449 1.922782,3450 1.922782,3454 1.922782,3455 1.922782,3519 1.922782,3520 1.922782,3534 1.922782,3558 3.845564,3559 1.922782,3560 1.922782,3561 1.922782,3562 1.922782,3567 1.922782,3568 1.922782,3576 1.922782,3577 1.922782,3580 1.922782,3581 1.922782,3592 1.922782,3593 1.922782,3634 1.922782,3708 1.922782,3709 1.922782,3786 1.922782,3789 1.922782,3803 1.922782,3831 1.922782,3832 1.922782,3853 1.922782,3854 1.922782,3948 1.922782,3949 1.922782,4045 1.922782,4046 1.922782,4144 3.845564}
+{0 nothigh,43 1.898836,44 1.898836,45 1.898836,46 1.898836,47 1.898836,48 1.898836,49 1.898836,50 1.898836,51 1.898836,54 1.898836,55 1.898836,56 1.898836,60 1.898836,61 1.898836,62 1.898836,63 1.898836,64 1.898836,65 1.898836,66 1.898836,73 1.898836,74 1.898836,75 1.898836,77 1.898836,78 1.898836,79 1.898836,80 1.898836,81 1.898836,82 1.898836,83 1.898836,84 1.898836,85 1.898836,86 1.898836,87 1.898836,88 1.898836,89 1.898836,90 1.898836,142 1.898836,143 1.898836,144 1.898836,145 1.898836,146 1.898836,333 1.898836,334 1.898836,363 1.898836,365 1.898836,425 3.797672,450 1.898836,451 1.898836,507 3.797672,521 1.898836,522 1.898836,523 1.898836,726 1.898836,727 1.898836,728 1.898836,774 3.797672,775 3.797672,880 1.898836,881 1.898836,882 1.898836,977 1.898836,978 1.898836,979 1.898836,1034 1.898836,1035 1.898836,1036 1.898836,1116 1.898836,1117 1.898836,1118 1.898836,1137 1.898836,1138 1.898836,1172 1.898836,1173 1.898836,1177 1.898836,1178 1.898836,1179 1.898836,1388 1.898836,1467 1.898836,1468 1.898836,1469 1.898836,1475 1.898836,1476 1.898836,1487 3.797672,1488 1.898836,1489 1.898836,1490 1.898836,1491 1.898836,1504 1.898836,1506 1.898836,1507 1.898836,1541 1.898836,1545 1.898836,1668 1.898836,1674 1.898836,1763 1.898836,1832 1.898836,1833 1.898836,1834 1.898836,1835 1.898836,1836 1.898836,1837 1.898836,1935 1.898836,1959 1.898836,1960 1.898836,1961 1.898836,2006 1.898836,2007 1.898836,2008 1.898836,2115 1.898836,2116 1.898836,2117 1.898836,2120 1.898836,2121 1.898836,2122 1.898836,2272 1.898836,2273 1.898836,2300 1.898836,2301 1.898836,2302 1.898836,2413 3.797672,2446 1.898836,2447 1.898836,2642 1.898836,2643 1.898836,2644 1.898836,2736 3.797672,2737 1.898836,2738 1.898836,2739 1.898836,2740 1.898836,2745 1.898836,2805 1.898836,3061 1.898836,3062 1.898836,3063 1.898836,3076 1.898836,3077 1.898836,3078 1.898836,3133 1.898836,3134 1.898836,3135 1.898836,3175 3.797672,3319 1.898836,3320 1.898836,3321 1.898836,3322 1.898836,3356 1.898836,3357 1.898836,3449 1.898836,3450 1.898836,3519 1.898836,3520 1.898836,3558 3.797672,3559 1.898836,3560 1.898836,3561 1.898836,3562 1.898836,3576 1.898836,3577 1.898836,3580 1.898836,3581 1.898836,3592 1.898836,3593 1.898836,3600 1.898836,3708 1.898836,3709 1.898836,3786 1.898836,3789 1.898836,3831 1.898836,3832 1.898836,3853 1.898836,3854 1.898836,3948 1.898836,3949 1.898836,4144 1.898836}
+{0 nothigh,599 3.77901,602 3.77901,741 3.77901,829 7.55802,831 3.77901,837 3.77901,941 3.77901,1069 3.77901,1075 3.77901,1264 7.55802,1457 3.77901,1465 3.77901,1544 3.77901,1548 3.77901,1779 3.77901,1983 3.77901,1984 3.77901,1989 3.77901,2168 3.77901,2288 3.77901,2445 3.77901,2471 3.77901,2514 3.77901,2576 3.77901,2650 3.77901,2734 3.77901,2745 3.77901,2746 3.77901,2793 3.77901,2800 3.77901,2941 3.77901,3008 3.77901,3029 7.55802,3249 3.77901,3386 3.77901,3485 3.77901,3555 7.55802,3608 3.77901,4018 3.77901}
+{0 nothigh,105 1.448767,208 1.448767,218 1.448767,343 1.448767,378 1.448767,477 10.141366,478 8.692599,479 7.243833,498 10.141366,499 8.692599,500 7.243833,507 1.448767,564 1.448767,650 1.448767,662 1.448767,769 1.448767,1091 1.448767,1134 1.448767,1143 1.448767,1165 1.448767,1256 1.448767,1390 2.897533,1500 1.448767,1668 4.3463,1682 1.448767,1690 1.448767,1713 2.897533,1794 2.897533,1929 1.448767,1948 1.448767,1978 1.448767,2077 1.448767,2086 1.448767,2107 1.448767,2247 1.448767,2353 1.448767,2492 1.448767,2557 1.448767,3091 1.448767,3123 1.448767,3237 1.448767,3240 2.897533,3416 1.448767,3427 1.448767,3537 2.897533,3753 11.590132,4204 1.448767}
+{0 nothigh,199 2.980274,208 2.980274,363 2.980274,657 2.980274,664 2.980274,837 2.980274,840 2.980274,1003 2.980274,1160 2.980274,1254 2.980274,1337 5.960548,1376 2.980274,1390 2.980274,1482 2.980274,1598 5.960548,1626 2.980274,1628 2.980274,1654 2.980274,1684 2.980274,1805 2.980274,1882 2.980274,1921 8.940822,2071 2.980274,2077 2.980274,2352 2.980274,2384 2.980274,2483 2.980274,2493 2.980274,2495 5.960548,2514 2.980274,2557 2.980274,2616 2.980274,2625 2.980274,2775 5.960548,3166 2.980274,3314 2.980274,3331 2.980274,3340 5.960548,3537 8.940822,3544 5.960548,3595 2.980274,3795 2.980274,3797 2.980274,3852 2.980274,3853 2.980274,3867 2.980274,3922 2.980274,4183 2.980274}
+{0 nothigh,257 1.135374,261 1.135374,311 1.135374,380 1.135374,586 1.135374,729 1.135374,877 1.135374,890 1.135374,893 4.541496,1042 3.406122,1043 1.135374,1134 14.759861,1256 1.135374,1441 2.270748,1451 2.270748,1513 1.135374,1560 1.135374,1668 3.406122,1681 2.270748,1709 2.270748,1756 4.541496,1779 6.812244,1917 1.135374,1953 4.541496,2019 2.270748,2077 1.135374,2381 2.270748,2418 3.406122,2514 1.135374,2677 1.135374,2797 1.135374,2924 4.541496,3009 2.270748,3092 1.135374,3116 1.135374,3137 11.353739,3367 2.270748,3407 2.270748,3417 11.353739,3527 1.135374,3530 2.270748,3537 2.270748,3839 1.135374,3840 1.135374,3855 1.135374,3928 1.135374,3958 1.135374}
+{0 nothigh,2165 11.778324,2274 17.667486,2479 11.778324,3261 11.778324}
+{0 nothigh,41 3.609944,42 3.008286,58 0.300829,64 1.804972,65 1.804972,174 4.211601,175 4.211601,177 0.300829,256 0.300829,257 0.300829,299 0.300829,300 0.300829,303 0.300829,309 0.300829,317 0.300829,340 0.300829,356 1.203315,392 1.203315,425 0.300829,515 0.300829,575 1.804972,591 0.300829,592 0.300829,594 0.300829,601 1.804972,603 0.300829,604 0.300829,609 0.601657,623 0.300829,644 0.902486,653 0.300829,654 0.300829,667 0.300829,701 0.300829,711 0.300829,908 0.300829,917 0.601657,918 0.601657,922 0.300829,934 0.300829,945 4.813258,946 4.813258,947 3.008286,948 3.008286,967 0.300829,976 0.300829,1038 0.300829,1120 0.300829,1134 0.300829,1142 0.300829,1153 0.300829,1160 0.601657,1161 0.300829,1169 0.300829,1170 0.300829,1188 8.423202,1189 4.813258,1190 3.008286,1210 5.715744,1211 4.813258,1212 4.813258,1213 0.300829,1222 0.300829,1240 4.813258,1241 3.609944,1262 2.406629,1292 0.601657,1302 5.414915,1306 4.813258,1307 4.813258,1332 0.300829,1335 0.300829,1365 0.300829,1368 0.601657,1371 0.300829,1376 4.813258,1377 3.609944,1378 3.609944,1381 0.300829,1385 0.300829,1388 0.300829,1487 1.804972,1492 0.300829,1495 2.1058,1496 2.1058,1500 0.902486,1514 0.300829,1515 0.300829,1531 5.114087,1534 4.813258,1535 0.300829,1541 0.300829,1548 0.601657,1570 2.406629,1580 2.1058,1607 0.300829,1645 0.601657,1652 0.300829,1663 2.1058,1668 0.601657,1706 0.300829,1779 0.601657,1789 0.300829,1866 1.203315,1891 0.300829,1935 6.016573,1936 4.813258,1937 4.813258,2019 0.300829,2046 0.300829,2047 0.300829,2055 0.601657,2056 0.300829,2077 0.300829,2142 2.1058,2168 0.300829,2184 0.300829,2220 0.300829,2221 0.300829,2271 0.300829,2305 3.910772,2339 0.300829,2340 0.300829,2391 0.300829,2415 0.300829,2417 1.804972,2441 0.300829,2464 2.1058,2514 0.300829,2542 0.300829,2553 0.300829,2580 0.601657,2625 0.300829,2630 0.300829,2657 0.601657,2795 0.300829,2796 0.300829,2808 0.601657,2850 0.300829,2869 0.300829,2887 0.300829,2893 2.1058,2919 0.300829,2947 0.601657,2950 0.601657,2951 0.601657,2952 0.300829,2954 0.300829,3020 0.300829,3053 0.300829,3109 0.300829,3111 0.300829,3112 0.300829,3151 0.300829,3176 0.300829,3203 0.300829,3204 0.300829,3217 0.300829,3234 0.300829,3254 0.902486,3258 0.300829,3279 0.300829,3289 0.300829,3296 0.300829,3370 0.300829,3451 0.300829,3453 0.300829,3454 0.300829,3464 0.300829,3476 0.300829,3558 1.804972,3589 0.300829,3629 0.300829,3637 0.300829,3638 0.300829,3649 0.300829,3653 0.300829,3656 0.300829,3695 3.008286,3714 0.601657,3715 0.300829,3731 0.300829,3736 0.300829,3741 0.300829,3770 0.300829,3810 0.300829,3811 0.300829,3813 0.300829,3830 0.300829,3860 0.601657,3862 0.300829,3878 0.300829,3894 1.804972,3895 1.804972,3901 0.300829,3914 0.300829,3946 0.601657,3953 0.300829,3962 1.804972,3963 0.300829,3972 0.300829,3976 0.902486,4021 0.902486,4027 0.902486,4031 0.300829,4032 0.300829,4042 0.601657,4044 0.300829,4045 0.300829,4046 0.300829,4060 0.300829,4072 0.300829,4073 0.300829,4080 0.300829,4084 0.902486,4106 0.300829,4132 0.300829,4198 0.300829,4232 1.203315}
+{0 nothigh,109 4.407045,279 2.203523,294 2.203523,295 8.81409,363 4.407045,651 2.203523,829 2.203523,1120 2.203523,1134 2.203523,1157 2.203523,1210 8.81409,1319 2.203523,1352 2.203523,1353 2.203523,1381 2.203523,1444 2.203523,1652 2.203523,1655 2.203523,1668 4.407045,1677 2.203523,1779 2.203523,1780 2.203523,1805 2.203523,1839 2.203523,1840 2.203523,1887 2.203523,1888 2.203523,1943 2.203523,1944 2.203523,1975 2.203523,1978 2.203523,2012 4.407045,2201 2.203523,2310 2.203523,2339 4.407045,2418 4.407045,2485 2.203523,2495 2.203523,2557 2.203523,2620 2.203523,2651 2.203523,2680 2.203523,2781 2.203523,2808 2.203523,2858 2.203523,2873 2.203523,3029 2.203523,3058 4.407045,3061 2.203523,3071 6.610568,3072 4.407045,3073 2.203523,3119 2.203523,3124 4.407045,3279 2.203523,3282 2.203523,3367 2.203523,3371 2.203523,3411 4.407045,3412 4.407045,3438 2.203523,3555 2.203523,3637 2.203523,3656 2.203523,3890 4.407045,3898 4.407045,3966 4.407045,3971 2.203523,4106 2.203523,4109 2.203523}
+{0 nothigh,97 1.496999,208 1.496999,243 1.496999,307 4.490997,347 1.496999,363 1.496999,417 1.496999,520 2.993998,537 1.496999,549 1.496999,579 1.496999,602 1.496999,603 1.496999,643 1.496999,654 1.496999,760 1.496999,829 1.496999,1017 1.496999,1060 1.496999,1157 1.496999,1165 1.496999,1230 1.496999,1234 1.496999,1293 7.484994,1337 1.496999,1430 1.496999,1644 1.496999,1668 1.496999,1680 1.496999,1735 8.981993,1779 1.496999,1898 1.496999,1917 1.496999,1955 1.496999,1963 2.993998,2012 2.993998,2013 1.496999,2263 2.993998,2457 1.496999,2495 1.496999,2543 1.496999,2617 4.490997,2620 2.993998,2659 1.496999,2660 1.496999,2705 1.496999,2745 7.484994,2772 1.496999,2811 1.496999,2931 1.496999,2932 1.496999,2962 1.496999,2987 1.496999,3005 1.496999,3101 1.496999,3339 1.496999,3402 1.496999,3403 1.496999,3464 1.496999,3485 1.496999,3528 1.496999,3590 1.496999,3637 1.496999,3721 2.993998,3736 13.47299,3741 8.981993,3798 2.993998,3815 2.993998,3816 1.496999,3845 4.490997,3848 2.993998,3885 1.496999,3914 1.496999,3963 1.496999,4062 1.496999,4144 1.496999}
+{0 nothigh,101 1.059353,235 2.118706,325 2.118706,339 8.474826,367 1.059353,378 2.118706,379 2.118706,554 1.059353,619 1.059353,644 3.17806,645 2.118706,649 1.059353,650 1.059353,786 1.059353,824 2.118706,890 1.059353,891 1.059353,906 5.296766,975 1.059353,1160 1.059353,1161 3.17806,1163 2.118706,1165 2.118706,1381 1.059353,1387 1.059353,1457 1.059353,1497 2.118706,1513 1.059353,1570 2.118706,1581 1.059353,1620 3.17806,1621 2.118706,1622 1.059353,1687 1.059353,1779 1.059353,1794 2.118706,1964 2.118706,1995 1.059353,2144 1.059353,2198 2.118706,2328 1.059353,2366 1.059353,2438 1.059353,2499 2.118706,2680 1.059353,2745 2.118706,2758 2.118706,2803 1.059353,2907 1.059353,3008 1.059353,3061 1.059353,3109 2.118706,3110 1.059353,3173 2.118706,3220 1.059353,3222 1.059353,3240 2.118706,3245 8.474826,3254 1.059353,3255 1.059353,3310 2.118706,3537 2.118706,3586 1.059353,3610 8.474826,3736 3.17806,3737 2.118706,3741 1.059353,3767 11.652886,3769 1.059353,3874 6.356119,3875 5.296766,3882 2.118706,3894 1.059353,3895 1.059353,3906 2.118706,3925 2.118706,4004 1.059353,4062 2.118706,4064 2.118706,4092 1.059353,4144 2.118706,4152 2.118706,4159 5.296766,4160 1.059353,4193 1.059353,4203 1.059353,4244 5.296766}
+{0 nothigh,174 3.504209,175 3.504209,367 0.876052,392 4.380262,403 4.380262,404 4.380262,469 7.008418,600 0.876052,644 2.628157,649 2.628157,992 2.628157,1302 8.760523,1303 8.760523,1304 7.008418,1444 4.380262,1447 4.380262,1448 4.380262,1531 7.008418,1532 7.008418,1570 1.752105,1603 0.876052,1852 4.380262,1989 3.504209,1990 3.504209,1995 0.876052,2046 0.876052,2047 0.876052,2048 0.876052,2206 3.504209,2292 4.380262,2439 4.380262,2440 4.380262,2464 0.876052,2514 0.876052,2538 0.876052,2611 4.380262,2894 0.876052,2907 3.504209,2915 0.876052,3005 2.628157,3220 2.628157,3222 2.628157,3446 0.876052,3512 3.504209,3567 1.752105,3675 1.752105,3676 1.752105,4056 0.876052,4087 1.752105,4160 3.504209,4203 0.876052,4244 0.876052}

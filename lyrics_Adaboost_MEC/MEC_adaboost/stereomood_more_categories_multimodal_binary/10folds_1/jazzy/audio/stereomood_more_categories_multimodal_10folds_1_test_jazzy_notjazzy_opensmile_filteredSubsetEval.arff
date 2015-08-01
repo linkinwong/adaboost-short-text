@@ -1,0 +1,32 @@
+@relation 'wav/all//opensmile.arff-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.FilteredSubsetEval -W \"weka.attributeSelection.CfsSubsetEval \" -F \"weka.filters.supervised.instance.SpreadSubsample -M 0.0 -X 0.0 -S 1\"-Sweka.attributeSelection.GreedyStepwise -T -1.7976931348623157E308 -N -1'
+
+@attribute mfcc_sma[2]_linregc2 numeric
+@attribute mfcc_sma[2]_skewness numeric
+@attribute mfcc_sma[2]_kurtosis numeric
+@attribute mfcc_sma[5]_maxPos numeric
+@attribute mfcc_sma[7]_kurtosis numeric
+@attribute mfcc_sma[10]_skewness numeric
+@attribute mfcc_sma[10]_kurtosis numeric
+@attribute pcm_zcr_sma_minPos numeric
+@attribute pcm_zcr_sma_linregc1 numeric
+@attribute mfcc_sma_de[3]_min numeric
+@attribute mfcc_sma_de[3]_linregc1 numeric
+@attribute mfcc_sma_de[5]_max numeric
+@attribute mfcc_sma_de[5]_linregc2 numeric
+@attribute mfcc_sma_de[8]_skewness numeric
+@attribute mfcc_sma_de[9]_linregc1 numeric
+@attribute pcm_zcr_sma_de_skewness numeric
+@attribute output {jazzy,notjazzy}
+
+@data
+
+4.347251,-0.292821,2.750968,2417,2.970339,0.275398,3.212814,2414,0.000002,-4.339272,0.000004,4.434115,-0.003279,0.148966,-0.000001,-0.103349,jazzy
+3.601168,0.071158,2.238685,1928,2.698272,0.062273,3.105361,2434,-0.000005,-5.557676,-0.000001,6.51709,-0.004626,0.093833,0,-0.228107,jazzy
+16.98043,-1.001674,3.838789,117,2.971419,0.165176,2.981263,70,0.000024,-3.30673,0.000008,4.477827,0.004872,-0.255594,-0.000001,0.256594,jazzy
+2.613867,0.16753,2.691053,1287,3.097227,0.341068,3.651948,250,-0.000002,-4.616801,0.000004,3.638649,0.006189,-0.20646,-0.000003,0.404932,jazzy
+-3.933151,0.567968,2.827063,2795,3.460172,0.764372,3.927265,298,-0.000009,-3.437588,0.000003,4.35726,-0.002715,-0.095524,0.000004,0.751726,jazzy
+-2.390993,0.270183,3.544645,2785,3.021268,0.067019,3.175882,97,0.000009,-3.157789,0.000002,2.693297,0.002638,0.001938,0.000002,-0.389348,notjazzy
+-1.003475,0.022558,3.743844,2266,3.045564,-0.135855,3.081379,2410,-0.000005,-3.392648,-0.000004,4.321711,-0.009674,0.136951,0.000002,0.490237,notjazzy
+-2.83812,0.106364,2.829075,145,3.143872,-0.179571,3.114125,530,0.000009,-3.618459,-0.000002,3.428441,-0.000028,0.031615,-0.000004,-0.046359,notjazzy
+-7.525606,-0.163026,3.103675,62,2.699357,0.478937,3.664329,298,0.000005,-5.1078,0.000003,4.313312,-0.009946,0.342877,0.000012,-0.367788,notjazzy
+-2.33806,0.104201,2.532856,833,3.087821,0.122791,2.72842,658,-0.000004,-5.92861,-0.000002,3.55209,-0.005429,-0.084192,0,-0.192019,notjazzy

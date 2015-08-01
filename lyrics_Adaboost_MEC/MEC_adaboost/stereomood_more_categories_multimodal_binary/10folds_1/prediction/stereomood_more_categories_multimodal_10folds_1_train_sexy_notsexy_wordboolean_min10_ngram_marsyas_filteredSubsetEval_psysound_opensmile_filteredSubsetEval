@@ -1,0 +1,107 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 929
+nu = 0.08025579502163468
+obj = -30.177868414573283, rho = -1.149934145486652
+nSV = 370, nBSV = 17
+Total nSV = 370
+.*
+optimization finished, #iter = 834
+nu = 0.06295834861788335
+obj = -22.260272281844113, rho = 1.209913583762446
+nSV = 371, nBSV = 14
+Total nSV = 371
+..*
+optimization finished, #iter = 909
+nu = 0.07635555165357308
+obj = -28.294808696151684, rho = 1.192899640414273
+nSV = 368, nBSV = 20
+Total nSV = 368
+..*
+optimization finished, #iter = 914
+nu = 0.07737987713425315
+obj = -28.5268523920678, rho = 1.1282072011840656
+nSV = 370, nBSV = 17
+Total nSV = 370
+..*
+optimization finished, #iter = 909
+nu = 0.06772936803300478
+obj = -24.307108660578017, rho = 1.0783428517171447
+nSV = 377, nBSV = 17
+Total nSV = 377
+.*
+optimization finished, #iter = 1128
+nu = 0.07681628202502463
+obj = -35.73930529853848, rho = 1.3188248963309352
+nSV = 439, nBSV = 23
+Total nSV = 439
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1     1:sexy     1:sexy       *0.787,0.213 
+     2     1:sexy     1:sexy       *0.653,0.347 
+     3     1:sexy     1:sexy       *0.685,0.315 
+     4     1:sexy     1:sexy       *0.644,0.356 
+     5     1:sexy  2:notsexy   +   0.393,*0.607 
+     6     1:sexy     1:sexy       *0.633,0.367 
+     7     1:sexy     1:sexy       *0.871,0.129 
+     8     1:sexy     1:sexy       *0.829,0.171 
+     9     1:sexy  2:notsexy   +   0.294,*0.706 
+    10     1:sexy     1:sexy       *0.872,0.128 
+    11     1:sexy     1:sexy       *0.709,0.291 
+    12     1:sexy     1:sexy       *0.672,0.328 
+    13     1:sexy  2:notsexy   +   0.275,*0.725 
+    14     1:sexy     1:sexy       *0.745,0.255 
+    15     1:sexy     1:sexy       *0.926,0.074 
+    16     1:sexy     1:sexy       *0.905,0.095 
+    17     1:sexy  2:notsexy   +   0.437,*0.563 
+    18     1:sexy     1:sexy       *0.574,0.426 
+    19     1:sexy  2:notsexy   +   0.383,*0.617 
+    20     1:sexy     1:sexy       *0.612,0.388 
+    21     1:sexy     1:sexy       *0.847,0.153 
+    22     1:sexy  2:notsexy   +   0.471,*0.529 
+    23     1:sexy  2:notsexy   +   0.196,*0.804 
+    24     1:sexy     1:sexy       *0.895,0.105 
+    25     1:sexy     1:sexy       *0.816,0.184 
+    26     1:sexy     1:sexy       *0.605,0.395 
+    27     1:sexy  2:notsexy   +   0.146,*0.854 
+    28     1:sexy     1:sexy       *0.938,0.062 
+    29     1:sexy  2:notsexy   +   0.146,*0.854 
+    30     1:sexy     1:sexy       *0.783,0.217 
+    31     1:sexy     1:sexy       *0.579,0.421 
+    32     1:sexy  2:notsexy   +   0.472,*0.528 
+    33  2:notsexy  2:notsexy       0.391,*0.609 
+    34  2:notsexy  2:notsexy       0.146,*0.854 
+    35  2:notsexy  2:notsexy       0.089,*0.911 
+    36  2:notsexy  2:notsexy       0.146,*0.854 
+    37  2:notsexy  2:notsexy       0.146,*0.854 
+    38  2:notsexy  2:notsexy       0.146,*0.854 
+    39  2:notsexy  2:notsexy       0.146,*0.854 
+    40  2:notsexy  2:notsexy       0.171,*0.829 
+    41  2:notsexy     1:sexy   +   *0.663,0.337 
+    42  2:notsexy  2:notsexy       0.146,*0.854 
+    43  2:notsexy  2:notsexy       0.146,*0.854 
+    44  2:notsexy  2:notsexy       0.146,*0.854 
+    45  2:notsexy  2:notsexy       0.465,*0.535 
+    46  2:notsexy  2:notsexy       0.273,*0.727 
+    47  2:notsexy  2:notsexy       0.146,*0.854 
+    48  2:notsexy  2:notsexy       0.132,*0.868 
+    49  2:notsexy  2:notsexy       0.146,*0.854 
+    50  2:notsexy     1:sexy   +   *0.635,0.365 
+    51  2:notsexy  2:notsexy       0.146,*0.854 
+    52  2:notsexy  2:notsexy       0.47,*0.53 
+    53  2:notsexy     1:sexy   +   *0.653,0.347 
+    54  2:notsexy  2:notsexy       0.146,*0.854 
+    55  2:notsexy  2:notsexy       0.146,*0.854 
+    56  2:notsexy     1:sexy   +   *0.667,0.333 
+    57  2:notsexy  2:notsexy       0.146,*0.854 
+    58  2:notsexy  2:notsexy       0.399,*0.601 
+    59  2:notsexy  2:notsexy       0.146,*0.854 
+    60  2:notsexy     1:sexy   +   *0.861,0.139 
+    61  2:notsexy  2:notsexy       0.146,*0.854 
+    62  2:notsexy  2:notsexy       0.15,*0.85 
+    63  2:notsexy  2:notsexy       0.146,*0.854 
+    64  2:notsexy  2:notsexy       0.315,*0.685 
+

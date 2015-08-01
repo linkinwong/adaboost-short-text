@@ -1,0 +1,53 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 184
+nu = 0.10866594984535007
+obj = -5.292349917595854, rho = 0.17622646553693624
+nSV = 66, nBSV = 2
+Total nSV = 66
+..*
+optimization finished, #iter = 157
+nu = 0.08593302713565357
+obj = -3.351367717184375, rho = 0.3564122373849535
+nSV = 64, nBSV = 0
+Total nSV = 64
+..*
+optimization finished, #iter = 158
+nu = 0.09680257225138707
+obj = -4.823773413025182, rho = -0.17954557572574065
+nSV = 64, nBSV = 2
+Total nSV = 64
+..*
+optimization finished, #iter = 181
+nu = 0.11240738329515974
+obj = -5.383951243579507, rho = 0.25863162220182606
+nSV = 66, nBSV = 2
+Total nSV = 66
+..*
+optimization finished, #iter = 186
+nu = 0.09454459020854239
+obj = -3.687097707130981, rho = 0.5093600651643707
+nSV = 66, nBSV = 0
+Total nSV = 66
+..*
+optimization finished, #iter = 220
+nu = 0.1006980213592734
+obj = -5.9343862321644565, rho = 0.34327887870183876
+nSV = 77, nBSV = 2
+Total nSV = 77
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1    1:jazzy    1:jazzy       *0.629,0.371 
+     2    1:jazzy    1:jazzy       *0.509,0.491 
+     3    1:jazzy    1:jazzy       *0.918,0.082 
+     4    1:jazzy    1:jazzy       *0.926,0.074 
+     5    1:jazzy 2:notjazzy   +   0.412,*0.588 
+     6 2:notjazzy 2:notjazzy       0.133,*0.867 
+     7 2:notjazzy 2:notjazzy       0.143,*0.857 
+     8 2:notjazzy    1:jazzy   +   *0.587,0.413 
+     9 2:notjazzy    1:jazzy   +   *0.646,0.354 
+    10 2:notjazzy    1:jazzy   +   *0.758,0.242 
+

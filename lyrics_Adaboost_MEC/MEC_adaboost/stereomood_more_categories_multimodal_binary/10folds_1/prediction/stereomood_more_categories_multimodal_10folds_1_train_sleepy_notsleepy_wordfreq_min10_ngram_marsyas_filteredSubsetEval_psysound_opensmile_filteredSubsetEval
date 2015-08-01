@@ -1,0 +1,75 @@
+Zero Weights processed. Default weights will be used
+.*
+optimization finished, #iter = 427
+nu = 0.07272968861847777
+obj = -9.353545557458572, rho = 0.8685322653839246
+nSV = 140, nBSV = 3
+Total nSV = 140
+.*
+optimization finished, #iter = 383
+nu = 0.08178288459466639
+obj = -11.245375176735042, rho = 0.376243426260774
+nSV = 142, nBSV = 4
+Total nSV = 142
+.*
+optimization finished, #iter = 397
+nu = 0.08310922385075867
+obj = -11.45063381122935, rho = 0.6057184245385382
+nSV = 137, nBSV = 5
+Total nSV = 137
+.*
+optimization finished, #iter = 429
+nu = 0.06860113550715279
+obj = -8.69671612822086, rho = 0.7918037711929048
+nSV = 132, nBSV = 3
+Total nSV = 132
+.*
+optimization finished, #iter = 415
+nu = 0.08283941407101943
+obj = -11.334426956444979, rho = 0.06756741498868625
+nSV = 142, nBSV = 4
+Total nSV = 142
+.*
+optimization finished, #iter = 464
+nu = 0.080998119962537
+obj = -13.598091941086647, rho = -0.4084134897227649
+nSV = 175, nBSV = 6
+Total nSV = 175
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1   1:sleepy   1:sleepy       *0.633,0.367 
+     2   1:sleepy   1:sleepy       *0.978,0.022 
+     3   1:sleepy   1:sleepy       *0.539,0.461 
+     4   1:sleepy   1:sleepy       *0.8,0.2 
+     5   1:sleepy   1:sleepy       *0.5,0.5 
+     6   1:sleepy   1:sleepy       *0.973,0.027 
+     7   1:sleepy   1:sleepy       *0.86,0.14 
+     8   1:sleepy 2:notsleep   +   0.223,*0.777 
+     9   1:sleepy   1:sleepy       *0.52,0.48 
+    10   1:sleepy   1:sleepy       *0.785,0.215 
+    11   1:sleepy   1:sleepy       *0.822,0.178 
+    12   1:sleepy   1:sleepy       *0.926,0.074 
+    13   1:sleepy   1:sleepy       *0.941,0.059 
+    14   1:sleepy   1:sleepy       *0.719,0.281 
+    15   1:sleepy   1:sleepy       *0.607,0.393 
+    16   1:sleepy   1:sleepy       *0.879,0.121 
+    17 2:notsleep 2:notsleep       0.479,*0.521 
+    18 2:notsleep 2:notsleep       0.142,*0.858 
+    19 2:notsleep 2:notsleep       0.157,*0.843 
+    20 2:notsleep 2:notsleep       0.072,*0.928 
+    21 2:notsleep 2:notsleep       0.142,*0.858 
+    22 2:notsleep 2:notsleep       0.142,*0.858 
+    23 2:notsleep 2:notsleep       0.142,*0.858 
+    24 2:notsleep 2:notsleep       0.316,*0.684 
+    25 2:notsleep 2:notsleep       0.109,*0.891 
+    26 2:notsleep 2:notsleep       0.142,*0.858 
+    27 2:notsleep 2:notsleep       0.142,*0.858 
+    28 2:notsleep 2:notsleep       0.142,*0.858 
+    29 2:notsleep 2:notsleep       0.142,*0.858 
+    30 2:notsleep 2:notsleep       0.384,*0.616 
+    31 2:notsleep 2:notsleep       0.095,*0.905 
+    32 2:notsleep 2:notsleep       0.142,*0.858 
+

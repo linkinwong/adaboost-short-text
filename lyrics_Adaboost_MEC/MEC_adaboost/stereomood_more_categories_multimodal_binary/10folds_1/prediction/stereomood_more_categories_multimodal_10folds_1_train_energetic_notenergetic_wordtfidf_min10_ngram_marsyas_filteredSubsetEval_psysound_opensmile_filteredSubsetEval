@@ -1,0 +1,111 @@
+Zero Weights processed. Default weights will be used
+.*
+optimization finished, #iter = 952
+nu = 0.07904154001863686
+obj = -32.28611044584542, rho = -0.6004997895154017
+nSV = 378, nBSV = 21
+Total nSV = 378
+.*
+optimization finished, #iter = 949
+nu = 0.0668831032274444
+obj = -26.319570250603928, rho = 0.38702355204576155
+nSV = 376, nBSV = 17
+Total nSV = 376
+.*
+optimization finished, #iter = 902
+nu = 0.07833691254057171
+obj = -32.11424924288674, rho = 0.5658685315594469
+nSV = 370, nBSV = 23
+Total nSV = 370
+.*
+optimization finished, #iter = 857
+nu = 0.0851465110087355
+obj = -35.77592351353273, rho = 0.3293375766555944
+nSV = 374, nBSV = 25
+Total nSV = 374
+.*
+optimization finished, #iter = 891
+nu = 0.06934458017296054
+obj = -27.92040280527804, rho = -0.05628065849753481
+nSV = 372, nBSV = 17
+Total nSV = 372
+.*
+optimization finished, #iter = 1079
+nu = 0.08046905211418441
+obj = -41.54338281525026, rho = 0.34414417688256377
+nSV = 442, nBSV = 32
+Total nSV = 442
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1 1:energeti 2:notenerg   +   0.15,*0.85 
+     2 1:energeti 1:energeti       *0.773,0.227 
+     3 1:energeti 2:notenerg   +   0.066,*0.934 
+     4 1:energeti 1:energeti       *0.91,0.09 
+     5 1:energeti 1:energeti       *0.788,0.212 
+     6 1:energeti 1:energeti       *0.982,0.018 
+     7 1:energeti 1:energeti       *0.914,0.086 
+     8 1:energeti 1:energeti       *0.718,0.282 
+     9 1:energeti 2:notenerg   +   0.112,*0.888 
+    10 1:energeti 2:notenerg   +   0.449,*0.551 
+    11 1:energeti 1:energeti       *0.776,0.224 
+    12 1:energeti 1:energeti       *0.907,0.093 
+    13 1:energeti 2:notenerg   +   0.457,*0.543 
+    14 1:energeti 1:energeti       *0.738,0.262 
+    15 1:energeti 1:energeti       *0.886,0.114 
+    16 1:energeti 1:energeti       *0.877,0.123 
+    17 1:energeti 1:energeti       *0.595,0.405 
+    18 1:energeti 2:notenerg   +   0.15,*0.85 
+    19 1:energeti 1:energeti       *0.553,0.447 
+    20 1:energeti 1:energeti       *0.746,0.254 
+    21 1:energeti 2:notenerg   +   0.478,*0.522 
+    22 1:energeti 1:energeti       *0.727,0.273 
+    23 1:energeti 1:energeti       *0.613,0.387 
+    24 1:energeti 1:energeti       *0.561,0.439 
+    25 1:energeti 1:energeti       *0.858,0.142 
+    26 1:energeti 1:energeti       *0.84,0.16 
+    27 1:energeti 2:notenerg   +   0.487,*0.513 
+    28 1:energeti 1:energeti       *0.663,0.337 
+    29 1:energeti 2:notenerg   +   0.15,*0.85 
+    30 1:energeti 1:energeti       *0.759,0.241 
+    31 1:energeti 1:energeti       *0.725,0.275 
+    32 1:energeti 1:energeti       *0.819,0.181 
+    33 1:energeti 1:energeti       *0.783,0.217 
+    34 1:energeti 1:energeti       *0.83,0.17 
+    35 2:notenerg 2:notenerg       0.15,*0.85 
+    36 2:notenerg 2:notenerg       0.313,*0.687 
+    37 2:notenerg 2:notenerg       0.15,*0.85 
+    38 2:notenerg 2:notenerg       0.15,*0.85 
+    39 2:notenerg 1:energeti   +   *0.523,0.477 
+    40 2:notenerg 1:energeti   +   *0.605,0.395 
+    41 2:notenerg 2:notenerg       0.15,*0.85 
+    42 2:notenerg 2:notenerg       0.085,*0.915 
+    43 2:notenerg 1:energeti   +   *0.637,0.363 
+    44 2:notenerg 1:energeti   +   *0.539,0.461 
+    45 2:notenerg 2:notenerg       0.055,*0.945 
+    46 2:notenerg 2:notenerg       0.15,*0.85 
+    47 2:notenerg 2:notenerg       0.15,*0.85 
+    48 2:notenerg 1:energeti   +   *0.605,0.395 
+    49 2:notenerg 2:notenerg       0.15,*0.85 
+    50 2:notenerg 2:notenerg       0.15,*0.85 
+    51 2:notenerg 2:notenerg       0.138,*0.862 
+    52 2:notenerg 1:energeti   +   *0.77,0.23 
+    53 2:notenerg 2:notenerg       0.15,*0.85 
+    54 2:notenerg 2:notenerg       0.15,*0.85 
+    55 2:notenerg 2:notenerg       0.209,*0.791 
+    56 2:notenerg 1:energeti   +   *0.925,0.075 
+    57 2:notenerg 2:notenerg       0.15,*0.85 
+    58 2:notenerg 2:notenerg       0.15,*0.85 
+    59 2:notenerg 1:energeti   +   *0.883,0.117 
+    60 2:notenerg 2:notenerg       0.065,*0.935 
+    61 2:notenerg 2:notenerg       0.15,*0.85 
+    62 2:notenerg 2:notenerg       0.18,*0.82 
+    63 2:notenerg 2:notenerg       0.172,*0.828 
+    64 2:notenerg 1:energeti   +   *0.868,0.132 
+    65 2:notenerg 1:energeti   +   *0.62,0.38 
+    66 2:notenerg 1:energeti   +   *0.627,0.373 
+    67 2:notenerg 2:notenerg       0.401,*0.599 
+    68 2:notenerg 1:energeti   +   *0.918,0.082 
+

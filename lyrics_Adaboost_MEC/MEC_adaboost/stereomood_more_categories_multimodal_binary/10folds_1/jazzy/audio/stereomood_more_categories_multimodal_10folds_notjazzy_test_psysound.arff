@@ -1,0 +1,37 @@
+% Created by psymatrix_2_arff.pl
+@relation arff_file/psysound.arff
+@attribute mean_Loudness real
+@attribute std_Loudness real
+@attribute mean_SharpnessA real
+@attribute std_SharpnessA real
+@attribute mean_SharpnessZ real
+@attribute std_SharpnessZ real
+@attribute mean_Spectral_Dissonance(HK) real
+@attribute std_Spectral_Dissonance(HK) real
+@attribute mean_Spectral_Dissonance(S) real
+@attribute std_Spectral_Dissonance(S) real
+@attribute mean_Timbral_Width real
+@attribute std_Timbral_Width real
+@attribute mean_Tonal_Dissonance(HK) real
+@attribute std_Tonal_Dissonance(HK) real
+@attribute mean_Tonal_Dissonance(S) real
+@attribute std_Tonal_Dissonance(S) real
+@attribute mean_Volume real
+@attribute std_Volume real
+@attribute mean_Pure_Tonal real
+@attribute std_Pure_Tonal real
+@attribute mean_Complex_Tonal real
+@attribute std_Complex_Tonal real
+@attribute mean_Multiplicity real
+@attribute std_Multiplicity real
+@attribute mean_SpectralCentroid real
+@attribute std_SpectralCentroid real
+@attribute output {jazzy,notjazzy}
+
+
+@data
+1.046320e+02,5.549336e+00,1.350592e+00,5.704502e-01,1.085896e+00,8.893340e-01,9.211569e-02,8.531716e+01,6.859000e+00,6.066926e+02,2.100620e+00,2.968076e-02,3.007804e-02,1.336935e-01,1.920125e-04,5.960995e-03,5.101987e+03,8.415011e-01,0.000000e+00,8.708389e-01,8.396737e-02,0.000000e+00,1.125535e-01,2.362814e-03,6.232714e+02,1.115106e+05,notjazzy
+6.984287e+01,4.775360e+00,1.365756e+00,8.339702e-01,9.945607e-01,8.994041e-01,7.254025e-02,2.951966e+01,5.547830e+00,3.294914e+02,1.198254e+00,2.467551e-02,6.960050e-02,2.646026e-01,2.284088e-04,9.549456e-03,1.094500e+03,5.304602e-01,0.000000e+00,9.500666e-01,1.145462e-01,0.000000e+00,4.747168e-02,2.760345e-03,4.294395e+02,1.259575e+05,notjazzy
+8.927290e+01,5.351114e+00,1.378115e+00,6.558264e-01,7.884537e-01,8.813016e-01,4.953798e-02,4.060153e+01,6.129921e+00,9.016699e+02,2.313327e+00,3.201936e-02,9.513845e-02,1.131609e-01,1.719304e-04,2.660461e-03,1.761074e+03,1.037112e+00,0.000000e+00,4.607190e-01,6.959957e-02,0.000000e+00,2.486225e-01,5.921592e-03,5.378088e+02,8.063613e+04,notjazzy
+8.170138e+01,5.335417e+00,1.415947e+00,6.728451e-01,1.038870e+00,8.912278e-01,1.123105e-01,6.755399e+01,5.731189e+00,4.758052e+02,2.675518e+00,6.648203e-02,1.023350e-01,3.564792e-01,2.941725e-04,1.189421e-02,4.477456e+03,2.388103e+00,0.000000e+00,8.968043e-01,9.697234e-02,0.000000e+00,9.260803e-02,3.498747e-03,7.526852e+02,3.396103e+05,notjazzy
+8.577195e+01,5.761757e+00,1.490965e+00,6.058882e-01,1.025859e+00,9.020998e-01,1.171555e-01,6.474603e+01,5.290841e+00,1.598117e+02,4.451524e-01,7.227708e-03,2.766322e-02,5.893008e-02,1.095134e-04,9.219333e-03,3.359680e+03,1.600836e-01,0.000000e+00,9.567244e-01,1.286744e-01,0.000000e+00,4.143044e-02,3.714088e-03,8.001231e+02,1.222763e+05,notjazzy

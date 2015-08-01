@@ -1,0 +1,125 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 1268
+nu = 0.11229953595808867
+obj = -47.59670468354834, rho = 0.3280881347918843
+nSV = 466, nBSV = 27
+Total nSV = 466
+..*
+optimization finished, #iter = 1287
+nu = 0.09917708313463851
+obj = -40.56345644889934, rho = 0.16364973404959823
+nSV = 475, nBSV = 20
+Total nSV = 475
+..*
+optimization finished, #iter = 1274
+nu = 0.10642032982795746
+obj = -44.90646741352525, rho = -0.44089454019669516
+nSV = 481, nBSV = 25
+Total nSV = 481
+..*
+optimization finished, #iter = 1315
+nu = 0.10424903553939367
+obj = -42.294762787978186, rho = -0.2765767653851756
+nSV = 480, nBSV = 21
+Total nSV = 480
+..*
+optimization finished, #iter = 1198
+nu = 0.09897449676941786
+obj = -40.93945884431271, rho = -0.2522136276056645
+nSV = 489, nBSV = 24
+Total nSV = 489
+..*
+optimization finished, #iter = 1557
+nu = 0.10776444402334019
+obj = -57.08419286902892, rho = -0.30104613193837837
+nSV = 561, nBSV = 32
+Total nSV = 561
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1    1:happy    1:happy       *0.853,0.147 
+     2    1:happy    1:happy       *0.511,0.489 
+     3    1:happy    1:happy       *0.894,0.106 
+     4    1:happy    1:happy       *0.87,0.13 
+     5    1:happy 2:nothappy   +   0.293,*0.707 
+     6    1:happy    1:happy       *0.531,0.469 
+     7    1:happy    1:happy       *0.86,0.14 
+     8    1:happy 2:nothappy   +   0.348,*0.652 
+     9    1:happy    1:happy       *0.603,0.397 
+    10    1:happy    1:happy       *0.898,0.102 
+    11    1:happy    1:happy       *0.507,0.493 
+    12    1:happy    1:happy       *0.88,0.12 
+    13    1:happy 2:nothappy   +   0.19,*0.81 
+    14    1:happy    1:happy       *0.808,0.192 
+    15    1:happy    1:happy       *0.55,0.45 
+    16    1:happy    1:happy       *0.834,0.166 
+    17    1:happy    1:happy       *0.627,0.373 
+    18    1:happy    1:happy       *0.789,0.211 
+    19    1:happy    1:happy       *0.865,0.135 
+    20    1:happy    1:happy       *0.875,0.125 
+    21    1:happy 2:nothappy   +   0.177,*0.823 
+    22    1:happy    1:happy       *0.568,0.432 
+    23    1:happy    1:happy       *0.818,0.182 
+    24    1:happy    1:happy       *0.671,0.329 
+    25    1:happy 2:nothappy   +   0.177,*0.823 
+    26    1:happy    1:happy       *0.788,0.212 
+    27    1:happy    1:happy       *0.867,0.133 
+    28    1:happy    1:happy       *0.793,0.207 
+    29    1:happy    1:happy       *0.703,0.297 
+    30    1:happy    1:happy       *0.538,0.462 
+    31    1:happy 2:nothappy   +   0.177,*0.823 
+    32    1:happy 2:nothappy   +   0.177,*0.823 
+    33    1:happy 2:nothappy   +   0.262,*0.738 
+    34    1:happy    1:happy       *0.654,0.346 
+    35    1:happy    1:happy       *0.844,0.156 
+    36    1:happy    1:happy       *0.853,0.147 
+    37    1:happy 2:nothappy   +   0.389,*0.611 
+    38    1:happy    1:happy       *0.79,0.21 
+    39    1:happy 2:nothappy   +   0.279,*0.721 
+    40    1:happy    1:happy       *0.65,0.35 
+    41    1:happy    1:happy       *0.786,0.214 
+    42 2:nothappy    1:happy   +   *0.712,0.288 
+    43 2:nothappy 2:nothappy       0.177,*0.823 
+    44 2:nothappy    1:happy   +   *0.603,0.397 
+    45 2:nothappy 2:nothappy       0.177,*0.823 
+    46 2:nothappy 2:nothappy       0.177,*0.823 
+    47 2:nothappy 2:nothappy       0.177,*0.823 
+    48 2:nothappy    1:happy   +   *0.774,0.226 
+    49 2:nothappy 2:nothappy       0.282,*0.718 
+    50 2:nothappy 2:nothappy       0.177,*0.823 
+    51 2:nothappy 2:nothappy       0.176,*0.824 
+    52 2:nothappy    1:happy   +   *0.571,0.429 
+    53 2:nothappy 2:nothappy       0.177,*0.823 
+    54 2:nothappy    1:happy   +   *0.694,0.306 
+    55 2:nothappy 2:nothappy       0.177,*0.823 
+    56 2:nothappy 2:nothappy       0.177,*0.823 
+    57 2:nothappy 2:nothappy       0.177,*0.823 
+    58 2:nothappy 2:nothappy       0.205,*0.795 
+    59 2:nothappy 2:nothappy       0.177,*0.823 
+    60 2:nothappy 2:nothappy       0.366,*0.634 
+    61 2:nothappy    1:happy   +   *0.531,0.469 
+    62 2:nothappy    1:happy   +   *0.853,0.147 
+    63 2:nothappy    1:happy   +   *0.823,0.177 
+    64 2:nothappy 2:nothappy       0.177,*0.823 
+    65 2:nothappy    1:happy   +   *0.947,0.053 
+    66 2:nothappy    1:happy   +   *0.764,0.236 
+    67 2:nothappy 2:nothappy       0.163,*0.837 
+    68 2:nothappy 2:nothappy       0.138,*0.862 
+    69 2:nothappy    1:happy   +   *0.548,0.452 
+    70 2:nothappy 2:nothappy       0.41,*0.59 
+    71 2:nothappy 2:nothappy       0.177,*0.823 
+    72 2:nothappy 2:nothappy       0.361,*0.639 
+    73 2:nothappy    1:happy   +   *0.681,0.319 
+    74 2:nothappy 2:nothappy       0.199,*0.801 
+    75 2:nothappy 2:nothappy       0.228,*0.772 
+    76 2:nothappy    1:happy   +   *0.743,0.257 
+    77 2:nothappy 2:nothappy       0.177,*0.823 
+    78 2:nothappy 2:nothappy       0.177,*0.823 
+    79 2:nothappy 2:nothappy       0.177,*0.823 
+    80 2:nothappy 2:nothappy       0.306,*0.694 
+    81 2:nothappy    1:happy   +   *0.646,0.354 
+    82 2:nothappy 2:nothappy       0.188,*0.812 
+

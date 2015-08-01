@@ -1,0 +1,626 @@
+@relation '_media_1Tnewdisk_intention_routing_lyrics_stereomood_more_stereomood_more_categories-weka.filters.supervised.instance.StratifiedRemoveFolds-S1-V-N10-F1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W10000-prune-rate-1.0-T-I-N1-L-S-stemmerweka.core.stemmers.NullStemmer-M10-stopwords/home/sudan/program/stopwords.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 3 -min 1'
+
+@attribute @@class@@ {jazzy,notjazzy}
+@attribute </i> numeric
+@attribute <i> numeric
+@attribute '<i> good' numeric
+@attribute '<i> good love' numeric
+@attribute [yeaaaa numeric
+@attribute '[yeaaaa {&}' numeric
+@attribute '[yeaaaa {&} noooo]' numeric
+@attribute 'a heart' numeric
+@attribute 'a little' numeric
+@attribute 'a look' numeric
+@attribute 'a new' numeric
+@attribute 'about you' numeric
+@attribute ah numeric
+@attribute 'ah ah' numeric
+@attribute ahead numeric
+@attribute aht numeric
+@attribute 'aht uh' numeric
+@attribute 'aht uh mi' numeric
+@attribute ain numeric
+@attribute 'ain t' numeric
+@attribute alarms numeric
+@attribute 'alarms and' numeric
+@attribute 'alarms and no' numeric
+@attribute 'all been' numeric
+@attribute 'all been blown' numeric
+@attribute 'all right' numeric
+@attribute 'all that' numeric
+@attribute 'all the' numeric
+@attribute 'all the time' numeric
+@attribute 'always in' numeric
+@attribute 'always in this' numeric
+@attribute am numeric
+@attribute amor numeric
+@attribute 'and happiness' numeric
+@attribute 'and i' numeric
+@attribute 'and me' numeric
+@attribute 'and no' numeric
+@attribute 'and no surprises' numeric
+@attribute 'and see' numeric
+@attribute 'and the' numeric
+@attribute 'and then' numeric
+@attribute 'and you' numeric
+@attribute 'anything for' numeric
+@attribute 'anything for you' numeric
+@attribute 'are you' numeric
+@attribute 'at the' numeric
+@attribute 'away fire' numeric
+@attribute 'away fire away' numeric
+@attribute 'away i' numeric
+@attribute baby numeric
+@attribute 'baby and' numeric
+@attribute 'baby but' numeric
+@attribute 'baby but you' numeric
+@attribute 'baby don' numeric
+@attribute 'baby don t' numeric
+@attribute 'baby just' numeric
+@attribute 'baby just cares' numeric
+@attribute 'back to' numeric
+@attribute 'be the' numeric
+@attribute 'been blown' numeric
+@attribute 'been blown out' numeric
+@attribute believe numeric
+@attribute black numeric
+@attribute blown numeric
+@attribute 'blown out' numeric
+@attribute 'blown out you' numeric
+@attribute blue numeric
+@attribute bring numeric
+@attribute 'but i' numeric
+@attribute 'but it' numeric
+@attribute 'but you' numeric
+@attribute 'but you re' numeric
+@attribute 'by the' numeric
+@attribute call numeric
+@attribute called numeric
+@attribute 'can i' numeric
+@attribute 'can t' numeric
+@attribute 'can t i' numeric
+@attribute 'can t stand' numeric
+@attribute care numeric
+@attribute 'care for' numeric
+@attribute 'care of' numeric
+@attribute cares numeric
+@attribute 'cares for' numeric
+@attribute cause numeric
+@attribute chicken numeric
+@attribute 'chicken i' numeric
+@attribute 'chicken i know' numeric
+@attribute 'chicken you' numeric
+@attribute 'chicken you got' numeric
+@attribute clap numeric
+@attribute click numeric
+@attribute 'come and' numeric
+@attribute 'come and see' numeric
+@attribute 'come around' numeric
+@attribute 'come on' numeric
+@attribute coming numeric
+@attribute cry numeric
+@attribute dark numeric
+@attribute 'dark no' numeric
+@attribute 'dark no dawn' numeric
+@attribute darkness numeric
+@attribute dawn numeric
+@attribute 'dawn no' numeric
+@attribute 'dawn no day' numeric
+@attribute day numeric
+@attribute 'day i' numeric
+@attribute 'day i m' numeric
+@attribute days numeric
+@attribute de numeric
+@attribute 'did everything' numeric
+@attribute 'did everything for' numeric
+@attribute die numeric
+@attribute 'do anything' numeric
+@attribute 'do anything for' numeric
+@attribute 'do you' numeric
+@attribute don numeric
+@attribute 'don t' numeric
+@attribute 'don t care' numeric
+@attribute 'don t you' numeric
+@attribute 'down the' numeric
+@attribute dream numeric
+@attribute 'dream about' numeric
+@attribute dreams numeric
+@attribute 'e se' numeric
+@attribute 'each other' numeric
+@attribute em numeric
+@attribute 'everything for' numeric
+@attribute 'everything for you' numeric
+@attribute eye numeric
+@attribute eyes numeric
+@attribute feel numeric
+@attribute finally numeric
+@attribute fire numeric
+@attribute 'fire away' numeric
+@attribute 'fire away fire' numeric
+@attribute 'fire away i' numeric
+@attribute 'for a' numeric
+@attribute 'for me' numeric
+@attribute 'for you' numeric
+@attribute 'for you i' numeric
+@attribute free numeric
+@attribute friend numeric
+@attribute 'from your' numeric
+@attribute girl numeric
+@attribute glowing numeric
+@attribute 'go ahead' numeric
+@attribute gone numeric
+@attribute gonna numeric
+@attribute 'good love' numeric
+@attribute 'good love </i>' numeric
+@attribute 'got his' numeric
+@attribute 'got his own' numeric
+@attribute 'got the' numeric
+@attribute 'got to' numeric
+@attribute 'got to know' numeric
+@attribute gotta numeric
+@attribute 'gotta be' numeric
+@attribute grow numeric
+@attribute hair numeric
+@attribute happiness numeric
+@attribute 'have a' numeric
+@attribute 'have all' numeric
+@attribute 'have all been' numeric
+@attribute 'he s' numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute heart numeric
+@attribute hed numeric
+@attribute 'hed aht' numeric
+@attribute 'hed aht uh' numeric
+@attribute 'here without' numeric
+@attribute 'here without you' numeric
+@attribute hey numeric
+@attribute 'his own' numeric
+@attribute home numeric
+@attribute hope numeric
+@attribute 'hope you' numeric
+@attribute house numeric
+@attribute 'i am' numeric
+@attribute 'i can' numeric
+@attribute 'i can t' numeric
+@attribute 'i did' numeric
+@attribute 'i did everything' numeric
+@attribute 'i do' numeric
+@attribute 'i don' numeric
+@attribute 'i don t' numeric
+@attribute 'i feel' numeric
+@attribute 'i got' numeric
+@attribute 'i got the' numeric
+@attribute 'i gotta' numeric
+@attribute 'i have' numeric
+@attribute 'i hope' numeric
+@attribute 'i know' numeric
+@attribute 'i know my' numeric
+@attribute 'i ll' numeric
+@attribute 'i ll be' numeric
+@attribute 'i ll do' numeric
+@attribute 'i ll take' numeric
+@attribute 'i m' numeric
+@attribute 'i m always' numeric
+@attribute 'i m here' numeric
+@attribute 'i think' numeric
+@attribute 'i think about' numeric
+@attribute 'i ve' numeric
+@attribute 'i want' numeric
+@attribute 'i was' numeric
+@attribute 'if i' numeric
+@attribute 'if you' numeric
+@attribute 'in a' numeric
+@attribute 'in my' numeric
+@attribute 'in the' numeric
+@attribute 'in the dark' numeric
+@attribute 'in the darkness' numeric
+@attribute 'in the eye' numeric
+@attribute 'in the shadow' numeric
+@attribute 'in this' numeric
+@attribute 'in this twilight' numeric
+@attribute 'in your' numeric
+@attribute inside numeric
+@attribute 'inside of' numeric
+@attribute 'is gone' numeric
+@attribute 'is it' numeric
+@attribute 'it back' numeric
+@attribute 'it s' numeric
+@attribute 'it s a' numeric
+@attribute 'it s all' numeric
+@attribute 'it s only' numeric
+@attribute 'just cares' numeric
+@attribute 'just cares for' numeric
+@attribute 'know how' numeric
+@attribute 'know my' numeric
+@attribute 'know my chicken' numeric
+@attribute 'know what' numeric
+@attribute 'know your' numeric
+@attribute 'know your chicken' numeric
+@attribute landó numeric
+@attribute left numeric
+@attribute 'left me' numeric
+@attribute 'left me in' numeric
+@attribute 'let me' numeric
+@attribute 'let s' numeric
+@attribute life numeric
+@attribute 'like a' numeric
+@attribute 'like rain' numeric
+@attribute 'like rain you' numeric
+@attribute little numeric
+@attribute ll numeric
+@attribute 'll be' numeric
+@attribute 'll do' numeric
+@attribute 'll do anything' numeric
+@attribute 'll never' numeric
+@attribute 'll take' numeric
+@attribute lonely numeric
+@attribute look numeric
+@attribute 'look like' numeric
+@attribute 'look like rain' numeric
+@attribute 'look look' numeric
+@attribute 'look look me' numeric
+@attribute 'look me' numeric
+@attribute 'look me in' numeric
+@attribute losing numeric
+@attribute 'losing i' numeric
+@attribute 'losing i can' numeric
+@attribute love numeric
+@attribute 'love </i>' numeric
+@attribute 'love and' numeric
+@attribute 'love and happiness' numeric
+@attribute 'm always' numeric
+@attribute 'm always in' numeric
+@attribute 'm here' numeric
+@attribute 'm here without' numeric
+@attribute 'made me' numeric
+@attribute 'make you' numeric
+@attribute mama numeric
+@attribute maría numeric
+@attribute 'maría landó' numeric
+@attribute 'me a' numeric
+@attribute 'me i' numeric
+@attribute 'me in' numeric
+@attribute 'me in my' numeric
+@attribute 'me in the' numeric
+@attribute 'me out' numeric
+@attribute 'me out of' numeric
+@attribute mi numeric
+@attribute 'mi hed' numeric
+@attribute 'mi hed aht' numeric
+@attribute mind numeric
+@attribute 'mind i' numeric
+@attribute miss numeric
+@attribute modern numeric
+@attribute moon numeric
+@attribute 'moon they' numeric
+@attribute 'moon they have' numeric
+@attribute morning numeric
+@attribute 'my baby' numeric
+@attribute 'my baby don' numeric
+@attribute 'my baby just' numeric
+@attribute 'my chicken' numeric
+@attribute 'my chicken you' numeric
+@attribute 'my dreams' numeric
+@attribute 'my lonely' numeric
+@attribute 'my window' numeric
+@attribute nah numeric
+@attribute night numeric
+@attribute 'no alarms' numeric
+@attribute 'no alarms and' numeric
+@attribute 'no dawn' numeric
+@attribute 'no dawn no' numeric
+@attribute 'no day' numeric
+@attribute 'no day i' numeric
+@attribute 'no surprises' numeric
+@attribute 'no surprises no' numeric
+@attribute noooo] numeric
+@attribute 'now you' numeric
+@attribute não numeric
+@attribute 'of the' numeric
+@attribute 'of you' numeric
+@attribute 'of your' numeric
+@attribute 'of your heart' numeric
+@attribute oh numeric
+@attribute 'oh i' numeric
+@attribute 'oh yeah' numeric
+@attribute 'on a' numeric
+@attribute 'on i' numeric
+@attribute 'on my' numeric
+@attribute 'on the' numeric
+@attribute 'on the moon' numeric
+@attribute 'out of' numeric
+@attribute 'out you' numeric
+@attribute 'out you left' numeric
+@attribute own numeric
+@attribute paz numeric
+@attribute please numeric
+@attribute pretty numeric
+@attribute que numeric
+@attribute radio numeric
+@attribute 'radio on' numeric
+@attribute rain numeric
+@attribute 'rain you' numeric
+@attribute 'rain you look' numeric
+@attribute re numeric
+@attribute 're still' numeric
+@attribute read numeric
+@attribute ready numeric
+@attribute remember numeric
+@attribute ring numeric
+@attribute river numeric
+@attribute roadrunner numeric
+@attribute round numeric
+@attribute 's a' numeric
+@attribute 's a new' numeric
+@attribute 's all' numeric
+@attribute 's got' numeric
+@attribute 's got his' numeric
+@attribute 's not' numeric
+@attribute 's on' numeric
+@attribute 's on the' numeric
+@attribute 's only' numeric
+@attribute 'say i' numeric
+@attribute se numeric
+@attribute 'see you' numeric
+@attribute seek numeric
+@attribute sem numeric
+@attribute 'sem ter' numeric
+@attribute 'sem ter que' numeric
+@attribute shadow numeric
+@attribute 'shadow of' numeric
+@attribute 'shadow of your' numeric
+@attribute sing numeric
+@attribute 'sing it' numeric
+@attribute 'sing it back' numeric
+@attribute six numeric
+@attribute sleep numeric
+@attribute slowly numeric
+@attribute 'so i' numeric
+@attribute song numeric
+@attribute sound numeric
+@attribute stand numeric
+@attribute 'stand losing' numeric
+@attribute 'stand losing i' numeric
+@attribute stars numeric
+@attribute 'stars the' numeric
+@attribute 'stars the moon' numeric
+@attribute stop numeric
+@attribute stuck numeric
+@attribute sun numeric
+@attribute surprises numeric
+@attribute 'surprises no' numeric
+@attribute 'surprises no alarms' numeric
+@attribute sweet numeric
+@attribute syndrome numeric
+@attribute sólo numeric
+@attribute 'sólo trabaja' numeric
+@attribute 't care' numeric
+@attribute 't care for' numeric
+@attribute 't i' numeric
+@attribute 't i can' numeric
+@attribute 't stand' numeric
+@attribute 't stand losing' numeric
+@attribute 't you' numeric
+@attribute 'take care' numeric
+@attribute 'take care of' numeric
+@attribute tell numeric
+@attribute tem numeric
+@attribute tempo numeric
+@attribute ter numeric
+@attribute 'ter que' numeric
+@attribute 'that i' numeric
+@attribute 'that s' numeric
+@attribute 'the dark' numeric
+@attribute 'the dark no' numeric
+@attribute 'the darkness' numeric
+@attribute 'the end' numeric
+@attribute 'the eye' numeric
+@attribute 'the good' numeric
+@attribute 'the high' numeric
+@attribute 'the moon' numeric
+@attribute 'the moon they' numeric
+@attribute 'the radio' numeric
+@attribute 'the radio on' numeric
+@attribute 'the rain' numeric
+@attribute 'the same' numeric
+@attribute 'the shadow' numeric
+@attribute 'the shadow of' numeric
+@attribute 'the stars' numeric
+@attribute 'the stars the' numeric
+@attribute 'the syndrome' numeric
+@attribute 'the thrill' numeric
+@attribute 'the thrill is' numeric
+@attribute 'the time' numeric
+@attribute 'the way' numeric
+@attribute 'then you' numeric
+@attribute 'then you re' numeric
+@attribute 'there s' numeric
+@attribute 'they have' numeric
+@attribute 'they have all' numeric
+@attribute 'think about' numeric
+@attribute 'this is' numeric
+@attribute 'this twilight' numeric
+@attribute 'this twilight in' numeric
+@attribute thrill numeric
+@attribute 'thrill is' numeric
+@attribute 'thrill is gone' numeric
+@attribute tight numeric
+@attribute time numeric
+@attribute 'time i' numeric
+@attribute 'to be' numeric
+@attribute 'to know' numeric
+@attribute 'to know your' numeric
+@attribute 'to me' numeric
+@attribute 'to say' numeric
+@attribute 'to the' numeric
+@attribute tonight numeric
+@attribute town numeric
+@attribute trabaja numeric
+@attribute try numeric
+@attribute twilight numeric
+@attribute 'twilight in' numeric
+@attribute 'twilight in the' numeric
+@attribute uh numeric
+@attribute 'uh mi' numeric
+@attribute 'uh mi hed' numeric
+@attribute 'up and' numeric
+@attribute valerie numeric
+@attribute 'valerie valerie' numeric
+@attribute ve numeric
+@attribute wanna numeric
+@attribute 'want to' numeric
+@attribute 'we are' numeric
+@attribute 'we re' numeric
+@attribute 'what i' numeric
+@attribute 'what you' numeric
+@attribute 'when i' numeric
+@attribute whitey numeric
+@attribute 'will be' numeric
+@attribute window numeric
+@attribute 'with a' numeric
+@attribute 'with me' numeric
+@attribute 'with the' numeric
+@attribute 'without you' numeric
+@attribute 'without you baby' numeric
+@attribute won numeric
+@attribute 'won t' numeric
+@attribute world numeric
+@attribute wrong numeric
+@attribute yeah numeric
+@attribute 'yeah yeah' numeric
+@attribute 'yeah yeah yeah' numeric
+@attribute yes numeric
+@attribute 'you all' numeric
+@attribute 'you and' numeric
+@attribute 'you and me' numeric
+@attribute 'you are' numeric
+@attribute 'you baby' numeric
+@attribute 'you baby and' numeric
+@attribute 'you baby but' numeric
+@attribute 'you can' numeric
+@attribute 'you come' numeric
+@attribute 'you got' numeric
+@attribute 'you got to' numeric
+@attribute 'you have' numeric
+@attribute 'you i' numeric
+@attribute 'you i did' numeric
+@attribute 'you i ll' numeric
+@attribute 'you know' numeric
+@attribute 'you left' numeric
+@attribute 'you left me' numeric
+@attribute 'you ll' numeric
+@attribute 'you look' numeric
+@attribute 'you look like' numeric
+@attribute 'you re' numeric
+@attribute 'you re still' numeric
+@attribute 'you ready' numeric
+@attribute 'you seek' numeric
+@attribute 'you wanna' numeric
+@attribute 'your chicken' numeric
+@attribute 'your chicken i' numeric
+@attribute 'your heart' numeric
+@attribute '{&}' numeric
+@attribute '{&} noooo]' numeric
+@attribute è numeric
+
+@data
+
+{8 3.02209,110 2.710835,122 2.710835,123 3.46078,168 1.895297,176 2.5834,179 2.5834,351 3.219352,455 3.02209,478 2.710835,480 2.272145}
+{40 1.428052,45 2.965294,70 2.446508,80 2.589412,97 2.446508,116 2.589412,138 2.32272,210 2.21353,212 1.009045,225 1.009045,248 0.954497,249 1.680145,305 1.872635,324 2.446508,342 1.343718,379 2.21353,470 2.32272,471 2.446508,485 2.21353}
+{85 1.624493,98 2.503641,200 0.975621,254 2.245783,265 1.261062,278 2.14021,283 2.867073,284 2.867073,305 1.810607,315 2.503641,329 2.14021,342 1.299209,346 2.503641,348 2.365471,362 2.667062,479 2.503641,498 1.882351,512 1.624493}
+{110 1.889278,237 3.45727,276 3.45727,277 3.45727,336 2.243682,361 2.106203,393 3.45727,394 3.45727,456 3.45727}
+{35 2.16111,110 4.574128,117 1.729554,118 1.729554,186 3.992754,187 3.992754,265 2.568484,288 3.833905}
+{35 1.148749,76 2.887502,106 1.644463,109 2.037933,122 2.431403,168 1.69993,194 1.644463,196 1.449729,200 1.056259,248 0.999159,305 1.960258,315 2.710574,326 2.560984,327 1.406592,342 1.406592,385 2.560984,404 1.591995,464 2.710574,474 2.431403,500 2.317104,512 1.758761}
+{34 4.260986,41 2.614236,59 3.058163,140 2.21163,161 3.502089,205 1.85534,225 1.191708,265 1.540369,318 2.88939,391 2.614236,409 2.299266,467 1.452734,487 1.85534}
+{19 2.351007,20 2.351007,50 1.672054,77 1.948356,157 2.488332,158 4.084523,191 3.105823,200 0.969656,255 1.560552,290 2.849541,321 1.291265,362 2.650754,401 1.799535,448 2.033263,495 2.650754}
+{42 1.216548,50 1.216548,51 2.07326,56 2.522532,59 1.810453,142 2.259725,144 1.710538,148 2.07326,181 0.998459,194 1.098374,196 0.968306,197 1.417578,200 0.705499,222 2.259725,225 0.705499,227 1.623988,248 0.667361,249 1.174716,254 1.623988,321 0.939494,322 1.479355,353 1.547646,429 2.259725,430 2.259725,442 2.07326,443 2.259725,444 2.259725,486 1.810453,506 1.361181,509 1.361181}
+{68 2.295109,106 1.307089,107 2.154479,132 1.558096,140 1.558096,149 1.619835,168 1.351177,181 1.188188,188 2.154479,210 1.841733,219 2.154479,225 0.839559,288 1.619835,295 2.154479,321 1.118019,325 2.689123,342 1.118019,374 2.689123,387 1.841733,445 2.467226,453 1.447719,473 1.841733,480 1.619835,512 1.397938,519 2.295109}
+{10 2.606525,67 2.041695,69 1.782195,117 0.771999,118 0.771999,140 1.646066,157 2.276121,166 1.859861,186 1.782195,187 1.782195,196 1.217365,199 2.42469,205 1.380887,220 1.945716,241 1.859861,248 0.839013,253 2.42469,255 1.427464,265 1.146461,315 2.276121,324 2.150507,377 1.782195,435 1.529456,467 1.081236,498 1.711291,506 1.711291,509 1.711291}
+{41 1.819121,67 1.908855,74 2.266931,109 1.599948,122 1.908855,140 1.538967,168 1.334588,181 1.1736,192 1.908855,243 1.380775,244 1.482507,254 1.908855,265 1.071868,302 2.436935,305 1.538967,321 1.104293,323 2.266931,332 2.010587,377 1.666238,409 1.599948,442 2.436935,470 1.908855,487 1.291041,488 2.128028,494 2.010587,503 2.128028}
+{11 2.846893,35 0.735025,103 1.734356,106 1.052206,117 0.588247,118 0.588247,120 1.63864,132 1.254267,139 1.986116,142 2.164744,188 1.734356,194 1.052206,200 0.675845,212 0.675845,225 0.675845,226 2.416505,231 1.847562,234 1.63864,243 1.12534,317 1.482595,327 0.900005,348 1.63864,351 1.847562,352 2.846893,374 2.164744,382 1.986116,387 1.482595,401 1.254267,410 1.555728,472 1.63864,485 1.482595,487 1.052206,506 1.303967}
+{1 2.140186,40 0.945641,42 1.152192,63 1.538079,67 1.538079,77 1.342589,106 1.04027,107 1.71468,117 0.581574,118 0.581574,127 1.826603,140 1.240038,149 1.289175,167 1.194545,205 1.04027,209 1.194545,212 0.668178,220 1.465775,225 0.668178,226 2.389091,228 1.963585,248 0.632058,288 1.289175,317 1.465775,326 1.620051,327 0.889795,329 1.465775,342 0.889795,350 1.71468,351 1.826603,353 1.465775,356 1.620051,359 1.71468,401 1.240038,414 2.389091,432 1.620051,435 1.152192,464 1.71468,467 0.814533,471 1.620051,480 1.289175}
+{28 1.824186,117 0.888119,118 0.888119,185 2.473974,203 2.473974,204 2.998583,209 1.824186,212 1.020372,225 1.020372,227 2.348795,243 1.699007,350 2.618482,353 2.23838,356 2.473974,416 2.618482,438 2.789398,446 1.444084,448 2.13961,474 2.348795}
+{39 2.318347,40 0.778912,69 1.105873,85 0.916413,93 1.967864,94 2.318347,106 0.856857,143 1.967864,161 1.61738,181 0.778912,196 0.75539,197 1.105873,198 1.61738,205 0.856857,208 1.41236,209 0.983932,242 1.50455,248 0.520618,249 0.916413,250 1.50455,255 0.885759,265 0.711393,278 1.207341,279 1.207341,280 1.061877,318 1.334415,321 0.732913,334 1.266896,342 0.732913,344 1.50455,351 1.50455,363 2.318347,432 1.334415,435 0.949046,446 0.778912,448 1.154066,451 1.334415,454 1.50455,457 1.41236,467 0.67092,472 1.334415,480 1.061877,485 1.207341,487 0.856857,503 1.41236,505 1.61738,515 2.318347}
+{37 3.155533,41 2.35554,46 2.471734,71 2.755537,73 2.603465,113 2.755537,200 1.07378,207 1.567802,212 1.07378,223 2.935399,248 1.015733,249 1.787936,346 2.755537,457 2.755537,480 2.071738,483 1.429925,484 1.429925}
+{32 2.352041,35 1.055027,46 2.233032,63 2.233032,102 2.850794,180 2.489427,196 1.33145,197 1.949212,209 1.734278,212 0.970082,214 2.850794,248 0.917641,249 1.61527,265 1.253902,279 2.128059,327 1.291833,377 1.949212,413 2.850794,469 1.871664,470 2.233032,476 2.128059}
+{327 4.61008,470 7.968878}
+{132 2.806168,166 3.17064,211 2.917362,212 1.512067,223 4.133546,225 1.512067,288 2.917362,327 2.013579,379 3.317004,446 2.139955,480 2.917362}
+{9 2.782142,40 1.440327,41 2.232557,140 1.888732,167 1.81944,175 3.63888,176 2.232557,181 1.440327,196 1.396831,208 2.61167,212 1.017718,220 2.232557,247 2.232557,248 0.962702,332 2.467538,377 2.044928,391 2.232557,455 2.61167}
+{15 1.874474,67 1.468279,70 1.54653,73 1.54653,117 0.555181,118 0.555181,120 1.54653,124 1.636865,132 1.183763,145 1.636865,147 2.280669,149 1.230669,157 1.636865,160 2.04306,177 1.399256,178 1.743708,186 1.28166,187 1.28166,193 1.468279,207 0.931317,212 0.637855,225 0.637855,247 1.399256,254 1.468279,265 0.824474,279 1.399256,303 2.04306,321 0.849415,326 1.54653,327 0.849415,342 0.849415,377 1.28166,391 1.399256,401 1.183763,404 0.961376,409 1.230669,423 1.337513,457 1.636865,469 1.230669,473 1.399256,477 2.04306,486 1.636865,512 1.062083}
+{28 1.199539,29 1.626823,35 0.729724,40 0.949594,45 1.971793,96 1.626823,117 0.584005,118 0.584005,120 1.626823,160 2.149132,176 1.471903,177 1.471903,178 1.834239,179 1.471903,193 1.544509,203 1.626823,205 1.044618,211 1.294564,248 0.6347,255 1.079853,318 1.626823,321 0.893515,329 1.471903,342 0.893515,385 1.626823,401 1.245222,431 1.406954,432 1.626823,446 0.949594,465 2.826362,466 2.826362,467 0.817938,473 1.471903,483 0.893515,484 0.893515,499 1.971793,502 1.471903,509 1.294564,512 1.117225}
+{21 2.178935,28 1.325553,42 1.278555,50 1.278555,77 1.489833,85 1.234592,93 2.651107,98 1.902732,117 0.645356,118 0.645356,120 1.797725,132 1.376036,149 1.430561,181 1.049351,196 1.017661,206 1.797725,207 1.082586,210 1.62653,211 1.430561,225 0.741459,247 1.62653,248 0.701376,249 1.234592,265 0.958389,318 1.797725,342 0.987381,356 1.797725,376 1.430561,401 1.376036,439 1.797725,451 1.797725,457 1.902732,467 0.903864,469 1.430561,471 1.797725,498 1.430561,506 1.430561,509 1.430561,512 1.234592}
+{49 2.98799,85 1.819968,106 1.701692,117 0.951349,118 0.951349,132 2.028477,188 2.804905,196 1.500181,197 2.196231,212 1.093018,238 2.516018,248 1.033931,249 1.819968,265 1.412805,321 1.455543,346 2.804905,360 2.650109,467 1.332427,473 2.397742,499 3.212068}
+{45 2.856552,116 2.494455,117 0.846052,118 0.846052,200 0.972041,209 1.737781,223 2.657276,241 2.038265,242 2.657276,248 0.919494,345 2.856552,404 1.465062,472 2.356791,474 2.237542,490 2.494455,494 2.356791,509 1.875444,514 3.113465}
+{9 2.484027,50 1.566885,62 2.331822,113 2.331822,117 0.790891,118 0.790891,138 2.091659,185 2.203134,205 1.41468,209 1.624482,247 1.993332,265 1.174518,278 1.993332,279 1.993332,296 3.248964,321 1.210047,334 2.091659,391 1.993332,404 1.369544,432 2.203134,467 1.107696,490 2.331822,506 1.75317}
+{16 1.831567,17 1.831567,18 1.831567,28 1.02229,29 1.386437,40 0.809277,58 1.680433,85 0.952139,138 1.316286,144 1.386437,146 1.831567,154 1.386437,155 1.46742,159 1.680433,166 1.199056,167 1.02229,169 1.831567,170 1.831567,171 1.831567,210 1.254408,212 0.571826,225 0.571826,278 1.254408,285 1.831567,286 1.831567,287 1.831567,321 0.761485,322 1.199056,344 1.563203,401 1.061223,404 0.861857,416 1.46742,431 1.199056,446 0.809277,461 1.680433,462 1.831567,463 1.831567,468 1.316286,483 0.761485,484 0.761485,500 1.254408,501 1.563203}
+{96 4.414316,209 3.254898,454 4.977128,492 4.19096,498 3.512744}
+{26 2.898568,62 2.720962,98 2.720962,116 2.720962,133 3.791159,138 2.440721,177 2.325984,212 1.060307,321 1.411983,322 2.223349,359 2.720962,453 1.828371,498 2.045743,502 2.325984}
+{97 4.081184,209 3.009263,225 1.683255,248 1.59226,290 4.946605,327 2.241546,476 3.692538,509 3.24765}
+{19 1.819517,20 1.819517,27 2.683244,77 1.507893,85 1.249558,165 1.925798,181 1.062071,182 1.925798,196 1.029997,197 1.507893,203 1.819517,207 1.09571,248 0.709879,249 1.249558,278 1.646247,292 1.819517,305 1.392716,327 0.99935,328 2.403693,357 2.683244,358 2.683244,418 1.925798,464 1.925798,475 3.161139,506 1.447902}
+{40 1.848457,46 3.006505,63 3.006505,131 2.865171,212 1.306097,219 3.351709,377 2.624377,387 2.865171,446 1.848457,469 2.519967,470 3.006505,476 2.865171}
+{32 2.382181,40 1.390504,110 2.261647,125 2.887326,180 2.521327,274 3.513004,361 2.521327,379 2.155328,387 2.155328,391 2.155328,449 3.147006,453 1.694225,469 1.895648,491 2.887326}
+{74 1.619445,85 0.986395,155 1.520216,181 0.838394,206 1.436319,234 1.436319,244 1.05907,245 2.495389,246 2.495389,255 0.9534,256 2.118141,257 2.495389,288 1.142968,324 1.436319,339 1.619445,340 2.495389,341 2.495389,350 1.520216,360 1.436319,404 0.892865,449 1.897464,451 1.436319,452 1.242197,453 1.021521,469 1.142968,473 1.29954,487 0.922291,500 1.29954,501 1.619445,502 1.29954,510 1.619445,511 2.118141}
+{10 2.156385,15 2.156385,26 2.005953,42 1.265323,67 1.6891,97 1.77912,98 1.88304,99 1.6891,106 1.142411,117 0.638677,118 0.638677,149 1.415755,157 1.88304,168 1.180945,186 1.474414,187 1.474414,200 0.733785,209 1.311835,210 1.609696,220 1.609696,225 0.733785,238 1.6891,248 0.694118,249 1.221815,255 1.180945,265 0.94847,279 1.609696,305 1.361795,339 2.005953,342 0.977162,376 1.415755,387 1.609696,453 1.265323,476 1.609696,494 1.77912,509 1.415755,512 1.221815,519 2.005953}
+{32 1.320593,35 0.592362,42 0.939215,49 1.488965,58 1.600626,68 1.488965,76 1.488965,77 1.094418,80 1.39773,106 0.847981,116 1.39773,117 0.474073,118 0.474073,119 1.744583,131 1.194834,132 1.010824,134 1.194834,166 1.142112,180 1.39773,188 1.39773,192 1.253773,196 0.747565,197 1.094418,209 0.97374,212 0.544669,224 2.294333,247 1.194834,248 0.515225,249 0.90692,315 1.39773,327 0.725321,334 1.253773,345 1.600626,370 1.600626,371 2.294333,372 2.294333,374 1.744583,377 1.094418,391 1.194834,395 1.744583,451 1.320593,457 1.39773,473 1.194834,476 1.194834,494 1.320593,498 1.050877,499 1.600626,502 1.194834}
+{35 0.86978,42 1.379073,62 2.052322,67 1.840946,77 1.606961,99 1.840946,109 1.543029,110 1.840946,122 1.840946,149 1.543029,160 2.561615,181 1.131849,182 2.052322,200 0.799751,205 1.245112,219 2.052322,238 1.840946,243 1.331653,244 1.429766,318 1.939059,324 1.939059,326 1.939059,332 1.939059,377 1.606961,409 1.543029,455 2.052322,467 0.974924,485 1.754404,500 1.754404}
+{154 8.510826,225 3.510228}
+{19 1.641325,20 1.641325,77 1.360219,79 2.420464,85 1.127184,116 1.737197,165 1.737197,174 1.98937,181 0.958058,182 1.737197,194 1.05393,244 1.210232,303 2.16829,339 1.850589,346 1.737197,356 1.641325,360 1.641325,378 1.485024,379 1.485024,391 1.485024,399 2.16829,409 1.306104,422 2.16829,435 1.167323,448 1.419496,452 1.419496,467 0.825229,477 2.16829,479 1.737197,480 1.306104,487 1.05393,490 1.737197}
+{35 0.691275,41 1.394347,73 1.541104,80 1.631122,82 2.272668,130 2.035892,181 0.899558,194 0.989576,196 0.872393,197 1.277163,198 1.867897,199 1.737591,205 0.989576,206 1.541104,209 1.136334,211 1.226352,234 1.541104,241 1.33282,248 0.601257,249 1.058357,250 1.737591,253 1.737591,288 1.226352,289 1.867897,318 1.541104,402 2.272668,403 2.272668,404 0.958003,423 1.33282,432 1.541104,435 1.096045,467 0.77484,469 1.226352,472 1.541104,473 1.394347,483 0.846435,484 0.846435,503 1.631122,505 1.867897,509 1.226352}
+{35 0.529141,42 0.838976,69 0.977614,71 1.248555,74 1.330052,75 1.330052,77 0.977614,78 2.049465,79 1.739631,80 1.248555,98 1.248555,106 0.757479,117 0.423476,118 0.423476,119 1.558389,149 0.93872,165 1.248555,181 0.688574,182 1.248555,200 0.486538,205 0.757479,225 0.486538,227 1.119962,248 0.460236,249 0.810127,262 2.049465,263 2.049465,264 2.049465,342 0.64791,353 1.067313,362 1.330052,373 1.558389,376 0.93872,379 1.067313,380 2.049465,381 2.049465,395 1.558389,397 2.049465,398 2.049465,399 1.558389,400 2.049465,439 1.17965,467 0.593107,469 0.93872,474 1.119962,476 1.067313,483 0.64791,484 0.64791,498 0.93872,503 1.248555,509 0.93872}
+{10 1.94117,36 1.385103,46 1.520522,50 1.13904,62 1.695107,75 1.805752,117 0.574935,118 0.574935,131 1.449043,132 1.225883,140 1.225883,176 1.449043,188 1.695107,200 0.660551,206 1.601558,219 1.695107,220 1.449043,225 0.660551,241 1.385103,248 0.624842,255 1.063082,265 0.85381,267 1.601558,305 1.225883,319 1.449043,327 0.879638,346 1.695107,409 1.274458,423 1.385103,439 1.601558,445 1.94117,446 0.934846,453 1.13904,461 1.94117,467 0.805235,468 1.520522,472 1.601558,478 1.520522,487 1.028395,488 1.695107,495 1.805752,498 1.274458,502 1.449043,509 1.274458}
+{34 2.263211,50 1.091484,126 1.730361,132 1.174702,161 1.860125,174 1.860125,176 1.388545,196 0.868763,197 1.271849,212 0.632972,241 1.327274,248 0.598755,249 1.053953,265 0.818163,267 1.534692,268 2.666297,274 2.263211,279 1.388545,295 1.624335,305 1.174702,321 0.842913,327 0.842913,357 2.263211,358 2.263211,360 1.534692,370 1.860125,404 0.954017,435 1.091484,451 1.534692,452 1.327274,468 1.457039,486 1.624335,487 0.985459,499 1.860125,516 2.263211}
+{40 0.898485,70 1.539266,75 1.735518,77 1.275639,97 1.539266,109 1.224889,117 0.552573,118 0.552573,120 1.539266,134 1.392683,138 1.461382,174 1.865669,181 0.898485,182 1.629176,186 1.275639,187 1.275639,200 0.634859,201 1.865669,203 1.539266,212 0.634859,225 0.634859,269 1.865669,279 1.392683,290 1.865669,303 2.033463,317 1.392683,324 1.539266,327 0.845425,342 0.845425,346 1.629176,356 1.539266,387 1.392683,401 1.178203,431 1.33123,432 1.539266,438 1.735518,446 0.898485,447 1.735518,452 1.33123,455 1.629176,467 0.773915,469 1.224889,477 2.033463}
+{167 5.463606,332 7.409782}
+{85 1.271709,117 0.664758,118 0.664758,148 2.244443,152 3.217177,153 3.217177,165 1.959936,175 2.73081,275 2.244443,332 1.851772,342 1.017065,354 3.217177,355 3.217177,356 1.851772,410 1.758076,467 0.931038,490 1.959936,498 1.473569,512 1.271709}
+{5 2.625234,6 2.625234,7 2.625234,40 0.882019,45 1.831477,46 1.434599,63 1.434599,116 1.599319,149 1.20244,166 1.306833,167 1.114178,200 0.623224,207 0.909955,275 1.831477,314 2.625234,345 1.831477,378 1.36716,423 1.306833,467 0.759732,468 1.434599,483 0.829931,484 0.829931,485 1.36716,500 1.36716,514 1.996197,516 2.228356,520 2.625234,521 2.625234}
+{40 1.8021,46 2.931106,63 2.931106,176 2.793317,212 1.273342,324 3.087319,377 2.558561,469 2.45677,470 2.931106,476 2.793317,478 2.931106,485 2.793317}
+{0 notjazzy,13 1.351746,26 1.52409,32 1.351746,35 0.606337,36 1.169055,40 0.789028,99 1.28335,117 0.485256,118 0.485256,132 1.034669,149 1.075668,154 1.351746,186 1.120236,187 1.120236,189 1.785739,190 1.993421,196 0.7652,197 1.120236,200 0.557518,205 0.867985,212 0.557518,225 0.557518,248 0.527379,249 0.928315,254 1.28335,265 0.720632,280 1.075668,291 2.348457,305 1.034669,315 1.430703,317 1.223021,325 1.785739,337 2.348457,338 2.348457,349 2.348457,370 1.638386,378 1.223021,385 1.351746,410 1.28335,420 2.348457,421 2.348457,453 0.961372,467 0.679634,480 1.075668,485 1.223021}
+{0 notjazzy,32 2.678389,35 1.201413,40 1.563403,111 3.538315,180 2.834837,194 1.719851,212 1.104682,225 1.104682,231 3.019876,317 2.423329,327 1.471076,348 2.678389,378 2.423329,379 2.423329,453 1.90489,464 2.834837}
+{0 notjazzy,1 1.884942,2 2.104162,3 2.478921,4 2.478921,42 1.014779,50 1.014779,96 1.42684,117 0.512214,118 0.512214,120 1.42684,150 2.478921,151 2.478921,154 1.42684,189 1.884942,190 2.104162,206 1.42684,207 0.85924,212 0.58849,225 0.58849,265 0.760666,266 2.478921,295 1.510183,305 1.092148,334 1.354644,401 1.092148,404 0.886973,445 1.729403,448 1.233999,472 1.42684,487 0.916205,488 1.510183,489 2.104162,490 1.510183,500 1.290963}
+{0 notjazzy,1 1.45124,2 1.62002,67 1.042958,86 1.908552,87 1.908552,88 1.908552,89 1.908552,90 1.908552,106 0.705397,107 1.162709,121 1.098542,140 0.840859,154 1.098542,155 1.162709,156 1.908552,194 0.705397,195 1.908552,207 0.66154,210 0.993929,223 1.238603,232 1.62002,233 1.908552,234 1.098542,235 1.908552,236 1.908552,273 1.042958,299 1.908552,300 1.908552,305 0.840859,356 1.098542,410 1.042958,449 1.45124,450 1.908552,472 1.098542,500 0.993929,501 1.238603,506 0.874177,517 1.908552,518 1.908552}
+{0 notjazzy,50 0.963276,54 2.353107,55 2.353107,56 1.997369,57 2.353107,77 1.122454,80 1.433537,81 2.353107,83 2.353107,84 2.353107,117 0.486217,118 0.486217,119 1.789275,139 1.64163,229 2.353107,230 2.353107,296 1.997369,297 2.353107,298 2.353107,395 1.789275,396 2.353107,486 1.433537}
+{0 notjazzy,15 2.182053,35 0.807538,80 1.905455,82 2.654901,117 0.646279,118 0.646279,132 1.378005,139 2.182053,147 2.654901,206 1.800298,241 1.556983,243 1.236359,265 0.959761,273 1.709206,280 1.432608,319 1.628857,321 0.988794,350 1.905455,391 1.628857,402 2.654901,403 2.654901,409 1.432608,485 1.628857,487 1.15601,488 1.905455,494 1.800298,498 1.432608,506 1.432608}
+{0 notjazzy,15 1.350487,19 1.114216,20 1.114216,27 1.643135,36 0.963627,40 0.650379,50 0.792439,69 0.923387,70 1.114216,96 1.114216,117 0.399986,118 0.399986,126 1.256275,132 0.852856,138 1.057838,145 1.179298,149 0.88665,161 1.350487,162 1.350487,174 1.350487,181 0.650379,186 0.923387,187 0.923387,188 1.179298,189 1.471947,194 0.715462,200 0.45955,205 0.715462,212 0.45955,217 1.256275,220 1.00811,225 0.45955,232 1.643135,234 1.114216,242 1.256275,247 1.00811,248 0.434708,250 1.256275,255 0.739594,256 1.643135,265 0.594002,290 1.350487,292 1.114216,317 1.00811,318 1.114216,324 1.114216,327 0.611971,328 1.471947,342 0.611971,345 1.350487,373 1.471947,385 1.114216,404 0.692635,418 1.179298,446 0.650379,447 1.256275,448 0.963627,451 1.114216,452 0.963627,453 0.792439,457 1.179298,467 0.560208,468 1.057838,471 1.114216,479 1.179298,480 0.88665,483 0.611971,484 0.611971,487 0.715462,492 1.057838,493 1.350487,510 1.256275,511 1.643135,514 1.471947}
+{0 notjazzy,35 0.938029,40 1.220661,62 2.213361,69 1.733054,85 1.436144,109 1.664106,117 0.750713,118 0.750713,157 2.213361,168 1.388105,185 2.091211,191 2.762617,192 1.9854,194 1.342812,200 0.862505,205 1.342812,207 1.259323,231 2.357834,243 1.436144,327 1.148575,375 1.9854,385 2.091211,409 1.664106,416 2.213361,417 2.762617,435 1.487285,467 1.051424,478 1.9854}
+{0 notjazzy,35 0.938029,40 1.220661,62 2.213361,69 1.733054,85 1.436144,109 1.664106,117 0.750713,118 0.750713,157 2.213361,168 1.388105,185 2.091211,191 2.762617,192 1.9854,194 1.342812,200 0.862505,205 1.342812,207 1.259323,231 2.357834,243 1.436144,327 1.148575,375 1.9854,385 2.091211,409 1.664106,416 2.213361,417 2.762617,435 1.487285,467 1.051424,478 1.9854}
+{0 notjazzy,43 2.007486,44 2.007486,75 1.534843,111 1.798338,112 2.007486,113 1.440798,114 2.007486,115 2.007486,128 2.007486,129 2.007486,140 1.041969,141 2.007486,162 1.649945,183 2.007486,184 2.007486,192 1.292405,196 0.770599,198 1.649945,200 0.561451,207 0.819762,208 1.440798,209 1.003743,243 0.934864,244 1.003743,248 0.5311,250 1.534843,251 2.007486,295 1.440798,435 0.968155,446 0.794595,452 1.177303,502 1.23165,503 1.440798,504 2.007486,505 1.649945}
+{0 notjazzy,43 2.007486,44 2.007486,75 1.534843,111 1.798338,112 2.007486,113 1.440798,114 2.007486,115 2.007486,128 2.007486,129 2.007486,140 1.041969,141 2.007486,162 1.649945,183 2.007486,184 2.007486,192 1.292405,196 0.770599,198 1.649945,200 0.561451,207 0.819762,208 1.440798,209 1.003743,243 0.934864,244 1.003743,248 0.5311,250 1.534843,251 2.007486,295 1.440798,435 0.968155,446 0.794595,452 1.177303,502 1.23165,503 1.440798,504 2.007486,505 1.649945}
+{0 notjazzy,9 2.64684,91 4.078492,207 1.413681,208 2.484658,210 2.123983,238 2.228755,247 2.123983,275 2.845334,278 2.123983,319 2.123983,327 1.289358,370 2.845334,377 1.945479,478 2.228755,483 1.289358,484 1.289358}
+{0 notjazzy,96 4.515992,248 1.761899,252 5.473615,470 4.287491,509 3.593654}
+{0 notjazzy,96 4.515992,248 1.761899,252 5.473615,470 4.287491,509 3.593654}
+{0 notjazzy,33 4.173766,316 4.173766,336 3.882599,405 4.173766,406 4.173766}
+{0 notjazzy,35 0.708845,99 1.500316,126 1.781755,130 2.087639,131 1.429787,176 1.429787,177 1.429787,178 1.781755,193 1.500316,196 0.894566,212 0.651773,213 1.781755,215 2.330432,219 1.67258,248 0.616539,252 1.915374,255 1.048955,258 2.330432,259 2.330432,260 2.330432,261 2.330432,265 0.842464,267 1.580275,280 1.257522,282 1.781755,288 1.257522,335 1.500316,404 0.982353,411 1.781755,415 2.330432,476 1.429787}
+{0 notjazzy,35 0.708845,99 1.500316,126 1.781755,130 2.087639,131 1.429787,176 1.429787,177 1.429787,178 1.781755,193 1.500316,196 0.894566,212 0.651773,213 1.781755,215 2.330432,219 1.67258,248 0.616539,252 1.915374,255 1.048955,258 2.330432,259 2.330432,260 2.330432,261 2.330432,265 0.842464,267 1.580275,280 1.257522,282 1.781755,288 1.257522,335 1.500316,404 0.982353,411 1.781755,415 2.330432,476 1.429787}
+{0 notjazzy,28 2.88527,97 3.913023,117 1.404716,118 1.404716,212 1.613898,379 3.540391,399 5.169342,432 3.913023}
+{0 notjazzy,35 0.888464,41 1.792092,42 1.408698,46 1.880492,69 1.641481,71 2.096409,85 1.360259,98 2.096409,103 2.096409,106 1.271858,117 0.711046,118 0.711046,167 1.460479,205 1.271858,206 1.980713,209 1.460479,220 1.792092,242 2.233248,248 0.772768,321 1.087885,332 1.980713,342 1.087885,344 2.233248,376 1.576175,387 1.792092,435 1.408698,453 1.408698,464 2.096409,467 0.995867,469 1.576175,471 1.980713,478 1.880492}
+{0 notjazzy,24 1.120304,25 1.120304,30 1.120304,31 1.120304,35 0.380392,41 0.767276,60 1.120304,61 1.120304,64 1.120304,65 1.120304,66 1.120304,99 0.805125,100 1.120304,101 1.120304,102 1.02786,103 0.897568,104 1.120304,105 1.120304,106 0.544541,107 0.897568,108 1.120304,131 0.767276,144 0.848033,163 1.120304,164 1.120304,166 0.73342,167 0.625298,168 0.562908,181 0.495006,200 0.349765,201 1.02786,207 0.510684,211 0.674833,212 0.349765,213 0.956155,214 1.02786,216 1.120304,217 0.956155,218 1.120304,225 0.349765,238 0.805125,239 1.120304,240 1.120304,269 1.02786,270 1.120304,280 0.674833,282 0.956155,292 0.848033,293 1.120304,294 1.120304,308 1.120304,309 1.120304,310 1.120304,311 1.120304,319 0.767276,320 1.120304,330 0.956155,331 1.120304,367 1.120304,368 1.120304,369 1.120304,376 0.674833,378 0.767276,382 1.02786,383 1.120304,384 1.120304,411 0.956155,412 1.120304,413 1.02786,418 0.897568,419 1.120304,424 1.120304,425 1.120304,426 1.120304,427 1.120304,436 1.120304,437 1.120304,440 1.120304,441 1.120304,458 1.120304,459 1.120304,460 1.120304,507 1.120304,508 1.120304,519 0.956155}
+{0 notjazzy,24 1.120304,25 1.120304,30 1.120304,31 1.120304,35 0.380392,41 0.767276,60 1.120304,61 1.120304,64 1.120304,65 1.120304,66 1.120304,99 0.805125,100 1.120304,101 1.120304,102 1.02786,103 0.897568,104 1.120304,105 1.120304,106 0.544541,107 0.897568,108 1.120304,131 0.767276,144 0.848033,163 1.120304,164 1.120304,166 0.73342,167 0.625298,168 0.562908,181 0.495006,200 0.349765,201 1.02786,207 0.510684,211 0.674833,212 0.349765,213 0.956155,214 1.02786,216 1.120304,217 0.956155,218 1.120304,225 0.349765,238 0.805125,239 1.120304,240 1.120304,269 1.02786,270 1.120304,280 0.674833,282 0.956155,292 0.848033,293 1.120304,294 1.120304,308 1.120304,309 1.120304,310 1.120304,311 1.120304,319 0.767276,320 1.120304,330 0.956155,331 1.120304,367 1.120304,368 1.120304,369 1.120304,376 0.674833,378 0.767276,382 1.02786,383 1.120304,384 1.120304,411 0.956155,412 1.120304,413 1.02786,418 0.897568,419 1.120304,424 1.120304,425 1.120304,426 1.120304,427 1.120304,436 1.120304,437 1.120304,440 1.120304,441 1.120304,458 1.120304,459 1.120304,460 1.120304,507 1.120304,508 1.120304,519 0.956155}
+{0 notjazzy,24 1.120304,25 1.120304,30 1.120304,31 1.120304,35 0.380392,41 0.767276,60 1.120304,61 1.120304,64 1.120304,65 1.120304,66 1.120304,99 0.805125,100 1.120304,101 1.120304,102 1.02786,103 0.897568,104 1.120304,105 1.120304,106 0.544541,107 0.897568,108 1.120304,131 0.767276,144 0.848033,163 1.120304,164 1.120304,166 0.73342,167 0.625298,168 0.562908,181 0.495006,200 0.349765,201 1.02786,207 0.510684,211 0.674833,212 0.349765,213 0.956155,214 1.02786,216 1.120304,217 0.956155,218 1.120304,225 0.349765,238 0.805125,239 1.120304,240 1.120304,269 1.02786,270 1.120304,280 0.674833,282 0.956155,292 0.848033,293 1.120304,294 1.120304,308 1.120304,309 1.120304,310 1.120304,311 1.120304,319 0.767276,320 1.120304,330 0.956155,331 1.120304,367 1.120304,368 1.120304,369 1.120304,376 0.674833,378 0.767276,382 1.02786,383 1.120304,384 1.120304,411 0.956155,412 1.120304,413 1.02786,418 0.897568,419 1.120304,424 1.120304,425 1.120304,426 1.120304,427 1.120304,436 1.120304,437 1.120304,440 1.120304,441 1.120304,458 1.120304,459 1.120304,460 1.120304,507 1.120304,508 1.120304,519 0.956155}
+{0 notjazzy,28 3.461067,159 5.689276,212 1.935974,244 3.461067,295 4.968101}
+{0 notjazzy,134 5.046517,200 2.30047,207 3.358864,238 5.295453,243 3.83048}
+{0 notjazzy,361 4.789735,522 7.862207}
+{0 notjazzy,8 1.512838,13 1.429348,14 2.483279,35 0.641145,42 1.016563,74 1.611586,92 2.483279,127 1.611586,143 2.107861,162 1.732443,168 0.948773,194 0.917815,200 0.589524,212 0.589524,223 1.611586,292 1.429348,317 1.293233,327 0.785054,328 1.888256,342 0.785054,347 2.483279,348 1.429348,362 1.611586,373 1.888256,404 0.888532,418 1.512838,433 2.483279,434 2.483279,439 1.429348,471 1.429348,490 1.512838,494 1.429348,498 1.137421,512 0.981608}
+{0 notjazzy,13 1.903955,33 2.307691,110 1.807618,125 2.307691,127 2.146703,316 2.307691,333 2.51524,336 2.146703,361 2.015167,364 2.51524,365 2.51524,366 2.51524,405 2.307691,406 2.307691,407 2.51524,408 2.51524}
+{0 notjazzy,13 1.903955,33 2.307691,110 1.807618,125 2.307691,127 2.146703,316 2.307691,333 2.51524,336 2.146703,361 2.015167,364 2.51524,365 2.51524,366 2.51524,405 2.307691,406 2.307691,407 2.51524,408 2.51524}
+{0 notjazzy,13 1.903955,33 2.307691,110 1.807618,125 2.307691,127 2.146703,316 2.307691,333 2.51524,336 2.146703,361 2.015167,364 2.51524,365 2.51524,366 2.51524,405 2.307691,406 2.307691,407 2.51524,408 2.51524}
+{0 notjazzy,8 1.526342,21 1.747908,22 1.905111,23 1.905111,37 1.747908,38 1.905111,68 1.625972,117 0.517694,118 0.517694,121 1.442107,168 0.957242,179 1.304777,196 0.816352,199 1.625972,241 1.247203,243 0.99037,244 1.063338,248 0.562633,253 1.625972,255 0.957242,283 1.747908,284 1.747908,306 1.905111,307 1.905111,312 1.905111,313 1.905111,329 1.304777,334 1.369139,335 1.369139,375 1.369139,388 1.905111,389 1.905111,390 1.905111,410 1.369139,439 1.442107,483 0.792062,484 0.792062,510 1.625972}
+{0 notjazzy,8 1.526342,21 1.747908,22 1.905111,23 1.905111,37 1.747908,38 1.905111,68 1.625972,117 0.517694,118 0.517694,121 1.442107,168 0.957242,179 1.304777,196 0.816352,199 1.625972,241 1.247203,243 0.99037,244 1.063338,248 0.562633,253 1.625972,255 0.957242,283 1.747908,284 1.747908,306 1.905111,307 1.905111,312 1.905111,313 1.905111,329 1.304777,334 1.369139,335 1.369139,375 1.369139,388 1.905111,389 1.905111,390 1.905111,410 1.369139,439 1.442107,483 0.792062,484 0.792062,510 1.625972}
+{0 notjazzy,8 1.526342,21 1.747908,22 1.905111,23 1.905111,37 1.747908,38 1.905111,68 1.625972,117 0.517694,118 0.517694,121 1.442107,168 0.957242,179 1.304777,196 0.816352,199 1.625972,241 1.247203,243 0.99037,244 1.063338,248 0.562633,253 1.625972,255 0.957242,283 1.747908,284 1.747908,306 1.905111,307 1.905111,312 1.905111,313 1.905111,329 1.304777,334 1.369139,335 1.369139,375 1.369139,388 1.905111,389 1.905111,390 1.905111,410 1.369139,439 1.442107,483 0.792062,484 0.792062,510 1.625972}
+{0 notjazzy,28 1.629194,40 1.289722,46 2.097727,50 1.571431,97 2.209525,212 0.911302,317 1.999114,329 1.999114,342 1.213557,350 2.338586,378 1.999114,392 3.838719,428 3.838719,435 1.571431,448 1.910902,453 1.571431,455 2.338586,480 1.758255,512 1.517396}
+{0 notjazzy,35 0.823652,36 1.588052,47 2.425761,48 2.425761,49 2.070335,73 1.836222,76 2.070335,106 1.179078,109 1.461195,134 1.661361,135 2.425761,136 2.425761,137 2.425761,179 1.661361,185 1.836222,194 1.179078,200 0.757336,207 1.105769,244 1.353939,273 1.743313,327 1.008525,348 1.836222,360 1.836222,375 1.743313,376 1.461195,453 1.305935,483 1.008525,484 1.008525,492 1.743313}
+{0 notjazzy,35 0.823652,36 1.588052,47 2.425761,48 2.425761,49 2.070335,73 1.836222,76 2.070335,106 1.179078,109 1.461195,134 1.661361,135 2.425761,136 2.425761,137 2.425761,179 1.661361,185 1.836222,194 1.179078,200 0.757336,207 1.105769,244 1.353939,273 1.743313,327 1.008525,348 1.836222,360 1.836222,375 1.743313,376 1.461195,453 1.305935,483 1.008525,484 1.008525,492 1.743313}
+{0 notjazzy,35 0.823652,36 1.588052,47 2.425761,48 2.425761,49 2.070335,73 1.836222,76 2.070335,106 1.179078,109 1.461195,134 1.661361,135 2.425761,136 2.425761,137 2.425761,179 1.661361,185 1.836222,194 1.179078,200 0.757336,207 1.105769,244 1.353939,273 1.743313,327 1.008525,348 1.836222,360 1.836222,375 1.743313,376 1.461195,453 1.305935,483 1.008525,484 1.008525,492 1.743313}
+{0 notjazzy,13 1.309141,28 0.965295,35 0.587225,36 1.132207,40 0.764159,59 1.385609,69 1.084927,77 1.084927,96 1.309141,117 0.469962,118 0.469962,121 1.309141,134 1.184473,142 1.729454,145 1.385609,165 1.385609,168 0.868982,177 1.184473,178 1.476052,181 0.764159,182 1.385609,192 1.242901,193 1.242901,194 0.840627,205 0.840627,212 0.539945,220 1.184473,221 1.930591,234 1.309141,244 0.965295,275 1.586746,279 1.184473,288 1.041764,292 1.309141,315 1.385609,321 0.719031,322 1.132207,329 1.184473,339 1.476052,342 0.719031,359 1.385609,362 1.476052,386 1.930591,404 0.813807,414 1.930591,422 1.729454,435 0.931071,446 0.764159,448 1.132207,453 0.931071,464 1.385609,467 0.658213,473 1.184473,474 1.242901,480 1.041764,498 1.041764,502 1.184473,506 1.041764,512 0.899055}
+{0 notjazzy,16 1.831567,17 1.831567,18 1.831567,28 1.02229,29 1.386437,40 0.809277,58 1.680433,85 0.952139,138 1.316286,144 1.386437,146 1.831567,154 1.386437,155 1.46742,159 1.680433,166 1.199056,167 1.02229,169 1.831567,170 1.831567,171 1.831567,210 1.254408,212 0.571826,225 0.571826,278 1.254408,285 1.831567,286 1.831567,287 1.831567,321 0.761485,322 1.199056,344 1.563203,401 1.061223,404 0.861857,416 1.46742,431 1.199056,446 0.809277,461 1.680433,462 1.831567,463 1.831567,468 1.316286,483 0.761485,484 0.761485,500 1.254408,501 1.563203}
+{0 notjazzy,16 1.831567,17 1.831567,18 1.831567,28 1.02229,29 1.386437,40 0.809277,58 1.680433,85 0.952139,138 1.316286,144 1.386437,146 1.831567,154 1.386437,155 1.46742,159 1.680433,166 1.199056,167 1.02229,169 1.831567,170 1.831567,171 1.831567,210 1.254408,212 0.571826,225 0.571826,278 1.254408,285 1.831567,286 1.831567,287 1.831567,321 0.761485,322 1.199056,344 1.563203,401 1.061223,404 0.861857,416 1.46742,431 1.199056,446 0.809277,461 1.680433,462 1.831567,463 1.831567,468 1.316286,483 0.761485,484 0.761485,500 1.254408,501 1.563203}
+{0 notjazzy,12 1.328169,28 0.741318,29 1.005381,35 0.450972,36 0.869501,42 0.715034,50 0.715034,51 1.218573,52 1.328169,53 1.328169,69 0.833192,70 1.005381,71 1.064106,72 1.328169,109 0.800044,117 0.360916,118 0.360916,122 0.95451,123 1.218573,124 1.064106,145 1.064106,167 0.741318,172 1.328169,173 1.328169,177 0.909639,181 0.586851,186 0.833192,187 0.833192,193 0.95451,194 0.645577,200 0.414662,202 1.328169,203 1.005381,204 1.218573,205 0.645577,211 0.800044,225 0.414662,227 0.95451,228 1.218573,243 0.690448,254 0.95451,255 0.667352,265 0.535981,267 1.005381,271 1.328169,272 1.328169,273 0.95451,280 0.800044,281 1.218573,288 0.800044,289 1.218573,301 1.218573,302 1.218573,319 0.909639,321 0.552194,322 0.869501,323 1.133564,326 1.005381,335 0.95451,342 0.552194,343 1.218573,353 0.909639,359 1.064106,409 0.800044,423 0.869501,431 0.869501,438 1.133564,446 0.586851,447 1.133564,452 0.869501,454 1.133564,467 0.505488,474 0.95451,479 1.064106,481 1.328169,482 1.328169,483 0.552194,484 0.552194,487 0.645577,491 1.218573,492 0.95451,493 1.218573,495 1.133564,496 1.328169,497 1.328169,512 0.690448,513 1.218573}
+{0 notjazzy,12 1.328169,28 0.741318,29 1.005381,35 0.450972,36 0.869501,42 0.715034,50 0.715034,51 1.218573,52 1.328169,53 1.328169,69 0.833192,70 1.005381,71 1.064106,72 1.328169,109 0.800044,117 0.360916,118 0.360916,122 0.95451,123 1.218573,124 1.064106,145 1.064106,167 0.741318,172 1.328169,173 1.328169,177 0.909639,181 0.586851,186 0.833192,187 0.833192,193 0.95451,194 0.645577,200 0.414662,202 1.328169,203 1.005381,204 1.218573,205 0.645577,211 0.800044,225 0.414662,227 0.95451,228 1.218573,243 0.690448,254 0.95451,255 0.667352,265 0.535981,267 1.005381,271 1.328169,272 1.328169,273 0.95451,280 0.800044,281 1.218573,288 0.800044,289 1.218573,301 1.218573,302 1.218573,319 0.909639,321 0.552194,322 0.869501,323 1.133564,326 1.005381,335 0.95451,342 0.552194,343 1.218573,353 0.909639,359 1.064106,409 0.800044,423 0.869501,431 0.869501,438 1.133564,446 0.586851,447 1.133564,452 0.869501,454 1.133564,467 0.505488,474 0.95451,479 1.064106,481 1.328169,482 1.328169,483 0.552194,484 0.552194,487 0.645577,491 1.218573,492 0.95451,493 1.218573,495 1.133564,496 1.328169,497 1.328169,512 0.690448,513 1.218573}
+{0 notjazzy,12 1.328169,28 0.741318,29 1.005381,35 0.450972,36 0.869501,42 0.715034,50 0.715034,51 1.218573,52 1.328169,53 1.328169,69 0.833192,70 1.005381,71 1.064106,72 1.328169,109 0.800044,117 0.360916,118 0.360916,122 0.95451,123 1.218573,124 1.064106,145 1.064106,167 0.741318,172 1.328169,173 1.328169,177 0.909639,181 0.586851,186 0.833192,187 0.833192,193 0.95451,194 0.645577,200 0.414662,202 1.328169,203 1.005381,204 1.218573,205 0.645577,211 0.800044,225 0.414662,227 0.95451,228 1.218573,243 0.690448,254 0.95451,255 0.667352,265 0.535981,267 1.005381,271 1.328169,272 1.328169,273 0.95451,280 0.800044,281 1.218573,288 0.800044,289 1.218573,301 1.218573,302 1.218573,319 0.909639,321 0.552194,322 0.869501,323 1.133564,326 1.005381,335 0.95451,342 0.552194,343 1.218573,353 0.909639,359 1.064106,409 0.800044,423 0.869501,431 0.869501,438 1.133564,446 0.586851,447 1.133564,452 0.869501,454 1.133564,467 0.505488,474 0.95451,479 1.064106,481 1.328169,482 1.328169,483 0.552194,484 0.552194,487 0.645577,491 1.218573,492 0.95451,493 1.218573,495 1.133564,496 1.328169,497 1.328169,512 0.690448,513 1.218573}
+{0 notjazzy,13 1.83551,35 0.823333,42 1.305429,50 1.305429,117 0.65892,118 0.65892,121 1.83551,124 1.942725,134 1.660717,149 1.460629,155 1.942725,179 1.660717,186 1.521147,187 1.521147,200 0.757043,234 1.83551,317 1.660717,329 1.660717,330 2.069533,342 1.008134,386 2.706829,410 1.742637,445 2.224733,446 1.071406,448 1.587437,469 1.460629,471 1.83551,473 1.660717,487 1.178621,494 1.83551,502 1.660717,506 1.460629,512 1.260541}
+{0 notjazzy,19 2.448543,20 2.448543,113 2.591565,131 2.215371,149 1.948457,211 1.948457,280 1.948457,281 2.96776,321 1.344835,323 2.760725,334 2.324651,401 1.874192,451 2.448543,483 1.344835,484 1.344835,487 1.572262,488 2.591565,506 1.948457}
+{0 notjazzy,19 1.690463,20 1.690463,26 1.905993,32 1.690463,59 1.789205,63 1.604929,117 0.606851,118 0.606851,140 1.293934,148 2.048928,180 1.789205,196 0.956942,197 1.400942,222 2.233205,225 0.697219,227 1.604929,248 0.659529,249 1.16093,353 1.529482,376 1.345206,379 1.529482,387 1.529482,404 1.05085,423 1.461993,429 2.233205,430 2.233205,431 1.461993,442 2.048928,443 2.233205,444 2.233205,446 0.986741,483 0.928468,484 0.928468,486 1.789205}
+{0 notjazzy,19 1.690463,20 1.690463,26 1.905993,32 1.690463,59 1.789205,63 1.604929,117 0.606851,118 0.606851,140 1.293934,148 2.048928,180 1.789205,196 0.956942,197 1.400942,222 2.233205,225 0.697219,227 1.604929,248 0.659529,249 1.16093,353 1.529482,376 1.345206,379 1.529482,387 1.529482,404 1.05085,423 1.461993,429 2.233205,430 2.233205,431 1.461993,442 2.048928,443 2.233205,444 2.233205,446 0.986741,483 0.928468,484 0.928468,486 1.789205}
+{0 notjazzy,9 2.043352,28 1.336293,40 1.057852,42 1.288914,63 1.720591,67 1.720591,85 1.244594,117 0.650584,118 0.650584,121 1.81229,165 1.918148,168 1.202962,200 0.747466,207 1.091357,217 2.043352,225 0.747466,231 2.043352,247 1.639708,265 0.966154,305 1.387184,321 0.99538,322 1.567355,327 0.99538,330 2.043352,342 0.99538,343 2.196588,351 2.043352,385 1.81229,423 1.567355,435 1.288914,455 1.918148,468 1.720591,483 0.99538,484 0.99538,506 1.442151,512 1.244594,513 2.196588}
+{0 notjazzy,9 2.030201,10 2.182451,73 1.800626,74 2.030201,95 3.128319,132 1.378256,133 2.655385,139 2.182451,176 1.629155,247 1.629155,255 1.19522,278 1.629155,304 3.128319,332 1.800626,350 1.905803,378 1.629155,391 1.629155,404 1.119331,417 2.378737,435 1.280619,446 1.051044,485 1.629155,487 1.156221}
+{0 notjazzy,8 1.603485,35 0.679562,50 1.077474,59 1.603485,85 1.040424,97 1.514992,103 1.603485,106 0.972809,113 1.603485,117 0.543859,118 0.543859,120 1.514992,122 1.438336,124 1.603485,126 1.708149,134 1.370721,140 1.159623,168 1.005622,192 1.438336,200 0.624847,208 1.603485,211 1.205573,220 1.370721,221 2.23416,225 0.624847,241 1.310237,242 1.708149,279 1.370721,301 1.836248,305 1.159623,321 0.832093,325 2.001397,339 1.708149,377 1.255523,401 1.159623,422 2.001397,448 1.310237,467 0.761711,478 1.438336,480 1.205573,487 0.972809,488 1.603485,489 2.23416}

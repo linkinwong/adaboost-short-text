@@ -1,0 +1,167 @@
+Zero Weights processed. Default weights will be used
+..*
+optimization finished, #iter = 1772
+nu = 0.11394234081528956
+obj = -88.03430952524741, rho = -0.211338973210538
+nSV = 682, nBSV = 70
+Total nSV = 682
+.*
+optimization finished, #iter = 1633
+nu = 0.11297342540630947
+obj = -88.0241247795416, rho = -0.15132532467905568
+nSV = 651, nBSV = 65
+Total nSV = 651
+.*
+optimization finished, #iter = 1737
+nu = 0.11255106340507112
+obj = -86.22438087432904, rho = -0.2965550474571288
+nSV = 657, nBSV = 66
+Total nSV = 657
+..*
+optimization finished, #iter = 1771
+nu = 0.09881699791055637
+obj = -73.64528213555475, rho = 0.26040927686380955
+nSV = 656, nBSV = 56
+Total nSV = 656
+.*
+optimization finished, #iter = 1672
+nu = 0.10106642277880118
+obj = -76.5604898085689, rho = -0.24488665255608283
+nSV = 649, nBSV = 56
+Total nSV = 649
+..*
+optimization finished, #iter = 2136
+nu = 0.12056344396581603
+obj = -117.6472993517757, rho = -0.12639026895480757
+nSV = 781, nBSV = 91
+Total nSV = 781
+
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error distribution ()
+     1      1:sad      1:sad       *0.591,0.409 
+     2      1:sad   2:notsad   +   0.45,*0.55 
+     3      1:sad      1:sad       *0.585,0.415 
+     4      1:sad      1:sad       *0.811,0.189 
+     5      1:sad      1:sad       *0.857,0.143 
+     6      1:sad      1:sad       *0.823,0.177 
+     7      1:sad   2:notsad   +   0.234,*0.766 
+     8      1:sad      1:sad       *0.562,0.438 
+     9      1:sad   2:notsad   +   0.131,*0.869 
+    10      1:sad      1:sad       *0.527,0.473 
+    11      1:sad      1:sad       *0.836,0.164 
+    12      1:sad   2:notsad   +   0.215,*0.785 
+    13      1:sad      1:sad       *0.869,0.131 
+    14      1:sad   2:notsad   +   0.233,*0.767 
+    15      1:sad      1:sad       *0.694,0.306 
+    16      1:sad      1:sad       *0.936,0.064 
+    17      1:sad      1:sad       *0.813,0.187 
+    18      1:sad      1:sad       *0.727,0.273 
+    19      1:sad   2:notsad   +   0.136,*0.864 
+    20      1:sad      1:sad       *0.847,0.153 
+    21      1:sad   2:notsad   +   0.178,*0.822 
+    22      1:sad   2:notsad   +   0.466,*0.534 
+    23      1:sad   2:notsad   +   0.489,*0.511 
+    24      1:sad      1:sad       *0.591,0.409 
+    25      1:sad      1:sad       *0.576,0.424 
+    26      1:sad      1:sad       *0.63,0.37 
+    27      1:sad      1:sad       *0.775,0.225 
+    28      1:sad      1:sad       *0.887,0.113 
+    29      1:sad      1:sad       *0.598,0.402 
+    30      1:sad      1:sad       *0.796,0.204 
+    31      1:sad   2:notsad   +   0.233,*0.767 
+    32      1:sad      1:sad       *0.723,0.277 
+    33      1:sad   2:notsad   +   0.283,*0.717 
+    34      1:sad   2:notsad   +   0.233,*0.767 
+    35      1:sad      1:sad       *0.631,0.369 
+    36      1:sad      1:sad       *0.68,0.32 
+    37      1:sad      1:sad       *0.74,0.26 
+    38      1:sad   2:notsad   +   0.233,*0.767 
+    39      1:sad      1:sad       *0.857,0.143 
+    40      1:sad      1:sad       *0.663,0.337 
+    41      1:sad      1:sad       *0.768,0.232 
+    42      1:sad      1:sad       *0.691,0.309 
+    43      1:sad      1:sad       *0.878,0.122 
+    44      1:sad      1:sad       *0.766,0.234 
+    45      1:sad      1:sad       *0.555,0.445 
+    46      1:sad      1:sad       *0.81,0.19 
+    47      1:sad      1:sad       *0.788,0.212 
+    48      1:sad      1:sad       *0.899,0.101 
+    49      1:sad      1:sad       *0.816,0.184 
+    50      1:sad      1:sad       *0.557,0.443 
+    51      1:sad      1:sad       *0.593,0.407 
+    52      1:sad      1:sad       *0.729,0.271 
+    53      1:sad   2:notsad   +   0.436,*0.564 
+    54      1:sad   2:notsad   +   0.233,*0.767 
+    55      1:sad      1:sad       *0.835,0.165 
+    56      1:sad      1:sad       *0.827,0.173 
+    57      1:sad      1:sad       *0.586,0.414 
+    58      1:sad      1:sad       *0.909,0.091 
+    59      1:sad      1:sad       *0.889,0.111 
+    60      1:sad      1:sad       *0.878,0.122 
+    61      1:sad   2:notsad   +   0.233,*0.767 
+    62      1:sad      1:sad       *0.766,0.234 
+    63   2:notsad   2:notsad       0.12,*0.88 
+    64   2:notsad      1:sad   +   *0.799,0.201 
+    65   2:notsad   2:notsad       0.337,*0.663 
+    66   2:notsad   2:notsad       0.233,*0.767 
+    67   2:notsad   2:notsad       0.233,*0.767 
+    68   2:notsad   2:notsad       0.233,*0.767 
+    69   2:notsad   2:notsad       0.233,*0.767 
+    70   2:notsad   2:notsad       0.34,*0.66 
+    71   2:notsad   2:notsad       0.143,*0.857 
+    72   2:notsad   2:notsad       0.233,*0.767 
+    73   2:notsad   2:notsad       0.233,*0.767 
+    74   2:notsad   2:notsad       0.233,*0.767 
+    75   2:notsad      1:sad   +   *0.557,0.443 
+    76   2:notsad   2:notsad       0.159,*0.841 
+    77   2:notsad   2:notsad       0.233,*0.767 
+    78   2:notsad   2:notsad       0.46,*0.54 
+    79   2:notsad   2:notsad       0.233,*0.767 
+    80   2:notsad   2:notsad       0.233,*0.767 
+    81   2:notsad      1:sad   +   *0.614,0.386 
+    82   2:notsad      1:sad   +   *0.799,0.201 
+    83   2:notsad   2:notsad       0.32,*0.68 
+    84   2:notsad      1:sad   +   *0.67,0.33 
+    85   2:notsad   2:notsad       0.233,*0.767 
+    86   2:notsad   2:notsad       0.361,*0.639 
+    87   2:notsad   2:notsad       0.233,*0.767 
+    88   2:notsad   2:notsad       0.191,*0.809 
+    89   2:notsad   2:notsad       0.233,*0.767 
+    90   2:notsad   2:notsad       0.249,*0.751 
+    91   2:notsad      1:sad   +   *0.799,0.201 
+    92   2:notsad      1:sad   +   *0.631,0.369 
+    93   2:notsad   2:notsad       0.186,*0.814 
+    94   2:notsad   2:notsad       0.089,*0.911 
+    95   2:notsad   2:notsad       0.313,*0.687 
+    96   2:notsad      1:sad   +   *0.83,0.17 
+    97   2:notsad   2:notsad       0.039,*0.961 
+    98   2:notsad   2:notsad       0.233,*0.767 
+    99   2:notsad   2:notsad       0.233,*0.767 
+   100   2:notsad   2:notsad       0.233,*0.767 
+   101   2:notsad      1:sad   +   *0.571,0.429 
+   102   2:notsad      1:sad   +   *0.5,0.5 
+   103   2:notsad      1:sad   +   *0.681,0.319 
+   104   2:notsad   2:notsad       0.233,*0.767 
+   105   2:notsad   2:notsad       0.463,*0.537 
+   106   2:notsad   2:notsad       0.233,*0.767 
+   107   2:notsad   2:notsad       0.233,*0.767 
+   108   2:notsad   2:notsad       0.233,*0.767 
+   109   2:notsad   2:notsad       0.179,*0.821 
+   110   2:notsad   2:notsad       0.179,*0.821 
+   111   2:notsad      1:sad   +   *0.542,0.458 
+   112   2:notsad   2:notsad       0.233,*0.767 
+   113   2:notsad      1:sad   +   *0.548,0.452 
+   114   2:notsad      1:sad   +   *0.548,0.452 
+   115   2:notsad      1:sad   +   *0.548,0.452 
+   116   2:notsad      1:sad   +   *0.548,0.452 
+   117   2:notsad      1:sad   +   *0.548,0.452 
+   118   2:notsad      1:sad   +   *0.548,0.452 
+   119   2:notsad      1:sad   +   *0.548,0.452 
+   120   2:notsad      1:sad   +   *0.652,0.348 
+   121   2:notsad   2:notsad       0.233,*0.767 
+   122   2:notsad   2:notsad       0.233,*0.767 
+   123   2:notsad   2:notsad       0.369,*0.631 
+   124   2:notsad   2:notsad       0.233,*0.767 
+
