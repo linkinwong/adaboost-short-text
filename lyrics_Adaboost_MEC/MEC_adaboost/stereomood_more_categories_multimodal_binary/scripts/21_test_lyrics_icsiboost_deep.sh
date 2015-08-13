@@ -45,7 +45,7 @@ icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_curren
 # do the prediction
 
 
-icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} --model model/default_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k -C -o < stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}.test > predictions/default_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
+icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} --model model/default_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k -C -o < stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}.test.nolabel > predictions/default_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
 i=`expr $i + 1`
 done
 
@@ -56,7 +56,7 @@ emotion_current=${emotion[$i]}
 cd $WORKDIR/10folds_${j}/${emotion_current}/lyrics/
 icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} -n $k -N ngram -W 2 --model model/ngram_2_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k > result/ngram_2_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
 
-icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} -N ngram -W 2 --model model/ngram_2_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k -C --posteriors < stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}.test > predictions/ngram_2_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
+icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} -N ngram -W 2 --model model/ngram_2_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k -C --posteriors < stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}.test.nolabel > predictions/ngram_2_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
 
 i=`expr $i + 1`
 done
@@ -68,7 +68,7 @@ emotion_current=${emotion[$i]}
 cd $WORKDIR/10folds_${j}/${emotion_current}/lyrics/
 icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} -n $k -N ngram -W 3 --model model/ngram_3_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k > result/ngram_3_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
 
-icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} --model model/ngram_3_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k -N ngram -W 3 -C --max-fmeasure ${emotion_current} < stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}.test > predictions/ngram_3_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
+icsiboost -S stereomood_more_categories_multimodal_10folds_${j}_${emotion_current} --model model/ngram_3_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k -N ngram -W 3 -C --max-fmeasure ${emotion_current} < stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}.test.nolabel > predictions/ngram_3_stereomood_more_categories_multimodal_10folds_${j}_${emotion_current}_$k
 
 i=`expr $i + 1`
 
