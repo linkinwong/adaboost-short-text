@@ -1,0 +1,8 @@
+ -angry/ contains all the angry lyrics, names of which are random generated.
+-angry.list contains all the file names of angry lyrics
+-angry_wordcount contains 1st col:  number of words (non unique)  2nd col: filenames.
+-angry_wordcont.arff contains labels.
+-angry_wordcount_uniq_num contains unique num of words.
+-angry_wordcount.sh is created by - wordcount_scripts.sh
+-wordcount_step2.sh just cuts the first col of -angry_wordcount, i.e. number of words into -angry_wordcount_num 
+-wordcount_uniq_num.sh use the sort -u command to calculate the number of unique words.
