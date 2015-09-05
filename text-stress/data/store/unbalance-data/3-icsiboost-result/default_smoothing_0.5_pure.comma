@@ -1,0 +1,5002 @@
+CLASSES: stress nostress
+TEMPLATE: 0 feature 2
+
+feature:movie 
+C0:  -0.627   0.627 
+C1:  -1.717   1.717 
+rnd 1: wh-err= 0.816648 th-err= 0.816648 dev= nan test= 0.220000 train= 0.217934
+
+feature:place 
+C0:   0.006  -0.006 
+C1:  -1.479   1.479 
+rnd 2: wh-err= 0.989627 th-err= 0.808176 dev= nan test= 0.220000 train= 0.217934
+
+feature:maybe 
+C0:   0.007  -0.007 
+C1:  -1.450   1.450 
+rnd 3: wh-err= 0.990222 th-err= 0.800274 dev= nan test= 0.220000 train= 0.217934
+
+feature:make 
+C0:   0.007  -0.007 
+C1:  -1.419   1.419 
+rnd 4: wh-err= 0.990840 th-err= 0.792944 dev= nan test= 0.220000 train= 0.217934
+
+feature:hometown 
+C0:   0.007  -0.007 
+C1:  -1.426   1.426 
+rnd 5: wh-err= 0.990711 th-err= 0.785578 dev= nan test= 0.220000 train= 0.217934
+
+feature:go 
+C0:   0.016  -0.016 
+C1:  -0.949   0.949 
+rnd 6: wh-err= 0.991343 th-err= 0.778778 dev= nan test= 0.220000 train= 0.217934
+
+feature:major 
+C0:   0.008  -0.008 
+C1:  -1.403   1.403 
+rnd 7: wh-err= 0.991142 th-err= 0.771879 dev= nan test= 0.220000 train= 0.217934
+
+feature:four 
+C0:  -0.010   0.010 
+C1:   1.341  -1.341 
+rnd 8: wh-err= 0.992220 th-err= 0.765875 dev= nan test= 0.225000 train= 0.214529
+
+feature:~FYP 
+C0:  -0.006   0.006 
+C1:   1.349  -1.349 
+rnd 9: wh-err= 0.992130 th-err= 0.759847 dev= nan test= 0.225000 train= 0.211124
+
+feature:didn't 
+C0:  -0.014   0.014 
+C1:   0.991  -0.991 
+rnd 10: wh-err= 0.992071 th-err= 0.753822 dev= nan test= 0.225000 train= 0.208854
+
+feature:it's 
+C0:   0.030  -0.030 
+C1:  -0.514   0.514 
+rnd 11: wh-err= 0.992585 th-err= 0.748233 dev= nan test= 0.225000 train= 0.209989
+
+feature:leisure 
+C0:   0.007  -0.007 
+C1:  -1.307   1.307 
+rnd 12: wh-err= 0.992798 th-err= 0.742844 dev= nan test= 0.225000 train= 0.209989
+
+feature:Korean 
+C0:   0.005  -0.005 
+C1:  -1.258   1.258 
+rnd 13: wh-err= 0.993536 th-err= 0.738042 dev= nan test= 0.225000 train= 0.209989
+
+feature:mostly 
+C0:   0.005  -0.005 
+C1:  -1.259   1.259 
+rnd 14: wh-err= 0.993511 th-err= 0.733253 dev= nan test= 0.225000 train= 0.209989
+
+feature:had 
+C0:   0.005  -0.005 
+C1:  -1.264   1.264 
+rnd 15: wh-err= 0.993450 th-err= 0.728450 dev= nan test= 0.225000 train= 0.209989
+
+feature:going 
+C0:  -0.025   0.025 
+C1:   0.559  -0.559 
+rnd 16: wh-err= 0.993559 th-err= 0.723758 dev= nan test= 0.235000 train= 0.208854
+
+feature:yeah 
+C0:  -0.017   0.017 
+C1:   0.717  -0.717 
+rnd 17: wh-err= 0.993683 th-err= 0.719185 dev= nan test= 0.230000 train= 0.206583
+
+feature:still 
+C0:   0.007  -0.007 
+C1:  -1.240   1.240 
+rnd 18: wh-err= 0.993772 th-err= 0.714706 dev= nan test= 0.230000 train= 0.206583
+
+feature:holiday 
+C0:   0.004  -0.004 
+C1:  -1.232   1.232 
+rnd 19: wh-err= 0.993887 th-err= 0.710337 dev= nan test= 0.230000 train= 0.206583
+
+feature:close 
+C0:   0.004  -0.004 
+C1:  -1.233   1.233 
+rnd 20: wh-err= 0.993876 th-err= 0.705987 dev= nan test= 0.240000 train= 0.204313
+
+feature:having 
+C0:  -0.010   0.010 
+C1:   1.224  -1.224 
+rnd 21: wh-err= 0.994001 th-err= 0.701752 dev= nan test= 0.235000 train= 0.202043
+
+feature:look 
+C0:  -0.009   0.009 
+C1:   1.057  -1.057 
+rnd 22: wh-err= 0.994052 th-err= 0.697578 dev= nan test= 0.230000 train= 0.198638
+
+feature:~US 
+C0:   0.008  -0.008 
+C1:  -1.276   1.276 
+rnd 23: wh-err= 0.993250 th-err= 0.692869 dev= nan test= 0.230000 train= 0.197503
+
+feature:ofcourse 
+C0:   0.004  -0.004 
+C1:  -1.222   1.222 
+rnd 24: wh-err= 0.994020 th-err= 0.688725 dev= nan test= 0.230000 train= 0.197503
+
+feature:How 
+C0:   0.004  -0.004 
+C1:  -1.224   1.224 
+rnd 25: wh-err= 0.993992 th-err= 0.684588 dev= nan test= 0.240000 train= 0.195233
+
+feature:i've 
+C0:  -0.008   0.008 
+C1:   1.202  -1.202 
+rnd 26: wh-err= 0.994255 th-err= 0.680655 dev= nan test= 0.230000 train= 0.195233
+
+feature:grade 
+C0:  -0.004   0.004 
+C1:   1.208  -1.208 
+rnd 27: wh-err= 0.994208 th-err= 0.676712 dev= nan test= 0.230000 train= 0.192963
+
+feature:materialistic 
+C0:  -0.004   0.004 
+C1:   1.211  -1.211 
+rnd 28: wh-err= 0.994161 th-err= 0.672761 dev= nan test= 0.230000 train= 0.190692
+
+feature:numbers 
+C0:  -0.004   0.004 
+C1:   1.215  -1.215 
+rnd 29: wh-err= 0.994112 th-err= 0.668800 dev= nan test= 0.225000 train= 0.188422
+
+feature:weaknesses 
+C0:  -0.004   0.004 
+C1:   1.219  -1.219 
+rnd 30: wh-err= 0.994063 th-err= 0.664830 dev= nan test= 0.225000 train= 0.186152
+
+feature:finding 
+C0:  -0.004   0.004 
+C1:   1.223  -1.223 
+rnd 31: wh-err= 0.994013 th-err= 0.660849 dev= nan test= 0.225000 train= 0.183882
+
+feature:wants 
+C0:  -0.004   0.004 
+C1:   1.226  -1.226 
+rnd 32: wh-err= 0.993962 th-err= 0.656859 dev= nan test= 0.220000 train= 0.181612
+
+feature:submissions 
+C0:  -0.004   0.004 
+C1:   1.230  -1.230 
+rnd 33: wh-err= 0.993910 th-err= 0.652859 dev= nan test= 0.220000 train= 0.179342
+
+feature:im 
+C0:  -0.010   0.010 
+C1:   1.022  -1.022 
+rnd 34: wh-err= 0.993921 th-err= 0.648890 dev= nan test= 0.220000 train= 0.175936
+
+feature:am 
+C0:  -0.009   0.009 
+C1:   1.002  -1.002 
+rnd 35: wh-err= 0.994547 th-err= 0.645352 dev= nan test= 0.220000 train= 0.172531
+
+feature:cooperate 
+C0:  -0.004   0.004 
+C1:   1.180  -1.180 
+rnd 36: wh-err= 0.994546 th-err= 0.641832 dev= nan test= 0.220000 train= 0.172531
+
+feature:word 
+C0:  -0.004   0.004 
+C1:   1.184  -1.184 
+rnd 37: wh-err= 0.994504 th-err= 0.638305 dev= nan test= 0.220000 train= 0.172531
+
+feature:specially 
+C0:  -0.004   0.004 
+C1:   1.187  -1.187 
+rnd 38: wh-err= 0.994462 th-err= 0.634769 dev= nan test= 0.220000 train= 0.172531
+
+feature:both 
+C0:   0.007  -0.007 
+C1:  -1.167   1.167 
+rnd 39: wh-err= 0.994689 th-err= 0.631398 dev= nan test= 0.220000 train= 0.171396
+
+feature:movies 
+C0:   0.004  -0.004 
+C1:  -1.165   1.165 
+rnd 40: wh-err= 0.994728 th-err= 0.628070 dev= nan test= 0.220000 train= 0.169126
+
+feature:feel 
+C0:   0.004  -0.004 
+C1:  -1.161   1.161 
+rnd 41: wh-err= 0.994775 th-err= 0.624788 dev= nan test= 0.220000 train= 0.169126
+
+feature:Cantonese 
+C0:   0.004  -0.004 
+C1:  -1.157   1.157 
+rnd 42: wh-err= 0.994817 th-err= 0.621550 dev= nan test= 0.220000 train= 0.167991
+
+feature:definitely 
+C0:  -0.007   0.007 
+C1:   1.144  -1.144 
+rnd 43: wh-err= 0.994957 th-err= 0.618415 dev= nan test= 0.220000 train= 0.165721
+
+feature:come 
+C0:   0.007  -0.007 
+C1:  -1.137   1.137 
+rnd 44: wh-err= 0.995027 th-err= 0.615340 dev= nan test= 0.220000 train= 0.165721
+
+feature:them 
+C0:  -0.017   0.017 
+C1:   0.617  -0.617 
+rnd 45: wh-err= 0.995117 th-err= 0.612335 dev= nan test= 0.220000 train= 0.169126
+
+feature:<comma> 
+C0:   0.027  -0.027 
+C1:  -0.410   0.410 
+rnd 46: wh-err= 0.994558 th-err= 0.609003 dev= nan test= 0.225000 train= 0.164586
+
+feature:few 
+C0:   0.005  -0.005 
+C1:  -1.169   1.169 
+rnd 47: wh-err= 0.994679 th-err= 0.605762 dev= nan test= 0.225000 train= 0.163451
+
+feature:tasks 
+C0:  -0.007   0.007 
+C1:   1.144  -1.144 
+rnd 48: wh-err= 0.994957 th-err= 0.602708 dev= nan test= 0.225000 train= 0.162316
+
+feature:lacking 
+C0:  -0.003   0.003 
+C1:   1.148  -1.148 
+rnd 49: wh-err= 0.994922 th-err= 0.599647 dev= nan test= 0.225000 train= 0.161180
+
+feature:bright 
+C0:  -0.004   0.004 
+C1:   1.151  -1.151 
+rnd 50: wh-err= 0.994887 th-err= 0.596581 dev= nan test= 0.225000 train= 0.161180
+
+feature:definately 
+C0:   0.007  -0.007 
+C1:  -1.139   1.139 
+rnd 51: wh-err= 0.995013 th-err= 0.593606 dev= nan test= 0.225000 train= 0.160045
+
+feature:else 
+C0:   0.003  -0.003 
+C1:  -1.124   1.124 
+rnd 52: wh-err= 0.995185 th-err= 0.590748 dev= nan test= 0.225000 train= 0.158910
+
+feature:China 
+C0:   0.003  -0.003 
+C1:  -1.121   1.121 
+rnd 53: wh-err= 0.995217 th-err= 0.587922 dev= nan test= 0.225000 train= 0.158910
+
+feature:second 
+C0:   0.003  -0.003 
+C1:  -1.124   1.124 
+rnd 54: wh-err= 0.995186 th-err= 0.585092 dev= nan test= 0.225000 train= 0.158910
+
+feature:too 
+C0:   0.003  -0.003 
+C1:  -1.127   1.127 
+rnd 55: wh-err= 0.995155 th-err= 0.582257 dev= nan test= 0.225000 train= 0.158910
+
+feature:i'm 
+C0:  -0.010   0.010 
+C1:   1.052  -1.052 
+rnd 56: wh-err= 0.994934 th-err= 0.579307 dev= nan test= 0.230000 train= 0.155505
+
+feature:wanna 
+C0:  -0.003   0.003 
+C1:   1.097  -1.097 
+rnd 57: wh-err= 0.995476 th-err= 0.576687 dev= nan test= 0.230000 train= 0.154370
+
+feature:especially 
+C0:   0.006  -0.006 
+C1:  -1.095   1.095 
+rnd 58: wh-err= 0.995479 th-err= 0.574080 dev= nan test= 0.230000 train= 0.154370
+
+feature:hopefully 
+C0:   0.003  -0.003 
+C1:  -1.093   1.093 
+rnd 59: wh-err= 0.995508 th-err= 0.571501 dev= nan test= 0.230000 train= 0.154370
+
+feature:that 
+C0:  -0.035   0.035 
+C1:   0.276  -0.276 
+rnd 60: wh-err= 0.995407 th-err= 0.568876 dev= nan test= 0.220000 train= 0.160045
+
+feature:I 
+C0:   0.076  -0.076 
+C1:  -0.120   0.120 
+rnd 61: wh-err= 0.995453 th-err= 0.566289 dev= nan test= 0.235000 train= 0.148695
+
+feature:study 
+C0:  -0.018   0.018 
+C1:   0.611  -0.611 
+rnd 62: wh-err= 0.994375 th-err= 0.563104 dev= nan test= 0.235000 train= 0.155505
+
+feature:many 
+C0:   0.005  -0.005 
+C1:  -1.073   1.073 
+rnd 63: wh-err= 0.995705 th-err= 0.560685 dev= nan test= 0.235000 train= 0.154370
+
+feature:used 
+C0:   0.003  -0.003 
+C1:  -1.076   1.076 
+rnd 64: wh-err= 0.995684 th-err= 0.558266 dev= nan test= 0.230000 train= 0.154370
+
+feature:if 
+C0:  -0.013   0.013 
+C1:   0.855  -0.855 
+rnd 65: wh-err= 0.994997 th-err= 0.555472 dev= nan test= 0.235000 train= 0.153235
+
+feature:then 
+C0:   0.010  -0.010 
+C1:  -1.149   1.149 
+rnd 66: wh-err= 0.994410 th-err= 0.552368 dev= nan test= 0.235000 train= 0.152100
+
+feature:gave 
+C0:  -0.008   0.008 
+C1:   1.052  -1.052 
+rnd 67: wh-err= 0.995853 th-err= 0.550077 dev= nan test= 0.235000 train= 0.150965
+
+feature:military 
+C0:  -0.003   0.003 
+C1:   1.060  -1.060 
+rnd 68: wh-err= 0.995836 th-err= 0.547786 dev= nan test= 0.235000 train= 0.149830
+
+feature:began 
+C0:  -0.003   0.003 
+C1:   1.062  -1.062 
+rnd 69: wh-err= 0.995813 th-err= 0.545493 dev= nan test= 0.235000 train= 0.148695
+
+feature:freak 
+C0:  -0.003   0.003 
+C1:   1.065  -1.065 
+rnd 70: wh-err= 0.995790 th-err= 0.543196 dev= nan test= 0.235000 train= 0.147560
+
+feature:bank 
+C0:  -0.003   0.003 
+C1:   1.067  -1.067 
+rnd 71: wh-err= 0.995767 th-err= 0.540897 dev= nan test= 0.235000 train= 0.146425
+
+feature:haven’t 
+C0:  -0.003   0.003 
+C1:   1.070  -1.070 
+rnd 72: wh-err= 0.995743 th-err= 0.538594 dev= nan test= 0.235000 train= 0.145289
+
+feature:graduate? 
+C0:  -0.003   0.003 
+C1:   1.072  -1.072 
+rnd 73: wh-err= 0.995719 th-err= 0.536288 dev= nan test= 0.235000 train= 0.144154
+
+feature:poorly 
+C0:  -0.003   0.003 
+C1:   1.075  -1.075 
+rnd 74: wh-err= 0.995695 th-err= 0.533980 dev= nan test= 0.235000 train= 0.143019
+
+feature:Ko 
+C0:  -0.003   0.003 
+C1:   1.077  -1.077 
+rnd 75: wh-err= 0.995670 th-err= 0.531667 dev= nan test= 0.235000 train= 0.141884
+
+feature:we're 
+C0:  -0.003   0.003 
+C1:   1.080  -1.080 
+rnd 76: wh-err= 0.995645 th-err= 0.529352 dev= nan test= 0.235000 train= 0.140749
+
+feature:said 
+C0:  -0.003   0.003 
+C1:   1.082  -1.082 
+rnd 77: wh-err= 0.995620 th-err= 0.527034 dev= nan test= 0.235000 train= 0.139614
+
+feature:read 
+C0:  -0.003   0.003 
+C1:   1.085  -1.085 
+rnd 78: wh-err= 0.995594 th-err= 0.524712 dev= nan test= 0.230000 train= 0.138479
+
+feature:those 
+C0:   0.006  -0.006 
+C1:  -1.054   1.054 
+rnd 79: wh-err= 0.995884 th-err= 0.522552 dev= nan test= 0.235000 train= 0.138479
+
+feature:~TV 
+C0:   0.003  -0.003 
+C1:  -1.047   1.047 
+rnd 80: wh-err= 0.995957 th-err= 0.520439 dev= nan test= 0.235000 train= 0.138479
+
+feature:math 
+C0:  -0.009   0.009 
+C1:   0.925  -0.925 
+rnd 81: wh-err= 0.995982 th-err= 0.518348 dev= nan test= 0.220000 train= 0.137344
+
+feature:at 
+C0:   0.010  -0.010 
+C1:  -0.848   0.848 
+rnd 82: wh-err= 0.995966 th-err= 0.516257 dev= nan test= 0.230000 train= 0.138479
+
+feature:new 
+C0:   0.003  -0.003 
+C1:  -1.048   1.048 
+rnd 83: wh-err= 0.995948 th-err= 0.514165 dev= nan test= 0.230000 train= 0.138479
+
+feature:sports 
+C0:   0.003  -0.003 
+C1:  -1.040   1.040 
+rnd 84: wh-err= 0.996021 th-err= 0.512119 dev= nan test= 0.230000 train= 0.138479
+
+feature:Beijing 
+C0:   0.003  -0.003 
+C1:  -1.036   1.036 
+rnd 85: wh-err= 0.996061 th-err= 0.510102 dev= nan test= 0.230000 train= 0.138479
+
+feature:stressed 
+C0:  -0.010   0.010 
+C1:   0.838  -0.838 
+rnd 86: wh-err= 0.996141 th-err= 0.508133 dev= nan test= 0.230000 train= 0.137344
+
+feature:too 
+C0:   0.005  -0.005 
+C1:  -1.056   1.056 
+rnd 87: wh-err= 0.995860 th-err= 0.506030 dev= nan test= 0.230000 train= 0.136209
+
+feature:alot 
+C0:   0.002  -0.002 
+C1:  -1.023   1.023 
+rnd 88: wh-err= 0.996176 th-err= 0.504095 dev= nan test= 0.230000 train= 0.136209
+
+feature:n/a 
+C0:   0.002  -0.002 
+C1:  -1.022   1.022 
+rnd 89: wh-err= 0.996185 th-err= 0.502172 dev= nan test= 0.230000 train= 0.136209
+
+feature:movie 
+C0:   0.002  -0.002 
+C1:  -1.019   1.019 
+rnd 90: wh-err= 0.996205 th-err= 0.500266 dev= nan test= 0.230000 train= 0.136209
+
+feature:Number 
+C0:  -0.005   0.005 
+C1:   1.008  -1.008 
+rnd 91: wh-err= 0.996292 th-err= 0.498411 dev= nan test= 0.230000 train= 0.135074
+
+feature:i 
+C0:  -0.011   0.011 
+C1:   0.586  -0.586 
+rnd 92: wh-err= 0.996254 th-err= 0.496544 dev= nan test= 0.235000 train= 0.133939
+
+feature:finanical 
+C0:  -0.003   0.003 
+C1:   1.018  -1.018 
+rnd 93: wh-err= 0.996217 th-err= 0.494666 dev= nan test= 0.235000 train= 0.132804
+
+feature:team 
+C0:  -0.002   0.002 
+C1:   1.020  -1.020 
+rnd 94: wh-err= 0.996198 th-err= 0.492785 dev= nan test= 0.235000 train= 0.132804
+
+feature:Not 
+C0:  -0.002   0.002 
+C1:   1.022  -1.022 
+rnd 95: wh-err= 0.996179 th-err= 0.490902 dev= nan test= 0.240000 train= 0.130533
+
+feature:Application 
+C0:  -0.002   0.002 
+C1:   1.025  -1.025 
+rnd 96: wh-err= 0.996160 th-err= 0.489017 dev= nan test= 0.240000 train= 0.129398
+
+feature:Further 
+C0:  -0.002   0.002 
+C1:   1.027  -1.027 
+rnd 97: wh-err= 0.996141 th-err= 0.487130 dev= nan test= 0.235000 train= 0.128263
+
+feature:speaking 
+C0:  -0.003   0.003 
+C1:   1.029  -1.029 
+rnd 98: wh-err= 0.996122 th-err= 0.485241 dev= nan test= 0.235000 train= 0.127128
+
+feature:fed 
+C0:  -0.003   0.003 
+C1:   1.031  -1.031 
+rnd 99: wh-err= 0.996103 th-err= 0.483350 dev= nan test= 0.235000 train= 0.127128
+
+feature:oh 
+C0:  -0.003   0.003 
+C1:   1.033  -1.033 
+rnd 100: wh-err= 0.996083 th-err= 0.481456 dev= nan test= 0.235000 train= 0.125993
+
+feature:child 
+C0:  -0.003   0.003 
+C1:   1.035  -1.035 
+rnd 101: wh-err= 0.996063 th-err= 0.479561 dev= nan test= 0.235000 train= 0.124858
+
+feature:3rd 
+C0:  -0.003   0.003 
+C1:   1.038  -1.038 
+rnd 102: wh-err= 0.996043 th-err= 0.477663 dev= nan test= 0.235000 train= 0.124858
+
+feature:everyones 
+C0:  -0.003   0.003 
+C1:   1.040  -1.040 
+rnd 103: wh-err= 0.996022 th-err= 0.475763 dev= nan test= 0.235000 train= 0.123723
+
+feature:textbook 
+C0:  -0.003   0.003 
+C1:   1.042  -1.042 
+rnd 104: wh-err= 0.996002 th-err= 0.473861 dev= nan test= 0.235000 train= 0.123723
+
+feature:once 
+C0:  -0.003   0.003 
+C1:   1.044  -1.044 
+rnd 105: wh-err= 0.995981 th-err= 0.471957 dev= nan test= 0.235000 train= 0.122588
+
+feature:behind 
+C0:  -0.003   0.003 
+C1:   1.047  -1.047 
+rnd 106: wh-err= 0.995960 th-err= 0.470050 dev= nan test= 0.235000 train= 0.121453
+
+feature:afterwards 
+C0:  -0.003   0.003 
+C1:   1.049  -1.049 
+rnd 107: wh-err= 0.995939 th-err= 0.468141 dev= nan test= 0.235000 train= 0.120318
+
+feature:liberating 
+C0:  -0.003   0.003 
+C1:   1.051  -1.051 
+rnd 108: wh-err= 0.995917 th-err= 0.466230 dev= nan test= 0.235000 train= 0.119183
+
+feature:already 
+C0:  -0.003   0.003 
+C1:   1.054  -1.054 
+rnd 109: wh-err= 0.995895 th-err= 0.464316 dev= nan test= 0.235000 train= 0.118048
+
+feature:suprises 
+C0:  -0.003   0.003 
+C1:   1.056  -1.056 
+rnd 110: wh-err= 0.995873 th-err= 0.462400 dev= nan test= 0.235000 train= 0.116913
+
+feature:prospects 
+C0:  -0.003   0.003 
+C1:   1.058  -1.058 
+rnd 111: wh-err= 0.995851 th-err= 0.460481 dev= nan test= 0.230000 train= 0.116913
+
+feature:difference 
+C0:  -0.003   0.003 
+C1:   1.061  -1.061 
+rnd 112: wh-err= 0.995828 th-err= 0.458560 dev= nan test= 0.230000 train= 0.115778
+
+feature:beginning 
+C0:  -0.003   0.003 
+C1:   1.063  -1.063 
+rnd 113: wh-err= 0.995805 th-err= 0.456637 dev= nan test= 0.230000 train= 0.114642
+
+feature:Tension 
+C0:  -0.003   0.003 
+C1:   1.066  -1.066 
+rnd 114: wh-err= 0.995782 th-err= 0.454711 dev= nan test= 0.230000 train= 0.113507
+
+feature:academic 
+C0:  -0.012   0.012 
+C1:   0.633  -0.633 
+rnd 115: wh-err= 0.995756 th-err= 0.452781 dev= nan test= 0.230000 train= 0.113507
+
+feature:extra 
+C0:  -0.004   0.004 
+C1:   1.075  -1.075 
+rnd 116: wh-err= 0.995689 th-err= 0.450829 dev= nan test= 0.230000 train= 0.112372
+
+feature:stuck 
+C0:  -0.003   0.003 
+C1:   1.078  -1.078 
+rnd 117: wh-err= 0.995663 th-err= 0.448873 dev= nan test= 0.235000 train= 0.111237
+
+feature:happens 
+C0:  -0.003   0.003 
+C1:   1.080  -1.080 
+rnd 118: wh-err= 0.995638 th-err= 0.446916 dev= nan test= 0.235000 train= 0.110102
+
+feature:father 
+C0:  -0.003   0.003 
+C1:   1.083  -1.083 
+rnd 119: wh-err= 0.995613 th-err= 0.444955 dev= nan test= 0.235000 train= 0.108967
+
+feature:req-require 
+C0:  -0.003   0.003 
+C1:   1.086  -1.086 
+rnd 120: wh-err= 0.995587 th-err= 0.442991 dev= nan test= 0.235000 train= 0.107832
+
+feature:involve 
+C0:  -0.003   0.003 
+C1:   1.088  -1.088 
+rnd 121: wh-err= 0.995561 th-err= 0.441025 dev= nan test= 0.230000 train= 0.106697
+
+feature:that’s 
+C0:   0.006  -0.006 
+C1:  -1.065   1.065 
+rnd 122: wh-err= 0.995780 th-err= 0.439164 dev= nan test= 0.230000 train= 0.106697
+
+feature:final 
+C0:  -0.006   0.006 
+C1:   1.063  -1.063 
+rnd 123: wh-err= 0.995792 th-err= 0.437316 dev= nan test= 0.230000 train= 0.105562
+
+feature:weaknesses 
+C0:  -0.003   0.003 
+C1:   1.053  -1.053 
+rnd 124: wh-err= 0.995905 th-err= 0.435525 dev= nan test= 0.230000 train= 0.104427
+
+feature:personally 
+C0:  -0.003   0.003 
+C1:   1.045  -1.045 
+rnd 125: wh-err= 0.995975 th-err= 0.433772 dev= nan test= 0.230000 train= 0.104427
+
+feature:terms 
+C0:  -0.003   0.003 
+C1:   1.047  -1.047 
+rnd 126: wh-err= 0.995954 th-err= 0.432017 dev= nan test= 0.230000 train= 0.103292
+
+feature:look 
+C0:  -0.005   0.005 
+C1:   1.065  -1.065 
+rnd 127: wh-err= 0.995976 th-err= 0.430278 dev= nan test= 0.230000 train= 0.102157
+
+feature:quite 
+C0:   0.009  -0.009 
+C1:  -0.923   0.923 
+rnd 128: wh-err= 0.996026 th-err= 0.428568 dev= nan test= 0.230000 train= 0.101022
+
+feature:~FYP 
+C0:  -0.005   0.005 
+C1:   1.034  -1.034 
+rnd 129: wh-err= 0.996066 th-err= 0.426882 dev= nan test= 0.230000 train= 0.102157
+
+feature:workload 
+C0:  -0.002   0.002 
+C1:   1.018  -1.018 
+rnd 130: wh-err= 0.996216 th-err= 0.425267 dev= nan test= 0.230000 train= 0.101022
+
+feature:happen 
+C0:  -0.002   0.002 
+C1:   1.005  -1.005 
+rnd 131: wh-err= 0.996332 th-err= 0.423707 dev= nan test= 0.230000 train= 0.099886
+
+feature:lived 
+C0:   0.005  -0.005 
+C1:  -0.990   0.990 
+rnd 132: wh-err= 0.996444 th-err= 0.422200 dev= nan test= 0.230000 train= 0.099886
+
+feature:~UST 
+C0:   0.002  -0.002 
+C1:  -0.993   0.993 
+rnd 133: wh-err= 0.996428 th-err= 0.420692 dev= nan test= 0.230000 train= 0.099886
+
+feature:maybe 
+C0:   0.002  -0.002 
+C1:  -0.978   0.978 
+rnd 134: wh-err= 0.996553 th-err= 0.419242 dev= nan test= 0.230000 train= 0.099886
+
+feature:Relationships 
+C0:  -0.007   0.007 
+C1:   1.106  -1.106 
+rnd 135: wh-err= 0.995815 th-err= 0.417487 dev= nan test= 0.230000 train= 0.098751
+
+feature:attention 
+C0:  -0.002   0.002 
+C1:   0.977  -0.977 
+rnd 136: wh-err= 0.996562 th-err= 0.416052 dev= nan test= 0.230000 train= 0.097616
+
+feature:fix 
+C0:  -0.002   0.002 
+C1:   0.979  -0.979 
+rnd 137: wh-err= 0.996548 th-err= 0.414616 dev= nan test= 0.230000 train= 0.096481
+
+feature:ruins 
+C0:  -0.002   0.002 
+C1:   0.980  -0.980 
+rnd 138: wh-err= 0.996533 th-err= 0.413178 dev= nan test= 0.230000 train= 0.095346
+
+feature:hi 
+C0:  -0.002   0.002 
+C1:   0.982  -0.982 
+rnd 139: wh-err= 0.996518 th-err= 0.411739 dev= nan test= 0.230000 train= 0.094211
+
+feature:apart 
+C0:  -0.002   0.002 
+C1:   0.984  -0.984 
+rnd 140: wh-err= 0.996502 th-err= 0.410299 dev= nan test= 0.230000 train= 0.093076
+
+feature:didn't 
+C0:  -0.008   0.008 
+C1:   0.739  -0.739 
+rnd 141: wh-err= 0.996486 th-err= 0.408857 dev= nan test= 0.230000 train= 0.096481
+
+feature:preparation 
+C0:  -0.005   0.005 
+C1:   1.002  -1.002 
+rnd 142: wh-err= 0.996467 th-err= 0.407413 dev= nan test= 0.230000 train= 0.096481
+
+feature:numbers 
+C0:  -0.002   0.002 
+C1:   0.986  -0.986 
+rnd 143: wh-err= 0.996491 th-err= 0.405983 dev= nan test= 0.230000 train= 0.096481
+
+feature:scenarios 
+C0:  -0.002   0.002 
+C1:   0.979  -0.979 
+rnd 144: wh-err= 0.996542 th-err= 0.404579 dev= nan test= 0.230000 train= 0.095346
+
+feature:expectations 
+C0:  -0.004   0.004 
+C1:   1.028  -1.028 
+rnd 145: wh-err= 0.996567 th-err= 0.403190 dev= nan test= 0.230000 train= 0.095346
+
+feature:made 
+C0:   0.005  -0.005 
+C1:  -0.971   0.971 
+rnd 146: wh-err= 0.996598 th-err= 0.401818 dev= nan test= 0.230000 train= 0.094211
+
+feature: 
+C0:   0.002  -0.002 
+C1:  -0.973   0.973 
+rnd 147: wh-err= 0.996595 th-err= 0.400450 dev= nan test= 0.230000 train= 0.094211
+
+feature:Thai 
+C0:   0.002  -0.002 
+C1:  -0.974   0.974 
+rnd 148: wh-err= 0.996587 th-err= 0.399083 dev= nan test= 0.230000 train= 0.093076
+
+feature:yeah 
+C0:  -0.015   0.015 
+C1:   0.524  -0.524 
+rnd 149: wh-err= 0.996297 th-err= 0.397606 dev= nan test= 0.235000 train= 0.088536
+
+feature:coming 
+C0:   0.004  -0.004 
+C1:  -1.014   1.014 
+rnd 150: wh-err= 0.996245 th-err= 0.396113 dev= nan test= 0.235000 train= 0.088536
+
+feature:sector 
+C0:  -0.005   0.005 
+C1:   0.978  -0.978 
+rnd 151: wh-err= 0.996544 th-err= 0.394744 dev= nan test= 0.235000 train= 0.087401
+
+feature:aspects 
+C0:  -0.004   0.004 
+C1:   0.977  -0.977 
+rnd 152: wh-err= 0.996529 th-err= 0.393374 dev= nan test= 0.235000 train= 0.086266
+
+feature:recruitment 
+C0:  -0.002   0.002 
+C1:   0.980  -0.980 
+rnd 153: wh-err= 0.996539 th-err= 0.392012 dev= nan test= 0.235000 train= 0.085131
+
+feature:anymore 
+C0:  -0.002   0.002 
+C1:   0.962  -0.962 
+rnd 154: wh-err= 0.996680 th-err= 0.390711 dev= nan test= 0.235000 train= 0.083995
+
+feature:continue 
+C0:  -0.002   0.002 
+C1:   0.964  -0.964 
+rnd 155: wh-err= 0.996667 th-err= 0.389409 dev= nan test= 0.235000 train= 0.082860
+
+feature:submissions 
+C0:  -0.002   0.002 
+C1:   0.963  -0.963 
+rnd 156: wh-err= 0.996670 th-err= 0.388112 dev= nan test= 0.235000 train= 0.082860
+
+feature:word 
+C0:  -0.002   0.002 
+C1:   0.961  -0.961 
+rnd 157: wh-err= 0.996684 th-err= 0.386825 dev= nan test= 0.235000 train= 0.081725
+
+feature:started 
+C0:  -0.006   0.006 
+C1:   0.776  -0.776 
+rnd 158: wh-err= 0.996724 th-err= 0.385558 dev= nan test= 0.235000 train= 0.080590
+
+feature:concepts 
+C0:   0.004  -0.004 
+C1:  -0.953   0.953 
+rnd 159: wh-err= 0.996740 th-err= 0.384301 dev= nan test= 0.235000 train= 0.080590
+
+feature:put 
+C0:   0.002  -0.002 
+C1:  -0.946   0.946 
+rnd 160: wh-err= 0.996801 th-err= 0.383071 dev= nan test= 0.235000 train= 0.079455
+
+feature:asking 
+C0:  -0.009   0.009 
+C1:   0.765  -0.765 
+rnd 161: wh-err= 0.996842 th-err= 0.381862 dev= nan test= 0.235000 train= 0.080590
+
+feature:give 
+C0:  -0.009   0.009 
+C1:   0.615  -0.615 
+rnd 162: wh-err= 0.996779 th-err= 0.380632 dev= nan test= 0.240000 train= 0.080590
+
+feature:the 
+C0:   0.036  -0.036 
+C1:  -0.183   0.183 
+rnd 163: wh-err= 0.996741 th-err= 0.379391 dev= nan test= 0.235000 train= 0.085131
+
+feature:grade 
+C0:  -0.004   0.004 
+C1:   1.002  -1.002 
+rnd 164: wh-err= 0.996346 th-err= 0.378005 dev= nan test= 0.235000 train= 0.083995
+
+feature:having 
+C0:  -0.003   0.003 
+C1:   1.022  -1.022 
+rnd 165: wh-err= 0.996664 th-err= 0.376744 dev= nan test= 0.235000 train= 0.083995
+
+feature:finding 
+C0:  -0.002   0.002 
+C1:   0.953  -0.953 
+rnd 166: wh-err= 0.996749 th-err= 0.375519 dev= nan test= 0.235000 train= 0.083995
+
+feature:need 
+C0:  -0.008   0.008 
+C1:   0.645  -0.645 
+rnd 167: wh-err= 0.996746 th-err= 0.374297 dev= nan test= 0.235000 train= 0.081725
+
+feature:hasn't 
+C0:   0.004  -0.004 
+C1:  -0.963   0.963 
+rnd 168: wh-err= 0.996663 th-err= 0.373048 dev= nan test= 0.235000 train= 0.081725
+
+feature:particular 
+C0:  -0.005   0.005 
+C1:   0.999  -0.999 
+rnd 169: wh-err= 0.996826 th-err= 0.371864 dev= nan test= 0.235000 train= 0.080590
+
+feature:phone 
+C0:  -0.002   0.002 
+C1:   0.942  -0.942 
+rnd 170: wh-err= 0.996834 th-err= 0.370687 dev= nan test= 0.235000 train= 0.079455
+
+feature:stressful 
+C0:  -0.005   0.005 
+C1:   0.889  -0.889 
+rnd 171: wh-err= 0.996829 th-err= 0.369512 dev= nan test= 0.235000 train= 0.079455
+
+feature:speak 
+C0:   0.004  -0.004 
+C1:  -0.931   0.931 
+rnd 172: wh-err= 0.996909 th-err= 0.368369 dev= nan test= 0.235000 train= 0.079455
+
+feature:back 
+C0:   0.002  -0.002 
+C1:  -0.930   0.930 
+rnd 173: wh-err= 0.996922 th-err= 0.367235 dev= nan test= 0.240000 train= 0.079455
+
+feature:concrete 
+C0:   0.002  -0.002 
+C1:  -0.926   0.926 
+rnd 174: wh-err= 0.996951 th-err= 0.366116 dev= nan test= 0.240000 train= 0.079455
+
+feature:born 
+C0:   0.002  -0.002 
+C1:  -0.926   0.926 
+rnd 175: wh-err= 0.996946 th-err= 0.364997 dev= nan test= 0.240000 train= 0.079455
+
+feature:wants 
+C0:  -0.004   0.004 
+C1:   0.923  -0.923 
+rnd 176: wh-err= 0.996960 th-err= 0.363888 dev= nan test= 0.235000 train= 0.079455
+
+feature:Works 
+C0:  -0.002   0.002 
+C1:   0.925  -0.925 
+rnd 177: wh-err= 0.996954 th-err= 0.362779 dev= nan test= 0.235000 train= 0.078320
+
+feature:exactly 
+C0:  -0.002   0.002 
+C1:   0.927  -0.927 
+rnd 178: wh-err= 0.996943 th-err= 0.361670 dev= nan test= 0.235000 train= 0.077185
+
+feature:cope 
+C0:  -0.005   0.005 
+C1:   0.830  -0.830 
+rnd 179: wh-err= 0.996930 th-err= 0.360560 dev= nan test= 0.235000 train= 0.077185
+
+feature:being 
+C0:  -0.004   0.004 
+C1:   0.919  -0.919 
+rnd 180: wh-err= 0.996944 th-err= 0.359458 dev= nan test= 0.235000 train= 0.076050
+
+feature:society 
+C0:   0.008  -0.008 
+C1:  -0.988   0.988 
+rnd 181: wh-err= 0.996158 th-err= 0.358077 dev= nan test= 0.235000 train= 0.076050
+
+feature:my 
+C0:   0.031  -0.031 
+C1:  -0.211   0.211 
+rnd 182: wh-err= 0.996629 th-err= 0.356869 dev= nan test= 0.225000 train= 0.076050
+
+feature:lacking 
+C0:  -0.004   0.004 
+C1:   0.969  -0.969 
+rnd 183: wh-err= 0.996622 th-err= 0.355664 dev= nan test= 0.225000 train= 0.074915
+
+feature:communication 
+C0:  -0.009   0.009 
+C1:   0.589  -0.589 
+rnd 184: wh-err= 0.996980 th-err= 0.354590 dev= nan test= 0.225000 train= 0.076050
+
+feature:learn 
+C0:   0.004  -0.004 
+C1:  -1.004   1.004 
+rnd 185: wh-err= 0.996328 th-err= 0.353288 dev= nan test= 0.225000 train= 0.074915
+
+feature:fine 
+C0:  -0.007   0.007 
+C1:   0.905  -0.905 
+rnd 186: wh-err= 0.996948 th-err= 0.352210 dev= nan test= 0.235000 train= 0.073780
+
+feature:home 
+C0:   0.009  -0.009 
+C1:  -0.856   0.856 
+rnd 187: wh-err= 0.996240 th-err= 0.350885 dev= nan test= 0.235000 train= 0.074915
+
+feature:dropped 
+C0:  -0.004   0.004 
+C1:   0.924  -0.924 
+rnd 188: wh-err= 0.996955 th-err= 0.349817 dev= nan test= 0.235000 train= 0.073780
+
+feature:commission 
+C0:  -0.002   0.002 
+C1:   0.927  -0.927 
+rnd 189: wh-err= 0.996944 th-err= 0.348748 dev= nan test= 0.235000 train= 0.072645
+
+feature:materialistic 
+C0:  -0.002   0.002 
+C1:   0.913  -0.913 
+rnd 190: wh-err= 0.997044 th-err= 0.347717 dev= nan test= 0.235000 train= 0.072645
+
+feature:like 
+C0:   0.024  -0.024 
+C1:  -0.254   0.254 
+rnd 191: wh-err= 0.997022 th-err= 0.346681 dev= nan test= 0.230000 train= 0.073780
+
+feature:myself 
+C0:  -0.009   0.009 
+C1:   0.795  -0.795 
+rnd 192: wh-err= 0.996172 th-err= 0.345354 dev= nan test= 0.240000 train= 0.076050
+
+feature:we're 
+C0:  -0.003   0.003 
+C1:   1.005  -1.005 
+rnd 193: wh-err= 0.996330 th-err= 0.344087 dev= nan test= 0.240000 train= 0.074915
+
+feature:four 
+C0:  -0.002   0.002 
+C1:   0.948  -0.948 
+rnd 194: wh-err= 0.996786 th-err= 0.342981 dev= nan test= 0.245000 train= 0.074915
+
+feature:bank 
+C0:  -0.002   0.002 
+C1:   0.930  -0.930 
+rnd 195: wh-err= 0.996917 th-err= 0.341924 dev= nan test= 0.245000 train= 0.073780
+
+feature:cooperate 
+C0:  -0.002   0.002 
+C1:   0.914  -0.914 
+rnd 196: wh-err= 0.997038 th-err= 0.340911 dev= nan test= 0.245000 train= 0.072645
+
+feature:specially 
+C0:  -0.002   0.002 
+C1:   0.912  -0.912 
+rnd 197: wh-err= 0.997048 th-err= 0.339904 dev= nan test= 0.245000 train= 0.071510
+
+feature:military 
+C0:  -0.002   0.002 
+C1:   0.913  -0.913 
+rnd 198: wh-err= 0.997040 th-err= 0.338898 dev= nan test= 0.245000 train= 0.070375
+
+feature:Ko 
+C0:  -0.002   0.002 
+C1:   0.907  -0.907 
+rnd 199: wh-err= 0.997081 th-err= 0.337909 dev= nan test= 0.245000 train= 0.069240
+
+feature:engineering 
+C0:   0.004  -0.004 
+C1:  -0.895   0.895 
+rnd 200: wh-err= 0.997157 th-err= 0.336949 dev= nan test= 0.245000 train= 0.069240
+
+feature:hmm 
+C0:   0.002  -0.002 
+C1:  -0.893   0.893 
+rnd 201: wh-err= 0.997178 th-err= 0.335998 dev= nan test= 0.245000 train= 0.068104
+
+feature:employment 
+C0:  -0.009   0.009 
+C1:   0.736  -0.736 
+rnd 202: wh-err= 0.996684 th-err= 0.334884 dev= nan test= 0.245000 train= 0.066969
+
+feature:ofcourse 
+C0:   0.004  -0.004 
+C1:  -0.913   0.913 
+rnd 203: wh-err= 0.997036 th-err= 0.333891 dev= nan test= 0.245000 train= 0.066969
+
+feature:stuffing 
+C0:   0.002  -0.002 
+C1:  -0.890   0.890 
+rnd 204: wh-err= 0.997200 th-err= 0.332956 dev= nan test= 0.245000 train= 0.065834
+
+feature:Ah 
+C0:  -0.011   0.011 
+C1:   0.531  -0.531 
+rnd 205: wh-err= 0.997219 th-err= 0.332031 dev= nan test= 0.245000 train= 0.065834
+
+feature:At 
+C0:  -0.002   0.002 
+C1:   0.886  -0.886 
+rnd 206: wh-err= 0.997225 th-err= 0.331109 dev= nan test= 0.245000 train= 0.064699
+
+feature:city 
+C0:   0.004  -0.004 
+C1:  -0.883   0.883 
+rnd 207: wh-err= 0.997243 th-err= 0.330196 dev= nan test= 0.245000 train= 0.064699
+
+feature:here 
+C0:  -0.015   0.015 
+C1:   0.417  -0.417 
+rnd 208: wh-err= 0.997042 th-err= 0.329219 dev= nan test= 0.245000 train= 0.064699
+
+feature:people 
+C0:   0.014  -0.014 
+C1:  -0.481   0.481 
+rnd 209: wh-err= 0.996569 th-err= 0.328090 dev= nan test= 0.240000 train= 0.064699
+
+feature:can 
+C0:   0.012  -0.012 
+C1:  -0.509   0.509 
+rnd 210: wh-err= 0.996596 th-err= 0.326973 dev= nan test= 0.240000 train= 0.064699
+
+feature:later 
+C0:  -0.006   0.006 
+C1:   1.003  -1.003 
+rnd 211: wh-err= 0.996523 th-err= 0.325836 dev= nan test= 0.245000 train= 0.063564
+
+feature:don't 
+C0:  -0.018   0.018 
+C1:   0.328  -0.328 
+rnd 212: wh-err= 0.996884 th-err= 0.324821 dev= nan test= 0.250000 train= 0.064699
+
+feature:feel 
+C0:   0.003  -0.003 
+C1:  -0.895   0.895 
+rnd 213: wh-err= 0.997165 th-err= 0.323900 dev= nan test= 0.250000 train= 0.063564
+
+feature:Um 
+C0:  -0.015   0.015 
+C1:   0.385  -0.385 
+rnd 214: wh-err= 0.997199 th-err= 0.322993 dev= nan test= 0.250000 train= 0.064699
+
+feature:went 
+C0:   0.003  -0.003 
+C1:  -0.893   0.893 
+rnd 215: wh-err= 0.997173 th-err= 0.322080 dev= nan test= 0.250000 train= 0.064699
+
+feature:deal 
+C0:  -0.006   0.006 
+C1:   0.895  -0.895 
+rnd 216: wh-err= 0.997189 th-err= 0.321175 dev= nan test= 0.250000 train= 0.063564
+
+feature:finanical 
+C0:  -0.002   0.002 
+C1:   0.893  -0.893 
+rnd 217: wh-err= 0.997184 th-err= 0.320270 dev= nan test= 0.250000 train= 0.062429
+
+feature:wanna 
+C0:  -0.002   0.002 
+C1:   0.889  -0.889 
+rnd 218: wh-err= 0.997210 th-err= 0.319376 dev= nan test= 0.250000 train= 0.062429
+
+feature:definitely 
+C0:  -0.002   0.002 
+C1:   0.887  -0.887 
+rnd 219: wh-err= 0.997222 th-err= 0.318489 dev= nan test= 0.250000 train= 0.062429
+
+feature:((yea)) 
+C0:  -0.002   0.002 
+C1:   0.881  -0.881 
+rnd 220: wh-err= 0.997264 th-err= 0.317618 dev= nan test= 0.250000 train= 0.062429
+
+feature:child 
+C0:  -0.002   0.002 
+C1:   0.882  -0.882 
+rnd 221: wh-err= 0.997256 th-err= 0.316746 dev= nan test= 0.250000 train= 0.062429
+
+feature:prospects 
+C0:  -0.002   0.002 
+C1:   0.883  -0.883 
+rnd 222: wh-err= 0.997250 th-err= 0.315875 dev= nan test= 0.245000 train= 0.062429
+
+feature:everyones 
+C0:  -0.002   0.002 
+C1:   0.883  -0.883 
+rnd 223: wh-err= 0.997251 th-err= 0.315007 dev= nan test= 0.245000 train= 0.061294
+
+feature:textbook 
+C0:  -0.002   0.002 
+C1:   0.883  -0.883 
+rnd 224: wh-err= 0.997248 th-err= 0.314140 dev= nan test= 0.245000 train= 0.061294
+
+feature:bright 
+C0:  -0.002   0.002 
+C1:   0.882  -0.882 
+rnd 225: wh-err= 0.997257 th-err= 0.313278 dev= nan test= 0.245000 train= 0.061294
+
+feature:liberating 
+C0:  -0.002   0.002 
+C1:   0.882  -0.882 
+rnd 226: wh-err= 0.997256 th-err= 0.312418 dev= nan test= 0.245000 train= 0.061294
+
+feature:of 
+C0:  -0.029   0.029 
+C1:   0.186  -0.186 
+rnd 227: wh-err= 0.997215 th-err= 0.311548 dev= nan test= 0.250000 train= 0.061294
+
+feature:hmm 
+C0:   0.003  -0.003 
+C1:  -0.910   0.910 
+rnd 228: wh-err= 0.997061 th-err= 0.310632 dev= nan test= 0.245000 train= 0.060159
+
+feature:mostly 
+C0:   0.002  -0.002 
+C1:  -0.889   0.889 
+rnd 229: wh-err= 0.997209 th-err= 0.309765 dev= nan test= 0.245000 train= 0.060159
+
+feature:extra 
+C0:  -0.004   0.004 
+C1:   0.886  -0.886 
+rnd 230: wh-err= 0.997225 th-err= 0.308906 dev= nan test= 0.250000 train= 0.060159
+
+feature:parents 
+C0:  -0.013   0.013 
+C1:   0.396  -0.396 
+rnd 231: wh-err= 0.997216 th-err= 0.308046 dev= nan test= 0.250000 train= 0.063564
+
+feature:stuck 
+C0:  -0.002   0.002 
+C1:   0.893  -0.893 
+rnd 232: wh-err= 0.997177 th-err= 0.307176 dev= nan test= 0.250000 train= 0.063564
+
+feature:began 
+C0:  -0.002   0.002 
+C1:   0.892  -0.892 
+rnd 233: wh-err= 0.997189 th-err= 0.306313 dev= nan test= 0.250000 train= 0.063564
+
+feature:haven’t 
+C0:  -0.002   0.002 
+C1:   0.890  -0.890 
+rnd 234: wh-err= 0.997201 th-err= 0.305455 dev= nan test= 0.245000 train= 0.063564
+
+feature:graduate? 
+C0:  -0.002   0.002 
+C1:   0.890  -0.890 
+rnd 235: wh-err= 0.997199 th-err= 0.304600 dev= nan test= 0.245000 train= 0.063564
+
+feature:poorly 
+C0:  -0.002   0.002 
+C1:   0.891  -0.891 
+rnd 236: wh-err= 0.997196 th-err= 0.303746 dev= nan test= 0.245000 train= 0.064699
+
+feature:college 
+C0:   0.009  -0.009 
+C1:  -0.840   0.840 
+rnd 237: wh-err= 0.996464 th-err= 0.302672 dev= nan test= 0.250000 train= 0.063564
+
+feature:said 
+C0:  -0.004   0.004 
+C1:   0.887  -0.887 
+rnd 238: wh-err= 0.997217 th-err= 0.301829 dev= nan test= 0.250000 train= 0.063564
+
+feature:as 
+C0:   0.013  -0.013 
+C1:  -0.564   0.564 
+rnd 239: wh-err= 0.996556 th-err= 0.300790 dev= nan test= 0.250000 train= 0.061294
+
+feature:stressed 
+C0:  -0.007   0.007 
+C1:   0.752  -0.752 
+rnd 240: wh-err= 0.997271 th-err= 0.299969 dev= nan test= 0.250000 train= 0.061294
+
+feature:too 
+C0:   0.004  -0.004 
+C1:  -0.930   0.930 
+rnd 241: wh-err= 0.996916 th-err= 0.299044 dev= nan test= 0.250000 train= 0.060159
+
+feature:business 
+C0:   0.002  -0.002 
+C1:  -0.877   0.877 
+rnd 242: wh-err= 0.997285 th-err= 0.298232 dev= nan test= 0.250000 train= 0.060159
+
+feature:poorly 
+C0:  -0.004   0.004 
+C1:   0.873  -0.873 
+rnd 243: wh-err= 0.997304 th-err= 0.297428 dev= nan test= 0.250000 train= 0.061294
+
+feature:sent 
+C0:   0.004  -0.004 
+C1:  -0.870   0.870 
+rnd 244: wh-err= 0.997329 th-err= 0.296634 dev= nan test= 0.250000 train= 0.060159
+
+feature:else 
+C0:   0.002  -0.002 
+C1:  -0.872   0.872 
+rnd 245: wh-err= 0.997321 th-err= 0.295839 dev= nan test= 0.250000 train= 0.060159
+
+feature:world 
+C0:   0.002  -0.002 
+C1:  -0.869   0.869 
+rnd 246: wh-err= 0.997339 th-err= 0.295052 dev= nan test= 0.250000 train= 0.059024
+
+feature:class 
+C0:   0.002  -0.002 
+C1:  -0.869   0.869 
+rnd 247: wh-err= 0.997338 th-err= 0.294266 dev= nan test= 0.250000 train= 0.059024
+
+feature:~FYP 
+C0:  -0.004   0.004 
+C1:   0.865  -0.865 
+rnd 248: wh-err= 0.997356 th-err= 0.293488 dev= nan test= 0.250000 train= 0.060159
+
+feature:i've 
+C0:  -0.002   0.002 
+C1:   0.866  -0.866 
+rnd 249: wh-err= 0.997358 th-err= 0.292713 dev= nan test= 0.250000 train= 0.060159
+
+feature:inteview 
+C0:   0.004  -0.004 
+C1:  -0.864   0.864 
+rnd 250: wh-err= 0.997365 th-err= 0.291942 dev= nan test= 0.250000 train= 0.059024
+
+feature:- 
+C0:   0.002  -0.002 
+C1:  -0.861   0.861 
+rnd 251: wh-err= 0.997388 th-err= 0.291179 dev= nan test= 0.250000 train= 0.059024
+
+feature:lack 
+C0:   0.002  -0.002 
+C1:  -0.861   0.861 
+rnd 252: wh-err= 0.997391 th-err= 0.290419 dev= nan test= 0.250000 train= 0.059024
+
+feature:real 
+C0:   0.002  -0.002 
+C1:  -0.862   0.862 
+rnd 253: wh-err= 0.997386 th-err= 0.289660 dev= nan test= 0.250000 train= 0.059024
+
+feature:mood 
+C0:  -0.008   0.008 
+C1:   1.001  -1.001 
+rnd 254: wh-err= 0.996140 th-err= 0.288542 dev= nan test= 0.250000 train= 0.059024
+
+feature:put 
+C0:   0.004  -0.004 
+C1:  -0.857   0.857 
+rnd 255: wh-err= 0.997408 th-err= 0.287795 dev= nan test= 0.250000 train= 0.057889
+
+feature:hard 
+C0:  -0.014   0.014 
+C1:   0.393  -0.393 
+rnd 256: wh-err= 0.997387 th-err= 0.287043 dev= nan test= 0.250000 train= 0.060159
+
+feature:it's 
+C0:   0.017  -0.017 
+C1:  -0.340   0.340 
+rnd 257: wh-err= 0.997086 th-err= 0.286206 dev= nan test= 0.250000 train= 0.060159
+
+feature:scenarios 
+C0:  -0.004   0.004 
+C1:   0.954  -0.954 
+rnd 258: wh-err= 0.996737 th-err= 0.285272 dev= nan test= 0.250000 train= 0.059024
+
+feature:word 
+C0:  -0.002   0.002 
+C1:   0.922  -0.922 
+rnd 259: wh-err= 0.996976 th-err= 0.284410 dev= nan test= 0.250000 train= 0.059024
+
+feature:student 
+C0:  -0.002   0.002 
+C1:   0.923  -0.923 
+rnd 260: wh-err= 0.996969 th-err= 0.283547 dev= nan test= 0.250000 train= 0.059024
+
+feature:far 
+C0:  -0.005   0.005 
+C1:   0.768  -0.768 
+rnd 261: wh-err= 0.997375 th-err= 0.282803 dev= nan test= 0.250000 train= 0.060159
+
+feature:weaknesses 
+C0:  -0.002   0.002 
+C1:   0.857  -0.857 
+rnd 262: wh-err= 0.997414 th-err= 0.282072 dev= nan test= 0.250000 train= 0.060159
+
+feature:currently 
+C0:   0.004  -0.004 
+C1:  -0.856   0.856 
+rnd 263: wh-err= 0.997416 th-err= 0.281343 dev= nan test= 0.250000 train= 0.059024
+
+feature:drama 
+C0:   0.001  -0.001 
+C1:  -0.857   0.857 
+rnd 264: wh-err= 0.997414 th-err= 0.280615 dev= nan test= 0.250000 train= 0.059024
+
+feature:Cantonese 
+C0:   0.001  -0.001 
+C1:  -0.856   0.856 
+rnd 265: wh-err= 0.997420 th-err= 0.279891 dev= nan test= 0.250000 train= 0.059024
+
+feature:How 
+C0:   0.001  -0.001 
+C1:  -0.856   0.856 
+rnd 266: wh-err= 0.997419 th-err= 0.279169 dev= nan test= 0.250000 train= 0.059024
+
+feature:close 
+C0:   0.001  -0.001 
+C1:  -0.855   0.855 
+rnd 267: wh-err= 0.997427 th-err= 0.278451 dev= nan test= 0.250000 train= 0.057889
+
+feature:sensitive 
+C0:   0.001  -0.001 
+C1:  -0.855   0.855 
+rnd 268: wh-err= 0.997432 th-err= 0.277736 dev= nan test= 0.250000 train= 0.057889
+
+feature:self 
+C0:   0.001  -0.001 
+C1:  -0.852   0.852 
+rnd 269: wh-err= 0.997450 th-err= 0.277027 dev= nan test= 0.250000 train= 0.057889
+
+feature:Application 
+C0:  -0.004   0.004 
+C1:   0.849  -0.849 
+rnd 270: wh-err= 0.997463 th-err= 0.276325 dev= nan test= 0.250000 train= 0.057889
+
+feature:Further 
+C0:  -0.001   0.001 
+C1:   0.850  -0.850 
+rnd 271: wh-err= 0.997461 th-err= 0.275623 dev= nan test= 0.250000 train= 0.059024
+
+feature:rejecting 
+C0:  -0.001   0.001 
+C1:   0.850  -0.850 
+rnd 272: wh-err= 0.997458 th-err= 0.274922 dev= nan test= 0.250000 train= 0.059024
+
+feature:speaking 
+C0:  -0.001   0.001 
+C1:   0.851  -0.851 
+rnd 273: wh-err= 0.997452 th-err= 0.274222 dev= nan test= 0.250000 train= 0.059024
+
+feature:fed 
+C0:  -0.001   0.001 
+C1:   0.852  -0.852 
+rnd 274: wh-err= 0.997450 th-err= 0.273522 dev= nan test= 0.250000 train= 0.059024
+
+feature:studying 
+C0:   0.010  -0.010 
+C1:  -0.917   0.917 
+rnd 275: wh-err= 0.995589 th-err= 0.272316 dev= nan test= 0.250000 train= 0.057889
+
+feature:fed 
+C0:  -0.004   0.004 
+C1:   0.881  -0.881 
+rnd 276: wh-err= 0.997254 th-err= 0.271568 dev= nan test= 0.250000 train= 0.057889
+
+feature:oh 
+C0:  -0.001   0.001 
+C1:   0.852  -0.852 
+rnd 277: wh-err= 0.997448 th-err= 0.270875 dev= nan test= 0.250000 train= 0.059024
+
+feature:3rd 
+C0:  -0.001   0.001 
+C1:   0.851  -0.851 
+rnd 278: wh-err= 0.997452 th-err= 0.270185 dev= nan test= 0.250000 train= 0.059024
+
+feature:once 
+C0:  -0.001   0.001 
+C1:   0.850  -0.850 
+rnd 279: wh-err= 0.997462 th-err= 0.269499 dev= nan test= 0.250000 train= 0.059024
+
+feature:behind 
+C0:  -0.001   0.001 
+C1:   0.850  -0.850 
+rnd 280: wh-err= 0.997460 th-err= 0.268815 dev= nan test= 0.250000 train= 0.059024
+
+feature:afterwards 
+C0:  -0.001   0.001 
+C1:   0.850  -0.850 
+rnd 281: wh-err= 0.997459 th-err= 0.268131 dev= nan test= 0.250000 train= 0.060159
+
+feature:normal 
+C0:  -0.001   0.001 
+C1:   0.851  -0.851 
+rnd 282: wh-err= 0.997455 th-err= 0.267449 dev= nan test= 0.250000 train= 0.060159
+
+feature:it 
+C0:   0.023  -0.023 
+C1:  -0.250   0.250 
+rnd 283: wh-err= 0.997246 th-err= 0.266712 dev= nan test= 0.250000 train= 0.056754
+
+feature:if 
+C0:  -0.010   0.010 
+C1:   0.728  -0.728 
+rnd 284: wh-err= 0.996384 th-err= 0.265748 dev= nan test= 0.250000 train= 0.055619
+
+feature:South 
+C0:   0.004  -0.004 
+C1:  -0.941   0.941 
+rnd 285: wh-err= 0.996832 th-err= 0.264906 dev= nan test= 0.240000 train= 0.054484
+
+feature:involves 
+C0:  -0.004   0.004 
+C1:   0.922  -0.922 
+rnd 286: wh-err= 0.996973 th-err= 0.264104 dev= nan test= 0.240000 train= 0.055619
+
+feature:beautiful 
+C0:  -0.006   0.006 
+C1:   0.681  -0.681 
+rnd 287: wh-err= 0.997189 th-err= 0.263362 dev= nan test= 0.240000 train= 0.056754
+
+feature:just 
+C0:  -0.015   0.015 
+C1:   0.339  -0.339 
+rnd 288: wh-err= 0.997317 th-err= 0.262656 dev= nan test= 0.235000 train= 0.057889
+
+feature:told 
+C0:   0.003  -0.003 
+C1:  -0.914   0.914 
+rnd 289: wh-err= 0.997031 th-err= 0.261876 dev= nan test= 0.240000 train= 0.057889
+
+feature:I've 
+C0:  -0.014   0.014 
+C1:   0.410  -0.410 
+rnd 290: wh-err= 0.997308 th-err= 0.261171 dev= nan test= 0.230000 train= 0.056754
+
+feature:difference 
+C0:  -0.002   0.002 
+C1:   0.866  -0.866 
+rnd 291: wh-err= 0.997360 th-err= 0.260481 dev= nan test= 0.230000 train= 0.056754
+
+feature:Tension 
+C0:  -0.002   0.002 
+C1:   0.863  -0.863 
+rnd 292: wh-err= 0.997377 th-err= 0.259798 dev= nan test= 0.230000 train= 0.056754
+
+feature:devote 
+C0:  -0.002   0.002 
+C1:   0.925  -0.925 
+rnd 293: wh-err= 0.997389 th-err= 0.259120 dev= nan test= 0.230000 train= 0.055619
+
+feature:th 
+C0:  -0.004   0.004 
+C1:   0.847  -0.847 
+rnd 294: wh-err= 0.997375 th-err= 0.258440 dev= nan test= 0.235000 train= 0.054484
+
+feature:Ko 
+C0:  -0.002   0.002 
+C1:   0.864  -0.864 
+rnd 295: wh-err= 0.997369 th-err= 0.257760 dev= nan test= 0.235000 train= 0.054484
+
+feature:happens 
+C0:  -0.002   0.002 
+C1:   0.864  -0.864 
+rnd 296: wh-err= 0.997373 th-err= 0.257083 dev= nan test= 0.235000 train= 0.054484
+
+feature:submissions 
+C0:  -0.001   0.001 
+C1:   0.858  -0.858 
+rnd 297: wh-err= 0.997412 th-err= 0.256417 dev= nan test= 0.235000 train= 0.054484
+
+feature:aspects 
+C0:  -0.003   0.003 
+C1:   0.893  -0.893 
+rnd 298: wh-err= 0.997411 th-err= 0.255754 dev= nan test= 0.235000 train= 0.053348
+
+feature:them 
+C0:  -0.010   0.010 
+C1:   0.447  -0.447 
+rnd 299: wh-err= 0.997404 th-err= 0.255090 dev= nan test= 0.240000 train= 0.053348
+
+feature:Lord 
+C0:   0.004  -0.004 
+C1:  -1.033   1.033 
+rnd 300: wh-err= 0.996079 th-err= 0.254089 dev= nan test= 0.240000 train= 0.052213
+
+feature:got 
+C0:   0.007  -0.007 
+C1:  -0.660   0.660 
+rnd 301: wh-err= 0.997089 th-err= 0.253350 dev= nan test= 0.240000 train= 0.051078
+
+feature:constantly 
+C0:  -0.003   0.003 
+C1:   0.858  -0.858 
+rnd 302: wh-err= 0.997406 th-err= 0.252692 dev= nan test= 0.240000 train= 0.051078
+
+feature:grade 
+C0:  -0.001   0.001 
+C1:   0.859  -0.859 
+rnd 303: wh-err= 0.997406 th-err= 0.252037 dev= nan test= 0.240000 train= 0.051078
+
+feature:<comma> 
+C0:   0.018  -0.018 
+C1:  -0.341   0.341 
+rnd 304: wh-err= 0.997087 th-err= 0.251303 dev= nan test= 0.240000 train= 0.053348
+
+feature:sector 
+C0:  -0.004   0.004 
+C1:   0.996  -0.996 
+rnd 305: wh-err= 0.996400 th-err= 0.250398 dev= nan test= 0.240000 train= 0.052213
+
+feature:tasks 
+C0:  -0.002   0.002 
+C1:   0.928  -0.928 
+rnd 306: wh-err= 0.996932 th-err= 0.249630 dev= nan test= 0.240000 train= 0.052213
+
+feature:best 
+C0:   0.004  -0.004 
+C1:  -0.851   0.851 
+rnd 307: wh-err= 0.997445 th-err= 0.248992 dev= nan test= 0.240000 train= 0.052213
+
+feature:Its 
+C0:   0.001  -0.001 
+C1:  -0.850   0.850 
+rnd 308: wh-err= 0.997458 th-err= 0.248359 dev= nan test= 0.240000 train= 0.052213
+
+feature:materialistic 
+C0:  -0.004   0.004 
+C1:   0.848  -0.848 
+rnd 309: wh-err= 0.997468 th-err= 0.247731 dev= nan test= 0.240000 train= 0.052213
+
+feature:watch 
+C0:   0.004  -0.004 
+C1:  -0.843   0.843 
+rnd 310: wh-err= 0.997500 th-err= 0.247111 dev= nan test= 0.240000 train= 0.052213
+
+feature:personally 
+C0:  -0.004   0.004 
+C1:   0.843  -0.843 
+rnd 311: wh-err= 0.997501 th-err= 0.246494 dev= nan test= 0.240000 train= 0.052213
+
+feature:terms 
+C0:  -0.001   0.001 
+C1:   0.844  -0.844 
+rnd 312: wh-err= 0.997499 th-err= 0.245877 dev= nan test= 0.240000 train= 0.052213
+
+feature:extra 
+C0:  -0.001   0.001 
+C1:   0.840  -0.840 
+rnd 313: wh-err= 0.997522 th-err= 0.245268 dev= nan test= 0.240000 train= 0.052213
+
+feature:interest 
+C0:   0.004  -0.004 
+C1:  -0.836   0.836 
+rnd 314: wh-err= 0.997541 th-err= 0.244665 dev= nan test= 0.240000 train= 0.052213
+
+feature:place 
+C0:   0.001  -0.001 
+C1:  -0.833   0.833 
+rnd 315: wh-err= 0.997562 th-err= 0.244068 dev= nan test= 0.240000 train= 0.052213
+
+feature:still 
+C0:   0.001  -0.001 
+C1:  -0.834   0.834 
+rnd 316: wh-err= 0.997556 th-err= 0.243472 dev= nan test= 0.240000 train= 0.052213
+
+feature:didn't 
+C0:  -0.008   0.008 
+C1:   0.671  -0.671 
+rnd 317: wh-err= 0.997396 th-err= 0.242838 dev= nan test= 0.240000 train= 0.051078
+
+feature:slowly 
+C0:   0.003  -0.003 
+C1:  -0.832   0.832 
+rnd 318: wh-err= 0.997564 th-err= 0.242246 dev= nan test= 0.240000 train= 0.051078
+
+feature:Italian 
+C0:   0.001  -0.001 
+C1:  -0.833   0.833 
+rnd 319: wh-err= 0.997562 th-err= 0.241656 dev= nan test= 0.240000 train= 0.051078
+
+feature:said 
+C0:  -0.003   0.003 
+C1:   0.831  -0.831 
+rnd 320: wh-err= 0.997570 th-err= 0.241068 dev= nan test= 0.240000 train= 0.051078
+
+feature:specially 
+C0:  -0.001   0.001 
+C1:   0.833  -0.833 
+rnd 321: wh-err= 0.997564 th-err= 0.240481 dev= nan test= 0.240000 train= 0.051078
+
+feature:both 
+C0:   0.003  -0.003 
+C1:  -0.828   0.828 
+rnd 322: wh-err= 0.997591 th-err= 0.239902 dev= nan test= 0.240000 train= 0.051078
+
+feature:cultural 
+C0:  -0.007   0.007 
+C1:   0.818  -0.818 
+rnd 323: wh-err= 0.997239 th-err= 0.239239 dev= nan test= 0.240000 train= 0.049943
+
+feature:-- 
+C0:   0.035  -0.035 
+C1:  -0.145   0.145 
+rnd 324: wh-err= 0.997511 th-err= 0.238644 dev= nan test= 0.245000 train= 0.049943
+
+feature:further 
+C0:  -0.007   0.007 
+C1:   0.656  -0.656 
+rnd 325: wh-err= 0.997406 th-err= 0.238025 dev= nan test= 0.240000 train= 0.048808
+
+feature:go 
+C0:   0.009  -0.009 
+C1:  -0.667   0.667 
+rnd 326: wh-err= 0.997082 th-err= 0.237330 dev= nan test= 0.245000 train= 0.049943
+
+feature:day 
+C0:  -0.007   0.007 
+C1:   0.704  -0.704 
+rnd 327: wh-err= 0.997449 th-err= 0.236725 dev= nan test= 0.245000 train= 0.049943
+
+feature:seems 
+C0:   0.003  -0.003 
+C1:  -0.840   0.840 
+rnd 328: wh-err= 0.997519 th-err= 0.236138 dev= nan test= 0.245000 train= 0.049943
+
+feature:look 
+C0:  -0.006   0.006 
+C1:   0.807  -0.807 
+rnd 329: wh-err= 0.997547 th-err= 0.235558 dev= nan test= 0.240000 train= 0.051078
+
+feature:~US 
+C0:   0.004  -0.004 
+C1:  -0.855   0.855 
+rnd 330: wh-err= 0.997422 th-err= 0.234951 dev= nan test= 0.245000 train= 0.049943
+
+feature:concepts 
+C0:   0.001  -0.001 
+C1:  -0.833   0.833 
+rnd 331: wh-err= 0.997566 th-err= 0.234379 dev= nan test= 0.245000 train= 0.049943
+
+feature:freak 
+C0:  -0.003   0.003 
+C1:   0.826  -0.826 
+rnd 332: wh-err= 0.997603 th-err= 0.233818 dev= nan test= 0.240000 train= 0.049943
+
+feature:seen 
+C0:   0.003  -0.003 
+C1:  -0.824   0.824 
+rnd 333: wh-err= 0.997611 th-err= 0.233259 dev= nan test= 0.245000 train= 0.049943
+
+feature:attention 
+C0:  -0.003   0.003 
+C1:   0.823  -0.823 
+rnd 334: wh-err= 0.997616 th-err= 0.232703 dev= nan test= 0.240000 train= 0.049943
+
+feature:commission 
+C0:  -0.001   0.001 
+C1:   0.816  -0.816 
+rnd 335: wh-err= 0.997662 th-err= 0.232159 dev= nan test= 0.240000 train= 0.051078
+
+feature:uh 
+C0:  -0.030   0.030 
+C1:   0.152  -0.152 
+rnd 336: wh-err= 0.997657 th-err= 0.231615 dev= nan test= 0.245000 train= 0.051078
+
+feature:applications 
+C0:   0.003  -0.003 
+C1:  -0.848   0.848 
+rnd 337: wh-err= 0.997471 th-err= 0.231029 dev= nan test= 0.245000 train= 0.051078
+
+feature:girlfriend 
+C0:  -0.009   0.009 
+C1:   0.586  -0.586 
+rnd 338: wh-err= 0.997520 th-err= 0.230456 dev= nan test= 0.245000 train= 0.051078
+
+feature:tyring 
+C0:   0.003  -0.003 
+C1:  -0.855   0.855 
+rnd 339: wh-err= 0.997423 th-err= 0.229862 dev= nan test= 0.245000 train= 0.051078
+
+feature:meet 
+C0:   0.001  -0.001 
+C1:  -0.836   0.836 
+rnd 340: wh-err= 0.997549 th-err= 0.229299 dev= nan test= 0.245000 train= 0.051078
+
+feature:dropped 
+C0:  -0.003   0.003 
+C1:   0.832  -0.832 
+rnd 341: wh-err= 0.997566 th-err= 0.228741 dev= nan test= 0.245000 train= 0.051078
+
+feature:woul 
+C0:  -0.001   0.001 
+C1:   0.833  -0.833 
+rnd 342: wh-err= 0.997562 th-err= 0.228183 dev= nan test= 0.245000 train= 0.051078
+
+feature:stuff 
+C0:  -0.010   0.010 
+C1:   0.433  -0.433 
+rnd 343: wh-err= 0.997578 th-err= 0.227631 dev= nan test= 0.245000 train= 0.051078
+
+feature:like 
+C0:   0.020  -0.020 
+C1:  -0.276   0.276 
+rnd 344: wh-err= 0.997236 th-err= 0.227001 dev= nan test= 0.245000 train= 0.052213
+
+feature:we're 
+C0:  -0.003   0.003 
+C1:   0.885  -0.885 
+rnd 345: wh-err= 0.997228 th-err= 0.226372 dev= nan test= 0.245000 train= 0.052213
+
+feature:prefer 
+C0:   0.008  -0.008 
+C1:  -0.805   0.805 
+rnd 346: wh-err= 0.996883 th-err= 0.225667 dev= nan test= 0.245000 train= 0.052213
+
+feature:we're 
+C0:  -0.004   0.004 
+C1:   0.854  -0.854 
+rnd 347: wh-err= 0.997430 th-err= 0.225087 dev= nan test= 0.245000 train= 0.052213
+
+feature:i've 
+C0:  -0.001   0.001 
+C1:   0.828  -0.828 
+rnd 348: wh-err= 0.997594 th-err= 0.224545 dev= nan test= 0.245000 train= 0.052213
+
+feature:already 
+C0:  -0.001   0.001 
+C1:   0.828  -0.828 
+rnd 349: wh-err= 0.997592 th-err= 0.224004 dev= nan test= 0.245000 train= 0.052213
+
+feature:knowledge 
+C0:   0.003  -0.003 
+C1:  -0.827   0.827 
+rnd 350: wh-err= 0.997596 th-err= 0.223466 dev= nan test= 0.245000 train= 0.052213
+
+feature:compensate 
+C0:   0.001  -0.001 
+C1:  -0.827   0.827 
+rnd 351: wh-err= 0.997600 th-err= 0.222930 dev= nan test= 0.245000 train= 0.052213
+
+feature:fix 
+C0:  -0.003   0.003 
+C1:   0.820  -0.820 
+rnd 352: wh-err= 0.997633 th-err= 0.222402 dev= nan test= 0.245000 train= 0.052213
+
+feature:i'm 
+C0:  -0.004   0.004 
+C1:   0.766  -0.766 
+rnd 353: wh-err= 0.997630 th-err= 0.221875 dev= nan test= 0.245000 train= 0.052213
+
+feature:now 
+C0:   0.014  -0.014 
+C1:  -0.388   0.388 
+rnd 354: wh-err= 0.997496 th-err= 0.221319 dev= nan test= 0.245000 train= 0.053348
+
+feature:bank 
+C0:  -0.003   0.003 
+C1:   0.845  -0.845 
+rnd 355: wh-err= 0.997488 th-err= 0.220764 dev= nan test= 0.245000 train= 0.053348
+
+feature:ruins 
+C0:  -0.001   0.001 
+C1:   0.822  -0.822 
+rnd 356: wh-err= 0.997632 th-err= 0.220241 dev= nan test= 0.245000 train= 0.053348
+
+feature:simple 
+C0:   0.003  -0.003 
+C1:  -0.819   0.819 
+rnd 357: wh-err= 0.997641 th-err= 0.219721 dev= nan test= 0.245000 train= 0.053348
+
+feature:father 
+C0:  -0.003   0.003 
+C1:   0.819  -0.819 
+rnd 358: wh-err= 0.997644 th-err= 0.219203 dev= nan test= 0.245000 train= 0.053348
+
+feature:lacking 
+C0:  -0.001   0.001 
+C1:   0.821  -0.821 
+rnd 359: wh-err= 0.997638 th-err= 0.218686 dev= nan test= 0.245000 train= 0.053348
+
+feature:req-require 
+C0:  -0.001   0.001 
+C1:   0.821  -0.821 
+rnd 360: wh-err= 0.997637 th-err= 0.218169 dev= nan test= 0.245000 train= 0.053348
+
+feature:At 
+C0:  -0.001   0.001 
+C1:   0.821  -0.821 
+rnd 361: wh-err= 0.997636 th-err= 0.217653 dev= nan test= 0.245000 train= 0.053348
+
+feature:involve 
+C0:  -0.001   0.001 
+C1:   0.822  -0.822 
+rnd 362: wh-err= 0.997631 th-err= 0.217137 dev= nan test= 0.245000 train= 0.053348
+
+feature:four 
+C0:  -0.001   0.001 
+C1:   0.817  -0.817 
+rnd 363: wh-err= 0.997660 th-err= 0.216629 dev= nan test= 0.245000 train= 0.053348
+
+feature:important 
+C0:   0.003  -0.003 
+C1:  -0.816   0.816 
+rnd 364: wh-err= 0.997661 th-err= 0.216122 dev= nan test= 0.245000 train= 0.053348
+
+feature:need 
+C0:  -0.009   0.009 
+C1:   0.546  -0.546 
+rnd 365: wh-err= 0.997551 th-err= 0.215593 dev= nan test= 0.250000 train= 0.051078
+
+feature:hasn't 
+C0:   0.004  -0.004 
+C1:  -0.981   0.981 
+rnd 366: wh-err= 0.996519 th-err= 0.214843 dev= nan test= 0.250000 train= 0.051078
+
+feature:come 
+C0:   0.001  -0.001 
+C1:  -0.812   0.812 
+rnd 367: wh-err= 0.997687 th-err= 0.214346 dev= nan test= 0.250000 train= 0.051078
+
+feature:actually 
+C0:   0.007  -0.007 
+C1:  -0.555   0.555 
+rnd 368: wh-err= 0.997675 th-err= 0.213847 dev= nan test= 0.245000 train= 0.051078
+
+feature:~PHD 
+C0:  -0.006   0.006 
+C1:   1.026  -1.026 
+rnd 369: wh-err= 0.996557 th-err= 0.213111 dev= nan test= 0.245000 train= 0.051078
+
+feature:wish 
+C0:   0.004  -0.004 
+C1:  -0.815   0.815 
+rnd 370: wh-err= 0.997664 th-err= 0.212613 dev= nan test= 0.245000 train= 0.051078
+
+feature:study 
+C0:  -0.013   0.013 
+C1:   0.416  -0.416 
+rnd 371: wh-err= 0.997346 th-err= 0.212049 dev= nan test= 0.245000 train= 0.051078
+
+feature:bright 
+C0:  -0.002   0.002 
+C1:   0.814  -0.814 
+rnd 372: wh-err= 0.997675 th-err= 0.211556 dev= nan test= 0.245000 train= 0.051078
+
+feature:recruitment 
+C0:  -0.001   0.001 
+C1:   0.810  -0.810 
+rnd 373: wh-err= 0.997701 th-err= 0.211070 dev= nan test= 0.245000 train= 0.051078
+
+feature:reason 
+C0:  -0.007   0.007 
+C1:   0.521  -0.521 
+rnd 374: wh-err= 0.997700 th-err= 0.210584 dev= nan test= 0.240000 train= 0.051078
+
+feature:catch 
+C0:   0.004  -0.004 
+C1:  -0.914   0.914 
+rnd 375: wh-err= 0.997472 th-err= 0.210052 dev= nan test= 0.245000 train= 0.051078
+
+feature:major 
+C0:   0.001  -0.001 
+C1:  -0.840   0.840 
+rnd 376: wh-err= 0.997522 th-err= 0.209531 dev= nan test= 0.245000 train= 0.051078
+
+feature:sometimes 
+C0:   0.001  -0.001 
+C1:  -0.806   0.806 
+rnd 377: wh-err= 0.997721 th-err= 0.209054 dev= nan test= 0.245000 train= 0.051078
+
+feature:else 
+C0:   0.001  -0.001 
+C1:  -0.804   0.804 
+rnd 378: wh-err= 0.997734 th-err= 0.208580 dev= nan test= 0.245000 train= 0.051078
+
+feature:help 
+C0:   0.001  -0.001 
+C1:  -0.804   0.804 
+rnd 379: wh-err= 0.997732 th-err= 0.208107 dev= nan test= 0.245000 train= 0.051078
+
+feature:adapt 
+C0:   0.001  -0.001 
+C1:  -0.800   0.800 
+rnd 380: wh-err= 0.997753 th-err= 0.207639 dev= nan test= 0.245000 train= 0.051078
+
+feature:hope 
+C0:   0.001  -0.001 
+C1:  -0.799   0.799 
+rnd 381: wh-err= 0.997759 th-err= 0.207174 dev= nan test= 0.245000 train= 0.051078
+
+feature:common 
+C0:   0.001  -0.001 
+C1:  -0.794   0.794 
+rnd 382: wh-err= 0.997787 th-err= 0.206716 dev= nan test= 0.245000 train= 0.051078
+
+feature:concentrate 
+C0:   0.001  -0.001 
+C1:  -0.795   0.795 
+rnd 383: wh-err= 0.997786 th-err= 0.206258 dev= nan test= 0.245000 train= 0.051078
+
+feature:environment 
+C0:   0.001  -0.001 
+C1:  -0.795   0.795 
+rnd 384: wh-err= 0.997786 th-err= 0.205801 dev= nan test= 0.245000 train= 0.051078
+
+feature:Bu 
+C0:   0.001  -0.001 
+C1:  -0.793   0.793 
+rnd 385: wh-err= 0.997794 th-err= 0.205347 dev= nan test= 0.245000 train= 0.051078
+
+feature:offered 
+C0:   0.001  -0.001 
+C1:  -0.793   0.793 
+rnd 386: wh-err= 0.997794 th-err= 0.204894 dev= nan test= 0.245000 train= 0.051078
+
+feature:team 
+C0:  -0.003   0.003 
+C1:   0.792  -0.792 
+rnd 387: wh-err= 0.997794 th-err= 0.204442 dev= nan test= 0.245000 train= 0.051078
+
+feature:relax 
+C0:   0.003  -0.003 
+C1:  -0.791   0.791 
+rnd 388: wh-err= 0.997801 th-err= 0.203993 dev= nan test= 0.245000 train= 0.051078
+
+feature:oh 
+C0:  -0.003   0.003 
+C1:   0.788  -0.788 
+rnd 389: wh-err= 0.997817 th-err= 0.203547 dev= nan test= 0.245000 train= 0.051078
+
+feature:before 
+C0:   0.003  -0.003 
+C1:  -0.783   0.783 
+rnd 390: wh-err= 0.997848 th-err= 0.203109 dev= nan test= 0.245000 train= 0.051078
+
+feature:reccomend 
+C0:   0.001  -0.001 
+C1:  -0.782   0.782 
+rnd 391: wh-err= 0.997854 th-err= 0.202673 dev= nan test= 0.245000 train= 0.051078
+
+feature:whatever 
+C0:   0.001  -0.001 
+C1:  -0.781   0.781 
+rnd 392: wh-err= 0.997859 th-err= 0.202240 dev= nan test= 0.245000 train= 0.051078
+
+feature:clear 
+C0:   0.001  -0.001 
+C1:  -0.778   0.778 
+rnd 393: wh-err= 0.997875 th-err= 0.201810 dev= nan test= 0.245000 train= 0.051078
+
+feature:hi 
+C0:  -0.003   0.003 
+C1:   0.777  -0.777 
+rnd 394: wh-err= 0.997880 th-err= 0.201382 dev= nan test= 0.245000 train= 0.051078
+
+feature:friends 
+C0:   0.011  -0.011 
+C1:  -0.462   0.462 
+rnd 395: wh-err= 0.997574 th-err= 0.200893 dev= nan test= 0.240000 train= 0.051078
+
+feature:((yea)) 
+C0:  -0.003   0.003 
+C1:   0.872  -0.872 
+rnd 396: wh-err= 0.997317 th-err= 0.200354 dev= nan test= 0.240000 train= 0.051078
+
+feature:eat 
+C0:   0.003  -0.003 
+C1:  -0.778   0.778 
+rnd 397: wh-err= 0.997870 th-err= 0.199928 dev= nan test= 0.240000 train= 0.051078
+
+feature:beginning 
+C0:  -0.003   0.003 
+C1:   0.776  -0.776 
+rnd 398: wh-err= 0.997885 th-err= 0.199505 dev= nan test= 0.240000 train= 0.051078
+
+feature:definitely 
+C0:  -0.001   0.001 
+C1:   0.776  -0.776 
+rnd 399: wh-err= 0.997885 th-err= 0.199083 dev= nan test= 0.240000 train= 0.051078
+
+feature:  
+C0:   0.003  -0.003 
+C1:  -0.776   0.776 
+rnd 400: wh-err= 0.997886 th-err= 0.198662 dev= nan test= 0.240000 train= 0.051078
+
+feature:sensitive 
+C0:   0.001  -0.001 
+C1:  -0.774   0.774 
+rnd 401: wh-err= 0.997896 th-err= 0.198244 dev= nan test= 0.240000 train= 0.051078
+
+feature:love 
+C0:   0.001  -0.001 
+C1:  -0.770   0.770 
+rnd 402: wh-err= 0.997919 th-err= 0.197831 dev= nan test= 0.240000 train= 0.051078
+
+feature:Relationships 
+C0:  -0.004   0.004 
+C1:   0.889  -0.889 
+rnd 403: wh-err= 0.997633 th-err= 0.197363 dev= nan test= 0.240000 train= 0.051078
+
+feature:eating 
+C0:  -0.004   0.004 
+C1:   0.709  -0.709 
+rnd 404: wh-err= 0.997912 th-err= 0.196951 dev= nan test= 0.240000 train= 0.049943
+
+feature:Ah 
+C0:  -0.008   0.008 
+C1:   0.464  -0.464 
+rnd 405: wh-err= 0.997876 th-err= 0.196533 dev= nan test= 0.240000 train= 0.049943
+
+feature:That’s 
+C0:   0.003  -0.003 
+C1:  -0.818   0.818 
+rnd 406: wh-err= 0.997648 th-err= 0.196070 dev= nan test= 0.240000 train= 0.049943
+
+feature:weaknesses 
+C0:  -0.003   0.003 
+C1:   0.777  -0.777 
+rnd 407: wh-err= 0.997879 th-err= 0.195654 dev= nan test= 0.240000 train= 0.049943
+
+feature:suprises 
+C0:  -0.001   0.001 
+C1:   0.778  -0.778 
+rnd 408: wh-err= 0.997876 th-err= 0.195239 dev= nan test= 0.240000 train= 0.049943
+
+feature:Works 
+C0:  -0.001   0.001 
+C1:   0.771  -0.771 
+rnd 409: wh-err= 0.997912 th-err= 0.194831 dev= nan test= 0.240000 train= 0.049943
+
+feature:apart 
+C0:  -0.001   0.001 
+C1:   0.772  -0.772 
+rnd 410: wh-err= 0.997908 th-err= 0.194424 dev= nan test= 0.240000 train= 0.049943
+
+feature:happen 
+C0:  -0.001   0.001 
+C1:   0.773  -0.773 
+rnd 411: wh-err= 0.997904 th-err= 0.194016 dev= nan test= 0.240000 train= 0.049943
+
+feature:particular 
+C0:  -0.002   0.002 
+C1:   0.850  -0.850 
+rnd 412: wh-err= 0.997923 th-err= 0.193613 dev= nan test= 0.240000 train= 0.049943
+
+feature:~TV 
+C0:   0.003  -0.003 
+C1:  -0.789   0.789 
+rnd 413: wh-err= 0.997810 th-err= 0.193189 dev= nan test= 0.240000 train= 0.049943
+
+feature:Shanghai 
+C0:   0.001  -0.001 
+C1:  -0.769   0.769 
+rnd 414: wh-err= 0.997927 th-err= 0.192789 dev= nan test= 0.240000 train= 0.049943
+
+feature:second 
+C0:   0.001  -0.001 
+C1:  -0.769   0.769 
+rnd 415: wh-err= 0.997927 th-err= 0.192389 dev= nan test= 0.240000 train= 0.049943
+
+feature:workload 
+C0:  -0.003   0.003 
+C1:   0.767  -0.767 
+rnd 416: wh-err= 0.997932 th-err= 0.191991 dev= nan test= 0.240000 train= 0.049943
+
+feature:there 
+C0:   0.010  -0.010 
+C1:  -0.453   0.453 
+rnd 417: wh-err= 0.997894 th-err= 0.191587 dev= nan test= 0.240000 train= 0.051078
+
+feature:much 
+C0:  -0.010   0.010 
+C1:   0.434  -0.434 
+rnd 418: wh-err= 0.997837 th-err= 0.191172 dev= nan test= 0.240000 train= 0.051078
+
+feature:easier 
+C0:   0.003  -0.003 
+C1:  -0.869   0.869 
+rnd 419: wh-err= 0.997334 th-err= 0.190663 dev= nan test= 0.240000 train= 0.051078
+
+feature:tend 
+C0:   0.001  -0.001 
+C1:  -0.821   0.821 
+rnd 420: wh-err= 0.997633 th-err= 0.190211 dev= nan test= 0.240000 train= 0.051078
+
+feature:exactly 
+C0:  -0.003   0.003 
+C1:   0.769  -0.769 
+rnd 421: wh-err= 0.997921 th-err= 0.189816 dev= nan test= 0.240000 train= 0.051078
+
+feature:Italian 
+C0:   0.003  -0.003 
+C1:  -0.768   0.768 
+rnd 422: wh-err= 0.997926 th-err= 0.189422 dev= nan test= 0.240000 train= 0.051078
+
+feature:law 
+C0:   0.001  -0.001 
+C1:  -0.768   0.768 
+rnd 423: wh-err= 0.997931 th-err= 0.189030 dev= nan test= 0.240000 train= 0.051078
+
+feature:Cantonese 
+C0:   0.001  -0.001 
+C1:  -0.766   0.766 
+rnd 424: wh-err= 0.997943 th-err= 0.188641 dev= nan test= 0.240000 train= 0.051078
+
+feature:didn't 
+C0:  -0.007   0.007 
+C1:   0.627  -0.627 
+rnd 425: wh-err= 0.997803 th-err= 0.188227 dev= nan test= 0.240000 train= 0.049943
+
+feature:work 
+C0:   0.012  -0.012 
+C1:  -0.514   0.514 
+rnd 426: wh-err= 0.996980 th-err= 0.187658 dev= nan test= 0.240000 train= 0.051078
+
+feature:benefits 
+C0:  -0.003   0.003 
+C1:   0.814  -0.814 
+rnd 427: wh-err= 0.997672 th-err= 0.187222 dev= nan test= 0.240000 train= 0.051078
+
+feature:doing 
+C0:  -0.008   0.008 
+C1:   0.484  -0.484 
+rnd 428: wh-err= 0.997658 th-err= 0.186783 dev= nan test= 0.240000 train= 0.048808
+
+feature:finding 
+C0:  -0.002   0.002 
+C1:   0.771  -0.771 
+rnd 429: wh-err= 0.997916 th-err= 0.186394 dev= nan test= 0.240000 train= 0.048808
+
+feature:take 
+C0:   0.007  -0.007 
+C1:  -0.622   0.622 
+rnd 430: wh-err= 0.997923 th-err= 0.186007 dev= nan test= 0.240000 train= 0.048808
+
+feature:make 
+C0:   0.001  -0.001 
+C1:  -0.769   0.769 
+rnd 431: wh-err= 0.997927 th-err= 0.185621 dev= nan test= 0.240000 train= 0.048808
+
+feature:answer 
+C0:   0.001  -0.001 
+C1:  -0.769   0.769 
+rnd 432: wh-err= 0.997927 th-err= 0.185236 dev= nan test= 0.240000 train= 0.048808
+
+feature:numbers 
+C0:  -0.003   0.003 
+C1:   0.766  -0.766 
+rnd 433: wh-err= 0.997938 th-err= 0.184854 dev= nan test= 0.240000 train= 0.048808
+
+feature:father 
+C0:  -0.001   0.001 
+C1:   0.765  -0.765 
+rnd 434: wh-err= 0.997944 th-err= 0.184474 dev= nan test= 0.240000 train= 0.048808
+
+feature:military 
+C0:  -0.001   0.001 
+C1:   0.766  -0.766 
+rnd 435: wh-err= 0.997943 th-err= 0.184095 dev= nan test= 0.240000 train= 0.048808
+
+feature:~HKUST 
+C0:   0.003  -0.003 
+C1:  -0.762   0.762 
+rnd 436: wh-err= 0.997956 th-err= 0.183719 dev= nan test= 0.240000 train= 0.048808
+
+feature:phsyics 
+C0:   0.001  -0.001 
+C1:  -0.764   0.764 
+rnd 437: wh-err= 0.997953 th-err= 0.183343 dev= nan test= 0.240000 train= 0.048808
+
+feature:snow 
+C0:   0.001  -0.001 
+C1:  -0.764   0.764 
+rnd 438: wh-err= 0.997949 th-err= 0.182967 dev= nan test= 0.240000 train= 0.048808
+
+feature:independence 
+C0:   0.001  -0.001 
+C1:  -0.765   0.765 
+rnd 439: wh-err= 0.997944 th-err= 0.182591 dev= nan test= 0.240000 train= 0.048808
+
+feature:energy 
+C0:   0.001  -0.001 
+C1:  -0.766   0.766 
+rnd 440: wh-err= 0.997940 th-err= 0.182214 dev= nan test= 0.240000 train= 0.048808
+
+feature:scholarship 
+C0:   0.001  -0.001 
+C1:  -0.765   0.765 
+rnd 441: wh-err= 0.997948 th-err= 0.181841 dev= nan test= 0.240000 train= 0.048808
+
+feature:trips 
+C0:   0.001  -0.001 
+C1:  -0.763   0.763 
+rnd 442: wh-err= 0.997958 th-err= 0.181469 dev= nan test= 0.240000 train= 0.048808
+
+feature:w-would 
+C0:   0.001  -0.001 
+C1:  -0.763   0.763 
+rnd 443: wh-err= 0.997955 th-err= 0.181098 dev= nan test= 0.240000 train= 0.048808
+
+feature:born 
+C0:   0.001  -0.001 
+C1:  -0.760   0.760 
+rnd 444: wh-err= 0.997972 th-err= 0.180731 dev= nan test= 0.240000 train= 0.048808
+
+feature:Currently 
+C0:   0.001  -0.001 
+C1:  -0.758   0.758 
+rnd 445: wh-err= 0.997984 th-err= 0.180367 dev= nan test= 0.240000 train= 0.048808
+
+feature:It’s 
+C0:   0.001  -0.001 
+C1:  -0.755   0.755 
+rnd 446: wh-err= 0.997995 th-err= 0.180005 dev= nan test= 0.240000 train= 0.048808
+
+feature:fresh 
+C0:   0.001  -0.001 
+C1:  -0.756   0.756 
+rnd 447: wh-err= 0.997993 th-err= 0.179644 dev= nan test= 0.240000 train= 0.048808
+
+feature:without 
+C0:   0.001  -0.001 
+C1:  -0.756   0.756 
+rnd 448: wh-err= 0.997993 th-err= 0.179283 dev= nan test= 0.240000 train= 0.048808
+
+feature:management 
+C0:   0.001  -0.001 
+C1:  -0.756   0.756 
+rnd 449: wh-err= 0.997994 th-err= 0.178924 dev= nan test= 0.240000 train= 0.048808
+
+feature:beach 
+C0:   0.001  -0.001 
+C1:  -0.753   0.753 
+rnd 450: wh-err= 0.998010 th-err= 0.178568 dev= nan test= 0.240000 train= 0.048808
+
+feature:else 
+C0:   0.001  -0.001 
+C1:  -0.753   0.753 
+rnd 451: wh-err= 0.998008 th-err= 0.178212 dev= nan test= 0.240000 train= 0.048808
+
+feature:hometown 
+C0:   0.001  -0.001 
+C1:  -0.752   0.752 
+rnd 452: wh-err= 0.998011 th-err= 0.177857 dev= nan test= 0.240000 train= 0.048808
+
+feature:told 
+C0:   0.001  -0.001 
+C1:  -0.753   0.753 
+rnd 453: wh-err= 0.998010 th-err= 0.177503 dev= nan test= 0.240000 train= 0.048808
+
+feature:oh 
+C0:  -0.003   0.003 
+C1:   0.752  -0.752 
+rnd 454: wh-err= 0.998011 th-err= 0.177150 dev= nan test= 0.240000 train= 0.048808
+
+feature:library 
+C0:  -0.004   0.004 
+C1:   0.723  -0.723 
+rnd 455: wh-err= 0.998019 th-err= 0.176799 dev= nan test= 0.240000 train= 0.048808
+
+feature:self 
+C0:   0.003  -0.003 
+C1:  -0.795   0.795 
+rnd 456: wh-err= 0.997777 th-err= 0.176406 dev= nan test= 0.240000 train= 0.048808
+
+feature:them 
+C0:  -0.010   0.010 
+C1:   0.410  -0.410 
+rnd 457: wh-err= 0.998001 th-err= 0.176054 dev= nan test= 0.235000 train= 0.047673
+
+feature:Lord 
+C0:   0.003  -0.003 
+C1:  -0.878   0.878 
+rnd 458: wh-err= 0.997276 th-err= 0.175574 dev= nan test= 0.235000 train= 0.047673
+
+feature:Not 
+C0:  -0.003   0.003 
+C1:   0.755  -0.755 
+rnd 459: wh-err= 0.997992 th-err= 0.175222 dev= nan test= 0.235000 train= 0.047673
+
+feature:yet 
+C0:   0.006  -0.006 
+C1:  -0.714   0.714 
+rnd 460: wh-err= 0.997923 th-err= 0.174858 dev= nan test= 0.235000 train= 0.047673
+
+feature:employment 
+C0:  -0.007   0.007 
+C1:   0.766  -0.766 
+rnd 461: wh-err= 0.997251 th-err= 0.174377 dev= nan test= 0.230000 train= 0.046538
+
+feature:Uh 
+C0:   0.007  -0.007 
+C1:  -0.756   0.756 
+rnd 462: wh-err= 0.997356 th-err= 0.173916 dev= nan test= 0.230000 train= 0.046538
+
+feature:uh 
+C0:  -0.031   0.031 
+C1:   0.142  -0.142 
+rnd 463: wh-err= 0.997868 th-err= 0.173545 dev= nan test= 0.230000 train= 0.046538
+
+feature:down 
+C0:   0.002  -0.002 
+C1:  -0.799   0.799 
+rnd 464: wh-err= 0.997757 th-err= 0.173156 dev= nan test= 0.230000 train= 0.046538
+
+feature: 
+C0:   0.001  -0.001 
+C1:  -0.784   0.784 
+rnd 465: wh-err= 0.997843 th-err= 0.172782 dev= nan test= 0.230000 train= 0.046538
+
+feature:important 
+C0:   0.001  -0.001 
+C1:  -0.782   0.782 
+rnd 466: wh-err= 0.997855 th-err= 0.172412 dev= nan test= 0.230000 train= 0.046538
+
+feature:3rd 
+C0:  -0.003   0.003 
+C1:   0.765  -0.765 
+rnd 467: wh-err= 0.997943 th-err= 0.172057 dev= nan test= 0.230000 train= 0.046538
+
+feature:I'm 
+C0:   0.018  -0.018 
+C1:  -0.256   0.256 
+rnd 468: wh-err= 0.997758 th-err= 0.171671 dev= nan test= 0.235000 train= 0.044268
+
+feature:finanical 
+C0:  -0.003   0.003 
+C1:   0.848  -0.848 
+rnd 469: wh-err= 0.997468 th-err= 0.171237 dev= nan test= 0.235000 train= 0.044268
+
+feature:child 
+C0:  -0.001   0.001 
+C1:   0.839  -0.839 
+rnd 470: wh-err= 0.997531 th-err= 0.170814 dev= nan test= 0.235000 train= 0.044268
+
+feature:academic 
+C0:  -0.009   0.009 
+C1:   0.441  -0.441 
+rnd 471: wh-err= 0.997716 th-err= 0.170424 dev= nan test= 0.230000 train= 0.046538
+
+feature:fed 
+C0:  -0.002   0.002 
+C1:   0.787  -0.787 
+rnd 472: wh-err= 0.997827 th-err= 0.170054 dev= nan test= 0.230000 train= 0.046538
+
+feature:once 
+C0:  -0.001   0.001 
+C1:   0.766  -0.766 
+rnd 473: wh-err= 0.997938 th-err= 0.169703 dev= nan test= 0.230000 train= 0.046538
+
+feature:behind 
+C0:  -0.001   0.001 
+C1:   0.767  -0.767 
+rnd 474: wh-err= 0.997937 th-err= 0.169353 dev= nan test= 0.230000 train= 0.046538
+
+feature:already 
+C0:  -0.001   0.001 
+C1:   0.767  -0.767 
+rnd 475: wh-err= 0.997934 th-err= 0.169003 dev= nan test= 0.230000 train= 0.046538
+
+feature:yeah 
+C0:  -0.010   0.010 
+C1:   0.368  -0.368 
+rnd 476: wh-err= 0.997940 th-err= 0.168655 dev= nan test= 0.230000 train= 0.045403
+
+feature:materialistic 
+C0:  -0.002   0.002 
+C1:   0.770  -0.770 
+rnd 477: wh-err= 0.997917 th-err= 0.168303 dev= nan test= 0.230000 train= 0.045403
+
+feature:society 
+C0:   0.004  -0.004 
+C1:  -0.846   0.846 
+rnd 478: wh-err= 0.997890 th-err= 0.167948 dev= nan test= 0.230000 train= 0.045403
+
+feature:try 
+C0:  -0.007   0.007 
+C1:   0.662  -0.662 
+rnd 479: wh-err= 0.997884 th-err= 0.167593 dev= nan test= 0.230000 train= 0.045403
+
+feature:way 
+C0:   0.003  -0.003 
+C1:  -0.795   0.795 
+rnd 480: wh-err= 0.997782 th-err= 0.167221 dev= nan test= 0.230000 train= 0.044268
+
+feature:compared 
+C0:   0.001  -0.001 
+C1:  -0.779   0.779 
+rnd 481: wh-err= 0.997871 th-err= 0.166865 dev= nan test= 0.230000 train= 0.044268
+
+feature:cooperate 
+C0:  -0.003   0.003 
+C1:   0.771  -0.771 
+rnd 482: wh-err= 0.997909 th-err= 0.166516 dev= nan test= 0.230000 train= 0.044268
+
+feature:grade 
+C0:  -0.001   0.001 
+C1:   0.764  -0.764 
+rnd 483: wh-err= 0.997953 th-err= 0.166175 dev= nan test= 0.230000 train= 0.045403
+
+feature:that's 
+C0:   0.007  -0.007 
+C1:  -0.600   0.600 
+rnd 484: wh-err= 0.997959 th-err= 0.165836 dev= nan test= 0.225000 train= 0.044268
+
+feature:((yea)) 
+C0:  -0.003   0.003 
+C1:   0.829  -0.829 
+rnd 485: wh-err= 0.997583 th-err= 0.165435 dev= nan test= 0.225000 train= 0.044268
+
+feature:know 
+C0:  -0.015   0.015 
+C1:   0.251  -0.251 
+rnd 486: wh-err= 0.997999 th-err= 0.165104 dev= nan test= 0.230000 train= 0.041998
+
+feature:grades 
+C0:   0.006  -0.006 
+C1:  -0.742   0.742 
+rnd 487: wh-err= 0.997474 th-err= 0.164687 dev= nan test= 0.225000 train= 0.040863
+
+feature:during 
+C0:  -0.003   0.003 
+C1:   0.838  -0.838 
+rnd 488: wh-err= 0.997528 th-err= 0.164280 dev= nan test= 0.225000 train= 0.040863
+
+feature:Um 
+C0:  -0.013   0.013 
+C1:   0.297  -0.297 
+rnd 489: wh-err= 0.997923 th-err= 0.163939 dev= nan test= 0.225000 train= 0.041998
+
+feature:tasks 
+C0:  -0.002   0.002 
+C1:   0.764  -0.764 
+rnd 490: wh-err= 0.997950 th-err= 0.163603 dev= nan test= 0.225000 train= 0.041998
+
+feature:everyones 
+C0:  -0.001   0.001 
+C1:   0.761  -0.761 
+rnd 491: wh-err= 0.997969 th-err= 0.163271 dev= nan test= 0.225000 train= 0.041998
+
+feature:textbook 
+C0:  -0.001   0.001 
+C1:   0.760  -0.760 
+rnd 492: wh-err= 0.997970 th-err= 0.162939 dev= nan test= 0.225000 train= 0.041998
+
+feature:communication 
+C0:  -0.008   0.008 
+C1:   0.436  -0.436 
+rnd 493: wh-err= 0.997963 th-err= 0.162607 dev= nan test= 0.225000 train= 0.040863
+
+feature:scenarios 
+C0:  -0.002   0.002 
+C1:   0.765  -0.765 
+rnd 494: wh-err= 0.997947 th-err= 0.162273 dev= nan test= 0.225000 train= 0.040863
+
+feature:far 
+C0:  -0.004   0.004 
+C1:   0.745  -0.745 
+rnd 495: wh-err= 0.997952 th-err= 0.161941 dev= nan test= 0.230000 train= 0.039728
+
+feature:competitive 
+C0:  -0.005   0.005 
+C1:   0.636  -0.636 
+rnd 496: wh-err= 0.997938 th-err= 0.161607 dev= nan test= 0.230000 train= 0.039728
+
+feature:later 
+C0:  -0.003   0.003 
+C1:   0.817  -0.817 
+rnd 497: wh-err= 0.997925 th-err= 0.161272 dev= nan test= 0.230000 train= 0.040863
+
+feature:everything 
+C0:  -0.007   0.007 
+C1:   0.475  -0.475 
+rnd 498: wh-err= 0.997940 th-err= 0.160939 dev= nan test= 0.230000 train= 0.040863
+
+feature:stressed 
+C0:  -0.005   0.005 
+C1:   0.665  -0.665 
+rnd 499: wh-err= 0.997946 th-err= 0.160609 dev= nan test= 0.220000 train= 0.041998
+
+feature:too 
+C0:   0.004  -0.004 
+C1:  -0.897   0.897 
+rnd 500: wh-err= 0.997146 th-err= 0.160151 dev= nan test= 0.225000 train= 0.040863
+
+feature:attention 
+C0:  -0.003   0.003 
+C1:   0.761  -0.761 
+rnd 501: wh-err= 0.997964 th-err= 0.159824 dev= nan test= 0.225000 train= 0.040863
+
+feature:word 
+C0:  -0.001   0.001 
+C1:   0.761  -0.761 
+rnd 502: wh-err= 0.997965 th-err= 0.159499 dev= nan test= 0.220000 train= 0.041998
+
+feature:began 
+C0:  -0.001   0.001 
+C1:   0.760  -0.760 
+rnd 503: wh-err= 0.997970 th-err= 0.159175 dev= nan test= 0.220000 train= 0.041998
+
+feature:wanna 
+C0:  -0.001   0.001 
+C1:   0.760  -0.760 
+rnd 504: wh-err= 0.997971 th-err= 0.158852 dev= nan test= 0.220000 train= 0.041998
+
+feature:expectations 
+C0:  -0.002   0.002 
+C1:   0.836  -0.836 
+rnd 505: wh-err= 0.997973 th-err= 0.158530 dev= nan test= 0.220000 train= 0.041998
+
+feature:lived 
+C0:   0.003  -0.003 
+C1:  -0.777   0.777 
+rnd 506: wh-err= 0.997875 th-err= 0.158194 dev= nan test= 0.220000 train= 0.041998
+
+feature:haven’t 
+C0:  -0.003   0.003 
+C1:   0.761  -0.761 
+rnd 507: wh-err= 0.997965 th-err= 0.157872 dev= nan test= 0.220000 train= 0.041998
+
+feature:commission 
+C0:  -0.001   0.001 
+C1:   0.762  -0.762 
+rnd 508: wh-err= 0.997961 th-err= 0.157550 dev= nan test= 0.220000 train= 0.041998
+
+feature:hi 
+C0:  -0.001   0.001 
+C1:   0.761  -0.761 
+rnd 509: wh-err= 0.997969 th-err= 0.157230 dev= nan test= 0.220000 train= 0.041998
+
+feature:all 
+C0:  -0.010   0.010 
+C1:   0.371  -0.371 
+rnd 510: wh-err= 0.997960 th-err= 0.156909 dev= nan test= 0.225000 train= 0.038593
+
+feature:drama 
+C0:   0.002  -0.002 
+C1:  -0.758   0.758 
+rnd 511: wh-err= 0.997982 th-err= 0.156592 dev= nan test= 0.225000 train= 0.038593
+
+feature:involves 
+C0:  -0.003   0.003 
+C1:   0.755  -0.755 
+rnd 512: wh-err= 0.997995 th-err= 0.156278 dev= nan test= 0.225000 train= 0.038593
+
+feature:stayed 
+C0:  -0.003   0.003 
+C1:   0.812  -0.812 
+rnd 513: wh-err= 0.997994 th-err= 0.155965 dev= nan test= 0.225000 train= 0.038593
+
+feature:had 
+C0:   0.003  -0.003 
+C1:  -0.811   0.811 
+rnd 514: wh-err= 0.997688 th-err= 0.155604 dev= nan test= 0.225000 train= 0.038593
+
+feature:  
+C0:   0.001  -0.001 
+C1:  -0.755   0.755 
+rnd 515: wh-err= 0.997998 th-err= 0.155293 dev= nan test= 0.225000 train= 0.038593
+
+feature:real 
+C0:   0.001  -0.001 
+C1:  -0.755   0.755 
+rnd 516: wh-err= 0.998000 th-err= 0.154982 dev= nan test= 0.225000 train= 0.038593
+
+feature:mood 
+C0:  -0.005   0.005 
+C1:   0.845  -0.845 
+rnd 517: wh-err= 0.997703 th-err= 0.154626 dev= nan test= 0.225000 train= 0.038593
+
+feature:well 
+C0:  -0.013   0.013 
+C1:   0.282  -0.282 
+rnd 518: wh-err= 0.998027 th-err= 0.154321 dev= nan test= 0.220000 train= 0.039728
+
+feature:fix 
+C0:  -0.002   0.002 
+C1:   0.751  -0.751 
+rnd 519: wh-err= 0.998019 th-err= 0.154015 dev= nan test= 0.220000 train= 0.039728
+
+feature:both 
+C0:   0.003  -0.003 
+C1:  -0.745   0.745 
+rnd 520: wh-err= 0.998044 th-err= 0.153714 dev= nan test= 0.220000 train= 0.038593
+
+feature:concepts 
+C0:   0.001  -0.001 
+C1:  -0.741   0.741 
+rnd 521: wh-err= 0.998067 th-err= 0.153417 dev= nan test= 0.220000 train= 0.038593
+
+feature:submissions 
+C0:  -0.003   0.003 
+C1:   0.737  -0.737 
+rnd 522: wh-err= 0.998085 th-err= 0.153123 dev= nan test= 0.220000 train= 0.039728
+
+feature:constantly 
+C0:  -0.001   0.001 
+C1:   0.738  -0.738 
+rnd 523: wh-err= 0.998083 th-err= 0.152830 dev= nan test= 0.220000 train= 0.039728
+
+feature:prospects 
+C0:  -0.001   0.001 
+C1:   0.739  -0.739 
+rnd 524: wh-err= 0.998079 th-err= 0.152536 dev= nan test= 0.220000 train= 0.039728
+
+feature:Application 
+C0:  -0.001   0.001 
+C1:   0.739  -0.739 
+rnd 525: wh-err= 0.998078 th-err= 0.152243 dev= nan test= 0.220000 train= 0.039728
+
+feature:speaking 
+C0:  -0.001   0.001 
+C1:   0.738  -0.738 
+rnd 526: wh-err= 0.998083 th-err= 0.151951 dev= nan test= 0.220000 train= 0.039728
+
+feature:How 
+C0:   0.003  -0.003 
+C1:  -0.733   0.733 
+rnd 527: wh-err= 0.998103 th-err= 0.151663 dev= nan test= 0.220000 train= 0.039728
+
+feature:touch 
+C0:   0.001  -0.001 
+C1:  -0.734   0.734 
+rnd 528: wh-err= 0.998105 th-err= 0.151375 dev= nan test= 0.220000 train= 0.039728
+
+feature:movies 
+C0:   0.001  -0.001 
+C1:  -0.734   0.734 
+rnd 529: wh-err= 0.998105 th-err= 0.151088 dev= nan test= 0.220000 train= 0.039728
+
+feature:graduate? 
+C0:  -0.003   0.003 
+C1:   0.732  -0.732 
+rnd 530: wh-err= 0.998112 th-err= 0.150803 dev= nan test= 0.220000 train= 0.039728
+
+feature:afterwards 
+C0:  -0.001   0.001 
+C1:   0.732  -0.732 
+rnd 531: wh-err= 0.998112 th-err= 0.150518 dev= nan test= 0.220000 train= 0.039728
+
+feature:University 
+C0:   0.003  -0.003 
+C1:  -0.729   0.729 
+rnd 532: wh-err= 0.998123 th-err= 0.150236 dev= nan test= 0.220000 train= 0.039728
+
+feature:look 
+C0:  -0.005   0.005 
+C1:   0.828  -0.828 
+rnd 533: wh-err= 0.997827 th-err= 0.149909 dev= nan test= 0.220000 train= 0.039728
+
+feature:better 
+C0:   0.009  -0.009 
+C1:  -0.461   0.461 
+rnd 534: wh-err= 0.997993 th-err= 0.149608 dev= nan test= 0.220000 train= 0.038593
+
+feature:3rd 
+C0:  -0.003   0.003 
+C1:   0.835  -0.835 
+rnd 535: wh-err= 0.997550 th-err= 0.149242 dev= nan test= 0.220000 train= 0.038593
+
+feature:bright 
+C0:  -0.001   0.001 
+C1:   0.813  -0.813 
+rnd 536: wh-err= 0.997680 th-err= 0.148896 dev= nan test= 0.220000 train= 0.039728
+
+feature:worried 
+C0:  -0.002   0.002 
+C1:   0.807  -0.807 
+rnd 537: wh-err= 0.998139 th-err= 0.148619 dev= nan test= 0.220000 train= 0.039728
+
+feature:i 
+C0:  -0.006   0.006 
+C1:   0.500  -0.500 
+rnd 538: wh-err= 0.998126 th-err= 0.148340 dev= nan test= 0.230000 train= 0.039728
+
+feature:coming 
+C0:   0.003  -0.003 
+C1:  -0.750   0.750 
+rnd 539: wh-err= 0.998019 th-err= 0.148046 dev= nan test= 0.230000 train= 0.039728
+
+feature:day 
+C0:  -0.006   0.006 
+C1:   0.649  -0.649 
+rnd 540: wh-err= 0.998110 th-err= 0.147766 dev= nan test= 0.230000 train= 0.038593
+
+feature:China 
+C0:   0.003  -0.003 
+C1:  -0.749   0.749 
+rnd 541: wh-err= 0.998027 th-err= 0.147475 dev= nan test= 0.230000 train= 0.038593
+
+feature:seems 
+C0:   0.001  -0.001 
+C1:  -0.737   0.737 
+rnd 542: wh-err= 0.998087 th-err= 0.147193 dev= nan test= 0.230000 train= 0.038593
+
+feature:wants 
+C0:  -0.003   0.003 
+C1:   0.733  -0.733 
+rnd 543: wh-err= 0.998107 th-err= 0.146914 dev= nan test= 0.230000 train= 0.038593
+
+feature:having 
+C0:  -0.002   0.002 
+C1:   0.817  -0.817 
+rnd 544: wh-err= 0.998103 th-err= 0.146635 dev= nan test= 0.230000 train= 0.038593
+
+feature:im 
+C0:  -0.006   0.006 
+C1:   0.493  -0.493 
+rnd 545: wh-err= 0.998086 th-err= 0.146355 dev= nan test= 0.230000 train= 0.039728
+
+feature:maybe 
+C0:   0.003  -0.003 
+C1:  -0.751   0.751 
+rnd 546: wh-err= 0.998015 th-err= 0.146064 dev= nan test= 0.230000 train= 0.039728
+
+feature:difference 
+C0:  -0.003   0.003 
+C1:   0.738  -0.738 
+rnd 547: wh-err= 0.998083 th-err= 0.145784 dev= nan test= 0.230000 train= 0.039728
+
+feature:Tension 
+C0:  -0.001   0.001 
+C1:   0.736  -0.736 
+rnd 548: wh-err= 0.998091 th-err= 0.145506 dev= nan test= 0.230000 train= 0.039728
+
+feature:happens 
+C0:  -0.001   0.001 
+C1:   0.731  -0.731 
+rnd 549: wh-err= 0.998117 th-err= 0.145232 dev= nan test= 0.230000 train= 0.039728
+
+feature:th 
+C0:  -0.003   0.003 
+C1:   0.717  -0.717 
+rnd 550: wh-err= 0.998140 th-err= 0.144962 dev= nan test= 0.235000 train= 0.038593
+
+feature:- 
+C0:   0.003  -0.003 
+C1:  -0.765   0.765 
+rnd 551: wh-err= 0.997945 th-err= 0.144664 dev= nan test= 0.235000 train= 0.038593
+
+feature:started 
+C0:  -0.006   0.006 
+C1:   0.723  -0.723 
+rnd 552: wh-err= 0.997739 th-err= 0.144337 dev= nan test= 0.235000 train= 0.039728
+
+feature:people 
+C0:   0.011  -0.011 
+C1:  -0.417   0.417 
+rnd 553: wh-err= 0.997747 th-err= 0.144012 dev= nan test= 0.230000 train= 0.038593
+
+feature:woul 
+C0:  -0.003   0.003 
+C1:   0.848  -0.848 
+rnd 554: wh-err= 0.997471 th-err= 0.143647 dev= nan test= 0.230000 train= 0.038593
+
+feature:suited 
+C0:  -0.001   0.001 
+C1:   0.750  -0.750 
+rnd 555: wh-err= 0.998023 th-err= 0.143363 dev= nan test= 0.230000 train= 0.038593
+
+feature:an 
+C0:  -0.006   0.006 
+C1:   0.515  -0.515 
+rnd 556: wh-err= 0.998110 th-err= 0.143093 dev= nan test= 0.230000 train= 0.038593
+
+feature:inteview 
+C0:   0.003  -0.003 
+C1:  -0.839   0.839 
+rnd 557: wh-err= 0.997523 th-err= 0.142738 dev= nan test= 0.230000 train= 0.038593
+
+feature:don't 
+C0:  -0.016   0.016 
+C1:   0.258  -0.258 
+rnd 558: wh-err= 0.998007 th-err= 0.142454 dev= nan test= 0.235000 train= 0.039728
+
+feature:have 
+C0:   0.020  -0.020 
+C1:  -0.255   0.255 
+rnd 559: wh-err= 0.997504 th-err= 0.142098 dev= nan test= 0.240000 train= 0.038593
+
+feature:need 
+C0:  -0.007   0.007 
+C1:   0.564  -0.564 
+rnd 560: wh-err= 0.997978 th-err= 0.141811 dev= nan test= 0.245000 train= 0.037457
+
+feature:recruitment 
+C0:  -0.001   0.001 
+C1:   0.758  -0.758 
+rnd 561: wh-err= 0.997980 th-err= 0.141524 dev= nan test= 0.245000 train= 0.038593
+
+feature:can 
+C0:   0.009  -0.009 
+C1:  -0.462   0.462 
+rnd 562: wh-err= 0.998030 th-err= 0.141246 dev= nan test= 0.245000 train= 0.037457
+
+feature:concentrate 
+C0:   0.001  -0.001 
+C1:  -0.751   0.751 
+rnd 563: wh-err= 0.998020 th-err= 0.140966 dev= nan test= 0.245000 train= 0.037457
+
+feature:trying 
+C0:   0.005  -0.005 
+C1:  -0.594   0.594 
+rnd 564: wh-err= 0.998087 th-err= 0.140696 dev= nan test= 0.245000 train= 0.036322
+
+feature:told 
+C0:   0.001  -0.001 
+C1:  -0.731   0.731 
+rnd 565: wh-err= 0.998120 th-err= 0.140432 dev= nan test= 0.245000 train= 0.036322
+
+feature:slowly 
+C0:   0.001  -0.001 
+C1:  -0.730   0.730 
+rnd 566: wh-err= 0.998124 th-err= 0.140168 dev= nan test= 0.245000 train= 0.036322
+
+feature:cultural 
+C0:  -0.006   0.006 
+C1:   0.706  -0.706 
+rnd 567: wh-err= 0.998000 th-err= 0.139888 dev= nan test= 0.245000 train= 0.035187
+
+feature:simple 
+C0:   0.003  -0.003 
+C1:  -0.729   0.729 
+rnd 568: wh-err= 0.998125 th-err= 0.139626 dev= nan test= 0.245000 train= 0.035187
+
+feature:fix 
+C0:  -0.003   0.003 
+C1:   0.723  -0.723 
+rnd 569: wh-err= 0.998153 th-err= 0.139368 dev= nan test= 0.245000 train= 0.035187
+
+feature:later 
+C0:  -0.002   0.002 
+C1:   0.799  -0.799 
+rnd 570: wh-err= 0.998149 th-err= 0.139110 dev= nan test= 0.245000 train= 0.035187
+
+feature:four 
+C0:  -0.001   0.001 
+C1:   0.724  -0.724 
+rnd 571: wh-err= 0.998150 th-err= 0.138853 dev= nan test= 0.250000 train= 0.035187
+
+feature:material 
+C0:  -0.004   0.004 
+C1:   0.639  -0.639 
+rnd 572: wh-err= 0.998152 th-err= 0.138596 dev= nan test= 0.250000 train= 0.034052
+
+feature:team 
+C0:  -0.001   0.001 
+C1:   0.726  -0.726 
+rnd 573: wh-err= 0.998144 th-err= 0.138339 dev= nan test= 0.250000 train= 0.034052
+
+feature:personally 
+C0:  -0.001   0.001 
+C1:   0.726  -0.726 
+rnd 574: wh-err= 0.998141 th-err= 0.138081 dev= nan test= 0.250000 train= 0.034052
+
+feature:tennis 
+C0:   0.003  -0.003 
+C1:  -0.722   0.722 
+rnd 575: wh-err= 0.998160 th-err= 0.137827 dev= nan test= 0.250000 train= 0.034052
+
+feature:~FYP 
+C0:  -0.003   0.003 
+C1:   0.721  -0.721 
+rnd 576: wh-err= 0.998161 th-err= 0.137574 dev= nan test= 0.250000 train= 0.034052
+
+feature:as 
+C0:   0.010  -0.010 
+C1:  -0.432   0.432 
+rnd 577: wh-err= 0.998045 th-err= 0.137305 dev= nan test= 0.245000 train= 0.034052
+
+feature:extra 
+C0:  -0.003   0.003 
+C1:   0.890  -0.890 
+rnd 578: wh-err= 0.997197 th-err= 0.136920 dev= nan test= 0.245000 train= 0.034052
+
+feature:said 
+C0:  -0.002   0.002 
+C1:   0.890  -0.890 
+rnd 579: wh-err= 0.997200 th-err= 0.136537 dev= nan test= 0.245000 train= 0.034052
+
+feature:materialistic 
+C0:  -0.001   0.001 
+C1:   0.735  -0.735 
+rnd 580: wh-err= 0.998100 th-err= 0.136277 dev= nan test= 0.245000 train= 0.034052
+
+feature:used 
+C0:   0.003  -0.003 
+C1:  -0.724   0.724 
+rnd 581: wh-err= 0.998149 th-err= 0.136025 dev= nan test= 0.245000 train= 0.034052
+
+feature:real 
+C0:   0.001  -0.001 
+C1:  -0.725   0.725 
+rnd 582: wh-err= 0.998147 th-err= 0.135773 dev= nan test= 0.245000 train= 0.034052
+
+feature:reccomend 
+C0:   0.001  -0.001 
+C1:  -0.723   0.723 
+rnd 583: wh-err= 0.998159 th-err= 0.135523 dev= nan test= 0.245000 train= 0.034052
+
+feature:more 
+C0:   0.009  -0.009 
+C1:  -0.373   0.373 
+rnd 584: wh-err= 0.998155 th-err= 0.135273 dev= nan test= 0.245000 train= 0.034052
+
+feature:finanical 
+C0:  -0.003   0.003 
+C1:   0.778  -0.778 
+rnd 585: wh-err= 0.997877 th-err= 0.134986 dev= nan test= 0.245000 train= 0.034052
+
+feature:oh 
+C0:  -0.001   0.001 
+C1:   0.739  -0.739 
+rnd 586: wh-err= 0.998078 th-err= 0.134726 dev= nan test= 0.245000 train= 0.034052
+
+feature:back 
+C0:   0.003  -0.003 
+C1:  -0.725   0.725 
+rnd 587: wh-err= 0.998143 th-err= 0.134476 dev= nan test= 0.245000 train= 0.034052
+
+feature:Bu 
+C0:   0.001  -0.001 
+C1:  -0.726   0.726 
+rnd 588: wh-err= 0.998145 th-err= 0.134227 dev= nan test= 0.245000 train= 0.034052
+
+feature:holidays 
+C0:   0.001  -0.001 
+C1:  -0.723   0.723 
+rnd 589: wh-err= 0.998155 th-err= 0.133979 dev= nan test= 0.245000 train= 0.034052
+
+feature:subject 
+C0:   0.001  -0.001 
+C1:  -0.724   0.724 
+rnd 590: wh-err= 0.998152 th-err= 0.133731 dev= nan test= 0.245000 train= 0.034052
+
+feature:Korean 
+C0:   0.001  -0.001 
+C1:  -0.719   0.719 
+rnd 591: wh-err= 0.998176 th-err= 0.133487 dev= nan test= 0.245000 train= 0.034052
+
+feature:the 
+C0:   0.022  -0.022 
+C1:  -0.157   0.157 
+rnd 592: wh-err= 0.998173 th-err= 0.133244 dev= nan test= 0.245000 train= 0.034052
+
+feature:military 
+C0:  -0.002   0.002 
+C1:   0.769  -0.769 
+rnd 593: wh-err= 0.997923 th-err= 0.132967 dev= nan test= 0.245000 train= 0.034052
+
+feature:suited 
+C0:  -0.001   0.001 
+C1:   0.768  -0.768 
+rnd 594: wh-err= 0.997932 th-err= 0.132692 dev= nan test= 0.245000 train= 0.034052
+
+feature:liberating 
+C0:  -0.001   0.001 
+C1:   0.764  -0.764 
+rnd 595: wh-err= 0.997952 th-err= 0.132420 dev= nan test= 0.245000 train= 0.034052
+
+feature:At 
+C0:  -0.001   0.001 
+C1:   0.744  -0.744 
+rnd 596: wh-err= 0.998056 th-err= 0.132163 dev= nan test= 0.245000 train= 0.034052
+
+feature:sector 
+C0:  -0.001   0.001 
+C1:   0.741  -0.741 
+rnd 597: wh-err= 0.998069 th-err= 0.131908 dev= nan test= 0.245000 train= 0.034052
+
+feature:hasn't 
+C0:   0.003  -0.003 
+C1:  -0.726   0.726 
+rnd 598: wh-err= 0.998142 th-err= 0.131662 dev= nan test= 0.245000 train= 0.034052
+
+feature:terms 
+C0:  -0.003   0.003 
+C1:   0.725  -0.725 
+rnd 599: wh-err= 0.998147 th-err= 0.131418 dev= nan test= 0.245000 train= 0.034052
+
+feature:music 
+C0:   0.003  -0.003 
+C1:  -0.723   0.723 
+rnd 600: wh-err= 0.998155 th-err= 0.131176 dev= nan test= 0.245000 train= 0.034052
+
+feature:romance 
+C0:   0.001  -0.001 
+C1:  -0.724   0.724 
+rnd 601: wh-err= 0.998151 th-err= 0.130933 dev= nan test= 0.245000 train= 0.034052
+
+feature:planting 
+C0:   0.001  -0.001 
+C1:  -0.725   0.725 
+rnd 602: wh-err= 0.998147 th-err= 0.130691 dev= nan test= 0.245000 train= 0.034052
+
+feature:house 
+C0:   0.001  -0.001 
+C1:  -0.726   0.726 
+rnd 603: wh-err= 0.998144 th-err= 0.130448 dev= nan test= 0.245000 train= 0.034052
+
+feature:crowded 
+C0:   0.001  -0.001 
+C1:  -0.726   0.726 
+rnd 604: wh-err= 0.998140 th-err= 0.130206 dev= nan test= 0.245000 train= 0.034052
+
+feature:criterias 
+C0:   0.001  -0.001 
+C1:  -0.727   0.727 
+rnd 605: wh-err= 0.998137 th-err= 0.129963 dev= nan test= 0.245000 train= 0.034052
+
+feature:competitor 
+C0:   0.001  -0.001 
+C1:  -0.728   0.728 
+rnd 606: wh-err= 0.998133 th-err= 0.129720 dev= nan test= 0.245000 train= 0.034052
+
+feature:~OM 
+C0:   0.001  -0.001 
+C1:  -0.729   0.729 
+rnd 607: wh-err= 0.998130 th-err= 0.129478 dev= nan test= 0.245000 train= 0.034052
+
+feature:negatives 
+C0:   0.001  -0.001 
+C1:  -0.729   0.729 
+rnd 608: wh-err= 0.998126 th-err= 0.129235 dev= nan test= 0.245000 train= 0.034052
+
+feature:kindly 
+C0:   0.001  -0.001 
+C1:  -0.730   0.730 
+rnd 609: wh-err= 0.998122 th-err= 0.128992 dev= nan test= 0.245000 train= 0.034052
+
+feature:mid-terms 
+C0:   0.001  -0.001 
+C1:  -0.731   0.731 
+rnd 610: wh-err= 0.998119 th-err= 0.128750 dev= nan test= 0.245000 train= 0.034052
+
+feature:thrillers 
+C0:   0.001  -0.001 
+C1:  -0.732   0.732 
+rnd 611: wh-err= 0.998115 th-err= 0.128507 dev= nan test= 0.245000 train= 0.034052
+
+feature:everything's 
+C0:   0.001  -0.001 
+C1:  -0.732   0.732 
+rnd 612: wh-err= 0.998111 th-err= 0.128264 dev= nan test= 0.245000 train= 0.034052
+
+feature:Nabeul 
+C0:   0.001  -0.001 
+C1:  -0.733   0.733 
+rnd 613: wh-err= 0.998108 th-err= 0.128022 dev= nan test= 0.245000 train= 0.034052
+
+feature:money 
+C0:   0.001  -0.001 
+C1:  -0.734   0.734 
+rnd 614: wh-err= 0.998104 th-err= 0.127779 dev= nan test= 0.245000 train= 0.034052
+
+feature:fat 
+C0:   0.001  -0.001 
+C1:  -0.735   0.735 
+rnd 615: wh-err= 0.998100 th-err= 0.127536 dev= nan test= 0.245000 train= 0.034052
+
+feature:cheap 
+C0:   0.001  -0.001 
+C1:  -0.735   0.735 
+rnd 616: wh-err= 0.998096 th-err= 0.127293 dev= nan test= 0.245000 train= 0.034052
+
+feature:energised 
+C0:   0.001  -0.001 
+C1:  -0.736   0.736 
+rnd 617: wh-err= 0.998092 th-err= 0.127050 dev= nan test= 0.245000 train= 0.034052
+
+feature:relaxed 
+C0:   0.001  -0.001 
+C1:  -0.737   0.737 
+rnd 618: wh-err= 0.998089 th-err= 0.126808 dev= nan test= 0.245000 train= 0.034052
+
+feature:enjoyed 
+C0:   0.001  -0.001 
+C1:  -0.738   0.738 
+rnd 619: wh-err= 0.998085 th-err= 0.126565 dev= nan test= 0.245000 train= 0.034052
+
+feature:((all)) 
+C0:   0.001  -0.001 
+C1:  -0.739   0.739 
+rnd 620: wh-err= 0.998081 th-err= 0.126322 dev= nan test= 0.245000 train= 0.034052
+
+feature:passionate 
+C0:   0.001  -0.001 
+C1:  -0.739   0.739 
+rnd 621: wh-err= 0.998077 th-err= 0.126079 dev= nan test= 0.245000 train= 0.034052
+
+feature:enthusiastic 
+C0:   0.001  -0.001 
+C1:  -0.740   0.740 
+rnd 622: wh-err= 0.998073 th-err= 0.125836 dev= nan test= 0.245000 train= 0.034052
+
+feature:Spain 
+C0:   0.001  -0.001 
+C1:  -0.741   0.741 
+rnd 623: wh-err= 0.998069 th-err= 0.125593 dev= nan test= 0.245000 train= 0.034052
+
+feature:shock 
+C0:   0.001  -0.001 
+C1:  -0.742   0.742 
+rnd 624: wh-err= 0.998065 th-err= 0.125350 dev= nan test= 0.245000 train= 0.034052
+
+feature:sense 
+C0:   0.001  -0.001 
+C1:  -0.737   0.737 
+rnd 625: wh-err= 0.998089 th-err= 0.125111 dev= nan test= 0.245000 train= 0.034052
+
+feature:recent 
+C0:   0.004  -0.004 
+C1:  -0.698   0.698 
+rnd 626: wh-err= 0.998133 th-err= 0.124877 dev= nan test= 0.245000 train= 0.034052
+
+feature:mostly 
+C0:   0.001  -0.001 
+C1:  -0.727   0.727 
+rnd 627: wh-err= 0.998139 th-err= 0.124645 dev= nan test= 0.245000 train= 0.034052
+
+feature:~UST 
+C0:   0.001  -0.001 
+C1:  -0.728   0.728 
+rnd 628: wh-err= 0.998135 th-err= 0.124412 dev= nan test= 0.245000 train= 0.034052
+
+feature:sucks 
+C0:  -0.005   0.005 
+C1:   0.845  -0.845 
+rnd 629: wh-err= 0.997795 th-err= 0.124138 dev= nan test= 0.245000 train= 0.034052
+
+feature:<comma> 
+C0:   0.014  -0.014 
+C1:  -0.334   0.334 
+rnd 630: wh-err= 0.997818 th-err= 0.123867 dev= nan test= 0.240000 train= 0.031782
+
+feature:lacking 
+C0:  -0.003   0.003 
+C1:   0.811  -0.811 
+rnd 631: wh-err= 0.997691 th-err= 0.123581 dev= nan test= 0.240000 train= 0.031782
+
+feature:bright 
+C0:  -0.001   0.001 
+C1:   0.765  -0.765 
+rnd 632: wh-err= 0.997944 th-err= 0.123327 dev= nan test= 0.240000 train= 0.031782
+
+feature:workload 
+C0:  -0.001   0.001 
+C1:   0.760  -0.760 
+rnd 633: wh-err= 0.997975 th-err= 0.123077 dev= nan test= 0.240000 train= 0.032917
+
+feature:down 
+C0:   0.003  -0.003 
+C1:  -0.727   0.727 
+rnd 634: wh-err= 0.998134 th-err= 0.122847 dev= nan test= 0.240000 train= 0.031782
+
+feature:put 
+C0:   0.001  -0.001 
+C1:  -0.726   0.726 
+rnd 635: wh-err= 0.998143 th-err= 0.122619 dev= nan test= 0.240000 train= 0.031782
+
+feature:grade 
+C0:  -0.003   0.003 
+C1:   0.723  -0.723 
+rnd 636: wh-err= 0.998155 th-err= 0.122393 dev= nan test= 0.240000 train= 0.031782
+
+feature:stuffing 
+C0:   0.003  -0.003 
+C1:  -0.719   0.719 
+rnd 637: wh-err= 0.998172 th-err= 0.122169 dev= nan test= 0.240000 train= 0.031782
+
+feature:myself 
+C0:  -0.006   0.006 
+C1:   0.698  -0.698 
+rnd 638: wh-err= 0.997890 th-err= 0.121912 dev= nan test= 0.245000 train= 0.032917
+
+feature:team 
+C0:  -0.001   0.001 
+C1:   0.718  -0.718 
+rnd 639: wh-err= 0.998182 th-err= 0.121690 dev= nan test= 0.245000 train= 0.032917
+
+feature:stuck 
+C0:  -0.001   0.001 
+C1:   0.718  -0.718 
+rnd 640: wh-err= 0.998183 th-err= 0.121469 dev= nan test= 0.245000 train= 0.032917
+
+feature:exactly 
+C0:  -0.001   0.001 
+C1:   0.718  -0.718 
+rnd 641: wh-err= 0.998180 th-err= 0.121248 dev= nan test= 0.245000 train= 0.032917
+
+feature:choose 
+C0:   0.003  -0.003 
+C1:  -0.717   0.717 
+rnd 642: wh-err= 0.998184 th-err= 0.121027 dev= nan test= 0.245000 train= 0.032917
+
+feature:specially 
+C0:  -0.003   0.003 
+C1:   0.716  -0.716 
+rnd 643: wh-err= 0.998188 th-err= 0.120808 dev= nan test= 0.245000 train= 0.032917
+
+feature:it's 
+C0:   0.014  -0.014 
+C1:  -0.269   0.269 
+rnd 644: wh-err= 0.998139 th-err= 0.120583 dev= nan test= 0.245000 train= 0.031782
+
+feature:hard 
+C0:  -0.013   0.013 
+C1:   0.369  -0.369 
+rnd 645: wh-err= 0.997604 th-err= 0.120294 dev= nan test= 0.245000 train= 0.032917
+
+feature:concrete 
+C0:   0.003  -0.003 
+C1:  -0.803   0.803 
+rnd 646: wh-err= 0.997738 th-err= 0.120022 dev= nan test= 0.245000 train= 0.032917
+
+feature:scenarios 
+C0:  -0.003   0.003 
+C1:   0.726  -0.726 
+rnd 647: wh-err= 0.998137 th-err= 0.119799 dev= nan test= 0.245000 train= 0.032917
+
+feature:familar 
+C0:   0.003  -0.003 
+C1:  -0.718   0.718 
+rnd 648: wh-err= 0.998177 th-err= 0.119580 dev= nan test= 0.245000 train= 0.032917
+
+feature:stuffing 
+C0:   0.001  -0.001 
+C1:  -0.717   0.717 
+rnd 649: wh-err= 0.998185 th-err= 0.119363 dev= nan test= 0.245000 train= 0.032917
+
+feature:college 
+C0:   0.004  -0.004 
+C1:  -0.611   0.611 
+rnd 650: wh-err= 0.998181 th-err= 0.119146 dev= nan test= 0.245000 train= 0.031782
+
+feature:poorly 
+C0:  -0.004   0.004 
+C1:   0.917  -0.917 
+rnd 651: wh-err= 0.997011 th-err= 0.118790 dev= nan test= 0.245000 train= 0.032917
+
+feature:class 
+C0:   0.003  -0.003 
+C1:  -0.719   0.719 
+rnd 652: wh-err= 0.998175 th-err= 0.118573 dev= nan test= 0.245000 train= 0.031782
+
+feature:tend 
+C0:   0.001  -0.001 
+C1:  -0.713   0.713 
+rnd 653: wh-err= 0.998207 th-err= 0.118361 dev= nan test= 0.245000 train= 0.031782
+
+feature:little 
+C0:  -0.008   0.008 
+C1:   0.477  -0.477 
+rnd 654: wh-err= 0.998130 th-err= 0.118139 dev= nan test= 0.245000 train= 0.032917
+
+feature:speak 
+C0:   0.003  -0.003 
+C1:  -0.782   0.782 
+rnd 655: wh-err= 0.997850 th-err= 0.117885 dev= nan test= 0.245000 train= 0.032917
+
+feature:we're 
+C0:  -0.003   0.003 
+C1:   0.714  -0.714 
+rnd 656: wh-err= 0.998195 th-err= 0.117673 dev= nan test= 0.245000 train= 0.032917
+
+feature:home 
+C0:   0.006  -0.006 
+C1:  -0.739   0.739 
+rnd 657: wh-err= 0.997829 th-err= 0.117417 dev= nan test= 0.245000 train= 0.031782
+
+feature:we're 
+C0:  -0.003   0.003 
+C1:   0.725  -0.725 
+rnd 658: wh-err= 0.998144 th-err= 0.117199 dev= nan test= 0.245000 train= 0.032917
+
+feature:word 
+C0:  -0.001   0.001 
+C1:   0.716  -0.716 
+rnd 659: wh-err= 0.998192 th-err= 0.116987 dev= nan test= 0.245000 train= 0.032917
+
+feature:benefits 
+C0:  -0.001   0.001 
+C1:   0.716  -0.716 
+rnd 660: wh-err= 0.998191 th-err= 0.116776 dev= nan test= 0.245000 train= 0.032917
+
+feature:reason 
+C0:  -0.006   0.006 
+C1:   0.467  -0.467 
+rnd 661: wh-err= 0.998187 th-err= 0.116564 dev= nan test= 0.245000 train= 0.032917
+
+feature:if 
+C0:  -0.005   0.005 
+C1:   0.565  -0.565 
+rnd 662: wh-err= 0.998213 th-err= 0.116355 dev= nan test= 0.245000 train= 0.032917
+
+feature:would 
+C0:   0.011  -0.011 
+C1:  -0.461   0.461 
+rnd 663: wh-err= 0.997434 th-err= 0.116057 dev= nan test= 0.245000 train= 0.032917
+
+feature:Ko 
+C0:  -0.003   0.003 
+C1:   0.859  -0.859 
+rnd 664: wh-err= 0.997401 th-err= 0.115755 dev= nan test= 0.245000 train= 0.032917
+
+feature:definitely 
+C0:  -0.001   0.001 
+C1:   0.804  -0.804 
+rnd 665: wh-err= 0.997733 th-err= 0.115493 dev= nan test= 0.245000 train= 0.032917
+
+feature:weaknesses 
+C0:  -0.001   0.001 
+C1:   0.760  -0.760 
+rnd 666: wh-err= 0.997970 th-err= 0.115258 dev= nan test= 0.245000 train= 0.032917
+
+feature:child 
+C0:  -0.001   0.001 
+C1:   0.711  -0.711 
+rnd 667: wh-err= 0.998213 th-err= 0.115052 dev= nan test= 0.245000 train= 0.032917
+
+feature:i've 
+C0:  -0.001   0.001 
+C1:   0.707  -0.707 
+rnd 668: wh-err= 0.998231 th-err= 0.114849 dev= nan test= 0.245000 train= 0.032917
+
+feature:said 
+C0:  -0.001   0.001 
+C1:   0.706  -0.706 
+rnd 669: wh-err= 0.998236 th-err= 0.114646 dev= nan test= 0.245000 train= 0.032917
+
+feature:preparation 
+C0:  -0.003   0.003 
+C1:   0.716  -0.716 
+rnd 670: wh-err= 0.998240 th-err= 0.114445 dev= nan test= 0.245000 train= 0.032917
+
+feature:South 
+C0:   0.003  -0.003 
+C1:  -0.704   0.704 
+rnd 671: wh-err= 0.998243 th-err= 0.114244 dev= nan test= 0.245000 train= 0.032917
+
+feature:much 
+C0:  -0.009   0.009 
+C1:   0.422  -0.422 
+rnd 672: wh-err= 0.998224 th-err= 0.114041 dev= nan test= 0.250000 train= 0.031782
+
+feature:once 
+C0:  -0.001   0.001 
+C1:   0.707  -0.707 
+rnd 673: wh-err= 0.998231 th-err= 0.113839 dev= nan test= 0.250000 train= 0.031782
+
+feature:uh 
+C0:  -0.026   0.026 
+C1:   0.133  -0.133 
+rnd 674: wh-err= 0.998218 th-err= 0.113636 dev= nan test= 0.245000 train= 0.029512
+
+feature:compensate 
+C0:   0.002  -0.002 
+C1:  -0.752   0.752 
+rnd 675: wh-err= 0.998013 th-err= 0.113410 dev= nan test= 0.245000 train= 0.029512
+
+feature:applications 
+C0:   0.001  -0.001 
+C1:  -0.741   0.741 
+rnd 676: wh-err= 0.998068 th-err= 0.113191 dev= nan test= 0.245000 train= 0.029512
+
+feature:~GMAT 
+C0:   0.001  -0.001 
+C1:  -0.724   0.724 
+rnd 677: wh-err= 0.998151 th-err= 0.112982 dev= nan test= 0.245000 train= 0.029512
+
+feature:easier 
+C0:   0.001  -0.001 
+C1:  -0.724   0.724 
+rnd 678: wh-err= 0.998152 th-err= 0.112773 dev= nan test= 0.245000 train= 0.029512
+
+feature:already 
+C0:  -0.003   0.003 
+C1:   0.717  -0.717 
+rnd 679: wh-err= 0.998182 th-err= 0.112568 dev= nan test= 0.245000 train= 0.029512
+
+feature:req-require 
+C0:  -0.001   0.001 
+C1:   0.717  -0.717 
+rnd 680: wh-err= 0.998186 th-err= 0.112364 dev= nan test= 0.245000 train= 0.029512
+
+feature:involve 
+C0:  -0.001   0.001 
+C1:   0.716  -0.716 
+rnd 681: wh-err= 0.998189 th-err= 0.112160 dev= nan test= 0.245000 train= 0.029512
+
+feature:~HKUST 
+C0:   0.003  -0.003 
+C1:  -0.715   0.715 
+rnd 682: wh-err= 0.998190 th-err= 0.111957 dev= nan test= 0.245000 train= 0.029512
+
+feature:during 
+C0:  -0.003   0.003 
+C1:   0.707  -0.707 
+rnd 683: wh-err= 0.998229 th-err= 0.111759 dev= nan test= 0.245000 train= 0.029512
+
+feature:graduate? 
+C0:  -0.001   0.001 
+C1:   0.705  -0.705 
+rnd 684: wh-err= 0.998244 th-err= 0.111563 dev= nan test= 0.245000 train= 0.029512
+
+feature:tasks 
+C0:  -0.001   0.001 
+C1:   0.705  -0.705 
+rnd 685: wh-err= 0.998243 th-err= 0.111367 dev= nan test= 0.245000 train= 0.029512
+
+feature:went 
+C0:   0.003  -0.003 
+C1:  -0.701   0.701 
+rnd 686: wh-err= 0.998257 th-err= 0.111173 dev= nan test= 0.245000 train= 0.029512
+
+feature:hang 
+C0:   0.001  -0.001 
+C1:  -0.699   0.699 
+rnd 687: wh-err= 0.998272 th-err= 0.110981 dev= nan test= 0.245000 train= 0.029512
+
+feature:i'm 
+C0:  -0.006   0.006 
+C1:   0.637  -0.637 
+rnd 688: wh-err= 0.998233 th-err= 0.110784 dev= nan test= 0.250000 train= 0.029512
+
+feature:too 
+C0:   0.003  -0.003 
+C1:  -0.829   0.829 
+rnd 689: wh-err= 0.997583 th-err= 0.110517 dev= nan test= 0.250000 train= 0.029512
+
+feature:offer 
+C0:   0.003  -0.003 
+C1:  -0.836   0.836 
+rnd 690: wh-err= 0.997870 th-err= 0.110281 dev= nan test= 0.250000 train= 0.029512
+
+feature:didn't 
+C0:  -0.008   0.008 
+C1:   0.508  -0.508 
+rnd 691: wh-err= 0.998221 th-err= 0.110085 dev= nan test= 0.250000 train= 0.028377
+
+feature:Cantonese 
+C0:   0.003  -0.003 
+C1:  -0.877   0.877 
+rnd 692: wh-err= 0.997284 th-err= 0.109786 dev= nan test= 0.250000 train= 0.028377
+
+feature:else 
+C0:   0.001  -0.001 
+C1:  -0.823   0.823 
+rnd 693: wh-err= 0.997621 th-err= 0.109525 dev= nan test= 0.250000 train= 0.028377
+
+feature:was 
+C0:  -0.008   0.008 
+C1:   0.437  -0.437 
+rnd 694: wh-err= 0.998301 th-err= 0.109339 dev= nan test= 0.250000 train= 0.028377
+
+feature:born 
+C0:   0.003  -0.003 
+C1:  -0.839   0.839 
+rnd 695: wh-err= 0.997525 th-err= 0.109068 dev= nan test= 0.250000 train= 0.028377
+
+feature:sports 
+C0:   0.001  -0.001 
+C1:  -0.772   0.772 
+rnd 696: wh-err= 0.997909 th-err= 0.108840 dev= nan test= 0.250000 train= 0.028377
+
+feature:it 
+C0:   0.015  -0.015 
+C1:  -0.228   0.228 
+rnd 697: wh-err= 0.998148 th-err= 0.108639 dev= nan test= 0.245000 train= 0.028377
+
+feature:stressed 
+C0:  -0.004   0.004 
+C1:   0.700  -0.700 
+rnd 698: wh-err= 0.998188 th-err= 0.108442 dev= nan test= 0.245000 train= 0.028377
+
+feature:them 
+C0:  -0.007   0.007 
+C1:   0.423  -0.423 
+rnd 699: wh-err= 0.998233 th-err= 0.108250 dev= nan test= 0.245000 train= 0.028377
+
+feature:numbers 
+C0:  -0.001   0.001 
+C1:   0.707  -0.707 
+rnd 700: wh-err= 0.998235 th-err= 0.108059 dev= nan test= 0.245000 train= 0.028377
+
+feature:like 
+C0:   0.016  -0.016 
+C1:  -0.237   0.237 
+rnd 701: wh-err= 0.998127 th-err= 0.107857 dev= nan test= 0.245000 train= 0.028377
+
+feature:aspects 
+C0:  -0.005   0.005 
+C1:   0.844  -0.844 
+rnd 702: wh-err= 0.997451 th-err= 0.107582 dev= nan test= 0.245000 train= 0.028377
+
+feature:particular 
+C0:  -0.003   0.003 
+C1:   0.886  -0.886 
+rnd 703: wh-err= 0.997658 th-err= 0.107330 dev= nan test= 0.245000 train= 0.028377
+
+feature:bank 
+C0:  -0.001   0.001 
+C1:   0.724  -0.724 
+rnd 704: wh-err= 0.998151 th-err= 0.107131 dev= nan test= 0.245000 train= 0.028377
+
+feature:Lord 
+C0:   0.003  -0.003 
+C1:  -0.709   0.709 
+rnd 705: wh-err= 0.998221 th-err= 0.106941 dev= nan test= 0.245000 train= 0.028377
+
+feature:  
+C0:   0.001  -0.001 
+C1:  -0.702   0.702 
+rnd 706: wh-err= 0.998258 th-err= 0.106755 dev= nan test= 0.245000 train= 0.028377
+
+feature:brotherhood 
+C0:   0.001  -0.001 
+C1:  -0.702   0.702 
+rnd 707: wh-err= 0.998256 th-err= 0.106568 dev= nan test= 0.245000 train= 0.028377
+
+feature:sichuan 
+C0:   0.001  -0.001 
+C1:  -0.698   0.698 
+rnd 708: wh-err= 0.998273 th-err= 0.106384 dev= nan test= 0.245000 train= 0.028377
+
+feature:thats 
+C0:   0.001  -0.001 
+C1:  -0.699   0.699 
+rnd 709: wh-err= 0.998270 th-err= 0.106200 dev= nan test= 0.245000 train= 0.028377
+
+feature:relatives 
+C0:   0.001  -0.001 
+C1:  -0.699   0.699 
+rnd 710: wh-err= 0.998272 th-err= 0.106017 dev= nan test= 0.245000 train= 0.028377
+
+feature:submissions 
+C0:  -0.003   0.003 
+C1:   0.697  -0.697 
+rnd 711: wh-err= 0.998275 th-err= 0.105834 dev= nan test= 0.245000 train= 0.028377
+
+feature:too 
+C0:   0.003  -0.003 
+C1:  -0.697   0.697 
+rnd 712: wh-err= 0.998279 th-err= 0.105652 dev= nan test= 0.245000 train= 0.028377
+
+feature:then 
+C0:   0.002  -0.002 
+C1:  -0.782   0.782 
+rnd 713: wh-err= 0.998282 th-err= 0.105470 dev= nan test= 0.245000 train= 0.028377
+
+feature:feel 
+C0:   0.001  -0.001 
+C1:  -0.696   0.696 
+rnd 714: wh-err= 0.998286 th-err= 0.105289 dev= nan test= 0.245000 train= 0.028377
+
+feature:knowledge 
+C0:   0.001  -0.001 
+C1:  -0.695   0.695 
+rnd 715: wh-err= 0.998288 th-err= 0.105109 dev= nan test= 0.245000 train= 0.028377
+
+feature:told 
+C0:   0.001  -0.001 
+C1:  -0.696   0.696 
+rnd 716: wh-err= 0.998286 th-err= 0.104929 dev= nan test= 0.245000 train= 0.028377
+
+feature:simple 
+C0:   0.001  -0.001 
+C1:  -0.695   0.695 
+rnd 717: wh-err= 0.998291 th-err= 0.104750 dev= nan test= 0.245000 train= 0.028377
+
+feature:gossip 
+C0:   0.001  -0.001 
+C1:  -0.695   0.695 
+rnd 718: wh-err= 0.998289 th-err= 0.104570 dev= nan test= 0.245000 train= 0.028377
+
+feature:saw 
+C0:   0.001  -0.001 
+C1:  -0.694   0.694 
+rnd 719: wh-err= 0.998291 th-err= 0.104392 dev= nan test= 0.245000 train= 0.028377
+
+feature:both 
+C0:   0.001  -0.001 
+C1:  -0.695   0.695 
+rnd 720: wh-err= 0.998289 th-err= 0.104213 dev= nan test= 0.245000 train= 0.028377
+
+feature:influenced 
+C0:   0.001  -0.001 
+C1:  -0.695   0.695 
+rnd 721: wh-err= 0.998288 th-err= 0.104035 dev= nan test= 0.245000 train= 0.028377
+
+feature:offered 
+C0:   0.001  -0.001 
+C1:  -0.695   0.695 
+rnd 722: wh-err= 0.998290 th-err= 0.103857 dev= nan test= 0.245000 train= 0.028377
+
+feature:w-would 
+C0:   0.001  -0.001 
+C1:  -0.694   0.694 
+rnd 723: wh-err= 0.998291 th-err= 0.103679 dev= nan test= 0.245000 train= 0.028377
+
+feature:adapt 
+C0:   0.001  -0.001 
+C1:  -0.691   0.691 
+rnd 724: wh-err= 0.998308 th-err= 0.103504 dev= nan test= 0.245000 train= 0.028377
+
+feature:Currently 
+C0:   0.001  -0.001 
+C1:  -0.691   0.691 
+rnd 725: wh-err= 0.998308 th-err= 0.103329 dev= nan test= 0.245000 train= 0.028377
+
+feature:I'm 
+C0:   0.013  -0.013 
+C1:  -0.234   0.234 
+rnd 726: wh-err= 0.998316 th-err= 0.103155 dev= nan test= 0.245000 train= 0.029512
+
+feature:3rd 
+C0:  -0.002   0.002 
+C1:   0.776  -0.776 
+rnd 727: wh-err= 0.997883 th-err= 0.102936 dev= nan test= 0.245000 train= 0.029512
+
+feature:anxious 
+C0:  -0.008   0.008 
+C1:   0.436  -0.436 
+rnd 728: wh-err= 0.997926 th-err= 0.102723 dev= nan test= 0.240000 train= 0.027242
+
+feature:hmm 
+C0:   0.003  -0.003 
+C1:  -0.766   0.766 
+rnd 729: wh-err= 0.997937 th-err= 0.102511 dev= nan test= 0.240000 train= 0.027242
+
+feature:fed 
+C0:  -0.003   0.003 
+C1:   0.734  -0.734 
+rnd 730: wh-err= 0.998098 th-err= 0.102316 dev= nan test= 0.240000 train= 0.027242
+
+feature:eating 
+C0:  -0.003   0.003 
+C1:   0.710  -0.710 
+rnd 731: wh-err= 0.998151 th-err= 0.102127 dev= nan test= 0.240000 train= 0.028377
+
+feature:library 
+C0:  -0.003   0.003 
+C1:   0.734  -0.734 
+rnd 732: wh-err= 0.998135 th-err= 0.101936 dev= nan test= 0.240000 train= 0.028377
+
+feature:behind 
+C0:  -0.001   0.001 
+C1:   0.726  -0.726 
+rnd 733: wh-err= 0.998143 th-err= 0.101747 dev= nan test= 0.240000 train= 0.028377
+
+feature:tyring 
+C0:   0.003  -0.003 
+C1:  -0.687   0.687 
+rnd 734: wh-err= 0.998322 th-err= 0.101576 dev= nan test= 0.240000 train= 0.028377
+
+feature:important 
+C0:   0.001  -0.001 
+C1:  -0.688   0.688 
+rnd 735: wh-err= 0.998322 th-err= 0.101406 dev= nan test= 0.240000 train= 0.028377
+
+feature:girls 
+C0:   0.001  -0.001 
+C1:  -0.687   0.687 
+rnd 736: wh-err= 0.998325 th-err= 0.101236 dev= nan test= 0.240000 train= 0.028377
+
+feature:~TV 
+C0:   0.001  -0.001 
+C1:  -0.683   0.683 
+rnd 737: wh-err= 0.998343 th-err= 0.101068 dev= nan test= 0.240000 train= 0.027242
+
+feature:deal 
+C0:  -0.005   0.005 
+C1:   0.696  -0.696 
+rnd 738: wh-err= 0.998346 th-err= 0.100901 dev= nan test= 0.240000 train= 0.028377
+
+feature:concepts 
+C0:   0.003  -0.003 
+C1:  -0.711   0.711 
+rnd 739: wh-err= 0.998211 th-err= 0.100721 dev= nan test= 0.240000 train= 0.028377
+
+feature:attention 
+C0:  -0.003   0.003 
+C1:   0.683  -0.683 
+rnd 740: wh-err= 0.998341 th-err= 0.100554 dev= nan test= 0.240000 train= 0.028377
+
+feature:suprises 
+C0:  -0.001   0.001 
+C1:   0.682  -0.682 
+rnd 741: wh-err= 0.998345 th-err= 0.100387 dev= nan test= 0.240000 train= 0.028377
+
+feature:in 
+C0:   0.017  -0.017 
+C1:  -0.203   0.203 
+rnd 742: wh-err= 0.998344 th-err= 0.100221 dev= nan test= 0.245000 train= 0.029512
+
+feature:stayed 
+C0:  -0.003   0.003 
+C1:   0.861  -0.861 
+rnd 743: wh-err= 0.997849 th-err= 0.100005 dev= nan test= 0.245000 train= 0.029512
+
+feature:i 
+C0:  -0.005   0.005 
+C1:   0.515  -0.515 
+rnd 744: wh-err= 0.998245 th-err= 0.099830 dev= nan test= 0.250000 train= 0.028377
+
+feature:specially 
+C0:  -0.001   0.001 
+C1:   0.688  -0.688 
+rnd 745: wh-err= 0.998319 th-err= 0.099662 dev= nan test= 0.250000 train= 0.028377
+
+feature:- 
+C0:   0.003  -0.003 
+C1:  -0.687   0.687 
+rnd 746: wh-err= 0.998324 th-err= 0.099495 dev= nan test= 0.250000 train= 0.028377
+
+feature:deadline 
+C0:   0.002  -0.002 
+C1:  -0.775   0.775 
+rnd 747: wh-err= 0.998329 th-err= 0.099329 dev= nan test= 0.250000 train= 0.028377
+
+feature:come 
+C0:   0.001  -0.001 
+C1:  -0.684   0.684 
+rnd 748: wh-err= 0.998340 th-err= 0.099164 dev= nan test= 0.250000 train= 0.028377
+
+feature:whatever 
+C0:   0.001  -0.001 
+C1:  -0.682   0.682 
+rnd 749: wh-err= 0.998345 th-err= 0.099000 dev= nan test= 0.250000 train= 0.029512
+
+feature:internships 
+C0:   0.001  -0.001 
+C1:  -0.683   0.683 
+rnd 750: wh-err= 0.998344 th-err= 0.098836 dev= nan test= 0.250000 train= 0.029512
+
+feature:et 
+C0:   0.001  -0.001 
+C1:  -0.683   0.683 
+rnd 751: wh-err= 0.998343 th-err= 0.098672 dev= nan test= 0.250000 train= 0.029512
+
+feature:expectations 
+C0:  -0.003   0.003 
+C1:   0.772  -0.772 
+rnd 752: wh-err= 0.998351 th-err= 0.098509 dev= nan test= 0.250000 train= 0.028377
+
+feature:on 
+C0:   0.008  -0.008 
+C1:  -0.526   0.526 
+rnd 753: wh-err= 0.997944 th-err= 0.098307 dev= nan test= 0.250000 train= 0.029512
+
+feature:Works 
+C0:  -0.002   0.002 
+C1:   0.676  -0.676 
+rnd 754: wh-err= 0.998369 th-err= 0.098147 dev= nan test= 0.250000 train= 0.029512
+
+feature:apart 
+C0:  -0.001   0.001 
+C1:   0.677  -0.677 
+rnd 755: wh-err= 0.998368 th-err= 0.097986 dev= nan test= 0.250000 train= 0.029512
+
+feature:Not 
+C0:  -0.001   0.001 
+C1:   0.677  -0.677 
+rnd 756: wh-err= 0.998371 th-err= 0.097827 dev= nan test= 0.250000 train= 0.029512
+
+feature:everyones 
+C0:  -0.001   0.001 
+C1:   0.677  -0.677 
+rnd 757: wh-err= 0.998371 th-err= 0.097667 dev= nan test= 0.250000 train= 0.029512
+
+feature:materialistic 
+C0:  -0.001   0.001 
+C1:   0.676  -0.676 
+rnd 758: wh-err= 0.998372 th-err= 0.097508 dev= nan test= 0.250000 train= 0.029512
+
+feature:textbook 
+C0:  -0.001   0.001 
+C1:   0.677  -0.677 
+rnd 759: wh-err= 0.998370 th-err= 0.097349 dev= nan test= 0.250000 train= 0.029512
+
+feature:extra 
+C0:  -0.001   0.001 
+C1:   0.673  -0.673 
+rnd 760: wh-err= 0.998388 th-err= 0.097193 dev= nan test= 0.250000 train= 0.029512
+
+feature:as 
+C0:   0.009  -0.009 
+C1:  -0.506   0.506 
+rnd 761: wh-err= 0.997913 th-err= 0.096990 dev= nan test= 0.245000 train= 0.029512
+
+feature:~FYP 
+C0:  -0.002   0.002 
+C1:   0.716  -0.716 
+rnd 762: wh-err= 0.998187 th-err= 0.096814 dev= nan test= 0.245000 train= 0.029512
+
+feature:wants 
+C0:  -0.001   0.001 
+C1:   0.709  -0.709 
+rnd 763: wh-err= 0.998224 th-err= 0.096642 dev= nan test= 0.245000 train= 0.029512
+
+feature:better 
+C0:   0.008  -0.008 
+C1:  -0.440   0.440 
+rnd 764: wh-err= 0.998367 th-err= 0.096484 dev= nan test= 0.240000 train= 0.029512
+
+feature:3rd 
+C0:  -0.002   0.002 
+C1:   0.747  -0.747 
+rnd 765: wh-err= 0.998037 th-err= 0.096295 dev= nan test= 0.240000 train= 0.029512
+
+feature:communication 
+C0:  -0.008   0.008 
+C1:   0.402  -0.402 
+rnd 766: wh-err= 0.998101 th-err= 0.096112 dev= nan test= 0.240000 train= 0.029512
+
+feature:bright 
+C0:  -0.001   0.001 
+C1:   0.710  -0.710 
+rnd 767: wh-err= 0.998217 th-err= 0.095940 dev= nan test= 0.240000 train= 0.029512
+
+feature:said 
+C0:  -0.001   0.001 
+C1:   0.679  -0.679 
+rnd 768: wh-err= 0.998361 th-err= 0.095783 dev= nan test= 0.240000 train= 0.029512
+
+feature:events 
+C0:   0.002  -0.002 
+C1:  -0.675   0.675 
+rnd 769: wh-err= 0.998375 th-err= 0.095627 dev= nan test= 0.240000 train= 0.029512
+
+feature:no 
+C0:   0.008  -0.008 
+C1:  -0.370   0.370 
+rnd 770: wh-err= 0.998382 th-err= 0.095473 dev= nan test= 0.240000 train= 0.029512
+
+feature:further 
+C0:  -0.006   0.006 
+C1:   0.526  -0.526 
+rnd 771: wh-err= 0.998354 th-err= 0.095316 dev= nan test= 0.240000 train= 0.028377
+
+feature:law 
+C0:   0.003  -0.003 
+C1:  -0.816   0.816 
+rnd 772: wh-err= 0.997659 th-err= 0.095092 dev= nan test= 0.240000 train= 0.028377
+
+feature:involves 
+C0:  -0.003   0.003 
+C1:   0.672  -0.672 
+rnd 773: wh-err= 0.998389 th-err= 0.094939 dev= nan test= 0.240000 train= 0.028377
+
+feature:father 
+C0:  -0.001   0.001 
+C1:   0.669  -0.669 
+rnd 774: wh-err= 0.998403 th-err= 0.094788 dev= nan test= 0.240000 train= 0.028377
+
+feature:child 
+C0:  -0.001   0.001 
+C1:   0.668  -0.668 
+rnd 775: wh-err= 0.998410 th-err= 0.094637 dev= nan test= 0.240000 train= 0.028377
+
+feature:sentimentality 
+C0:   0.002  -0.002 
+C1:  -0.666   0.666 
+rnd 776: wh-err= 0.998416 th-err= 0.094487 dev= nan test= 0.240000 train= 0.028377
+
+feature:derivative 
+C0:   0.001  -0.001 
+C1:  -0.667   0.667 
+rnd 777: wh-err= 0.998413 th-err= 0.094337 dev= nan test= 0.240000 train= 0.028377
+
+feature:Italian 
+C0:   0.001  -0.001 
+C1:  -0.667   0.667 
+rnd 778: wh-err= 0.998411 th-err= 0.094187 dev= nan test= 0.240000 train= 0.028377
+
+feature:University 
+C0:   0.001  -0.001 
+C1:  -0.664   0.664 
+rnd 779: wh-err= 0.998424 th-err= 0.094039 dev= nan test= 0.240000 train= 0.028377
+
+feature:wanna 
+C0:  -0.002   0.002 
+C1:   0.662  -0.662 
+rnd 780: wh-err= 0.998430 th-err= 0.093891 dev= nan test= 0.240000 train= 0.028377
+
+feature:Preferably 
+C0:   0.002  -0.002 
+C1:  -0.662   0.662 
+rnd 781: wh-err= 0.998433 th-err= 0.093744 dev= nan test= 0.240000 train= 0.028377
+
+feature:rituals 
+C0:   0.001  -0.001 
+C1:  -0.663   0.663 
+rnd 782: wh-err= 0.998431 th-err= 0.093597 dev= nan test= 0.240000 train= 0.028377
+
+feature:reccomend 
+C0:   0.001  -0.001 
+C1:  -0.663   0.663 
+rnd 783: wh-err= 0.998429 th-err= 0.093450 dev= nan test= 0.240000 train= 0.028377
+
+feature:started 
+C0:  -0.005   0.005 
+C1:   0.584  -0.584 
+rnd 784: wh-err= 0.998454 th-err= 0.093305 dev= nan test= 0.240000 train= 0.028377
+
+feature:How 
+C0:   0.003  -0.003 
+C1:  -0.737   0.737 
+rnd 785: wh-err= 0.998086 th-err= 0.093127 dev= nan test= 0.240000 train= 0.028377
+
+feature:know 
+C0:  -0.015   0.015 
+C1:   0.217  -0.217 
+rnd 786: wh-err= 0.998431 th-err= 0.092981 dev= nan test= 0.240000 train= 0.029512
+
+feature:it's 
+C0:   0.014  -0.014 
+C1:  -0.310   0.310 
+rnd 787: wh-err= 0.997812 th-err= 0.092777 dev= nan test= 0.240000 train= 0.028377
+
+feature:cooperate 
+C0:  -0.002   0.002 
+C1:   0.726  -0.726 
+rnd 788: wh-err= 0.998140 th-err= 0.092605 dev= nan test= 0.240000 train= 0.028377
+
+feature:uh 
+C0:  -0.024   0.024 
+C1:   0.131  -0.131 
+rnd 789: wh-err= 0.998356 th-err= 0.092453 dev= nan test= 0.235000 train= 0.029512
+
+feature:Its 
+C0:   0.002  -0.002 
+C1:  -0.691   0.691 
+rnd 790: wh-err= 0.998306 th-err= 0.092296 dev= nan test= 0.235000 train= 0.029512
+
+feature:yet 
+C0:   0.003  -0.003 
+C1:  -0.686   0.686 
+rnd 791: wh-err= 0.998311 th-err= 0.092140 dev= nan test= 0.235000 train= 0.029512
+
+feature:am 
+C0:  -0.004   0.004 
+C1:   0.725  -0.725 
+rnd 792: wh-err= 0.998288 th-err= 0.091982 dev= nan test= 0.235000 train= 0.029512
+
+feature:Currently 
+C0:   0.003  -0.003 
+C1:  -0.680   0.680 
+rnd 793: wh-err= 0.998352 th-err= 0.091831 dev= nan test= 0.235000 train= 0.029512
+
+feature:<comma> 
+C0:   0.009  -0.009 
+C1:  -0.313   0.313 
+rnd 794: wh-err= 0.998370 th-err= 0.091681 dev= nan test= 0.240000 train= 0.029512
+
+feature:look 
+C0:  -0.004   0.004 
+C1:   0.803  -0.803 
+rnd 795: wh-err= 0.998059 th-err= 0.091503 dev= nan test= 0.240000 train= 0.029512
+
+feature:just 
+C0:  -0.011   0.011 
+C1:   0.285  -0.285 
+rnd 796: wh-err= 0.998185 th-err= 0.091337 dev= nan test= 0.240000 train= 0.030647
+
+feature:grades 
+C0:   0.006  -0.006 
+C1:  -0.673   0.673 
+rnd 797: wh-err= 0.997966 th-err= 0.091151 dev= nan test= 0.240000 train= 0.029512
+
+feature:during 
+C0:  -0.003   0.003 
+C1:   0.843  -0.843 
+rnd 798: wh-err= 0.997497 th-err= 0.090923 dev= nan test= 0.240000 train= 0.029512
+
+feature:relax 
+C0:   0.003  -0.003 
+C1:  -0.757   0.757 
+rnd 799: wh-err= 0.997982 th-err= 0.090740 dev= nan test= 0.240000 train= 0.029512
+
+feature:people 
+C0:   0.008  -0.008 
+C1:  -0.399   0.399 
+rnd 800: wh-err= 0.998172 th-err= 0.090574 dev= nan test= 0.240000 train= 0.029512
+
+feature:lacking 
+C0:  -0.002   0.002 
+C1:   0.710  -0.710 
+rnd 801: wh-err= 0.998215 th-err= 0.090412 dev= nan test= 0.240000 train= 0.029512
+
+feature:fresh 
+C0:   0.003  -0.003 
+C1:  -0.707   0.707 
+rnd 802: wh-err= 0.998230 th-err= 0.090252 dev= nan test= 0.240000 train= 0.029512
+
+feature:once 
+C0:  -0.002   0.002 
+C1:   0.674  -0.674 
+rnd 803: wh-err= 0.998380 th-err= 0.090106 dev= nan test= 0.240000 train= 0.029512
+
+feature:nice 
+C0:   0.005  -0.005 
+C1:  -0.677   0.677 
+rnd 804: wh-err= 0.998331 th-err= 0.089955 dev= nan test= 0.240000 train= 0.029512
+
+feature:once 
+C0:  -0.002   0.002 
+C1:   0.676  -0.676 
+rnd 805: wh-err= 0.998372 th-err= 0.089809 dev= nan test= 0.240000 train= 0.029512
+
+feature:Further 
+C0:  -0.001   0.001 
+C1:   0.672  -0.672 
+rnd 806: wh-err= 0.998391 th-err= 0.089664 dev= nan test= 0.240000 train= 0.029512
+
+feature:starting 
+C0:   0.002  -0.002 
+C1:  -0.667   0.667 
+rnd 807: wh-err= 0.998408 th-err= 0.089522 dev= nan test= 0.240000 train= 0.029512
+
+feature:definitely 
+C0:  -0.002   0.002 
+C1:   0.667  -0.667 
+rnd 808: wh-err= 0.998410 th-err= 0.089379 dev= nan test= 0.240000 train= 0.029512
+
+feature:commission 
+C0:  -0.001   0.001 
+C1:   0.668  -0.668 
+rnd 809: wh-err= 0.998409 th-err= 0.089237 dev= nan test= 0.240000 train= 0.029512
+
+feature:South 
+C0:   0.002  -0.002 
+C1:  -0.664   0.664 
+rnd 810: wh-err= 0.998424 th-err= 0.089096 dev= nan test= 0.240000 train= 0.029512
+
+feature:wish 
+C0:   0.001  -0.001 
+C1:  -0.662   0.662 
+rnd 811: wh-err= 0.998433 th-err= 0.088957 dev= nan test= 0.240000 train= 0.029512
+
+feature:make 
+C0:   0.001  -0.001 
+C1:  -0.662   0.662 
+rnd 812: wh-err= 0.998432 th-err= 0.088817 dev= nan test= 0.240000 train= 0.029512
+
+feature:born 
+C0:   0.001  -0.001 
+C1:  -0.662   0.662 
+rnd 813: wh-err= 0.998434 th-err= 0.088678 dev= nan test= 0.240000 train= 0.028377
+
+feature:That’s 
+C0:   0.001  -0.001 
+C1:  -0.662   0.662 
+rnd 814: wh-err= 0.998435 th-err= 0.088539 dev= nan test= 0.240000 train= 0.028377
+
+feature:Ah 
+C0:  -0.009   0.009 
+C1:   0.451  -0.451 
+rnd 815: wh-err= 0.998122 th-err= 0.088373 dev= nan test= 0.240000 train= 0.028377
+
+feature:Bu 
+C0:   0.002  -0.002 
+C1:  -0.734   0.734 
+rnd 816: wh-err= 0.998101 th-err= 0.088205 dev= nan test= 0.240000 train= 0.028377
+
+feature:was 
+C0:  -0.007   0.007 
+C1:   0.444  -0.444 
+rnd 817: wh-err= 0.998434 th-err= 0.088067 dev= nan test= 0.240000 train= 0.027242
+
+feature:young 
+C0:   0.003  -0.003 
+C1:  -0.820   0.820 
+rnd 818: wh-err= 0.997635 th-err= 0.087859 dev= nan test= 0.240000 train= 0.027242
+
+feature:really 
+C0:   0.015  -0.015 
+C1:  -0.226   0.226 
+rnd 819: wh-err= 0.998149 th-err= 0.087696 dev= nan test= 0.245000 train= 0.027242
+
+feature:im 
+C0:  -0.007   0.007 
+C1:   0.513  -0.513 
+rnd 820: wh-err= 0.998184 th-err= 0.087537 dev= nan test= 0.245000 train= 0.028377
+
+feature:second 
+C0:   0.002  -0.002 
+C1:  -0.680   0.680 
+rnd 821: wh-err= 0.998352 th-err= 0.087393 dev= nan test= 0.245000 train= 0.027242
+
+feature:here 
+C0:  -0.011   0.011 
+C1:   0.336  -0.336 
+rnd 822: wh-err= 0.998303 th-err= 0.087245 dev= nan test= 0.245000 train= 0.027242
+
+feature:close 
+C0:   0.002  -0.002 
+C1:  -0.752   0.752 
+rnd 823: wh-err= 0.998011 th-err= 0.087071 dev= nan test= 0.245000 train= 0.027242
+
+feature:scenarios 
+C0:  -0.003   0.003 
+C1:   0.663  -0.663 
+rnd 824: wh-err= 0.998425 th-err= 0.086934 dev= nan test= 0.245000 train= 0.027242
+
+feature:grade 
+C0:  -0.001   0.001 
+C1:   0.663  -0.663 
+rnd 825: wh-err= 0.998431 th-err= 0.086797 dev= nan test= 0.245000 train= 0.027242
+
+feature:weaknesses 
+C0:  -0.001   0.001 
+C1:   0.662  -0.662 
+rnd 826: wh-err= 0.998433 th-err= 0.086661 dev= nan test= 0.245000 train= 0.027242
+
+feature:Not 
+C0:  -0.001   0.001 
+C1:   0.662  -0.662 
+rnd 827: wh-err= 0.998434 th-err= 0.086526 dev= nan test= 0.245000 train= 0.027242
+
+feature:hasn't 
+C0:   0.002  -0.002 
+C1:  -0.657   0.657 
+rnd 828: wh-err= 0.998454 th-err= 0.086392 dev= nan test= 0.245000 train= 0.027242
+
+feature:beginning 
+C0:  -0.002   0.002 
+C1:   0.655  -0.655 
+rnd 829: wh-err= 0.998462 th-err= 0.086259 dev= nan test= 0.245000 train= 0.027242
+
+feature:need 
+C0:  -0.004   0.004 
+C1:   0.541  -0.541 
+rnd 830: wh-err= 0.998458 th-err= 0.086126 dev= nan test= 0.245000 train= 0.027242
+
+feature:find 
+C0:   0.008  -0.008 
+C1:  -0.596   0.596 
+rnd 831: wh-err= 0.997499 th-err= 0.085911 dev= nan test= 0.245000 train= 0.027242
+
+feature:bills 
+C0:   0.001  -0.001 
+C1:  -0.657   0.657 
+rnd 832: wh-err= 0.998454 th-err= 0.085778 dev= nan test= 0.245000 train= 0.027242
+
+feature:help 
+C0:   0.001  -0.001 
+C1:  -0.657   0.657 
+rnd 833: wh-err= 0.998454 th-err= 0.085645 dev= nan test= 0.245000 train= 0.027242
+
+feature:else 
+C0:   0.001  -0.001 
+C1:  -0.657   0.657 
+rnd 834: wh-err= 0.998455 th-err= 0.085513 dev= nan test= 0.245000 train= 0.027242
+
+feature:done 
+C0:   0.004  -0.004 
+C1:  -0.590   0.590 
+rnd 835: wh-err= 0.998460 th-err= 0.085381 dev= nan test= 0.245000 train= 0.027242
+
+feature:haven’t 
+C0:  -0.003   0.003 
+C1:   0.854  -0.854 
+rnd 836: wh-err= 0.997431 th-err= 0.085162 dev= nan test= 0.245000 train= 0.027242
+
+feature:interest 
+C0:   0.003  -0.003 
+C1:  -0.656   0.656 
+rnd 837: wh-err= 0.998457 th-err= 0.085031 dev= nan test= 0.245000 train= 0.027242
+
+feature:either 
+C0:   0.001  -0.001 
+C1:  -0.656   0.656 
+rnd 838: wh-err= 0.998461 th-err= 0.084900 dev= nan test= 0.245000 train= 0.027242
+
+feature:city 
+C0:   0.001  -0.001 
+C1:  -0.655   0.655 
+rnd 839: wh-err= 0.998465 th-err= 0.084769 dev= nan test= 0.245000 train= 0.027242
+
+feature:approximately 
+C0:   0.001  -0.001 
+C1:  -0.653   0.653 
+rnd 840: wh-err= 0.998471 th-err= 0.084640 dev= nan test= 0.245000 train= 0.027242
+
+feature:self 
+C0:   0.001  -0.001 
+C1:  -0.652   0.652 
+rnd 841: wh-err= 0.998475 th-err= 0.084511 dev= nan test= 0.245000 train= 0.026107
+
+feature:- 
+C0:   0.001  -0.001 
+C1:  -0.652   0.652 
+rnd 842: wh-err= 0.998476 th-err= 0.084382 dev= nan test= 0.245000 train= 0.026107
+
+feature:extra 
+C0:  -0.002   0.002 
+C1:   0.651  -0.651 
+rnd 843: wh-err= 0.998477 th-err= 0.084253 dev= nan test= 0.245000 train= 0.027242
+
+feature:oh 
+C0:  -0.001   0.001 
+C1:   0.650  -0.650 
+rnd 844: wh-err= 0.998483 th-err= 0.084126 dev= nan test= 0.245000 train= 0.027242
+
+feature:more 
+C0:   0.009  -0.009 
+C1:  -0.422   0.422 
+rnd 845: wh-err= 0.998171 th-err= 0.083972 dev= nan test= 0.245000 train= 0.026107
+
+feature:finanical 
+C0:  -0.002   0.002 
+C1:   0.668  -0.668 
+rnd 846: wh-err= 0.998406 th-err= 0.083838 dev= nan test= 0.245000 train= 0.026107
+
+feature:suppose 
+C0:  -0.002   0.002 
+C1:   0.760  -0.760 
+rnd 847: wh-err= 0.998407 th-err= 0.083704 dev= nan test= 0.245000 train= 0.026107
+
+feature:manage 
+C0:  -0.005   0.005 
+C1:   0.511  -0.511 
+rnd 848: wh-err= 0.998428 th-err= 0.083573 dev= nan test= 0.245000 train= 0.026107
+
+feature:That’s 
+C0:   0.003  -0.003 
+C1:  -0.796   0.796 
+rnd 849: wh-err= 0.997774 th-err= 0.083387 dev= nan test= 0.245000 train= 0.024972
+
+feature:expectations 
+C0:  -0.003   0.003 
+C1:   0.744  -0.744 
+rnd 850: wh-err= 0.998476 th-err= 0.083260 dev= nan test= 0.245000 train= 0.026107
+
+feature:fix 
+C0:  -0.001   0.001 
+C1:   0.652  -0.652 
+rnd 851: wh-err= 0.998476 th-err= 0.083133 dev= nan test= 0.245000 train= 0.026107
+
+feature:finding 
+C0:  -0.001   0.001 
+C1:   0.652  -0.652 
+rnd 852: wh-err= 0.998475 th-err= 0.083006 dev= nan test= 0.245000 train= 0.026107
+
+feature:Ko 
+C0:  -0.001   0.001 
+C1:   0.652  -0.652 
+rnd 853: wh-err= 0.998475 th-err= 0.082879 dev= nan test= 0.245000 train= 0.026107
+
+feature:engineering 
+C0:   0.002  -0.002 
+C1:  -0.651   0.651 
+rnd 854: wh-err= 0.998479 th-err= 0.082753 dev= nan test= 0.245000 train= 0.026107
+
+feature:sent 
+C0:   0.001  -0.001 
+C1:  -0.649   0.649 
+rnd 855: wh-err= 0.998489 th-err= 0.082628 dev= nan test= 0.245000 train= 0.026107
+
+feature:difference 
+C0:  -0.002   0.002 
+C1:   0.648  -0.648 
+rnd 856: wh-err= 0.998491 th-err= 0.082504 dev= nan test= 0.245000 train= 0.026107
+
+feature:definately 
+C0:   0.002  -0.002 
+C1:  -0.647   0.647 
+rnd 857: wh-err= 0.998496 th-err= 0.082380 dev= nan test= 0.245000 train= 0.026107
+
+feature:we're 
+C0:  -0.002   0.002 
+C1:   0.642  -0.642 
+rnd 858: wh-err= 0.998515 th-err= 0.082257 dev= nan test= 0.245000 train= 0.026107
+
+feature:four 
+C0:  -0.001   0.001 
+C1:   0.641  -0.641 
+rnd 859: wh-err= 0.998523 th-err= 0.082136 dev= nan test= 0.245000 train= 0.026107
+
+feature:sometimes 
+C0:   0.002  -0.002 
+C1:  -0.640   0.640 
+rnd 860: wh-err= 0.998523 th-err= 0.082014 dev= nan test= 0.245000 train= 0.026107
+
+feature:slowly 
+C0:   0.001  -0.001 
+C1:  -0.640   0.640 
+rnd 861: wh-err= 0.998528 th-err= 0.081894 dev= nan test= 0.245000 train= 0.026107
+
+feature:materialistic 
+C0:  -0.002   0.002 
+C1:   0.639  -0.639 
+rnd 862: wh-err= 0.998529 th-err= 0.081773 dev= nan test= 0.245000 train= 0.026107
+
+feature:born 
+C0:   0.002  -0.002 
+C1:  -0.637   0.637 
+rnd 863: wh-err= 0.998535 th-err= 0.081653 dev= nan test= 0.245000 train= 0.026107
+
+feature:began 
+C0:  -0.002   0.002 
+C1:   0.636  -0.636 
+rnd 864: wh-err= 0.998538 th-err= 0.081534 dev= nan test= 0.245000 train= 0.026107
+
+feature:phsyics 
+C0:   0.002  -0.002 
+C1:  -0.634   0.634 
+rnd 865: wh-err= 0.998550 th-err= 0.081416 dev= nan test= 0.245000 train= 0.026107
+
+feature:independence 
+C0:   0.001  -0.001 
+C1:  -0.634   0.634 
+rnd 866: wh-err= 0.998551 th-err= 0.081298 dev= nan test= 0.245000 train= 0.024972
+
+feature:food 
+C0:   0.004  -0.004 
+C1:  -0.578   0.578 
+rnd 867: wh-err= 0.998548 th-err= 0.081180 dev= nan test= 0.240000 train= 0.024972
+
+feature:energy 
+C0:   0.001  -0.001 
+C1:  -0.636   0.636 
+rnd 868: wh-err= 0.998543 th-err= 0.081061 dev= nan test= 0.240000 train= 0.024972
+
+feature:a+ 
+C0:   0.001  -0.001 
+C1:  -0.636   0.636 
+rnd 869: wh-err= 0.998541 th-err= 0.080943 dev= nan test= 0.240000 train= 0.024972
+
+feature:friends 
+C0:   0.006  -0.006 
+C1:  -0.385   0.385 
+rnd 870: wh-err= 0.998540 th-err= 0.080825 dev= nan test= 0.230000 train= 0.024972
+
+feature:study 
+C0:  -0.011   0.011 
+C1:   0.313  -0.313 
+rnd 871: wh-err= 0.998320 th-err= 0.080689 dev= nan test= 0.225000 train= 0.024972
+
+feature:((yea)) 
+C0:  -0.001   0.001 
+C1:   0.676  -0.676 
+rnd 872: wh-err= 0.998372 th-err= 0.080558 dev= nan test= 0.225000 train= 0.026107
+
+feature:major 
+C0:   0.002  -0.002 
+C1:  -0.671   0.671 
+rnd 873: wh-err= 0.998395 th-err= 0.080429 dev= nan test= 0.225000 train= 0.024972
+
+feature:hi 
+C0:  -0.002   0.002 
+C1:   0.669  -0.669 
+rnd 874: wh-err= 0.998401 th-err= 0.080300 dev= nan test= 0.225000 train= 0.026107
+
+feature:already 
+C0:  -0.001   0.001 
+C1:   0.667  -0.667 
+rnd 875: wh-err= 0.998411 th-err= 0.080172 dev= nan test= 0.225000 train= 0.026107
+
+feature:law 
+C0:   0.002  -0.002 
+C1:  -0.662   0.662 
+rnd 876: wh-err= 0.998433 th-err= 0.080047 dev= nan test= 0.225000 train= 0.024972
+
+feature:submissions 
+C0:  -0.002   0.002 
+C1:   0.637  -0.637 
+rnd 877: wh-err= 0.998538 th-err= 0.079930 dev= nan test= 0.225000 train= 0.026107
+
+feature:trips 
+C0:   0.002  -0.002 
+C1:  -0.636   0.636 
+rnd 878: wh-err= 0.998541 th-err= 0.079813 dev= nan test= 0.225000 train= 0.024972
+
+feature:happen 
+C0:  -0.002   0.002 
+C1:   0.635  -0.635 
+rnd 879: wh-err= 0.998545 th-err= 0.079697 dev= nan test= 0.225000 train= 0.026107
+
+feature:said 
+C0:  -0.001   0.001 
+C1:   0.634  -0.634 
+rnd 880: wh-err= 0.998551 th-err= 0.079582 dev= nan test= 0.225000 train= 0.026107
+
+feature:normal 
+C0:  -0.001   0.001 
+C1:   0.634  -0.634 
+rnd 881: wh-err= 0.998549 th-err= 0.079466 dev= nan test= 0.225000 train= 0.026107
+
+feature:six 
+C0:  -0.002   0.002 
+C1:   0.729  -0.729 
+rnd 882: wh-err= 0.998547 th-err= 0.079351 dev= nan test= 0.225000 train= 0.026107
+
+feature:Ko 
+C0:  -0.001   0.001 
+C1:   0.636  -0.636 
+rnd 883: wh-err= 0.998543 th-err= 0.079235 dev= nan test= 0.225000 train= 0.026107
+
+feature:the 
+C0:   0.020  -0.020 
+C1:  -0.152   0.152 
+rnd 884: wh-err= 0.998539 th-err= 0.079119 dev= nan test= 0.225000 train= 0.024972
+
+feature:didn't 
+C0:  -0.006   0.006 
+C1:   0.606  -0.606 
+rnd 885: wh-err= 0.997988 th-err= 0.078960 dev= nan test= 0.225000 train= 0.026107
+
+feature:Cantonese 
+C0:   0.002  -0.002 
+C1:  -0.704   0.704 
+rnd 886: wh-err= 0.998247 th-err= 0.078822 dev= nan test= 0.225000 train= 0.024972
+
+feature:personally 
+C0:  -0.003   0.003 
+C1:   0.694  -0.694 
+rnd 887: wh-err= 0.998292 th-err= 0.078687 dev= nan test= 0.225000 train= 0.026107
+
+feature:work 
+C0:   0.008  -0.008 
+C1:  -0.418   0.418 
+rnd 888: wh-err= 0.998328 th-err= 0.078555 dev= nan test= 0.225000 train= 0.024972
+
+feature:benefits 
+C0:  -0.002   0.002 
+C1:   0.729  -0.729 
+rnd 889: wh-err= 0.998125 th-err= 0.078408 dev= nan test= 0.225000 train= 0.024972
+
+feature:else 
+C0:   0.002  -0.002 
+C1:  -0.659   0.659 
+rnd 890: wh-err= 0.998445 th-err= 0.078286 dev= nan test= 0.225000 train= 0.024972
+
+feature:military 
+C0:  -0.002   0.002 
+C1:   0.658  -0.658 
+rnd 891: wh-err= 0.998450 th-err= 0.078165 dev= nan test= 0.225000 train= 0.024972
+
+feature:kind 
+C0:  -0.007   0.007 
+C1:   0.390  -0.390 
+rnd 892: wh-err= 0.998450 th-err= 0.078044 dev= nan test= 0.225000 train= 0.026107
+
+feature:~UST 
+C0:   0.002  -0.002 
+C1:  -0.679   0.679 
+rnd 893: wh-err= 0.998360 th-err= 0.077916 dev= nan test= 0.225000 train= 0.024972
+
+feature:mood 
+C0:  -0.003   0.003 
+C1:   0.731  -0.731 
+rnd 894: wh-err= 0.998515 th-err= 0.077800 dev= nan test= 0.225000 train= 0.024972
+
+feature:Mumbai 
+C0:   0.002  -0.002 
+C1:  -0.640   0.640 
+rnd 895: wh-err= 0.998525 th-err= 0.077685 dev= nan test= 0.225000 train= 0.026107
+
+feature:hasn't 
+C0:   0.001  -0.001 
+C1:  -0.638   0.638 
+rnd 896: wh-err= 0.998535 th-err= 0.077571 dev= nan test= 0.225000 train= 0.026107
+
+feature:introductory 
+C0:   0.001  -0.001 
+C1:  -0.635   0.635 
+rnd 897: wh-err= 0.998546 th-err= 0.077459 dev= nan test= 0.225000 train= 0.024972
+
+feature:three 
+C0:   0.002  -0.002 
+C1:  -0.731   0.731 
+rnd 898: wh-err= 0.998551 th-err= 0.077346 dev= nan test= 0.225000 train= 0.024972
+
+feature:concentrate 
+C0:   0.001  -0.001 
+C1:  -0.634   0.634 
+rnd 899: wh-err= 0.998550 th-err= 0.077234 dev= nan test= 0.225000 train= 0.024972
+
+feature:textbook 
+C0:  -0.002   0.002 
+C1:   0.632  -0.632 
+rnd 900: wh-err= 0.998554 th-err= 0.077123 dev= nan test= 0.225000 train= 0.024972
+
+feature:not 
+C0:   0.013  -0.013 
+C1:  -0.230   0.230 
+rnd 901: wh-err= 0.998503 th-err= 0.077007 dev= nan test= 0.225000 train= 0.024972
+
+feature:attention 
+C0:  -0.002   0.002 
+C1:   0.662  -0.662 
+rnd 902: wh-err= 0.998434 th-err= 0.076887 dev= nan test= 0.225000 train= 0.024972
+
+feature:compensate 
+C0:   0.002  -0.002 
+C1:  -0.636   0.636 
+rnd 903: wh-err= 0.998539 th-err= 0.076774 dev= nan test= 0.225000 train= 0.024972
+
+feature:aren't 
+C0:   0.001  -0.001 
+C1:  -0.637   0.637 
+rnd 904: wh-err= 0.998537 th-err= 0.076662 dev= nan test= 0.225000 train= 0.024972
+
+feature:back 
+C0:   0.001  -0.001 
+C1:  -0.631   0.631 
+rnd 905: wh-err= 0.998562 th-err= 0.076552 dev= nan test= 0.225000 train= 0.024972
+
+feature:old 
+C0:   0.001  -0.001 
+C1:  -0.629   0.629 
+rnd 906: wh-err= 0.998569 th-err= 0.076442 dev= nan test= 0.225000 train= 0.024972
+
+feature:workload 
+C0:  -0.002   0.002 
+C1:   0.629  -0.629 
+rnd 907: wh-err= 0.998570 th-err= 0.076333 dev= nan test= 0.225000 train= 0.024972
+
+feature:saw 
+C0:   0.002  -0.002 
+C1:  -0.627   0.627 
+rnd 908: wh-err= 0.998578 th-err= 0.076224 dev= nan test= 0.225000 train= 0.024972
+
+feature:meet 
+C0:   0.001  -0.001 
+C1:  -0.620   0.620 
+rnd 909: wh-err= 0.998605 th-err= 0.076118 dev= nan test= 0.225000 train= 0.024972
+
+feature:leisure 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 910: wh-err= 0.998611 th-err= 0.076012 dev= nan test= 0.225000 train= 0.024972
+
+feature:South 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 911: wh-err= 0.998611 th-err= 0.075906 dev= nan test= 0.225000 train= 0.024972
+
+feature:Shanghai 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 912: wh-err= 0.998610 th-err= 0.075801 dev= nan test= 0.225000 train= 0.024972
+
+feature:movie 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 913: wh-err= 0.998608 th-err= 0.075695 dev= nan test= 0.225000 train= 0.024972
+
+feature:particular 
+C0:  -0.003   0.003 
+C1:   0.730  -0.730 
+rnd 914: wh-err= 0.998545 th-err= 0.075585 dev= nan test= 0.225000 train= 0.024972
+
+feature:maybe 
+C0:   0.002  -0.002 
+C1:  -0.617   0.617 
+rnd 915: wh-err= 0.998617 th-err= 0.075481 dev= nan test= 0.225000 train= 0.024972
+
+feature:having 
+C0:  -0.003   0.003 
+C1:   0.750  -0.750 
+rnd 916: wh-err= 0.998453 th-err= 0.075364 dev= nan test= 0.225000 train= 0.024972
+
+feature:was 
+C0:  -0.005   0.005 
+C1:   0.446  -0.446 
+rnd 917: wh-err= 0.998614 th-err= 0.075259 dev= nan test= 0.225000 train= 0.023837
+
+feature:young 
+C0:   0.002  -0.002 
+C1:  -0.694   0.694 
+rnd 918: wh-err= 0.998290 th-err= 0.075131 dev= nan test= 0.225000 train= 0.023837
+
+feature:bright 
+C0:  -0.002   0.002 
+C1:   0.618  -0.618 
+rnd 919: wh-err= 0.998611 th-err= 0.075026 dev= nan test= 0.225000 train= 0.023837
+
+feature:better 
+C0:   0.007  -0.007 
+C1:  -0.435   0.435 
+rnd 920: wh-err= 0.998476 th-err= 0.074912 dev= nan test= 0.225000 train= 0.023837
+
+feature:suited 
+C0:  -0.003   0.003 
+C1:   0.779  -0.779 
+rnd 921: wh-err= 0.997870 th-err= 0.074753 dev= nan test= 0.225000 train= 0.023837
+
+feature:3rd 
+C0:  -0.001   0.001 
+C1:   0.688  -0.688 
+rnd 922: wh-err= 0.998320 th-err= 0.074627 dev= nan test= 0.225000 train= 0.023837
+
+feature:fed 
+C0:  -0.001   0.001 
+C1:   0.617  -0.617 
+rnd 923: wh-err= 0.998619 th-err= 0.074524 dev= nan test= 0.225000 train= 0.023837
+
+feature:studying 
+C0:   0.005  -0.005 
+C1:  -0.723   0.723 
+rnd 924: wh-err= 0.998098 th-err= 0.074382 dev= nan test= 0.225000 train= 0.023837
+
+feature:fed 
+C0:  -0.002   0.002 
+C1:   0.656  -0.656 
+rnd 925: wh-err= 0.998458 th-err= 0.074267 dev= nan test= 0.225000 train= 0.023837
+
+feature:touch 
+C0:   0.002  -0.002 
+C1:  -0.618   0.618 
+rnd 926: wh-err= 0.998613 th-err= 0.074164 dev= nan test= 0.225000 train= 0.023837
+
+feature:bit 
+C0:  -0.007   0.007 
+C1:   0.478  -0.478 
+rnd 927: wh-err= 0.998461 th-err= 0.074050 dev= nan test= 0.225000 train= 0.022701
+
+feature:tend 
+C0:   0.002  -0.002 
+C1:  -0.628   0.628 
+rnd 928: wh-err= 0.998574 th-err= 0.073945 dev= nan test= 0.225000 train= 0.022701
+
+feature:that’s 
+C0:   0.001  -0.001 
+C1:  -0.623   0.623 
+rnd 929: wh-err= 0.998594 th-err= 0.073841 dev= nan test= 0.225000 train= 0.022701
+
+feature:that's 
+C0:   0.004  -0.004 
+C1:  -0.551   0.551 
+rnd 930: wh-err= 0.998597 th-err= 0.073737 dev= nan test= 0.225000 train= 0.022701
+
+feature:if 
+C0:  -0.005   0.005 
+C1:   0.580  -0.580 
+rnd 931: wh-err= 0.998486 th-err= 0.073626 dev= nan test= 0.225000 train= 0.022701
+
+feature:sensitive 
+C0:   0.002  -0.002 
+C1:  -0.670   0.670 
+rnd 932: wh-err= 0.998397 th-err= 0.073508 dev= nan test= 0.225000 train= 0.022701
+
+feature:sucks 
+C0:  -0.004   0.004 
+C1:   0.677  -0.677 
+rnd 933: wh-err= 0.998606 th-err= 0.073405 dev= nan test= 0.225000 train= 0.022701
+
+feature:gave 
+C0:  -0.002   0.002 
+C1:   0.695  -0.695 
+rnd 934: wh-err= 0.998603 th-err= 0.073303 dev= nan test= 0.225000 train= 0.022701
+
+feature:commission 
+C0:  -0.001   0.001 
+C1:   0.621  -0.621 
+rnd 935: wh-err= 0.998603 th-err= 0.073200 dev= nan test= 0.225000 train= 0.022701
+
+feature:bank 
+C0:  -0.001   0.001 
+C1:   0.620  -0.620 
+rnd 936: wh-err= 0.998606 th-err= 0.073098 dev= nan test= 0.225000 train= 0.022701
+
+feature:specially 
+C0:  -0.001   0.001 
+C1:   0.620  -0.620 
+rnd 937: wh-err= 0.998606 th-err= 0.072996 dev= nan test= 0.225000 train= 0.022701
+
+feature:Application 
+C0:  -0.001   0.001 
+C1:   0.620  -0.620 
+rnd 938: wh-err= 0.998606 th-err= 0.072894 dev= nan test= 0.225000 train= 0.022701
+
+feature:speaking 
+C0:  -0.001   0.001 
+C1:   0.619  -0.619 
+rnd 939: wh-err= 0.998609 th-err= 0.072793 dev= nan test= 0.225000 train= 0.022701
+
+feature:day 
+C0:  -0.003   0.003 
+C1:   0.602  -0.602 
+rnd 940: wh-err= 0.998610 th-err= 0.072692 dev= nan test= 0.225000 train= 0.022701
+
+feature:seems 
+C0:   0.003  -0.003 
+C1:  -0.710   0.710 
+rnd 941: wh-err= 0.998218 th-err= 0.072562 dev= nan test= 0.225000 train= 0.022701
+
+feature:library 
+C0:  -0.004   0.004 
+C1:   0.638  -0.638 
+rnd 942: wh-err= 0.998599 th-err= 0.072461 dev= nan test= 0.225000 train= 0.022701
+
+feature:self 
+C0:   0.002  -0.002 
+C1:  -0.688   0.688 
+rnd 943: wh-err= 0.998317 th-err= 0.072339 dev= nan test= 0.225000 train= 0.022701
+
+feature:The 
+C0:  -0.006   0.006 
+C1:   0.459  -0.459 
+rnd 944: wh-err= 0.998594 th-err= 0.072237 dev= nan test= 0.225000 train= 0.022701
+
+feature:I'd 
+C0:   0.002  -0.002 
+C1:  -0.706   0.706 
+rnd 945: wh-err= 0.998235 th-err= 0.072110 dev= nan test= 0.225000 train= 0.021566
+
+feature:~UK 
+C0:   0.001  -0.001 
+C1:  -0.672   0.672 
+rnd 946: wh-err= 0.998390 th-err= 0.071993 dev= nan test= 0.225000 train= 0.021566
+
+feature:graduate? 
+C0:  -0.002   0.002 
+C1:   0.623  -0.623 
+rnd 947: wh-err= 0.998590 th-err= 0.071892 dev= nan test= 0.225000 train= 0.022701
+
+feature:eating 
+C0:  -0.003   0.003 
+C1:   0.662  -0.662 
+rnd 948: wh-err= 0.998588 th-err= 0.071790 dev= nan test= 0.225000 train= 0.021566
+
+feature:behind 
+C0:  -0.001   0.001 
+C1:   0.623  -0.623 
+rnd 949: wh-err= 0.998593 th-err= 0.071689 dev= nan test= 0.225000 train= 0.021566
+
+feature:afterwards 
+C0:  -0.001   0.001 
+C1:   0.623  -0.623 
+rnd 950: wh-err= 0.998596 th-err= 0.071589 dev= nan test= 0.225000 train= 0.021566
+
+feature:terms 
+C0:  -0.001   0.001 
+C1:   0.619  -0.619 
+rnd 951: wh-err= 0.998611 th-err= 0.071489 dev= nan test= 0.225000 train= 0.021566
+
+feature:aspects 
+C0:  -0.002   0.002 
+C1:   0.677  -0.677 
+rnd 952: wh-err= 0.998616 th-err= 0.071390 dev= nan test= 0.225000 train= 0.021566
+
+feature:eat 
+C0:   0.002  -0.002 
+C1:  -0.614   0.614 
+rnd 953: wh-err= 0.998626 th-err= 0.071292 dev= nan test= 0.225000 train= 0.021566
+
+feature:recruitment 
+C0:  -0.002   0.002 
+C1:   0.614  -0.614 
+rnd 954: wh-err= 0.998628 th-err= 0.071194 dev= nan test= 0.225000 train= 0.021566
+
+feature:scenarios 
+C0:  -0.001   0.001 
+C1:   0.613  -0.613 
+rnd 955: wh-err= 0.998633 th-err= 0.071097 dev= nan test= 0.225000 train= 0.021566
+
+feature:Tension 
+C0:  -0.001   0.001 
+C1:   0.614  -0.614 
+rnd 956: wh-err= 0.998631 th-err= 0.071000 dev= nan test= 0.225000 train= 0.021566
+
+feature:don't 
+C0:  -0.012   0.012 
+C1:   0.219  -0.219 
+rnd 957: wh-err= 0.998634 th-err= 0.070903 dev= nan test= 0.230000 train= 0.021566
+
+feature:like 
+C0:   0.013  -0.013 
+C1:  -0.224   0.224 
+rnd 958: wh-err= 0.998568 th-err= 0.070801 dev= nan test= 0.230000 train= 0.021566
+
+feature:myself 
+C0:  -0.005   0.005 
+C1:   0.578  -0.578 
+rnd 959: wh-err= 0.998296 th-err= 0.070681 dev= nan test= 0.230000 train= 0.021566
+
+feature:stuffing 
+C0:   0.003  -0.003 
+C1:  -0.784   0.784 
+rnd 960: wh-err= 0.997841 th-err= 0.070528 dev= nan test= 0.230000 train= 0.021566
+
+feature:second 
+C0:   0.001  -0.001 
+C1:  -0.655   0.655 
+rnd 961: wh-err= 0.998465 th-err= 0.070420 dev= nan test= 0.230000 train= 0.021566
+
+feature:have 
+C0:   0.013  -0.013 
+C1:  -0.208   0.208 
+rnd 962: wh-err= 0.998563 th-err= 0.070319 dev= nan test= 0.230000 train= 0.022701
+
+feature:bright 
+C0:  -0.002   0.002 
+C1:   0.653  -0.653 
+rnd 963: wh-err= 0.998472 th-err= 0.070211 dev= nan test= 0.230000 train= 0.022701
+
+feature:submissions 
+C0:  -0.001   0.001 
+C1:   0.635  -0.635 
+rnd 964: wh-err= 0.998548 th-err= 0.070109 dev= nan test= 0.230000 train= 0.022701
+
+feature:communication 
+C0:  -0.007   0.007 
+C1:   0.351  -0.351 
+rnd 965: wh-err= 0.998572 th-err= 0.070009 dev= nan test= 0.230000 train= 0.020431
+
+feature:happens 
+C0:  -0.001   0.001 
+C1:   0.613  -0.613 
+rnd 966: wh-err= 0.998632 th-err= 0.069913 dev= nan test= 0.230000 train= 0.020431
+
+feature:constantly 
+C0:  -0.001   0.001 
+C1:   0.613  -0.613 
+rnd 967: wh-err= 0.998634 th-err= 0.069818 dev= nan test= 0.230000 train= 0.020431
+
+feature:I'm 
+C0:   0.013  -0.013 
+C1:  -0.237   0.237 
+rnd 968: wh-err= 0.998553 th-err= 0.069717 dev= nan test= 0.230000 train= 0.021566
+
+feature:employment 
+C0:  -0.005   0.005 
+C1:   0.593  -0.593 
+rnd 969: wh-err= 0.998383 th-err= 0.069604 dev= nan test= 0.225000 train= 0.021566
+
+feature:hmm 
+C0:   0.002  -0.002 
+C1:  -0.683   0.683 
+rnd 970: wh-err= 0.998340 th-err= 0.069489 dev= nan test= 0.225000 train= 0.021566
+
+feature:exactly 
+C0:  -0.002   0.002 
+C1:   0.662  -0.662 
+rnd 971: wh-err= 0.998430 th-err= 0.069379 dev= nan test= 0.225000 train= 0.021566
+
+feature:child 
+C0:  -0.001   0.001 
+C1:   0.650  -0.650 
+rnd 972: wh-err= 0.998487 th-err= 0.069274 dev= nan test= 0.225000 train= 0.021566
+
+feature:love 
+C0:   0.002  -0.002 
+C1:  -0.642   0.642 
+rnd 973: wh-err= 0.998517 th-err= 0.069172 dev= nan test= 0.225000 train= 0.021566
+
+feature:Relationships 
+C0:  -0.002   0.002 
+C1:   0.678  -0.678 
+rnd 974: wh-err= 0.998574 th-err= 0.069073 dev= nan test= 0.225000 train= 0.021566
+
+feature:didn't 
+C0:  -0.004   0.004 
+C1:   0.522  -0.522 
+rnd 975: wh-err= 0.998595 th-err= 0.068976 dev= nan test= 0.225000 train= 0.020431
+
+feature:Cantonese 
+C0:   0.002  -0.002 
+C1:  -0.649   0.649 
+rnd 976: wh-err= 0.998485 th-err= 0.068872 dev= nan test= 0.225000 train= 0.020431
+
+feature:still 
+C0:   0.001  -0.001 
+C1:  -0.634   0.634 
+rnd 977: wh-err= 0.998552 th-err= 0.068772 dev= nan test= 0.225000 train= 0.020431
+
+feature:else 
+C0:   0.001  -0.001 
+C1:  -0.632   0.632 
+rnd 978: wh-err= 0.998557 th-err= 0.068673 dev= nan test= 0.225000 train= 0.021566
+
+feature:tennis 
+C0:   0.001  -0.001 
+C1:  -0.616   0.616 
+rnd 979: wh-err= 0.998622 th-err= 0.068578 dev= nan test= 0.225000 train= 0.021566
+
+feature:~UST 
+C0:   0.001  -0.001 
+C1:  -0.616   0.616 
+rnd 980: wh-err= 0.998623 th-err= 0.068484 dev= nan test= 0.225000 train= 0.021566
+
+feature:down 
+C0:   0.001  -0.001 
+C1:  -0.615   0.615 
+rnd 981: wh-err= 0.998625 th-err= 0.068389 dev= nan test= 0.225000 train= 0.021566
+
+feature:romance 
+C0:   0.001  -0.001 
+C1:  -0.614   0.614 
+rnd 982: wh-err= 0.998629 th-err= 0.068296 dev= nan test= 0.225000 train= 0.021566
+
+feature:music 
+C0:   0.001  -0.001 
+C1:  -0.615   0.615 
+rnd 983: wh-err= 0.998628 th-err= 0.068202 dev= nan test= 0.225000 train= 0.021566
+
+feature:planting 
+C0:   0.001  -0.001 
+C1:  -0.615   0.615 
+rnd 984: wh-err= 0.998626 th-err= 0.068108 dev= nan test= 0.225000 train= 0.021566
+
+feature:house 
+C0:   0.001  -0.001 
+C1:  -0.615   0.615 
+rnd 985: wh-err= 0.998626 th-err= 0.068015 dev= nan test= 0.225000 train= 0.021566
+
+feature:born 
+C0:   0.001  -0.001 
+C1:  -0.615   0.615 
+rnd 986: wh-err= 0.998624 th-err= 0.067921 dev= nan test= 0.225000 train= 0.021566
+
+feature:i 
+C0:  -0.006   0.006 
+C1:   0.491  -0.491 
+rnd 987: wh-err= 0.998554 th-err= 0.067823 dev= nan test= 0.230000 train= 0.020431
+
+feature:restaurants 
+C0:   0.002  -0.002 
+C1:  -0.677   0.677 
+rnd 988: wh-err= 0.998369 th-err= 0.067712 dev= nan test= 0.230000 train= 0.021566
+
+feature:no 
+C0:   0.007  -0.007 
+C1:  -0.361   0.361 
+rnd 989: wh-err= 0.998597 th-err= 0.067617 dev= nan test= 0.230000 train= 0.021566
+
+feature:crowded 
+C0:   0.001  -0.001 
+C1:  -0.618   0.618 
+rnd 990: wh-err= 0.998614 th-err= 0.067523 dev= nan test= 0.230000 train= 0.021566
+
+feature:criterias 
+C0:   0.001  -0.001 
+C1:  -0.618   0.618 
+rnd 991: wh-err= 0.998613 th-err= 0.067430 dev= nan test= 0.230000 train= 0.021566
+
+feature:competitor 
+C0:   0.001  -0.001 
+C1:  -0.618   0.618 
+rnd 992: wh-err= 0.998612 th-err= 0.067336 dev= nan test= 0.230000 train= 0.021566
+
+feature:~OM 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 993: wh-err= 0.998612 th-err= 0.067243 dev= nan test= 0.230000 train= 0.021566
+
+feature:negatives 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 994: wh-err= 0.998611 th-err= 0.067149 dev= nan test= 0.230000 train= 0.021566
+
+feature:kindly 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 995: wh-err= 0.998610 th-err= 0.067056 dev= nan test= 0.230000 train= 0.021566
+
+feature:thrillers 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 996: wh-err= 0.998611 th-err= 0.066963 dev= nan test= 0.230000 train= 0.021566
+
+feature:hometown 
+C0:   0.001  -0.001 
+C1:  -0.619   0.619 
+rnd 997: wh-err= 0.998609 th-err= 0.066870 dev= nan test= 0.230000 train= 0.021566
+
+feature:everything's 
+C0:   0.001  -0.001 
+C1:  -0.620   0.620 
+rnd 998: wh-err= 0.998608 th-err= 0.066777 dev= nan test= 0.230000 train= 0.021566
+
+feature:Nabeul 
+C0:   0.001  -0.001 
+C1:  -0.620   0.620 
+rnd 999: wh-err= 0.998607 th-err= 0.066684 dev= nan test= 0.230000 train= 0.021566
+
+feature:money 
+C0:   0.001  -0.001 
+C1:  -0.620   0.620 
+rnd 1000: wh-err= 0.998607 th-err= 0.066591 dev= nan test= 0.230000 train= 0.021566

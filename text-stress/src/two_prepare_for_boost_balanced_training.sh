@@ -13,9 +13,13 @@ sed -i 's/,,/,/g' $WORKDIR/data/2-prepare-boost-format/pure.comma
 
 sed -i 's/,[^ns]/\ <comma>\ /g' $WORKDIR/data/2-prepare-boost-format/pure.comma 
 
-head -200 $CURDIR/pure.comma > $CURDIR/pure.comma.test
+head -200 $CURDIR/pure.comma > $CURDIR/pure.comma.test.unbalanced
 
-sed '1,200d' $CURDIR/pure.comma > $CURDIR/pure.comma.data
+sed '1,200d' $CURDIR/pure.comma > $CURDIR/pure.comma.unbanlance.training
+
+sed '1,100{/,nostress/d}' $CURDIR/pure.comma.test.unbalanced > $CURDIR/pure.comma.test
+
+sed '1,500{/,nostress/d}' $CURDIR/pure.comma.unbanlance.training > $CURDIR/pure.comma.data
 
 echo 'stress,nostress.
 feature: text.' > $CURDIR/pure.comma.names
