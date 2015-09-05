@@ -1,0 +1,1200 @@
+
+
+feature: I think econometrics in uh UST is very hard
+correct label = stress 
+*>  0.000076 : stress 
+   -0.000076 : nostress 
+
+
+feature: it involves a lot of lot of math
+correct label = stress 
+*>  0.002025 : stress 
+   -0.002025 : nostress 
+
+
+feature: Recent work is not going very good since I've no motivation to start studyin
+correct label = stress 
+** -0.001901 : stress 
+ >  0.001901 : nostress 
+
+
+feature: my midterms is coming soon
+correct label = stress 
+** -0.002979 : stress 
+ >  0.002979 : nostress 
+
+
+feature: i'll study soon
+correct label = stress 
+*>  0.000416 : stress 
+   -0.000416 : nostress 
+
+
+feature: ah The course I think the most difficult is um Accounting
+correct label = stress 
+** -0.001268 : stress 
+ >  0.001268 : nostress 
+
+
+feature: Finance <comma> cause I’m in Finance major
+correct label = nostress 
+   -0.005578 : stress 
+*>  0.005578 : nostress 
+
+
+feature: I have to do Accounting again
+correct label = nostress 
+   -0.001658 : stress 
+*>  0.001658 : nostress 
+
+
+feature: it’s really boring
+correct label = nostress 
+   -0.001208 : stress 
+*>  0.001208 : nostress 
+
+
+feature: I feel really stressed every time I ((need to do)) study
+correct label = stress 
+*>  0.000202 : stress 
+   -0.000202 : nostress 
+
+
+feature: What I'm actually anxious about for the moment uh is my academic life
+correct label = nostress 
+   -0.000906 : stress 
+*>  0.000906 : nostress 
+
+
+feature: That's the most important thing
+correct label = nostress 
+   -0.003828 : stress 
+*>  0.003828 : nostress 
+
+
+feature: uh
+correct label = nostress 
+   -0.000298 : stress 
+*>  0.000298 : nostress 
+
+
+feature: maybe uh when we are talking about relationship
+correct label = nostress 
+   -0.004108 : stress 
+*>  0.004108 : nostress 
+
+
+feature: love life <comma> that will probably come later
+correct label = stress 
+** -0.003550 : stress 
+ >  0.003550 : nostress 
+
+
+feature: Recent work is uh hard to focus on
+correct label = stress 
+** -0.000995 : stress 
+ >  0.000995 : nostress 
+
+
+feature: um job applications are taking -- is taking up
+correct label = stress 
+** -0.002740 : stress 
+ >  0.002740 : nostress 
+
+
+feature: much time <comma> uh making it hard to focus on current work
+correct label = stress 
+** -0.002103 : stress 
+ >  0.002103 : nostress 
+
+
+feature: um Actually my parents <comma> they dont give me any pressure at all which I think is pretty odd for most Asian people I know that a lot of them they have a lot of pressure from home
+correct label = nostress 
+   -0.002788 : stress 
+*>  0.002788 : nostress 
+
+
+feature: I know my mom she can -- she just says that if you don't like university you can come back any time you don't even have to finish graduation I don't give a shit
+correct label = nostress 
+   -0.003376 : stress 
+*>  0.003376 : nostress 
+
+
+feature: So <comma> no pressure at all
+correct label = nostress 
+   -0.003656 : stress 
+*>  0.003656 : nostress 
+
+
+feature: I'm anxious about my academic life <comma> employment
+correct label = stress 
+*>  0.000209 : stress 
+   -0.000209 : nostress 
+
+
+feature: relationships
+correct label = stress 
+** -0.000967 : stress 
+ >  0.000967 : nostress 
+
+
+feature: empolyment is hard to look for right now relationshps is also hard
+correct label = stress 
+*>  0.004009 : stress 
+   -0.004009 : nostress 
+
+
+feature: academic life is something I can do
+correct label = stress 
+** -0.001060 : stress 
+ >  0.001060 : nostress 
+
+
+feature: I just don't feel like doing right now
+correct label = nostress 
+   -0.003396 : stress 
+*>  0.003396 : nostress 
+
+
+feature: No man
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: I haven't seen any good movies lately
+correct label = nostress 
+   -0.003893 : stress 
+*>  0.003893 : nostress 
+
+
+feature: I've been stuck in the library revising
+correct label = nostress 
+ >  0.003467 : stress 
+** -0.003467 : nostress 
+
+
+feature: That sounds (()) -- sounds pretty boring
+correct label = stress 
+** -0.001147 : stress 
+ >  0.001147 : nostress 
+
+
+feature: hey that's year two you know
+correct label = stress 
+** -0.001631 : stress 
+ >  0.001631 : nostress 
+
+
+feature: Yup that basically sums up my movie life
+correct label = nostress 
+   -0.003630 : stress 
+*>  0.003630 : nostress 
+
+
+feature: I've been to ((ho)) um Europe
+correct label = nostress 
+   -0.000543 : stress 
+*>  0.000543 : nostress 
+
+
+feature: places in Asia like India
+correct label = nostress 
+   -0.002251 : stress 
+*>  0.002251 : nostress 
+
+
+feature: Thailand
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: uh Where do I plan to go um Europe -- I'm going to exchange for Europe again
+correct label = nostress 
+   -0.002503 : stress 
+*>  0.002503 : nostress 
+
+
+feature: this time hopefully I'll actually remember things
+correct label = nostress 
+   -0.002625 : stress 
+*>  0.002625 : nostress 
+
+
+feature: I went last time when I was really really young
+correct label = nostress 
+   -0.003176 : stress 
+*>  0.003176 : nostress 
+
+
+feature: I like uh Oslo <comma> my home town
+correct label = nostress 
+   -0.004877 : stress 
+*>  0.004877 : nostress 
+
+
+feature: uh I can recommend going to see the Opera <comma> it’s the biggest one in Europe
+correct label = nostress 
+   -0.003160 : stress 
+*>  0.003160 : nostress 
+
+
+feature: I'd say overall university
+correct label = stress 
+** -0.001675 : stress 
+ >  0.001675 : nostress 
+
+
+feature: far has been better
+correct label = nostress 
+   -0.000805 : stress 
+*>  0.000805 : nostress 
+
+
+feature: at the end of high school I had really good friends as well
+correct label = nostress 
+   -0.006804 : stress 
+*>  0.006804 : nostress 
+
+
+feature: I think as far as friends go I've been pretty lucky
+correct label = nostress 
+   -0.003256 : stress 
+*>  0.003256 : nostress 
+
+
+feature: enjoying myself
+correct label = nostress 
+ >  0.001125 : stress 
+** -0.001125 : nostress 
+
+
+feature: The previous holiday I travelled around china quite extensively we -- we went all around China we went to Mongolia <comma> uh ((xing xiao)) <comma> uh Beijing <comma> uh lots of places
+correct label = nostress 
+   -0.007764 : stress 
+*>  0.007764 : nostress 
+
+
+feature: after that I went back to South Africa where my parents are
+correct label = nostress 
+   -0.007515 : stress 
+*>  0.007515 : nostress 
+
+
+feature: s --
+correct label = nostress 
+   -0.001147 : stress 
+*>  0.001147 : nostress 
+
+
+feature: I went home for the holidays also -- um What did I like about the place well firstly South Africa is home
+correct label = nostress 
+   -0.011876 : stress 
+*>  0.011876 : nostress 
+
+
+feature: uh
+correct label = nostress 
+   -0.000298 : stress 
+*>  0.000298 : nostress 
+
+
+feature: th -- th -- that in itself says a lot
+correct label = nostress 
+ >  0.000515 : stress 
+** -0.000515 : nostress 
+
+
+feature: what I like about China was that well it's -- it's -- it's there's a sense of familiarity
+correct label = nostress 
+   -0.004363 : stress 
+*>  0.004363 : nostress 
+
+
+feature: I -- I speak chinese
+correct label = stress 
+** -0.003062 : stress 
+ >  0.003062 : nostress 
+
+
+feature: a lot of my relatives are in China
+correct label = nostress 
+   -0.003789 : stress 
+*>  0.003789 : nostress 
+
+
+feature: when -- when I go there it feels more familiar then for example Hong Kong where everybody speaks cantonese
+correct label = nostress 
+   -0.006717 : stress 
+*>  0.006717 : nostress 
+
+
+feature: When i'm free i cook a lot <comma> like i do like the food i cook
+correct label = nostress 
+   -0.000056 : stress 
+*>  0.000056 : nostress 
+
+
+feature: --
+correct label = nostress 
+   -0.001147 : stress 
+*>  0.001147 : nostress 
+
+
+feature: i do like create some new food that others did not cook
+correct label = nostress 
+   -0.001477 : stress 
+*>  0.001477 : nostress 
+
+
+feature: um I like ((it))
+correct label = nostress 
+   -0.002227 : stress 
+*>  0.002227 : nostress 
+
+
+feature: my mum like the stuff i cooked
+correct label = stress 
+** -0.000280 : stress 
+ >  0.000280 : nostress 
+
+
+feature: my dad like it as well i don't like it that much
+correct label = nostress 
+ >  0.000127 : stress 
+** -0.000127 : nostress 
+
+
+feature: they like it
+correct label = nostress 
+   -0.002547 : stress 
+*>  0.002547 : nostress 
+
+
+feature: For my leisure time I like watching movies or TV shows or sometimes I also like to play the violin
+correct label = nostress 
+   -0.008326 : stress 
+*>  0.008326 : nostress 
+
+
+feature: it relaxes me
+correct label = nostress 
+   -0.001482 : stress 
+*>  0.001482 : nostress 
+
+
+feature: that's what I want for my lesiure time
+correct label = nostress 
+   -0.002566 : stress 
+*>  0.002566 : nostress 
+
+
+feature: My parents give me a lot of pressure
+correct label = stress 
+*>  0.000281 : stress 
+   -0.000281 : nostress 
+
+
+feature: uh My mother wants me to move back to Europe after graduation uh which is also something I have to take into account for employment issues
+correct label = stress 
+*>  0.001811 : stress 
+   -0.001811 : nostress 
+
+
+feature: The most recent tv show I watched is gossip girl
+correct label = nostress 
+   -0.002095 : stress 
+*>  0.002095 : nostress 
+
+
+feature: it's about four people <comma> young people fighting all the time
+correct label = nostress 
+   -0.002498 : stress 
+*>  0.002498 : nostress 
+
+
+feature: my favourite type of tv series is drama
+correct label = nostress 
+   -0.002612 : stress 
+*>  0.002612 : nostress 
+
+
+feature: um I think finance
+correct label = stress 
+** -0.001162 : stress 
+ >  0.001162 : nostress 
+
+
+feature: accounting courses are the most difficult
+correct label = nostress 
+   -0.001538 : stress 
+*>  0.001538 : nostress 
+
+
+feature: it requires a lot of application
+correct label = stress 
+** -0.001268 : stress 
+ >  0.001268 : nostress 
+
+
+feature: a lot of theories
+correct label = stress 
+** -0.000752 : stress 
+ >  0.000752 : nostress 
+
+
+feature: I've been to Philipines for holiday before
+correct label = nostress 
+   -0.002565 : stress 
+*>  0.002565 : nostress 
+
+
+feature: I liked the beaches there
+correct label = nostress 
+   -0.002196 : stress 
+*>  0.002196 : nostress 
+
+
+feature: I -- I would be lying if I say I don't get any pressure from my parents uh they -- they really --
+correct label = nostress 
+ >  0.002390 : stress 
+** -0.002390 : nostress 
+
+
+feature: it's -- it's the sort of pressure which like -- it's always in a positive sense
+correct label = nostress 
+   -0.005035 : stress 
+*>  0.005035 : nostress 
+
+
+feature: They -- they want me to work hard
+correct label = nostress 
+   -0.001310 : stress 
+*>  0.001310 : nostress 
+
+
+feature: that I can uh have a good life
+correct label = nostress 
+   -0.001672 : stress 
+*>  0.001672 : nostress 
+
+
+feature: I don't have troubles later on
+correct label = nostress 
+ >  0.001287 : stress 
+** -0.001287 : nostress 
+
+
+feature: I like my college life
+correct label = nostress 
+   -0.003933 : stress 
+*>  0.003933 : nostress 
+
+
+feature: I'm adapting pretty fast I'm a fast adapter
+correct label = nostress 
+   -0.001738 : stress 
+*>  0.001738 : nostress 
+
+
+feature: I came to this university
+correct label = nostress 
+   -0.001162 : stress 
+*>  0.001162 : nostress 
+
+
+feature: it's close to mainland China
+correct label = nostress 
+   -0.007200 : stress 
+*>  0.007200 : nostress 
+
+
+feature: I live there
+correct label = nostress 
+   -0.001625 : stress 
+*>  0.001625 : nostress 
+
+
+feature: I study business
+correct label = nostress 
+   -0.000659 : stress 
+*>  0.000659 : nostress 
+
+
+feature: I've no idea what I want to do
+correct label = nostress 
+   -0.001484 : stress 
+*>  0.001484 : nostress 
+
+
+feature: business is the safest option
+correct label = nostress 
+   -0.002417 : stress 
+*>  0.002417 : nostress 
+
+
+feature: My home town is wu han in mainland china I like um -- the food there is very special um it's nice um hot dry noodles it's very good
+correct label = nostress 
+   -0.008043 : stress 
+*>  0.008043 : nostress 
+
+
+feature: um The place that's worth going is the east lake ah it's very -- it's a natural place very nice I prefer it -- I prefer my home town to hong kong
+correct label = nostress 
+   -0.009717 : stress 
+*>  0.009717 : nostress 
+
+
+feature: it's still my home town where I grew up yeah the all the people
+correct label = nostress 
+   -0.007111 : stress 
+*>  0.007111 : nostress 
+
+
+feature: places
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: I like uh Thai food <comma> uh Thai cuisine is probably my favorite
+correct label = nostress 
+   -0.004824 : stress 
+*>  0.004824 : nostress 
+
+
+feature: Uh I have a restaurant in Hang Hau Tsuen where I usually go for Thai food
+correct label = nostress 
+   -0.005839 : stress 
+*>  0.005839 : nostress 
+
+
+feature: I enjoy it a lot
+correct label = nostress 
+   -0.001678 : stress 
+*>  0.001678 : nostress 
+
+
+feature: uh I think I'm adapting to college life pretty well
+correct label = nostress 
+   -0.002435 : stress 
+*>  0.002435 : nostress 
+
+
+feature: I've been a student for quite some time now
+correct label = nostress 
+   -0.000951 : stress 
+*>  0.000951 : nostress 
+
+
+feature: I mean most people here actually very nice
+correct label = nostress 
+   -0.002958 : stress 
+*>  0.002958 : nostress 
+
+
+feature: it's not that hard to adapt well
+correct label = nostress 
+   -0.002818 : stress 
+*>  0.002818 : nostress 
+
+
+feature: why did I come to this university well I lived in Shanghai before
+correct label = nostress 
+   -0.007679 : stress 
+*>  0.007679 : nostress 
+
+
+feature: in hong kong they have very good universities
+correct label = nostress 
+   -0.001682 : stress 
+*>  0.001682 : nostress 
+
+
+feature: uh yeah I guess that's pretty much the reason
+correct label = nostress 
+ >  0.001300 : stress 
+** -0.001300 : nostress 
+
+
+feature: Well compared to high school university socialsing I suppose is a lot a lot better
+correct label = nostress 
+   -0.002541 : stress 
+*>  0.002541 : nostress 
+
+
+feature: y -- the people you meet are
+correct label = nostress 
+   -0.004507 : stress 
+*>  0.004507 : nostress 
+
+
+feature: much more varied you meet people from all walks of life that you would never have gotten a chance to know in high school
+correct label = nostress 
+   -0.003480 : stress 
+*>  0.003480 : nostress 
+
+
+feature: in high school uh your friends are all -- all come from very similar background
+correct label = nostress 
+   -0.003823 : stress 
+*>  0.003823 : nostress 
+
+
+feature: --
+correct label = nostress 
+   -0.001147 : stress 
+*>  0.001147 : nostress 
+
+
+feature: your interests are the same
+correct label = nostress 
+   -0.001538 : stress 
+*>  0.001538 : nostress 
+
+
+feature: in university you learn about things that you -- that you would never ever have know before
+correct label = nostress 
+   -0.003322 : stress 
+*>  0.003322 : nostress 
+
+
+feature: uh How I get along with local students I suppose I get on better -- get along better with them than other internationals
+correct label = nostress 
+   -0.003426 : stress 
+*>  0.003426 : nostress 
+
+
+feature: I was born here
+correct label = nostress 
+   -0.003485 : stress 
+*>  0.003485 : nostress 
+
+
+feature: I can -- I can understand cantonese
+correct label = nostress 
+   -0.002335 : stress 
+*>  0.002335 : nostress 
+
+
+feature: I speak mandarin
+correct label = nostress 
+   -0.002882 : stress 
+*>  0.002882 : nostress 
+
+
+feature: still not to not to a very satisfactory extent
+correct label = nostress 
+   -0.003927 : stress 
+*>  0.003927 : nostress 
+
+
+feature: um I can -- I can -- I can speak to them
+correct label = stress 
+** -0.002112 : stress 
+ >  0.002112 : nostress 
+
+
+feature: uh none of them are my close friends uh none of my close friends are locals
+correct label = nostress 
+   -0.002095 : stress 
+*>  0.002095 : nostress 
+
+
+feature: in a -- in a way it's difficult to uh properly bond with them
+correct label = nostress 
+   -0.001062 : stress 
+*>  0.001062 : nostress 
+
+
+feature: Well I was born in Hong Kong technically
+correct label = nostress 
+   -0.004484 : stress 
+*>  0.004484 : nostress 
+
+
+feature: I think of Cape town <comma> South Africa as my home town
+correct label = nostress 
+   -0.008738 : stress 
+*>  0.008738 : nostress 
+
+
+feature: specialities in South Africa wud -- that would definately be um wine
+correct label = nostress 
+   -0.006261 : stress 
+*>  0.006261 : nostress 
+
+
+feature: Wine is the big export of South Africa as well as -- w -- we eat alot of meat the -- the -- the stereotype about south african males is that they -- they barbeque a lot of meat although we don't call it barbeque we call it braai
+correct label = nostress 
+   -0.007459 : stress 
+*>  0.007459 : nostress 
+
+
+feature: uh What -- what i would recommend is -- is a holiday in South Africa definately uh anybody whose been to South Africa on -- o -- on holiday really really love it
+correct label = nostress 
+   -0.007724 : stress 
+*>  0.007724 : nostress 
+
+
+feature: --
+correct label = nostress 
+   -0.001147 : stress 
+*>  0.001147 : nostress 
+
+
+feature: they recommend it to everybody else
+correct label = nostress 
+   -0.007819 : stress 
+*>  0.007819 : nostress 
+
+
+feature: Anywhere worth going well I'd say that Cape town is the -- is the heart of tourism in South Africa
+correct label = nostress 
+   -0.004181 : stress 
+*>  0.004181 : nostress 
+
+
+feature: right now I prefer -- I prefer my home town
+correct label = nostress 
+   -0.004409 : stress 
+*>  0.004409 : nostress 
+
+
+feature: whenever --
+correct label = nostress 
+   -0.001147 : stress 
+*>  0.001147 : nostress 
+
+
+feature: you always want what you can't have
+correct label = nostress 
+   -0.001463 : stress 
+*>  0.001463 : nostress 
+
+
+feature: when I'm in South Africa I think about my friends in Hong Kong
+correct label = nostress 
+   -0.006197 : stress 
+*>  0.006197 : nostress 
+
+
+feature: when I'm in Hong Kong I think about home
+correct label = nostress 
+   -0.003764 : stress 
+*>  0.003764 : nostress 
+
+
+feature: my parents are in South Africa
+correct label = nostress 
+   -0.003957 : stress 
+*>  0.003957 : nostress 
+
+
+feature: --
+correct label = nostress 
+   -0.001147 : stress 
+*>  0.001147 : nostress 
+
+
+feature: you always miss going home on the weekend
+correct label = nostress 
+   -0.003099 : stress 
+*>  0.003099 : nostress 
+
+
+feature: uh For me in university I would say that any course involving numbers are the most difficult
+correct label = stress 
+*>  0.002237 : stress 
+   -0.002237 : nostress 
+
+
+feature: I suck at math
+correct label = stress 
+** -0.001086 : stress 
+ >  0.001086 : nostress 
+
+
+feature: uh What kind of food do I like well I -- I -- I don't discriminate I love all -- all types of food
+correct label = nostress 
+   -0.001599 : stress 
+*>  0.001599 : nostress 
+
+
+feature: just anything except spicy food <comma> I can't take any spice at all
+correct label = stress 
+** -0.003666 : stress 
+ >  0.003666 : nostress 
+
+
+feature: any recommendation I like
+correct label = nostress 
+   -0.002227 : stress 
+*>  0.002227 : nostress 
+
+
+feature: Well I suppose um I prefer ((huh)) uh ordering for yourself instead of -- instead of what they do in china
+correct label = nostress 
+   -0.000730 : stress 
+*>  0.000730 : nostress 
+
+
+feature: what they do in a lot of places in asia where they order for the table
+correct label = nostress 
+   -0.001543 : stress 
+*>  0.001543 : nostress 
+
+
+feature: everybody shares um ((huh)) I -- I -- I like just one plate for me
+correct label = nostress 
+   -0.001757 : stress 
+*>  0.001757 : nostress 
+
+
+feature: one plate for -- for somebody else um
+correct label = stress 
+** -0.007484 : stress 
+ >  0.007484 : nostress 
+
+
+feature: I suppose I prefer western food as opposed to chinese food having grown up in South Africa
+correct label = nostress 
+   -0.002654 : stress 
+*>  0.002654 : nostress 
+
+
+feature: I do not know how to make it um
+correct label = nostress 
+   -0.004283 : stress 
+*>  0.004283 : nostress 
+
+
+feature: um I just never learnt to cook
+correct label = nostress 
+   -0.000512 : stress 
+*>  0.000512 : nostress 
+
+
+feature: my mother can't cook either
+correct label = nostress 
+   -0.001864 : stress 
+*>  0.001864 : nostress 
+
+
+feature: ((huh)) uh
+correct label = nostress 
+   -0.000298 : stress 
+*>  0.000298 : nostress 
+
+
+feature: I had nowhere to learn it from
+correct label = nostress 
+   -0.004769 : stress 
+*>  0.004769 : nostress 
+
+
+feature: I do know where to get it definately in restaurants
+correct label = nostress 
+   -0.003873 : stress 
+*>  0.003873 : nostress 
+
+
+feature: in supermarkets
+correct label = nostress 
+   -0.001186 : stress 
+*>  0.001186 : nostress 
+
+
+feature: um Recently I have a lot of presentations
+correct label = nostress 
+   -0.001444 : stress 
+*>  0.001444 : nostress 
+
+
+feature: projects which I need to work upon
+correct label = nostress 
+ >  0.000210 : stress 
+** -0.000210 : nostress 
+
+
+feature: The mec- mechanical courses actually um are the toughest for me
+correct label = nostress 
+   -0.001634 : stress 
+*>  0.001634 : nostress 
+
+
+feature: they involve a lot of thinking
+correct label = stress 
+*>  0.001879 : stress 
+   -0.001879 : nostress 
+
+
+feature: I have -- It's my second year
+correct label = nostress 
+   -0.005315 : stress 
+*>  0.005315 : nostress 
+
+
+feature: I have two more years to graduate
+correct label = nostress 
+   -0.002471 : stress 
+*>  0.002471 : nostress 
+
+
+feature: uh I have my exams like after two weeks
+correct label = nostress 
+   -0.002296 : stress 
+*>  0.002296 : nostress 
+
+
+feature: I need to put in a lot of effort to (( )) well in them
+correct label = stress 
+*>  0.000859 : stress 
+   -0.000859 : nostress 
+
+
+feature: I n/a have a lot of homework <comma> too
+correct label = stress 
+** -0.009493 : stress 
+ >  0.009493 : nostress 
+
+
+feature: I like -- I like pizza
+correct label = nostress 
+   -0.002407 : stress 
+*>  0.002407 : nostress 
+
+
+feature: uh you can basically put any kind of topping on it
+correct label = nostress 
+   -0.004264 : stress 
+*>  0.004264 : nostress 
+
+
+feature: it taste delicious
+correct label = nostress 
+   -0.001482 : stress 
+*>  0.001482 : nostress 
+
+
+feature: uh I do know how to make it <comma> you just need dough
+correct label = nostress 
+   -0.001863 : stress 
+*>  0.001863 : nostress 
+
+
+feature: some ingredients
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: uh I don't think I did as well com -- uh compared to high school
+correct label = stress 
+** -0.001844 : stress 
+ >  0.001844 : nostress 
+
+
+feature: uh during high school a lot of us came from the same background
+correct label = stress 
+*>  0.001743 : stress 
+   -0.001743 : nostress 
+
+
+feature: a lot of us were uh Chinese people
+correct label = nostress 
+   -0.001415 : stress 
+*>  0.001415 : nostress 
+
+
+feature: then we lived abroad
+correct label = stress 
+** -0.004684 : stress 
+ >  0.004684 : nostress 
+
+
+feature: then we came back
+correct label = nostress 
+   -0.005200 : stress 
+*>  0.005200 : nostress 
+
+
+feature: the loose -- local students are -- I'm starting to get used to them
+correct label = nostress 
+   -0.003022 : stress 
+*>  0.003022 : nostress 
+
+
+feature: uh I'm starting to get along with them
+correct label = nostress 
+ >  0.000203 : stress 
+** -0.000203 : nostress 
+
+
+feature: uh I think uh I have somewhat integrated into Hong Kong society
+correct label = nostress 
+   -0.002836 : stress 
+*>  0.002836 : nostress 
+
+
+feature: I do prefer a place that has more English culture
+correct label = stress 
+** -0.004797 : stress 
+ >  0.004797 : nostress 
+
+
+feature: Yeah my favorite past time is playing football <comma> I like it
+correct label = nostress 
+   -0.004451 : stress 
+*>  0.004451 : nostress 
+
+
+feature: of Cristiano Ronaldo
+correct label = nostress 
+   -0.000752 : stress 
+*>  0.000752 : nostress 
+
+
+feature: My parents are really open minded
+correct label = nostress 
+   -0.000799 : stress 
+*>  0.000799 : nostress 
+
+
+feature: like they don't really care what I'm doing as long as I like what I'm doing
+correct label = nostress 
+   -0.003432 : stress 
+*>  0.003432 : nostress 
+
+
+feature: they don't really give me any pressure <comma> my friends um most of them are fine they're like timid
+correct label = nostress 
+   -0.000302 : stress 
+*>  0.000302 : nostress 
+
+
+feature: shy
+correct label = stress 
+** -0.000967 : stress 
+ >  0.000967 : nostress 
+
+
+feature: i do have a few friends that is like ((very sparkling))
+correct label = nostress 
+   -0.002134 : stress 
+*>  0.002134 : nostress 
+
+
+feature: try to like push me to do a lot of things
+correct label = stress 
+** -0.001148 : stress 
+ >  0.001148 : nostress 
+
+
+feature: like i don't really hang out with them
+correct label = nostress 
+ >  0.001941 : stress 
+** -0.001941 : nostress 
+
+
+feature: i think that's fine
+correct label = nostress 
+ >  0.000903 : stress 
+** -0.000903 : nostress 
+
+
+feature: I get along well with other people in university not mainly locals
+correct label = nostress 
+   -0.002662 : stress 
+*>  0.002662 : nostress 
+
+
+feature: mainlanders
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: definately international people
+correct label = nostress 
+   -0.004092 : stress 
+*>  0.004092 : nostress 
+
+
+feature: uh My friends don't really give me any pressure
+correct label = nostress 
+ >  0.000071 : stress 
+** -0.000071 : nostress 
+
+
+feature: I don't really compare myself with them
+correct label = nostress 
+ >  0.003481 : stress 
+** -0.003481 : nostress 
+
+
+feature: fro -- with my parents
+correct label = nostress 
+   -0.000980 : stress 
+*>  0.000980 : nostress 
+
+
+feature: they do expect a lot from me
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: also
+correct label = nostress 
+   -0.000967 : stress 
+*>  0.000967 : nostress 
+
+
+feature: they want me to major in things like finance
+correct label = nostress 
+   -0.005176 : stress 
+*>  0.005176 : nostress 
+
+
+feature: they think it's practical
+correct label = stress 
+** -0.002476 : stress 
+ >  0.002476 : nostress 
+
+
+feature: I know I'm not really good with numbers I'm scared to actually go into that area or to study it
+correct label = nostress 
+ >  0.000737 : stress 
+** -0.000737 : nostress 
+
+
+feature: other than like those academic things I -- they don't really give me ((them)) -- other kinds of pressure
+correct label = stress 
+** -0.000925 : stress 
+ >  0.000925 : nostress 
+
+
+feature: um The closest deadline I have to catch is the deadline for my uh ~PG course
+correct label = stress 
+** -0.003032 : stress 
+ >  0.003032 : nostress 
+
+
+feature: I have to send in a ten page written report
+correct label = stress 
+** -0.001878 : stress 
+ >  0.001878 : nostress 
+
+
+feature: I find the finance classes to be the most difficult
+correct label = nostress 
+   -0.002338 : stress 
+*>  0.002338 : nostress 
+
+
+feature: of the quantitative aspect
+correct label = stress 
+** -0.001323 : stress 
+ >  0.001323 : nostress 
